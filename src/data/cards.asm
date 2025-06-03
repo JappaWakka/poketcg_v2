@@ -280,8 +280,8 @@ BulbasaurCard:
 	tx SeedName ; category
 	dw 1 ; Pokedex number
 	db 13 ; level
-	db 2, 4 ; length
-	dw 15 * 10 ; weight
+	db 0, 7 ; length
+	dw 69; weight
 	tx BulbasaurDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -330,8 +330,8 @@ IvysaurCard:
 	tx SeedName ; category
 	dw 2 ; Pokedex number
 	db 20 ; level
-	db 3, 3 ; length
-	dw 29 * 10 ; weight
+	db 1, 0 ; length
+	dw 130; weight
 	tx IvysaurDescription ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION ; pokemon flags
 
@@ -380,8 +380,8 @@ VenusaurLv64Card:
 	tx SeedName ; category
 	dw 3 ; Pokedex number
 	db 64 ; level
-	db 6, 7 ; length
-	dw 221 * 10 ; weight
+	db 0, 6 ; length
+	dw 1000; weight
 	tx VenusaurLv64Description ; description
 	db AI_TRY_TO_KEEP_ON_BENCH ; pokemon flags
 
@@ -400,7 +400,7 @@ VenusaurLv67Card:
 	energy 0 ; energies
 	tx EnergyTransName ; name
 	tx EnergyTransDescription ; description
-	dw NONE ; description (cont)
+	tx EnergyTransDescriptionCont ; description (cont)
 	db 0 ; damage
 	db POKEMON_POWER ; category
 	dw VenusaurEnergyTransEffectCommands ; effect commands
@@ -430,8 +430,8 @@ VenusaurLv67Card:
 	tx SeedName ; category
 	dw 3 ; Pokedex number
 	db 67 ; level
-	db 6, 7 ; length
-	dw 221 * 10 ; weight
+	db 0, 6 ; length
+	dw 1000; weight
 	tx VenusaurLv67Description ; description
 	db 0 ; pokemon flags
 
@@ -480,8 +480,8 @@ CaterpieCard:
 	tx WormName ; category
 	dw 10 ; Pokedex number
 	db 13 ; level
-	db 1, 0 ; length
-	dw 6 * 10 ; weight
+	db 0, 3 ; length
+	dw 60; weight
 	tx CaterpieDescription ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION ; pokemon flags
 
@@ -530,8 +530,8 @@ MetapodCard:
 	tx CocoonName ; category
 	dw 11 ; Pokedex number
 	db 21 ; level
-	db 2, 4 ; length
-	dw 22 * 10 ; weight
+	db 0, 7 ; length
+	dw 99; weight
 	tx MetapodDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -580,8 +580,8 @@ ButterfreeCard:
 	tx ButterflyName ; category
 	dw 12 ; Pokedex number
 	db 28 ; level
-	db 3, 7 ; length
-	dw 71 * 10 ; weight
+	db 1, 1 ; length
+	dw 320; weight
 	tx ButterfreeDescription ; description
 	db 0 ; pokemon flags
 
@@ -630,8 +630,8 @@ WeedleCard:
 	tx HairyBugName ; category
 	dw 13 ; Pokedex number
 	db 12 ; level
-	db 1, 0 ; length
-	dw 7 * 10 ; weight
+	db 0, 3 ; length
+	dw 32; weight
 	tx WeedleDescription ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION ; pokemon flags
 
@@ -680,8 +680,8 @@ KakunaCard:
 	tx CocoonName ; category
 	dw 14 ; Pokedex number
 	db 23 ; level
-	db 2, 0 ; length
-	dw 22 * 10 ; weight
+	db 0, 6 ; length
+	dw 100; weight
 	tx KakunaDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -730,8 +730,8 @@ BeedrillCard:
 	tx PoisonBeeName ; category
 	dw 15 ; Pokedex number
 	db 32 ; level
-	db 3, 3 ; length
-	dw 65 * 10 ; weight
+	db 1, 0 ; length
+	dw 295; weight
 	tx BeedrillDescription ; description
 	db 0 ; pokemon flags
 
@@ -780,8 +780,8 @@ EkansCard:
 	tx SnakeName ; category
 	dw 23 ; Pokedex number
 	db 10 ; level
-	db 6, 7 ; length
-	dw 15 * 10 ; weight
+	db 2, 0 ; length
+	dw 69; weight
 	tx EkansDescription ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION ; pokemon flags
 
@@ -830,8 +830,8 @@ ArbokCard:
 	tx CobraName ; category
 	dw 24 ; Pokedex number
 	db 27 ; level
-	db 11, 6 ; length
-	dw 143 * 10 ; weight
+	db 3, 5 ; length
+	dw 650; weight
 	tx ArbokDescription ; description
 	db 0 ; pokemon flags
 
@@ -880,8 +880,8 @@ NidoranFCard:
 	tx PoisonPinName ; category
 	dw 29 ; Pokedex number
 	db 13 ; level
-	db 1, 4 ; length
-	dw 15 * 10 ; weight
+	db 0, 4 ; length
+	dw 70; weight
 	tx NidoranFDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -930,8 +930,8 @@ NidorinaCard:
 	tx PoisonPinName ; category
 	dw 30 ; Pokedex number
 	db 24 ; level
-	db 2, 7 ; length
-	dw 44 * 10 ; weight
+	db 0, 8 ; length
+	dw 200; weight
 	tx NidorinaDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -980,8 +980,8 @@ NidoqueenCard:
 	tx DrillName ; category
 	dw 31 ; Pokedex number
 	db 43 ; level
-	db 4, 3 ; length
-	dw 132 * 10 ; weight
+	db 1, 3 ; length
+	dw 600; weight
 	tx NidoqueenDescription ; description
 	db 0 ; pokemon flags
 
@@ -1030,8 +1030,8 @@ NidoranMCard:
 	tx PoisonPinName ; category
 	dw 32 ; Pokedex number
 	db 20 ; level
-	db 1, 4 ; length
-	dw 15 * 10 ; weight
+	db 0, 5 ; length
+	dw 90; weight
 	tx NidoranMDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -1080,8 +1080,8 @@ NidorinoCard:
 	tx PoisonPinName ; category
 	dw 33 ; Pokedex number
 	db 25 ; level
-	db 2, 11 ; length
-	dw 43 * 10 ; weight
+	db 0, 9 ; length
+	dw 195; weight
 	tx NidorinoDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -1130,8 +1130,8 @@ NidokingCard:
 	tx DrillName ; category
 	dw 34 ; Pokedex number
 	db 48 ; level
-	db 4, 7 ; length
-	dw 137 * 10 ; weight
+	db 0, 4 ; length
+	dw 620; weight
 	tx NidokingDescription ; description
 	db 0 ; pokemon flags
 
@@ -1180,8 +1180,8 @@ ZubatCard:
 	tx BatName ; category
 	dw 41 ; Pokedex number
 	db 10 ; level
-	db 2, 7 ; length
-	dw 17 * 10 ; weight
+	db 0, 8 ; length
+	dw 75; weight
 	tx ZubatDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -1230,8 +1230,8 @@ GolbatCard:
 	tx BatName ; category
 	dw 42 ; Pokedex number
 	db 29 ; level
-	db 5, 3 ; length
-	dw 121 * 10 ; weight
+	db 1, 6 ; length
+	dw 250; weight
 	tx GolbatDescription ; description
 	db 0 ; pokemon flags
 
@@ -1280,8 +1280,8 @@ OddishCard:
 	tx WeedName ; category
 	dw 43 ; Pokedex number
 	db 8 ; level
-	db 1, 8 ; length
-	dw 12 * 10 ; weight
+	db 0, 5 ; length
+	dw 54; weight
 	tx OddishDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -1330,8 +1330,8 @@ GloomCard:
 	tx WeedName ; category
 	dw 44 ; Pokedex number
 	db 22 ; level
-	db 2, 7 ; length
-	dw 19 * 10 ; weight
+	db 0, 8 ; length
+	dw 86; weight
 	tx GloomDescription ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION ; pokemon flags
 
@@ -1380,8 +1380,8 @@ VileplumeCard:
 	tx FlowerName ; category
 	dw 45 ; Pokedex number
 	db 35 ; level
-	db 3, 11 ; length
-	dw 41 * 10 ; weight
+	db 1, 2 ; length
+	dw 186; weight
 	tx VileplumeDescription ; description
 	db AI_TRY_TO_KEEP_ON_BENCH ; pokemon flags
 
@@ -1430,8 +1430,8 @@ ParasCard:
 	tx MushroomName ; category
 	dw 46 ; Pokedex number
 	db 8 ; level
-	db 1, 0 ; length
-	dw 12 * 10 ; weight
+	db 0, 3 ; length
+	dw 54; weight
 	tx ParasDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -1480,8 +1480,8 @@ ParasectCard:
 	tx MushroomName ; category
 	dw 47 ; Pokedex number
 	db 28 ; level
-	db 3, 3 ; length
-	dw 65 * 10 ; weight
+	db 1, 0 ; length
+	dw 295; weight
 	tx ParasectDescription ; description
 	db 0 ; pokemon flags
 
@@ -1530,8 +1530,8 @@ VenonatCard:
 	tx InsectName ; category
 	dw 48 ; Pokedex number
 	db 12 ; level
-	db 3, 3 ; length
-	dw 66 * 10 ; weight
+	db 1, 0 ; length
+	dw 300; weight
 	tx VenonatDescription ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION ; pokemon flags
 
@@ -1580,8 +1580,8 @@ VenomothCard:
 	tx PoisonmothName ; category
 	dw 49 ; Pokedex number
 	db 28 ; level
-	db 4, 11 ; length
-	dw 28 * 10 ; weight
+	db 1, 5 ; length
+	dw 125; weight
 	tx VenomothDescription ; description
 	db 0 ; pokemon flags
 
@@ -1630,8 +1630,8 @@ BellsproutCard:
 	tx FlowerName ; category
 	dw 69 ; Pokedex number
 	db 11 ; level
-	db 2, 4 ; length
-	dw 9 * 10 ; weight
+	db 0, 7 ; length
+	dw 40; weight
 	tx BellsproutDescription ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION ; pokemon flags
 
@@ -1680,8 +1680,8 @@ WeepinbellCard:
 	tx FlycatcherName ; category
 	dw 70 ; Pokedex number
 	db 28 ; level
-	db 3, 3 ; length
-	dw 14 * 10 ; weight
+	db 1, 0 ; length
+	dw 64; weight
 	tx WeepinbellDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -1730,8 +1730,8 @@ VictreebelCard:
 	tx FlycatcherName ; category
 	dw 71 ; Pokedex number
 	db 42 ; level
-	db 5, 7 ; length
-	dw 34 * 10 ; weight
+	db 1, 7 ; length
+	dw 155; weight
 	tx VictreebelDescription ; description
 	db 0 ; pokemon flags
 
@@ -1780,8 +1780,8 @@ GrimerCard:
 	tx SludgeName ; category
 	dw 88 ; Pokedex number
 	db 17 ; level
-	db 2, 11 ; length
-	dw 66 * 10 ; weight
+	db 0, 9 ; length
+	dw 300; weight
 	tx GrimerDescription ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION | AI_TRY_TO_KEEP_ON_BENCH ; pokemon flags
 
@@ -1830,8 +1830,8 @@ MukCard:
 	tx SludgeName ; category
 	dw 89 ; Pokedex number
 	db 34 ; level
-	db 3, 11 ; length
-	dw 66 * 10 ; weight
+	db 1, 2 ; length
+	dw 300; weight
 	tx MukDescription ; description
 	db AI_TRY_TO_KEEP_ON_BENCH ; pokemon flags
 
@@ -1880,8 +1880,8 @@ ExeggcuteCard:
 	tx EggName ; category
 	dw 102 ; Pokedex number
 	db 14 ; level
-	db 1, 4 ; length
-	dw 6 * 10 ; weight
+	db 0, 4 ; length
+	dw 25; weight
 	tx ExeggcuteDescription ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION ; pokemon flags
 
@@ -1930,8 +1930,8 @@ ExeggutorCard:
 	tx CoconutName ; category
 	dw 103 ; Pokedex number
 	db 35 ; level
-	db 6, 7 ; length
-	dw 265 * 10 ; weight
+	db 0, 6 ; length
+	dw 1200; weight
 	tx ExeggutorDescription ; description
 	db 0 ; pokemon flags
 
@@ -1980,8 +1980,8 @@ KoffingCard:
 	tx PoisonGasName ; category
 	dw 109 ; Pokedex number
 	db 13 ; level
-	db 2, 0 ; length
-	dw 2 * 10 ; weight
+	db 0, 6 ; length
+	dw 10; weight
 	tx KoffingDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -2030,8 +2030,8 @@ WeezingCard:
 	tx PoisonGasName ; category
 	dw 110 ; Pokedex number
 	db 27 ; level
-	db 3, 11 ; length
-	dw 21 * 10 ; weight
+	db 1, 2 ; length
+	dw 95; weight
 	tx WeezingDescription ; description
 	db 0 ; pokemon flags
 
@@ -2080,8 +2080,8 @@ TangelaLv8Card:
 	tx VineName ; category
 	dw 114 ; Pokedex number
 	db 8 ; level
-	db 3, 3 ; length
-	dw 77 * 10 ; weight
+	db 1, 0 ; length
+	dw 350; weight
 	tx TangelaLv8Description ; description
 	db 0 ; pokemon flags
 
@@ -2130,8 +2130,8 @@ TangelaLv12Card:
 	tx VineName ; category
 	dw 114 ; Pokedex number
 	db 12 ; level
-	db 3, 3 ; length
-	dw 77 * 10 ; weight
+	db 1, 0 ; length
+	dw 350; weight
 	tx TangelaLv12Description ; description
 	db 0 ; pokemon flags
 
@@ -2180,8 +2180,8 @@ ScytherCard:
 	tx MantisName ; category
 	dw 123 ; Pokedex number
 	db 25 ; level
-	db 4, 11 ; length
-	dw 123 * 10 ; weight
+	db 1, 5 ; length
+	dw 560; weight
 	tx ScytherDescription ; description
 	db 0 ; pokemon flags
 
@@ -2230,8 +2230,8 @@ PinsirCard:
 	tx StagbeetleName ; category
 	dw 127 ; Pokedex number
 	db 24 ; level
-	db 4, 11 ; length
-	dw 121 * 10 ; weight
+	db 1, 5 ; length
+	dw 250; weight
 	tx PinsirDescription ; description
 	db 0 ; pokemon flags
 
@@ -2280,8 +2280,8 @@ CharmanderCard:
 	tx LizardName ; category
 	dw 4 ; Pokedex number
 	db 10 ; level
-	db 2, 0 ; length
-	dw 19 * 10 ; weight
+	db 0, 6 ; length
+	dw 85; weight
 	tx CharmanderDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -2330,8 +2330,8 @@ CharmeleonCard:
 	tx FlameName ; category
 	dw 5 ; Pokedex number
 	db 32 ; level
-	db 3, 7 ; length
-	dw 42 * 10 ; weight
+	db 1, 1 ; length
+	dw 190; weight
 	tx CharmeleonDescription ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION ; pokemon flags
 
@@ -2380,8 +2380,8 @@ CharizardCard:
 	tx FlameName ; category
 	dw 6 ; Pokedex number
 	db 76 ; level
-	db 5, 7 ; length
-	dw 200 * 10 ; weight
+	db 1, 7 ; length
+	dw 905; weight
 	tx CharizardDescription ; description
 	db 0 ; pokemon flags
 
@@ -2430,8 +2430,8 @@ VulpixCard:
 	tx FoxName ; category
 	dw 37 ; Pokedex number
 	db 11 ; level
-	db 2, 0 ; length
-	dw 22 * 10 ; weight
+	db 0, 6 ; length
+	dw 99; weight
 	tx VulpixDescription ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION ; pokemon flags
 
@@ -2448,7 +2448,7 @@ NinetalesLv32Card:
 
 	; attack 1
 	energy COLORLESS, 2 ; energies
-	tx LureName ; name
+	tx NinetalesLureName ; name
 	tx NinetalesLureDescription ; description
 	dw NONE ; description (cont)
 	db 0 ; damage
@@ -2480,8 +2480,8 @@ NinetalesLv32Card:
 	tx FoxName ; category
 	dw 38 ; Pokedex number
 	db 32 ; level
-	db 3, 7 ; length
-	dw 44 * 10 ; weight
+	db 1, 1 ; length
+	dw 195; weight
 	tx NinetalesLv32Description ; description
 	db 0 ; pokemon flags
 
@@ -2530,8 +2530,8 @@ NinetalesLv35Card:
 	tx FoxName ; category
 	dw 38 ; Pokedex number
 	db 35 ; level
-	db 3, 7 ; length
-	dw 44 * 10 ; weight
+	db 1, 1 ; length
+	dw 195; weight
 	tx NinetalesLv35Description ; description
 	db 0 ; pokemon flags
 
@@ -2580,8 +2580,8 @@ GrowlitheCard:
 	tx PuppyName ; category
 	dw 58 ; Pokedex number
 	db 18 ; level
-	db 2, 4 ; length
-	dw 42 * 10 ; weight
+	db 0, 7 ; length
+	dw 190; weight
 	tx GrowlitheDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -2630,8 +2630,8 @@ ArcanineLv34Card:
 	tx LegendaryName ; category
 	dw 59 ; Pokedex number
 	db 34 ; level
-	db 6, 3 ; length
-	dw 342 * 10 ; weight
+	db 1, 9 ; length
+	dw 1250; weight
 	tx ArcanineLv34Description ; description
 	db 0 ; pokemon flags
 
@@ -2680,8 +2680,8 @@ ArcanineLv45Card:
 	tx LegendaryName ; category
 	dw 59 ; Pokedex number
 	db 45 ; level
-	db 6, 3 ; length
-	dw 342 * 10 ; weight
+	db 1, 9 ; length
+	dw 1250; weight
 	tx ArcanineLv45Description ; description
 	db 0 ; pokemon flags
 
@@ -2730,8 +2730,8 @@ PonytaCard:
 	tx FireHorseName ; category
 	dw 77 ; Pokedex number
 	db 10 ; level
-	db 3, 3 ; length
-	dw 66 * 10 ; weight
+	db 1, 0 ; length
+	dw 300; weight
 	tx PonytaDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -2780,8 +2780,8 @@ RapidashCard:
 	tx FireHorseName ; category
 	dw 78 ; Pokedex number
 	db 33 ; level
-	db 5, 7 ; length
-	dw 209 * 10 ; weight
+	db 1, 7 ; length
+	dw 950; weight
 	tx RapidashDescription ; description
 	db 0 ; pokemon flags
 
@@ -2830,8 +2830,8 @@ MagmarLv24Card:
 	tx SpitfireName ; category
 	dw 126 ; Pokedex number
 	db 24 ; level
-	db 4, 3 ; length
-	dw 98 * 10 ; weight
+	db 1, 3 ; length
+	dw 445; weight
 	tx MagmarLv24Description ; description
 	db 0 ; pokemon flags
 
@@ -2880,8 +2880,8 @@ MagmarLv31Card:
 	tx SpitfireName ; category
 	dw 126 ; Pokedex number
 	db 31 ; level
-	db 4, 3 ; length
-	dw 98 * 10 ; weight
+	db 1, 3 ; length
+	dw 445; weight
 	tx MagmarLv31Description ; description
 	db 0 ; pokemon flags
 
@@ -2930,8 +2930,8 @@ FlareonLv22Card:
 	tx FlameName ; category
 	dw 136 ; Pokedex number
 	db 22 ; level
-	db 2, 11 ; length
-	dw 55 * 10 ; weight
+	db 0, 9 ; length
+	dw 250; weight
 	tx FlareonLv22Description ; description
 	db 0 ; pokemon flags
 
@@ -2980,8 +2980,8 @@ FlareonLv28Card:
 	tx FlameName ; category
 	dw 136 ; Pokedex number
 	db 28 ; level
-	db 2, 11 ; length
-	dw 55 * 10 ; weight
+	db 0, 9 ; length
+	dw 250; weight
 	tx FlareonLv28Description ; description
 	db 0 ; pokemon flags
 
@@ -3030,8 +3030,8 @@ MoltresLv35Card:
 	tx FlameName ; category
 	dw 146 ; Pokedex number
 	db 35 ; level
-	db 6, 7 ; length
-	dw 132 * 10 ; weight
+	db 2, 0 ; length
+	dw 600; weight
 	tx MoltresLv35Description ; description
 	db 0 ; pokemon flags
 
@@ -3080,8 +3080,8 @@ MoltresLv37Card:
 	tx FlameName ; category
 	dw 146 ; Pokedex number
 	db 37 ; level
-	db 6, 7 ; length
-	dw 132 * 10 ; weight
+	db 2, 0 ; length
+	dw 600; weight
 	tx MoltresLv37Description ; description
 	db 0 ; pokemon flags
 
@@ -3130,8 +3130,8 @@ SquirtleCard:
 	tx TinyTurtleName ; category
 	dw 7 ; Pokedex number
 	db 8 ; level
-	db 1, 8 ; length
-	dw 20 * 10 ; weight
+	db 0, 5 ; length
+	dw 90; weight
 	tx SquirtleDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -3180,8 +3180,8 @@ WartortleCard:
 	tx TurtleName ; category
 	dw 8 ; Pokedex number
 	db 22 ; level
-	db 3, 3 ; length
-	dw 50 * 10 ; weight
+	db 1, 0 ; length
+	dw 225; weight
 	tx WartortleDescription ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION ; pokemon flags
 
@@ -3230,8 +3230,8 @@ BlastoiseCard:
 	tx ShellfishName ; category
 	dw 9 ; Pokedex number
 	db 52 ; level
-	db 5, 3 ; length
-	dw 189 * 10 ; weight
+	db 1, 6 ; length
+	dw 855; weight
 	tx BlastoiseDescription ; description
 	db 0 ; pokemon flags
 
@@ -3280,8 +3280,8 @@ PsyduckCard:
 	tx DuckName ; category
 	dw 54 ; Pokedex number
 	db 15 ; level
-	db 2, 7 ; length
-	dw 43 * 10 ; weight
+	db 0, 8 ; length
+	dw 196; weight
 	tx PsyduckDescription ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION ; pokemon flags
 
@@ -3330,8 +3330,8 @@ GolduckCard:
 	tx DuckName ; category
 	dw 55 ; Pokedex number
 	db 27 ; level
-	db 5, 7 ; length
-	dw 169 * 10 ; weight
+	db 1, 7 ; length
+	dw 766; weight
 	tx GolduckDescription ; description
 	db 0 ; pokemon flags
 
@@ -3380,8 +3380,8 @@ PoliwagCard:
 	tx TadpoleName ; category
 	dw 60 ; Pokedex number
 	db 13 ; level
-	db 2, 0 ; length
-	dw 27 * 10 ; weight
+	db 0, 6 ; length
+	dw 124; weight
 	tx PoliwagDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -3430,8 +3430,8 @@ PoliwhirlCard:
 	tx TadpoleName ; category
 	dw 61 ; Pokedex number
 	db 28 ; level
-	db 3, 4 ; length
-	dw 44 * 10 ; weight
+	db 1, 0 ; length
+	dw 200; weight
 	tx PoliwhirlsDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -3480,8 +3480,8 @@ PoliwrathCard:
 	tx TadpoleName ; category
 	dw 62 ; Pokedex number
 	db 48 ; level
-	db 4, 3 ; length
-	dw 119 * 10 ; weight
+	db 1, 3 ; length
+	dw 540; weight
 	tx PoliwrathDescription ; description
 	db 0 ; pokemon flags
 
@@ -3500,7 +3500,7 @@ TentacoolCard:
 	energy 0 ; energies
 	tx CowardiceName ; name
 	tx CowardiceDescription ; description
-	dw NONE ; description (cont)
+	tx CowardiceDescriptionCont ; description (cont)
 	db 0 ; damage
 	db POKEMON_POWER ; category
 	dw TentacoolCowardiceEffectCommands ; effect commands
@@ -3530,8 +3530,8 @@ TentacoolCard:
 	tx JellyfishName ; category
 	dw 72 ; Pokedex number
 	db 10 ; level
-	db 2, 11 ; length
-	dw 100 * 10 ; weight
+	db 0, 9 ; length
+	dw 455; weight
 	tx TentacoolDescription ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION | AI_TRY_TO_KEEP_ON_BENCH ; pokemon flags
 
@@ -3580,8 +3580,8 @@ TentacruelCard:
 	tx JellyfishName ; category
 	dw 73 ; Pokedex number
 	db 21 ; level
-	db 5, 3 ; length
-	dw 121 * 10 ; weight
+	db 1, 6 ; length
+	dw 250; weight
 	tx TentacruelDescription ; description
 	db 0 ; pokemon flags
 
@@ -3630,8 +3630,8 @@ SeelCard:
 	tx SeaLionName ; category
 	dw 86 ; Pokedex number
 	db 12 ; level
-	db 3, 7 ; length
-	dw 198 * 10 ; weight
+	db 1, 1 ; length
+	dw 900; weight
 	tx SeelDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -3680,8 +3680,8 @@ DewgongCard:
 	tx SeaLionName ; category
 	dw 87 ; Pokedex number
 	db 42 ; level
-	db 5, 7 ; length
-	dw 265 * 10 ; weight
+	db 1, 7 ; length
+	dw 1200; weight
 	tx DewgongDescription ; description
 	db 0 ; pokemon flags
 
@@ -3730,8 +3730,8 @@ ShellderCard:
 	tx BivalveName ; category
 	dw 90 ; Pokedex number
 	db 8 ; level
-	db 1, 0 ; length
-	dw 9 * 10 ; weight
+	db 0, 3 ; length
+	dw 40; weight
 	tx ShellderDescription ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION | AI_TRY_TO_KEEP_ON_BENCH ; pokemon flags
 
@@ -3780,8 +3780,8 @@ CloysterCard:
 	tx BivalveName ; category
 	dw 91 ; Pokedex number
 	db 25 ; level
-	db 4, 11 ; length
-	dw 292 * 10 ; weight
+	db 1, 5 ; length
+	dw 1325; weight
 	tx CloysterDescription ; description
 	db 0 ; pokemon flags
 
@@ -3830,8 +3830,8 @@ KrabbyCard:
 	tx RiverCrabName ; category
 	dw 98 ; Pokedex number
 	db 20 ; level
-	db 1, 4 ; length
-	dw 14 * 10 ; weight
+	db 0, 4 ; length
+	dw 65; weight
 	tx KrabbyDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -3880,8 +3880,8 @@ KinglerCard:
 	tx PincerName ; category
 	dw 99 ; Pokedex number
 	db 27 ; level
-	db 4, 3 ; length
-	dw 132 * 10 ; weight
+	db 1, 3 ; length
+	dw 600; weight
 	tx KinglerDescription ; description
 	db 0 ; pokemon flags
 
@@ -3930,8 +3930,8 @@ HorseaCard:
 	tx DragonName ; category
 	dw 116 ; Pokedex number
 	db 19 ; level
-	db 1, 4 ; length
-	dw 18 * 10 ; weight
+	db 0, 4 ; length
+	dw 80; weight
 	tx HorseaDescription ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION ; pokemon flags
 
@@ -3980,8 +3980,8 @@ SeadraCard:
 	tx DragonName ; category
 	dw 117 ; Pokedex number
 	db 23 ; level
-	db 3, 1 ; length
-	dw 55 * 10 ; weight
+	db 1, 2 ; length
+	dw 250; weight
 	tx SeadraDescription ; description
 	db 0 ; pokemon flags
 
@@ -4030,8 +4030,8 @@ GoldeenCard:
 	tx GoldfishName ; category
 	dw 118 ; Pokedex number
 	db 12 ; level
-	db 2, 0 ; length
-	dw 33 * 10 ; weight
+	db 0, 6 ; length
+	dw 150; weight
 	tx GoldeenDescription ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION ; pokemon flags
 
@@ -4080,8 +4080,8 @@ SeakingCard:
 	tx GoldfishName ; category
 	dw 119 ; Pokedex number
 	db 28 ; level
-	db 4, 3 ; length
-	dw 86 * 10 ; weight
+	db 1, 3 ; length
+	dw 390; weight
 	tx SeakingDescription ; description
 	db 0 ; pokemon flags
 
@@ -4130,8 +4130,8 @@ StaryuCard:
 	tx StarshapeName ; category
 	dw 120 ; Pokedex number
 	db 15 ; level
-	db 2, 7 ; length
-	dw 76 * 10 ; weight
+	db 0, 8 ; length
+	dw 345; weight
 	tx StaryuDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -4180,8 +4180,8 @@ StarmieCard:
 	tx MysteriousName ; category
 	dw 121 ; Pokedex number
 	db 28 ; level
-	db 3, 7 ; length
-	dw 176 * 10 ; weight
+	db 1, 1 ; length
+	dw 800; weight
 	tx StarmieDescription ; description
 	db 0 ; pokemon flags
 
@@ -4230,8 +4230,8 @@ MagikarpCard:
 	tx FishName ; category
 	dw 129 ; Pokedex number
 	db 8 ; level
-	db 2, 11 ; length
-	dw 22 * 10 ; weight
+	db 0, 9 ; length
+	dw 100; weight
 	tx MagikarpDescription ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION | AI_TRY_TO_KEEP_ON_BENCH ; pokemon flags
 
@@ -4280,8 +4280,8 @@ GyaradosCard:
 	tx AtrociousName ; category
 	dw 130 ; Pokedex number
 	db 41 ; level
-	db 21, 4 ; length
-	dw 518 * 10 ; weight
+	db 6, 5 ; length
+	dw 2350; weight
 	tx GyaradosDescription ; description
 	db 0 ; pokemon flags
 
@@ -4330,8 +4330,8 @@ LaprasCard:
 	tx TransportName ; category
 	dw 131 ; Pokedex number
 	db 31 ; level
-	db 8, 2 ; length
-	dw 485 * 10 ; weight
+	db 2, 5 ; length
+	dw 2200; weight
 	tx LaprasDescription ; description
 	db 0 ; pokemon flags
 
@@ -4380,8 +4380,8 @@ VaporeonLv29Card:
 	tx BubbleJetName ; category
 	dw 134 ; Pokedex number
 	db 29 ; level
-	db 3, 3 ; length
-	dw 64 * 10 ; weight
+	db 1, 0 ; length
+	dw 290; weight
 	tx VaporeonLv29Description ; description
 	db 0 ; pokemon flags
 
@@ -4430,8 +4430,8 @@ VaporeonLv42Card:
 	tx BubbleJetName ; category
 	dw 134 ; Pokedex number
 	db 42 ; level
-	db 3, 3 ; length
-	dw 64 * 10 ; weight
+	db 1, 0 ; length
+	dw 290; weight
 	tx VaporeonLv42Description ; description
 	db 0 ; pokemon flags
 
@@ -4480,8 +4480,8 @@ OmanyteCard:
 	tx SpiralName ; category
 	dw 138 ; Pokedex number
 	db 19 ; level
-	db 1, 4 ; length
-	dw 17 * 10 ; weight
+	db 0, 4 ; length
+	dw 75; weight
 	tx OmanyteDescription ; description
 	db HAS_EVOLUTION | AI_TRY_TO_KEEP_ON_BENCH ; pokemon flags
 
@@ -4530,8 +4530,8 @@ OmastarCard:
 	tx SpiralName ; category
 	dw 139 ; Pokedex number
 	db 32 ; level
-	db 3, 3 ; length
-	dw 77 * 10 ; weight
+	db 1, 0 ; length
+	dw 350; weight
 	tx OmastarDescription ; description
 	db 0 ; pokemon flags
 
@@ -4580,8 +4580,8 @@ ArticunoLv35Card:
 	tx FreezeName ; category
 	dw 144 ; Pokedex number
 	db 35 ; level
-	db 5, 7 ; length
-	dw 122 * 10 ; weight
+	db 1, 7 ; length
+	dw 554; weight
 	tx ArticunoLv35Description ; description
 	db 0 ; pokemon flags
 
@@ -4630,8 +4630,8 @@ ArticunoLv37Card:
 	tx FreezeName ; category
 	dw 144 ; Pokedex number
 	db 37 ; level
-	db 5, 7 ; length
-	dw 122 * 10 ; weight
+	db 1, 7 ; length
+	dw 554; weight
 	tx ArticunoLv37Description ; description
 	db 0 ; pokemon flags
 
@@ -4680,8 +4680,8 @@ PikachuLv12Card:
 	tx MouseName ; category
 	dw 25 ; Pokedex number
 	db 12 ; level
-	db 1, 4 ; length
-	dw 13 * 10 ; weight
+	db 0, 4 ; length
+	dw 60; weight
 	tx PikachuLv12Description ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION ; pokemon flags
 
@@ -4730,8 +4730,8 @@ PikachuLv14Card:
 	tx MouseName ; category
 	dw 25 ; Pokedex number
 	db 14 ; level
-	db 1, 4 ; length
-	dw 13 * 10 ; weight
+	db 0, 4 ; length
+	dw 60; weight
 	tx PikachuLv14Description ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -4750,7 +4750,7 @@ PikachuLv16Card:
 	energy COLORLESS, 1 ; energies
 	tx GrowlName ; name
 	tx GrowlDescription ; description
-	dw NONE ; description (cont)
+	tx GrowlDescriptionCont ; description (cont)
 	db 0 ; damage
 	db DAMAGE_NORMAL ; category
 	dw ReduceBy10EffectCommands ; effect commands
@@ -4780,8 +4780,8 @@ PikachuLv16Card:
 	tx MouseName ; category
 	dw 25 ; Pokedex number
 	db 16 ; level
-	db 1, 4 ; length
-	dw 13 * 10 ; weight
+	db 0, 4 ; length
+	dw 60; weight
 	tx PikachuLv16Description ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -4830,8 +4830,8 @@ PikachuAltLv16Card:
 	tx MouseName ; category
 	dw 25 ; Pokedex number
 	db 16 ; level
-	db 1, 4 ; length
-	dw 13 * 10 ; weight
+	db 0, 4 ; length
+	dw 60; weight
 	tx PikachuLv16Description ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -4864,7 +4864,7 @@ FlyingPikachuCard:
 	energy COLORLESS, 3 ; energies
 	tx FlyName ; name
 	tx FlyDescription ; description
-	dw NONE ; description (cont)
+	tx FlyDescriptionCont ; description (cont)
 	db 30 ; damage
 	db DAMAGE_NORMAL ; category
 	dw FlyEffectCommands ; effect commands
@@ -4880,8 +4880,8 @@ FlyingPikachuCard:
 	tx MouseName ; category
 	dw 25 ; Pokedex number
 	db 12 ; level
-	db 1, 4 ; length
-	dw 13 * 10 ; weight
+	db 0, 4 ; length
+	dw 60; weight
 	tx FlyingPikachuDescription ; description
 	db 0 ; pokemon flags
 
@@ -4930,8 +4930,8 @@ SurfingPikachuLv13Card:
 	tx MouseName ; category
 	dw 25 ; Pokedex number
 	db 13 ; level
-	db 1, 4 ; length
-	dw 13 * 10 ; weight
+	db 0, 4 ; length
+	dw 60; weight
 	tx SurfingPikachuDescription ; description
 	db 0 ; pokemon flags
 
@@ -4980,8 +4980,8 @@ SurfingPikachuAltLv13Card:
 	tx MouseName ; category
 	dw 25 ; Pokedex number
 	db 13 ; level
-	db 1, 4 ; length
-	dw 13 * 10 ; weight
+	db 0, 4 ; length
+	dw 60; weight
 	tx SurfingPikachuDescription ; description
 	db 0 ; pokemon flags
 
@@ -5030,8 +5030,8 @@ RaichuLv40Card:
 	tx MouseName ; category
 	dw 26 ; Pokedex number
 	db 40 ; level
-	db 2, 7 ; length
-	dw 66 * 10 ; weight
+	db 0, 8 ; length
+	dw 300; weight
 	tx RaichuLv40Description ; description
 	db 0 ; pokemon flags
 
@@ -5080,8 +5080,8 @@ RaichuLv45Card:
 	tx MouseName ; category
 	dw 26 ; Pokedex number
 	db 45 ; level
-	db 2, 7 ; length
-	dw 66 * 10 ; weight
+	db 0, 8 ; length
+	dw 300; weight
 	tx RaichuLv45Description ; description
 	db 0 ; pokemon flags
 
@@ -5130,8 +5130,8 @@ MagnemiteLv13Card:
 	tx MagnetName ; category
 	dw 81 ; Pokedex number
 	db 13 ; level
-	db 1, 0 ; length
-	dw 13 * 10 ; weight
+	db 0, 3 ; length
+	dw 60; weight
 	tx MagnemiteLv13Description ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -5180,8 +5180,8 @@ MagnemiteLv15Card:
 	tx MagnetName ; category
 	dw 81 ; Pokedex number
 	db 15 ; level
-	db 1, 0 ; length
-	dw 13 * 10 ; weight
+	db 0, 3 ; length
+	dw 60; weight
 	tx MagnemiteLv15Description ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION ; pokemon flags
 
@@ -5230,8 +5230,8 @@ MagnetonLv28Card:
 	tx MagnetName ; category
 	dw 82 ; Pokedex number
 	db 28 ; level
-	db 3, 3 ; length
-	dw 132 * 10 ; weight
+	db 1, 0 ; length
+	dw 600; weight
 	tx MagnetonLv28Description ; description
 	db 0 ; pokemon flags
 
@@ -5280,8 +5280,8 @@ MagnetonLv35Card:
 	tx MagnetName ; category
 	dw 82 ; Pokedex number
 	db 35 ; level
-	db 3, 3 ; length
-	dw 132 * 10 ; weight
+	db 1, 0 ; length
+	dw 600; weight
 	tx MagnetonLv35Description ; description
 	db 0 ; pokemon flags
 
@@ -5330,8 +5330,8 @@ VoltorbCard:
 	tx BallName ; category
 	dw 100 ; Pokedex number
 	db 10 ; level
-	db 1, 8 ; length
-	dw 23 * 10 ; weight
+	db 0, 5 ; length
+	dw 104; weight
 	tx VoltorbDescription ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION ; pokemon flags
 
@@ -5380,8 +5380,8 @@ ElectrodeLv35Card:
 	tx BallName ; category
 	dw 101 ; Pokedex number
 	db 35 ; level
-	db 3, 11 ; length
-	dw 147 * 10 ; weight
+	db 1, 2 ; length
+	dw 666; weight
 	tx ElectrodeLv35Description ; description
 	db 0 ; pokemon flags
 
@@ -5430,8 +5430,8 @@ ElectrodeLv42Card:
 	tx BallName ; category
 	dw 101 ; Pokedex number
 	db 42 ; level
-	db 3, 11 ; length
-	dw 147 * 10 ; weight
+	db 1, 2 ; length
+	dw 666; weight
 	tx ElectrodeLv42Description ; description
 	db 0 ; pokemon flags
 
@@ -5480,8 +5480,8 @@ ElectabuzzLv20Card:
 	tx ElectricName ; category
 	dw 125 ; Pokedex number
 	db 20 ; level
-	db 3, 7 ; length
-	dw 66 * 10 ; weight
+	db 1, 1 ; length
+	dw 300; weight
 	tx ElectabuzzLv20Description ; description
 	db 0 ; pokemon flags
 
@@ -5530,8 +5530,8 @@ ElectabuzzLv35Card:
 	tx ElectricName ; category
 	dw 125 ; Pokedex number
 	db 35 ; level
-	db 3, 7 ; length
-	dw 66 * 10 ; weight
+	db 1, 1 ; length
+	dw 300; weight
 	tx ElectabuzzLv35Description ; description
 	db 0 ; pokemon flags
 
@@ -5580,8 +5580,8 @@ JolteonLv24Card:
 	tx LightningName ; category
 	dw 135 ; Pokedex number
 	db 24 ; level
-	db 2, 7 ; length
-	dw 54 * 10 ; weight
+	db 0, 8 ; length
+	dw 245; weight
 	tx JolteonLv24Description ; description
 	db 0 ; pokemon flags
 
@@ -5630,8 +5630,8 @@ JolteonLv29Card:
 	tx LightningName ; category
 	dw 135 ; Pokedex number
 	db 29 ; level
-	db 2, 7 ; length
-	dw 54 * 10 ; weight
+	db 0, 8 ; length
+	dw 245; weight
 	tx JolteonLv29Description ; description
 	db 0 ; pokemon flags
 
@@ -5680,8 +5680,8 @@ ZapdosLv40Card:
 	tx ElectricName ; category
 	dw 145 ; Pokedex number
 	db 40 ; level
-	db 5, 3 ; length
-	dw 116 * 10 ; weight
+	db 1, 6 ; length
+	dw 526; weight
 	tx ZapdosLv40Description ; description
 	db 0 ; pokemon flags
 
@@ -5730,8 +5730,8 @@ ZapdosLv64Card:
 	tx ElectricName ; category
 	dw 145 ; Pokedex number
 	db 64 ; level
-	db 5, 3 ; length
-	dw 116 * 10 ; weight
+	db 1, 6 ; length
+	dw 526; weight
 	tx ZapdosLv64Description ; description
 	db 0 ; pokemon flags
 
@@ -5780,8 +5780,8 @@ ZapdosLv68Card:
 	tx ElectricName ; category
 	dw 145 ; Pokedex number
 	db 68 ; level
-	db 5, 3 ; length
-	dw 116 * 10 ; weight
+	db 1, 6 ; length
+	dw 526; weight
 	tx ZapdosLv68Description ; description
 	db 0 ; pokemon flags
 
@@ -5830,8 +5830,8 @@ SandshrewCard:
 	tx MouseName ; category
 	dw 27 ; Pokedex number
 	db 12 ; level
-	db 2, 0 ; length
-	dw 26 * 10 ; weight
+	db 0, 6 ; length
+	dw 120; weight
 	tx SandshrewDescription ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION ; pokemon flags
 
@@ -5880,8 +5880,8 @@ SandslashCard:
 	tx MouseName ; category
 	dw 28 ; Pokedex number
 	db 33 ; level
-	db 3, 3 ; length
-	dw 65 * 10 ; weight
+	db 1, 0 ; length
+	dw 295; weight
 	tx SandslashDescription ; description
 	db 0 ; pokemon flags
 
@@ -5930,8 +5930,8 @@ DiglettCard:
 	tx MoleName ; category
 	dw 50 ; Pokedex number
 	db 8 ; level
-	db 0, 8 ; length
-	dw 2 * 10 ; weight
+	db 0, 2 ; length
+	dw 08; weight
 	tx DiglettDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -5980,8 +5980,8 @@ DugtrioCard:
 	tx MoleName ; category
 	dw 51 ; Pokedex number
 	db 36 ; level
-	db 2, 4 ; length
-	dw 73 * 10 ; weight
+	db 0, 7 ; length
+	dw 333; weight
 	tx DugtrioDescription ; description
 	db 0 ; pokemon flags
 
@@ -6030,8 +6030,8 @@ MankeyCard:
 	tx PigMonkeyName ; category
 	dw 56 ; Pokedex number
 	db 7 ; level
-	db 1, 8 ; length
-	dw 62 * 10 ; weight
+	db 0, 5 ; length
+	dw 280; weight
 	tx MankeyDescription ; description
 	db HAS_EVOLUTION | AI_TRY_TO_KEEP_ON_BENCH ; pokemon flags
 
@@ -6080,8 +6080,8 @@ PrimeapeCard:
 	tx PigMonkeyName ; category
 	dw 57 ; Pokedex number
 	db 35 ; level
-	db 3, 3 ; length
-	dw 71 * 10 ; weight
+	db 1, 0 ; length
+	dw 320; weight
 	tx PrimeapeDescription ; description
 	db 0 ; pokemon flags
 
@@ -6130,8 +6130,8 @@ MachopCard:
 	tx SuperpowerName ; category
 	dw 66 ; Pokedex number
 	db 20 ; level
-	db 2, 7 ; length
-	dw 43 * 10 ; weight
+	db 0, 8 ; length
+	dw 195; weight
 	tx MachopDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -6180,8 +6180,8 @@ MachokeCard:
 	tx SuperpowerName ; category
 	dw 67 ; Pokedex number
 	db 40 ; level
-	db 4, 11 ; length
-	dw 155 * 10 ; weight
+	db 1, 5 ; length
+	dw 705; weight
 	tx MachokeDescription ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION ; pokemon flags
 
@@ -6230,8 +6230,8 @@ MachampCard:
 	tx SuperpowerName ; category
 	dw 68 ; Pokedex number
 	db 67 ; level
-	db 5, 3 ; length
-	dw 287 * 10 ; weight
+	db 1, 6 ; length
+	dw 1300; weight
 	tx MachampDescription ; description
 	db 0 ; pokemon flags
 
@@ -6280,8 +6280,8 @@ GeodudeCard:
 	tx RockName ; category
 	dw 74 ; Pokedex number
 	db 16 ; level
-	db 1, 4 ; length
-	dw 44 * 10 ; weight
+	db 0, 4 ; length
+	dw 200; weight
 	tx GeodudeDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -6330,8 +6330,8 @@ GravelerCard:
 	tx RockName ; category
 	dw 75 ; Pokedex number
 	db 29 ; level
-	db 3, 3 ; length
-	dw 232 * 10 ; weight
+	db 1, 0 ; length
+	dw 1050; weight
 	tx GravelerDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -6380,8 +6380,8 @@ GolemCard:
 	tx MegatonName ; category
 	dw 76 ; Pokedex number
 	db 36 ; level
-	db 4, 7 ; length
-	dw 662 * 10 ; weight
+	db 1, 4 ; length
+	dw 3000; weight
 	tx GolemDescription ; description
 	db 0 ; pokemon flags
 
@@ -6430,8 +6430,8 @@ OnixCard:
 	tx RockSnakeName ; category
 	dw 95 ; Pokedex number
 	db 12 ; level
-	db 28, 10 ; length
-	dw 463 * 10 ; weight
+	db 8, 8 ; length
+	dw 2100; weight
 	tx OnixDescription ; description
 	db 0 ; pokemon flags
 
@@ -6480,8 +6480,8 @@ CuboneCard:
 	tx LonelyName ; category
 	dw 104 ; Pokedex number
 	db 13 ; level
-	db 1, 4 ; length
-	dw 14 * 10 ; weight
+	db 0, 4 ; length
+	dw 65; weight
 	tx CuboneDescription ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION ; pokemon flags
 
@@ -6530,8 +6530,8 @@ MarowakLv26Card:
 	tx BonekeeperName ; category
 	dw 105 ; Pokedex number
 	db 26 ; level
-	db 3, 3 ; length
-	dw 99 * 10 ; weight
+	db 1, 0 ; length
+	dw 450; weight
 	tx MarowakLv26Description ; description
 	db 0 ; pokemon flags
 
@@ -6580,8 +6580,8 @@ MarowakLv32Card:
 	tx BonekeeperName ; category
 	dw 105 ; Pokedex number
 	db 32 ; level
-	db 3, 3 ; length
-	dw 99 * 10 ; weight
+	db 1, 0 ; length
+	dw 450; weight
 	tx MarowakLv32Description ; description
 	db 0 ; pokemon flags
 
@@ -6630,8 +6630,8 @@ HitmonleeCard:
 	tx KickingName ; category
 	dw 106 ; Pokedex number
 	db 30 ; level
-	db 4, 11 ; length
-	dw 110 * 10 ; weight
+	db 1, 5 ; length
+	dw 498; weight
 	tx HitmonleeDescription ; description
 	db 0 ; pokemon flags
 
@@ -6680,8 +6680,8 @@ HitmonchanCard:
 	tx PunchingName ; category
 	dw 107 ; Pokedex number
 	db 33 ; level
-	db 4, 7 ; length
-	dw 111 * 10 ; weight
+	db 1, 4 ; length
+	dw 502; weight
 	tx HitmonchanDescription ; description
 	db 0 ; pokemon flags
 
@@ -6730,8 +6730,8 @@ RhyhornCard:
 	tx SpikeName ; category
 	dw 111 ; Pokedex number
 	db 18 ; level
-	db 3, 3 ; length
-	dw 254 * 10 ; weight
+	db 1, 0 ; length
+	dw 1150; weight
 	tx RhyhornDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -6780,8 +6780,8 @@ RhydonCard:
 	tx DrillName ; category
 	dw 112 ; Pokedex number
 	db 48 ; level
-	db 6, 3 ; length
-	dw 265 * 10 ; weight
+	db 1, 9 ; length
+	dw 1200; weight
 	tx RhydonDescription ; description
 	db 0 ; pokemon flags
 
@@ -6830,8 +6830,8 @@ KabutoCard:
 	tx ShellfishName ; category
 	dw 140 ; Pokedex number
 	db 9 ; level
-	db 1, 8 ; length
-	dw 25 * 10 ; weight
+	db 0, 5 ; length
+	dw 115; weight
 	tx KabutoDescription ; description
 	db HAS_EVOLUTION | AI_TRY_TO_KEEP_ON_BENCH ; pokemon flags
 
@@ -6880,8 +6880,8 @@ KabutopsCard:
 	tx ShellfishName ; category
 	dw 141 ; Pokedex number
 	db 30 ; level
-	db 4, 3 ; length
-	dw 89 * 10 ; weight
+	db 1, 3 ; length
+	dw 405; weight
 	tx KabutopsDescription ; description
 	db 0 ; pokemon flags
 
@@ -6930,8 +6930,8 @@ AerodactylCard:
 	tx FossilName ; category
 	dw 142 ; Pokedex number
 	db 28 ; level
-	db 5, 11 ; length
-	dw 130 * 10 ; weight
+	db 1, 8 ; length
+	dw 590; weight
 	tx AerodactylDescription ; description
 	db AI_TRY_TO_KEEP_ON_BENCH ; pokemon flags
 
@@ -6980,8 +6980,8 @@ AbraCard:
 	tx PsiName ; category
 	dw 63 ; Pokedex number
 	db 10 ; level
-	db 2, 11 ; length
-	dw 43 * 10 ; weight
+	db 0, 9 ; length
+	dw 195; weight
 	tx AbraDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -7030,8 +7030,8 @@ KadabraCard:
 	tx PsiName ; category
 	dw 64 ; Pokedex number
 	db 38 ; level
-	db 4, 3 ; length
-	dw 125 * 10 ; weight
+	db 1, 3 ; length
+	dw 566; weight
 	tx KadabraDescription ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION | AI_TRY_TO_KEEP_ON_BENCH ; pokemon flags
 
@@ -7080,8 +7080,8 @@ AlakazamCard:
 	tx PsiName ; category
 	dw 65 ; Pokedex number
 	db 42 ; level
-	db 4, 11 ; length
-	dw 106 * 10 ; weight
+	db 1, 5 ; length
+	dw 480; weight
 	tx AlakazamDescription ; description
 	db AI_TRY_TO_KEEP_ON_BENCH ; pokemon flags
 
@@ -7130,8 +7130,8 @@ SlowpokeLv9Card:
 	tx DopeyName ; category
 	dw 79 ; Pokedex number
 	db 9 ; level
-	db 3, 11 ; length
-	dw 79 * 10 ; weight
+	db 1, 2 ; length
+	dw 360; weight
 	tx SlowpokeLv9Description ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION | AI_TRY_TO_KEEP_ON_BENCH ; pokemon flags
 
@@ -7180,8 +7180,8 @@ SlowpokeLv18Card:
 	tx DopeyName ; category
 	dw 79 ; Pokedex number
 	db 18 ; level
-	db 3, 11 ; length
-	dw 79 * 10 ; weight
+	db 1, 2 ; length
+	dw 360; weight
 	tx SlowpokeLv9Description ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION | AI_TRY_TO_KEEP_ON_BENCH ; pokemon flags
 
@@ -7230,8 +7230,8 @@ SlowbroCard:
 	tx HermitcrabName ; category
 	dw 80 ; Pokedex number
 	db 26 ; level
-	db 5, 3 ; length
-	dw 173 * 10 ; weight
+	db 1, 6 ; length
+	dw 785; weight
 	tx SlowbroDescription ; description
 	db AI_TRY_TO_KEEP_ON_BENCH ; pokemon flags
 
@@ -7280,8 +7280,8 @@ GastlyLv8Card:
 	tx GasName ; category
 	dw 92 ; Pokedex number
 	db 8 ; level
-	db 4, 3 ; length
-	dw 2 ; weight
+	db 1, 3 ; length
+	dw 01; weight
 	tx GastlyLv8Description ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -7330,8 +7330,8 @@ GastlyLv17Card:
 	tx GasName ; category
 	dw 92 ; Pokedex number
 	db 17 ; level
-	db 4, 3 ; length
-	dw 2 ; weight
+	db 1, 3 ; length
+	dw 01; weight
 	tx GastlyLv17Description ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -7380,8 +7380,8 @@ HaunterLv17Card:
 	tx GasName ; category
 	dw 93 ; Pokedex number
 	db 17 ; level
-	db 5, 3 ; length
-	dw 2 ; weight
+	db 1, 6 ; length
+	dw 01; weight
 	tx HaunterDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -7398,7 +7398,7 @@ HaunterLv22Card:
 
 	; attack 1
 	energy PSYCHIC, 1 ; energies
-	tx HypnosisName ; name
+	tx HypnosisAttackName ; name
 	tx InflictSleepDescription ; description
 	dw NONE ; description (cont)
 	db 0 ; damage
@@ -7430,8 +7430,8 @@ HaunterLv22Card:
 	tx GasName ; category
 	dw 93 ; Pokedex number
 	db 22 ; level
-	db 5, 3 ; length
-	dw 2 ; weight
+	db 1, 6 ; length
+	dw 01; weight
 	tx HaunterDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -7480,8 +7480,8 @@ GengarCard:
 	tx ShadowName ; category
 	dw 94 ; Pokedex number
 	db 38 ; level
-	db 4, 11 ; length
-	dw 89 * 10 ; weight
+	db 1, 5 ; length
+	dw 405; weight
 	tx GengarDescription ; description
 	db AI_TRY_TO_KEEP_ON_BENCH ; pokemon flags
 
@@ -7530,8 +7530,8 @@ DrowzeeCard:
 	tx HypnosisName ; category
 	dw 96 ; Pokedex number
 	db 12 ; level
-	db 3, 3 ; length
-	dw 71 * 10 ; weight
+	db 1, 0 ; length
+	dw 324; weight
 	tx DrowzeeDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -7580,8 +7580,8 @@ HypnoCard:
 	tx HypnosisName ; category
 	dw 97 ; Pokedex number
 	db 36 ; level
-	db 5, 3 ; length
-	dw 167 * 10 ; weight
+	db 1, 6 ; length
+	dw 756; weight
 	tx HypnoDescription ; description
 	db 0 ; pokemon flags
 
@@ -7630,8 +7630,8 @@ MrMimeCard:
 	tx BarrierName ; category
 	dw 122 ; Pokedex number
 	db 28 ; level
-	db 4, 3 ; length
-	dw 120 * 10 ; weight
+	db 1, 3 ; length
+	dw 545; weight
 	tx MrMimeDescription ; description
 	db 0 ; pokemon flags
 
@@ -7680,8 +7680,8 @@ JynxCard:
 	tx HumanShapeName ; category
 	dw 124 ; Pokedex number
 	db 23 ; level
-	db 4, 7 ; length
-	dw 90 * 10 ; weight
+	db 1, 4 ; length
+	dw 406; weight
 	tx JynxDescription ; description
 	db 0 ; pokemon flags
 
@@ -7730,8 +7730,8 @@ MewtwoLv53Card:
 	tx GeneticName ; category
 	dw 150 ; Pokedex number
 	db 53 ; level
-	db 6, 7 ; length
-	dw 269 * 10 ; weight
+	db 2, 0 ; length
+	dw 1220; weight
 	tx MewtwoLv53Description ; description
 	db 0 ; pokemon flags
 
@@ -7780,8 +7780,8 @@ MewtwoLv60Card:
 	tx GeneticName ; category
 	dw 150 ; Pokedex number
 	db 60 ; level
-	db 6, 7 ; length
-	dw 269 * 10 ; weight
+	db 2, 0 ; length
+	dw 1220; weight
 	tx MewtwoLv60Description ; description
 	db 0 ; pokemon flags
 
@@ -7830,8 +7830,8 @@ MewtwoAltLV60Card:
 	tx GeneticName ; category
 	dw 150 ; Pokedex number
 	db 60 ; level
-	db 6, 7 ; length
-	dw 269 * 10 ; weight
+	db 2, 0 ; length
+	dw 1220; weight
 	tx MewtwoLv60Description ; description
 	db 0 ; pokemon flags
 
@@ -7880,8 +7880,8 @@ MewLv8Card:
 	tx NewSpeciesName ; category
 	dw 151 ; Pokedex number
 	db 8 ; level
-	db 1, 4 ; length
-	dw 9 * 10 ; weight
+	db 0, 4 ; length
+	dw 88; weight
 	tx MewLv8Description ; description
 	db 0 ; pokemon flags
 
@@ -7930,8 +7930,8 @@ MewLv15Card:
 	tx NewSpeciesName ; category
 	dw 151 ; Pokedex number
 	db 15 ; level
-	db 1, 4 ; length
-	dw 9 * 10 ; weight
+	db 0, 4 ; length
+	dw 88; weight
 	tx MewLv15Description ; description
 	db 0 ; pokemon flags
 
@@ -7980,8 +7980,8 @@ MewLv23Card:
 	tx NewSpeciesName ; category
 	dw 151 ; Pokedex number
 	db 23 ; level
-	db 1, 4 ; length
-	dw 9 * 10 ; weight
+	db 0, 4 ; length
+	dw 88; weight
 	tx MewLv8Description ; description
 	db 0 ; pokemon flags
 
@@ -8030,7 +8030,7 @@ PidgeyCard:
 	tx TinyBirdName ; category
 	dw 16 ; Pokedex number
 	db 8 ; level
-	db 1, 0 ; length
+	db 0, 3 ; length
 	dw 4 * 10 ; weight
 	tx PidgeyDescription ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION ; pokemon flags
@@ -8080,8 +8080,8 @@ PidgeottoCard:
 	tx BirdName ; category
 	dw 17 ; Pokedex number
 	db 36 ; level
-	db 3, 7 ; length
-	dw 66 * 10 ; weight
+	db 1, 1 ; length
+	dw 300; weight
 	tx PidgeottoDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -8130,8 +8130,8 @@ PidgeotLv38Card:
 	tx BirdName ; category
 	dw 18 ; Pokedex number
 	db 38 ; level
-	db 4, 11 ; length
-	dw 87 * 10 ; weight
+	db 1, 5 ; length
+	dw 395; weight
 	tx PidgeotLv38Description ; description
 	db 0 ; pokemon flags
 
@@ -8180,8 +8180,8 @@ PidgeotLv40Card:
 	tx BirdName ; category
 	dw 18 ; Pokedex number
 	db 40 ; level
-	db 4, 11 ; length
-	dw 87 * 10 ; weight
+	db 1, 5 ; length
+	dw 395; weight
 	tx PidgeotLv40Description ; description
 	db 0 ; pokemon flags
 
@@ -8230,8 +8230,8 @@ RattataCard:
 	tx RatName ; category
 	dw 19 ; Pokedex number
 	db 9 ; level
-	db 1, 0 ; length
-	dw 8 * 10 ; weight
+	db 0, 3 ; length
+	dw 35; weight
 	tx RattataDescription ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION ; pokemon flags
 
@@ -8280,8 +8280,8 @@ RaticateCard:
 	tx RatName ; category
 	dw 20 ; Pokedex number
 	db 41 ; level
-	db 2, 4 ; length
-	dw 41 * 10 ; weight
+	db 0, 7 ; length
+	dw 185; weight
 	tx RaticateDescription ; description
 	db 0 ; pokemon flags
 
@@ -8330,8 +8330,8 @@ SpearowCard:
 	tx TinyBirdName ; category
 	dw 21 ; Pokedex number
 	db 13 ; level
-	db 1, 0 ; length
-	dw 4 * 10 ; weight
+	db 0, 3 ; length
+	dw 20; weight
 	tx SpearowDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -8380,8 +8380,8 @@ FearowCard:
 	tx BeakName ; category
 	dw 22 ; Pokedex number
 	db 27 ; level
-	db 3, 11 ; length
-	dw 84 * 10 ; weight
+	db 1, 2 ; length
+	dw 380; weight
 	tx FearowDescription ; description
 	db 0 ; pokemon flags
 
@@ -8430,8 +8430,8 @@ ClefairyCard:
 	tx FairyName ; category
 	dw 35 ; Pokedex number
 	db 14 ; level
-	db 2, 0 ; length
-	dw 17 * 10 ; weight
+	db 0, 6 ; length
+	dw 75; weight
 	tx ClefairyDescription ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION ; pokemon flags
 
@@ -8480,8 +8480,8 @@ ClefableCard:
 	tx FairyName ; category
 	dw 36 ; Pokedex number
 	db 34 ; level
-	db 4, 3 ; length
-	dw 88 * 10 ; weight
+	db 1, 3 ; length
+	dw 400; weight
 	tx ClefableDescription ; description
 	db 0 ; pokemon flags
 
@@ -8530,8 +8530,8 @@ JigglypuffLv12Card:
 	tx BalloonName ; category
 	dw 39 ; Pokedex number
 	db 12 ; level
-	db 1, 8 ; length
-	dw 12 * 10 ; weight
+	db 0, 5 ; length
+	dw 55; weight
 	tx JigglypuffLv12Description ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -8580,8 +8580,8 @@ JigglypuffLv13Card:
 	tx BalloonName ; category
 	dw 39 ; Pokedex number
 	db 13 ; level
-	db 1, 8 ; length
-	dw 12 * 10 ; weight
+	db 0, 5 ; length
+	dw 55; weight
 	tx JigglypuffLv13Description ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -8630,8 +8630,8 @@ JigglypuffLv14Card:
 	tx BalloonName ; category
 	dw 39 ; Pokedex number
 	db 14 ; level
-	db 1, 8 ; length
-	dw 12 * 10 ; weight
+	db 0, 5 ; length
+	dw 55; weight
 	tx JigglypuffLv14Description ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -8680,8 +8680,8 @@ WigglytuffCard:
 	tx BalloonName ; category
 	dw 40 ; Pokedex number
 	db 36 ; level
-	db 3, 3 ; length
-	dw 26 * 10 ; weight
+	db 0, 3 ; length
+	dw 120; weight
 	tx WigglytuffDescription ; description
 	db 0 ; pokemon flags
 
@@ -8730,8 +8730,8 @@ MeowthLv14Card:
 	tx ScratchCatName ; category
 	dw 52 ; Pokedex number
 	db 14 ; level
-	db 1, 4 ; length
-	dw 9 * 10 ; weight
+	db 0, 4 ; length
+	dw 42; weight
 	tx MeowthLv14Description ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -8780,8 +8780,8 @@ MeowthLv15Card:
 	tx ScratchCatName ; category
 	dw 52 ; Pokedex number
 	db 15 ; level
-	db 1, 4 ; length
-	dw 9 * 10 ; weight
+	db 0, 4 ; length
+	dw 42; weight
 	tx MeowthLv15Description ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -8830,8 +8830,8 @@ PersianCard:
 	tx ClassyCatName ; category
 	dw 53 ; Pokedex number
 	db 25 ; level
-	db 3, 3 ; length
-	dw 71 * 10 ; weight
+	db 1, 0 ; length
+	dw 320; weight
 	tx PersianDescription ; description
 	db 0 ; pokemon flags
 
@@ -8880,8 +8880,8 @@ FarfetchdCard:
 	tx WildDuckName ; category
 	dw 83 ; Pokedex number
 	db 20 ; level
-	db 2, 7 ; length
-	dw 33 * 10 ; weight
+	db 0, 8 ; length
+	dw 150; weight
 	tx FarfetchdDescription ; description
 	db 0 ; pokemon flags
 
@@ -8930,8 +8930,8 @@ DoduoCard:
 	tx TwinBirdName ; category
 	dw 84 ; Pokedex number
 	db 10 ; level
-	db 4, 7 ; length
-	dw 86 * 10 ; weight
+	db 1, 4 ; length
+	dw 392; weight
 	tx DoduoDescription ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION ; pokemon flags
 
@@ -8980,8 +8980,8 @@ DodrioCard:
 	tx TriplebirdName ; category
 	dw 85 ; Pokedex number
 	db 28 ; level
-	db 5, 11 ; length
-	dw 188 * 10 ; weight
+	db 1, 8 ; length
+	dw 852; weight
 	tx DodrioDescription ; description
 	db AI_TRY_TO_KEEP_ON_BENCH ; pokemon flags
 
@@ -9030,8 +9030,8 @@ LickitungCard:
 	tx LickingName ; category
 	dw 108 ; Pokedex number
 	db 26 ; level
-	db 3, 11 ; length
-	dw 144 * 10 ; weight
+	db 1, 2 ; length
+	dw 655; weight
 	tx LickitungDescription ; description
 	db 0 ; pokemon flags
 
@@ -9080,8 +9080,8 @@ ChanseyCard:
 	tx EggName ; category
 	dw 113 ; Pokedex number
 	db 55 ; level
-	db 3, 7 ; length
-	dw 76 * 10 ; weight
+	db 1, 1 ; length
+	dw 346; weight
 	tx ChanseyDescription ; description
 	db 0 ; pokemon flags
 
@@ -9130,8 +9130,8 @@ KangaskhanCard:
 	tx ParentName ; category
 	dw 115 ; Pokedex number
 	db 40 ; level
-	db 7, 3 ; length
-	dw 176 * 10 ; weight
+	db 2, 2 ; length
+	dw 800; weight
 	tx KangaskhanDescription ; description
 	db 0 ; pokemon flags
 
@@ -9180,8 +9180,8 @@ TaurosCard:
 	tx WildBullName ; category
 	dw 128 ; Pokedex number
 	db 32 ; level
-	db 4, 7 ; length
-	dw 195 * 10 ; weight
+	db 1, 4 ; length
+	dw 884; weight
 	tx TaurosDescription ; description
 	db 0 ; pokemon flags
 
@@ -9230,8 +9230,8 @@ DittoCard:
 	tx TransformName ; category
 	dw 132 ; Pokedex number
 	db 19 ; level
-	db 1, 0 ; length
-	dw 9 * 10 ; weight
+	db 0, 3 ; length
+	dw 40; weight
 	tx DittoDescription ; description
 	db 0 ; pokemon flags
 
@@ -9280,8 +9280,8 @@ EeveeCard:
 	tx EvolutionName ; category
 	dw 133 ; Pokedex number
 	db 12 ; level
-	db 1, 0 ; length
-	dw 14 * 10 ; weight
+	db 0, 3 ; length
+	dw 65; weight
 	tx EeveeDescription ; description
 	db HAS_EVOLUTION ; pokemon flags
 
@@ -9330,8 +9330,8 @@ PorygonCard:
 	tx VirtualName ; category
 	dw 137 ; Pokedex number
 	db 12 ; level
-	db 2, 7 ; length
-	dw 80 * 10 ; weight
+	db 0, 8 ; length
+	dw 365; weight
 	tx PorygonDescription ; description
 	db 0 ; pokemon flags
 
@@ -9380,8 +9380,8 @@ SnorlaxCard:
 	tx SleepingName ; category
 	dw 143 ; Pokedex number
 	db 20 ; level
-	db 6, 11 ; length
-	dw 1014 * 10 ; weight
+	db 2, 1 ; length
+	dw 4600; weight
 	tx SnorlaxDescription ; description
 	db 0 ; pokemon flags
 
@@ -9430,8 +9430,8 @@ DratiniCard:
 	tx DragonName ; category
 	dw 147 ; Pokedex number
 	db 10 ; level
-	db 5, 11 ; length
-	dw 7 * 10 ; weight
+	db 1, 8 ; length
+	dw 33; weight
 	tx DratiniDescription ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION | AI_TRY_TO_KEEP_ON_BENCH ; pokemon flags
 
@@ -9480,8 +9480,8 @@ DragonairCard:
 	tx DragonName ; category
 	dw 148 ; Pokedex number
 	db 33 ; level
-	db 13, 1 ; length
-	dw 36 * 10 ; weight
+	db 4, 0 ; length
+	dw 165; weight
 	tx DragonairDescription ; description
 	db HAS_EVOLUTION | AI_ENCOURAGE_EVOLUTION ; pokemon flags
 
@@ -9530,8 +9530,8 @@ DragoniteLv41Card:
 	tx DragonName ; category
 	dw 149 ; Pokedex number
 	db 41 ; level
-	db 7, 3 ; length
-	dw 463 * 10 ; weight
+	db 2, 2 ; length
+	dw 2100; weight
 	tx DragoniteLv41Description ; description
 	db 0 ; pokemon flags
 
@@ -9580,8 +9580,8 @@ DragoniteLv45Card:
 	tx DragonName ; category
 	dw 149 ; Pokedex number
 	db 45 ; level
-	db 7, 3 ; length
-	dw 463 * 10 ; weight
+	db 2, 2 ; length
+	dw 2100; weight
 	tx DragoniteDescription ; description
 	db AI_TRY_TO_KEEP_ON_BENCH ; pokemon flags
 

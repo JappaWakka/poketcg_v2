@@ -665,21 +665,21 @@ HandleDuelMenuInput::
 	ret
 
 DuelMenuCursorCoords::
-	db  2, 14 ; Hand
-	db  2, 16 ; Attack
-	db  8, 14 ; Check
-	db  8, 16 ; Pkmn Power
-	db 14, 14 ; Retreat
-	db 14, 16 ; Done
+	db  1, 14 ; Hand
+	db  1, 16 ; Attack
+	db  6, 14 ; Check
+	db  6, 16 ; Pkmn Power
+	db 13, 14 ; Retreat
+	db 13, 16 ; Done
 
 DuelMenuData:
 	; x, y, text ID
-	textitem  3, 14, HandText
-	textitem  9, 14, CheckText
-	textitem 15, 14, RetreatText
-	textitem  3, 16, AttackText
-	textitem  9, 16, PKMNPowerText
-	textitem 15, 16, DoneText
+	textitem  2, 14, HandText
+	textitem  7, 14, CheckText
+	textitem 14, 14, RetreatText
+	textitem  2, 16, AttackText
+	textitem  7, 16, PKMNPowerText
+	textitem 14, 16, DoneText
 	db $ff
 
 
@@ -4786,7 +4786,7 @@ DisplayCardPage_PokemonOverview:
 	; print the retreat cost (some amount of colorless energies) at 8,14
 	inc c
 	inc c ; 14
-	ld b, 8
+	ld b, 12
 	ld a, [wLoadedCard1RetreatCost]
 	ld e, a
 	inc e
@@ -4818,7 +4818,7 @@ DisplayCardPage_PokemonOverview:
 	ld e, a
 .got_wr
 	ld a, d
-	ld b, 8
+	ld b, 12
 	call PrintCardPageWeaknessesOrResistances
 	inc c ; 16
 	ld a, e

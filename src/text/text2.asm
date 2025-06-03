@@ -711,11 +711,11 @@ UnusedText0214: ; Unused
 	done
 
 FeetText:
-	textfw "'"
+	textfw "."
 	done
 
 InchesText:
-	textfw "”"
+	textfw " m"
 	done
 
 YourDiscardPileText:

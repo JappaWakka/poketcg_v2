@@ -53,7 +53,7 @@ PlayIntroSequence:
 	call GetSpriteAnimBufferProperty
 	ld a, 48
 	ld [hli], a ; x
-	ld a, 112
+	ld a, 116
 	ld [hl], a ; y
 	ld c, SPRITE_ANIM_190
 	ld a, [wConsole]
