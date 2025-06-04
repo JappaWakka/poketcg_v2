@@ -1,75 +1,831 @@
+AcidCheckText:
+	text "Als het kop is, kan de Verdedigende"
+	line "Pokémon zich niet Terugtrekken"
+	line "tijdens de volgende beurt."
+	done
+
+TransparencyCheckText:
+	text "Als het kop is, voorkom dan alle"
+	line "gevolgen van de Aanval aan Haunter!"
+	done
+
+ConfusionCheckDamageText:
+	text "Verwarring-check: Als het munt is,"
+	line "dan 20 schade aan zichzelf!"
+	done
+
+ConfusionCheckRetreatText:
+	text "Verwarring-check: Als het munt is,"
+	line "dan is Terugtrekken niet mogelijk."
+	done
+
+PokemonsSleepCheckText:
+	text "Slaap-check: Als het munt is, dan is"
+	line "<RAMTEXT> nog steeds In Slaap."
+	done
+
+PoisonedIfHeadsConfusedIfTailsText:
+	text "Kop: Tegenstander is Vergiftigd"
+	line "Munt: Tegenstander is Verward"
+	done
+
+IfHeadsDoNotReceiveDamageOrEffectText:
+	text "Als het kop is, voorkom alle schade"
+	line "en gevolgen van Aanvallen tijdens"
+	line "de volgende beurt."
+	done
+
+IfHeadsOpponentCannotAttackText:
+	text "Als het kop is, kan de Verdedigende"
+	line "Pokémon niet Aanvallen tijdens de"
+	line "volgende beurt!"
+	done
+
+AttackUnsuccessfulText:
+	text "Aanval onsuccesvol."
+	done
+
+UnableToRetreatDueToAcidText:
+	text "Deze Pokémon kan zich niet Terug-"
+	line "trekken tot je volgende beurt."
+	done
+
+UnableToUseTrainerDueToHeadacheText:
+	text "Kan geen Trainerkaart gebruiken"
+	line "door de gevolgen van Hoofdpijn."
+	done
+
+CannotUsePokemonFluteText:
+	text "Er zitten geen Basis-Pokémon in de"
+	line "Weggooistapel van je tegenstander."
+	done
+
+UnableToAttackThatPokemonText:
+	text "Je kunt die Pokémon niet Aanvallen"
+	line "tot je volgende beurt."
+	done
+
+UnableToAttackText:
+	text "Deze Pokémon kan niet Aanvallen"
+	line "tot je volgende beurt."
+	done
+
+UnableToUseAttackDueToAmnesiaText:
+	text "Kan deze Aanval niet gebruiken"
+	line "door de gevolgen van Amnesie."
+	done
+
+KnockedOutDueToDestinyBondText:
+	text "<RAMTEXT> is Uitgeschakeld door"
+	line "de gevolgen van Lotverbintenis."
+	done
+
+ReceivesDamageDueToStrikesBackText:
+	text "<RAMTEXT> ontvangt <RAMNUM> schade"
+	line "door de gevolgen van Neem wraak."
+	done
+
+UnableToEvolveDueToPrehistoricPowerText:
+	text "Kan niet Evolueren door de"
+	line "gevolgen van Prehistorische kracht."
+	done
+
+UnusedText0107: ; Unused
+	text "????"
+	done
+
+UnusedText0108: ; Unused
+	text "????"
+	done
+
+NoDamageOrEffectDueToAttackText:
+	text "De Aanval had geen effect op de"
+	line "Verdedigende Pokémon."
+	done
+
+UnableToUseAttackDueToNShieldText:
+	text "Kan deze Aanval niet gebruiken door"
+	line "Mew's Neutraliserend Schild."
+	done
+
+NoDamageOrEffectDueToNShieldText:
+	text "De Kracht Neutraliserend Schild"
+	line "beschermde Mew tegen de Aanval."
+	done
+
+NoDamageOrEffectDueToTransparencyText:
+	text "De Kracht Transparantie beschermde"
+	line "Haunter tegen de Aanval."
+	done
+
+MetamorphsToText:
+	text "<RAMTEXT> transformeert"
+	line "in <RAMTEXT>."
+	done
+
+SelectNewDefendingPokemonText:
+	text "Kies een Pokémon op de Bank om"
+	line "te wisselen met je tegenstander's"
+	line "Actieve Pokémon."
+	done
+
+SelectNewActivePokemonText:
+	text "Kies 1 van je Pokémon op de Bank om"
+	line "in de Arena te plaatsen."
+	done
+
+DuelistIsSelectingPokemonToPlaceInArenaText:
+	text "<RAMNAME> is een Pokémon aan het"
+	line "kiezen om in de Arena te plaatsen."
+	done
+
+ChooseWeaknessYouWishToChangeText:
+	text "Kies de Zwakte die je wilt"
+	line "veranderen met Conversie 1."
+	done
+
+ChooseResistanceYouWishToChangeText:
+	text "Kies de Weerstand die je wilt"
+	line "veranderen met Conversie 2."
+	done
+
+ChoosePokemonToCopyWithShiftText:
+	text "Kies de Pokémon wiens type je wilt"
+	line "kopiëren met Venomoth's Verander."
+	done
+
+ChangedTheWeaknessOfPokemonToColorText:
+	text "De Zwakte van <RAMTEXT>"
+	line "is veranderd naar <RAMTEXT>."
+	done
+
+ChangedTheResistanceOfPokemonToColorText:
+	text "De Weerstand van <RAMTEXT>"
+	line "is veranderd naar <RAMTEXT>."
+	done
+
+ChangedTheColorOfText:
+	text "Het type van <RAMTEXT>"
+	line "is veranderd naar <RAMTEXT>."
+	done
+
+Draw1CardFromTheDeckText:
+	text "Pak 1 kaart."
+	done
+
+DrawCardsFromTheDeckText:
+	text "Pak <RAMNUM> kaart(en)."
+	done
+
+CannotDrawCardBecauseNoCardsInDeckText:
+	text "Kan geen kaart pakken omdat er geen"
+	line "kaarten meer in het Deck zitten."
+	done
+
+ChoosePkmnInTheBenchToGiveDamageText:
+	text "Welke Pokémon op je tegenstander's"
+	line "Bank zal de schade ontvangen?"
+	done
+
+ChooseUpTo3PkmnOnBenchToGiveDamageText:
+	text "Kies tot 3 Pokémon op de"
+	line "Bank om schade aan te doen."
+	done
+
+Choose1BasicEnergyCardFromDeckText:
+	text "Kies een Basis-Energiekaart"
+	line "uit je Deck."
+	done
+
+ChoosePokemonToAttachEnergyCardText:
+	text "Kies een Pokémon om de"
+	line "Energiekaart aan te hechten."
+	done
+
+UnusedText011e: ; Unused
+	text "Gooi 1 <FIRE> Energiekaart weg."
+	done
+
+ChooseAndDiscard2FireEnergyCardsText:
+	text "Gooi 2 <FIRE> Energiekaarten weg."
+	done
+
+DiscardOppDeckAsManyFireEnergyCardsText:
+	text "Gooi zoveel kaarten van het Deck"
+	line "van de tegenstander weg als dat er"
+	line "<FIRE> Energiekaarten weggegooid zijn."
+	done
+ChooseAndDiscard2EnergyCardsText:
+	text "Kies 2 Energiekaarten"
+	line "om weg te gooien."
+	done
+
+ChooseAKrabbyFromDeckText:
+	text "Kies een Krabby"
+	line "uit je Deck."
+	done
+
+ChooseDiscardEnergyCardFromOpponentText:
+	text "Kies een Energiekaart die gehecht"
+	line "is aan de Verdedigende Pokémon"
+	line "om weg te gooien."
+	done
+
+ChooseAttackOpponentWillNotBeAbleToUseText:
+	text "Kies de Aanval die de tegenstander"
+	line "niet zal kunnen gebruiken tijdens"
+	line "zijn of haar volgende beurt."
+	done
+
+ChooseBasicFightingPokemonFromDeckText:
+	text "Kies een Basis-<FIGHTING>-Pokémon"
+	line "uit je Deck."
+	done
+
+ChooseAnOddishFromDeckText:
+	text "Kies een Oddish"
+	line "uit je Deck."
+	done
+
+ChooseAnOddishText:
+	text "Kies een Oddish."
+	done
+
+ChooseAKrabbyText:
+	text "Kies een Krabby."
+	done
+
+ChooseBasicEnergyCardText:
+	text "Kies een Basis-"
+	line "Energiekaart."
+	done
+
+ChooseNidoranFromDeckText:
+	text "Kies een Nidoran♀ of een Nidoran♂"
+	line "uit je Deck."
+	done
+
+ChooseNidoranText:
+	text "Kies een Nidoran♀"
+	line "of een Nidoran♂."
+	done
+
+ChooseBasicFightingPokemonText:
+	text "Kies een Basis-"
+	line "<FIGHTING>-Pokémon"
+	done
+
+ProcedureForEnergyTransferText:
+	text "Hoe je Energietransfer gebruikt:"
+	line ""
+	line "1. Kies de Pokémon om de <GRASS> Energie"
+	line "   van te verplaatsen. Druk op de"
+	line "   A-knop."
+	line ""
+	line "2. Kies de Pokémon om de Energie aan"
+	line "   te hechten en druk op de A-knop."
+	line ""
+	line "3. Herhaal stappen 1 en 2."
+	line ""
+	line "4. Druk op de B-knop om te stoppen."
+	done
+
+ChooseABellsproutFromDeckText:
+	text "Kies een Bellsprout"
+	line "uit je Deck."
+	done
+
+ChooseABellsproutText:
+	text "Kies een Bellsprout."
+	done
+
+ChoosePkmnToRemoveDamageCounterText:
+	text "Kies een Pokémon om de"
+	line "Schadeteller van te verwijderen."
+	done
+
+ProcedureForCurseText:
+	text "Hoe je Vervloeken gebruikt:"
+	line ""
+	line "1. Kies een Pokémon om de"
+	line "   Schadeteller van te ver-"
+	line "   plaatsen en druk op de A-knop."
+	line ""
+	line "2. Kies een Pokémon om de Schade-"
+	line "   teller naartoe te verplaatsen"
+	line "   en druk op de A-knop."
+	line ""
+	line "3. Druk op de B-knop om te stoppen."
+	done
+
+Choose2EnergyCardsFromDiscardPileText:
+	text "Kies 2 Energiekaarten uit je"
+	line "Weggooistapel."
+	done
+
+ChooseAnEnergyCardText:
+	text "Kies een Energie-"
+	line "kaart."
+	done
+
+ProcedureForProphecyText:
+	text "Hoe je Voorspelling gebruikt:"
+	line ""
+	line "1. Selecteer jouw Deck óf het"
+	line "   Deck van je tegenstander."
+	line ""
+	line "2. Kies de kaarten die je"
+	line "   bovenop wilt leggen en"
+	line "   druk op de A-knop."
+	line ""
+	line "3. Kies Ja nadat je de 3 kaarten"
+	line "   en hun volgorde hebt bepaald."
+	line ""
+	line "4. Annuleer met de B-knop."
+	done
+
+ChooseTheOrderOfTheCardsText:
+	text "Kies de volgorde"
+	line "van de kaarten."
+	done
+
+ProcedureForDamageSwapText:
+	text "Hoe je Schadeverwisseling"
+	line "gebruikt:"
+	line "1. Kies een Pokémon waar je"
+	line "   een Schadeteller van wilt"
+	line "   verplaatsen en druk op de"
+	line "   A-knop."
+	line "2. Kies een Pokémon om de schade-"
+	line "   teller naartoe te verplaatsen"
+	line "   en druk op de A-knop."
+	line "   (Je mag een Pokémon geen"
+	line "   Schadeteller geven als dat"
+	line "   die Pokémon zou Uitschakelen.)"
+	line ""
+	line "3. Herhaal stap 1 en 2."
+	line ""
+	line "4. Druk op de B-knop om te stoppen."
+	done
+
+ProcedureForDevolutionBeamText:
+	text "Hoe je Devolutiestraal gebruikt:"
+	line ""
+	line "1. Selecteer een Pokémon in jouw"
+	line "   Speelveld óf in je tegen-"
+	line "   standers Speelveld en druk"
+	line "   op de A-knop."
+	line ""
+	line "2. Kies de Pokémon om te Devolueren"
+	line "   en druk op de A-knop."
+	line ""
+	line "3. Annuleer met de B-knop."
+	done
+
+ProcedureForStrangeBehaviorText:
+	text "Hoe je Vreemd gedrag gebruikt:"
+	line ""
+	line "1. Kies de Pokémon met de Schade-"
+	line "   tellers die je naar Slowbro"
+	line "   wilt verplaatsen en druk op"
+	line "   de A-knop."
+	line "2. Herhaal stap 1 zo vaak als je de"
+	line "   Schadetellers wilt verplaatsen."
+	line "   (Je mag geen Schadeteller"
+	line "   verplaatsen als dat Slowbro"
+	line "   zou Uitschakelen.)"
+	line ""
+	line "3. Druk op de B-knop om te stoppen."
+	done
+
+ChooseOppAttackToBeUsedWithMetronomeText:
+	text "Kies de tegenstander's Aanval"
+	line "om met Metronoom te kopiëren."
+	done
+
+ThereIsNoInTheDeckText:
+	text "Er zit geen <RAMTEXT>"
+	line "in het Deck."
+	done
+
+WouldYouLikeToCheckTheDeckText:
+	text "Wil je het Deck bekijken?"
+	done
+
+PleaseSelectTheDeckText:
+	text "Kies het gewenste Deck:"
+	line "            Jouw    Tegenstander's"
+	done
+
+PleaseSelectThePlayAreaText:
+	text "Kies het gewenste Speelveld:"
+	line "            Jouw    Tegenstander's"
+	done
+
+NidoranMNidoranFText:
+	text "Nidoran♂ of Nidoran♀"
+	done
+
+BasicFightingPokemonText:
+	text "Basis-<FIGHTING>-Pokémon"
+	done
+
+BasicPokemonText:
+	text "Basis-Pokémon"
+	done
+
+EvolutionCardText:
+	text "Evolutiekaart"
+	done
+
+TrainerCardText:
+	text "Trainerkaart"
+	done
+
+EnergyCardText:
+	text "Energiekaart"
+	done
+
+BasicEnergyCardText:
+	text "Basis-Energiekaart"
+	done
+
+PeekWasUsedToLookInYourHandText:
+	text "Kijkje is gebruikt om te kijken"
+	line "naar <RAMTEXT> in je Hand."
+	done
+
+CardPeekWasUsedOnText:
+	text "Kaart die Kijkje onthulde"
+	done
+
+PokemonAndAllAttachedCardsReturnedToHandText:
+	text "<RAMTEXT> en alle eraan"
+	line "gehechte kaarten zijn terug in"
+	line "de Hand genomen."
+	done
+
+WasChosenForTheEffectOfAmnesiaText:
+	text "<RAMTEXT> is gekozen"
+	line "voor de gevolgen van Amnesie."
+	done
+
+BasicPokemonWasPlacedOnEachBenchText:
+	text "Op elke Bank is een"
+	line "Basis-Pokémon geplaatst."
+	done
+
+WasUnsuccessfulText:
+	text "<RAMTEXT>'s"
+	line "<RAMTEXT> was onsuccesvol."
+	done
+
+ThereWasNoEffectFromTxRam2Text:
+	text "Er was geen effect"
+	line "van <RAMTEXT>."
+	done
+
+TheEnergyCardFromPlayAreaWasMovedText:
+	text "<RAMNAME> verplaatste een Energie-"
+	line "kaart van 1 van zijn of haar Pokémon"
+	line "naar een ander."
+	done
+
+DrewFireEnergyFromTheHandText:
+	text "<RAMNAME> nam <RAMNUM> <FIRE> Energie"
+	line "uit hun Deck in de hand."
+	done
+
+ThePkmnCardsInHandAndDeckWereShuffledText:
+	text "De Pokémonkaarten in <RAMNAME>'s"
+	line "Hand en Deck zijn door elkaar"
+	line "heen geschud."
+	done
+
+UnusedText014f: ; Unused
+	text "????"
+	done
+
+ChoosePokemonToHealText:
+	text "Kies een Pokémon om de Schade-"
+	line "teller van te verwijderen."
+	done
+
+ChooseCardToDiscardFromHandText:
+	text "Kies de kaart om weg te gooien"
+	line "uit de Hand."
+	done
+
+ChoosePokemonToRemoveEnergyFromText:
+	text "Kies een Pokémon om Energie van"
+	line "te verwijderen en kies de Energie."
+	done
+
+Choose2BasicEnergyCardsFromDiscardPileText:
+	text "Kies 2 Basis-Energiekaarten"
+	line "uit de Weggooistapel."
+	done
+
+UnusedText0154: ; Unused
+	text "????"
+	done
+
+Choose2CardsFromHandToDiscardText:
+	text "Kies 2 kaarten uit je Hand"
+	line "om weg te gooien."
+	done
+
+Choose2HandCardsFromHandToReturnToDeckText:
+	text "Kies 2 kaarten uit je Hand om"
+	line "terug in het Deck te stoppen."
+	done
+
+ChooseCardToPlaceInHandText:
+	text "Kies een kaart om"
+	line "in je Hand te nemen."
+	done
+
+ChoosePokemonToAttachDefenderToText:
+	text "Kies een Pokémon om"
+	line "Verdediger aan te hechten."
+	done
+
+UnusedText0159: ; Unused
+	text "Je kan ten hoogste <RAMNUM> kaarten"
+	line "pakken. A = Pak, B = Stop."
+	done
+
+ChoosePokemonToReturnToTheDeckText:
+	text "Kies een Pokémon om terug"
+	line "in het Deck te stoppen."
+	done
+
+ChoosePokemonToPlaceInPlayText:
+	text "Kies een Pokémon om in"
+	line "het spel te brengen."
+	done
+
+ChooseBasicPokemonToEvolveText:
+	text "Kies een Basis-Pokémon"
+	line "om te Evolueren."
+	done
+
+ChoosePokemonToScoopUpText:
+	text "Kies een Pokémon om"
+	line "Binnen te Halen."
+	done
+
+ChoosePokemonFromYourHandText:
+	text "Kies een Pokémon uit je Hand."
+	done
+
+UnusedText015f: ; Unused
+	text "????"
+	done
+
+ChoosePokemonFromDeckText:
+	text "Kies een Pokémon uit het Deck."
+	done
+
+ChoosePokemonCardText:
+	text "Kies een Pokémon."
+	done
+
+RearrangeThe5CardsAtTopOfDeckText:
+	text "Herschik de 5 kaarten"
+	line "bovenop het Deck."
+	done
+
+PleaseCheckTheOpponentsHandText:
+	text "Bekijk de tegenstander's Hand."
+	done
+
+UnusedText0164: ; Unused
+	text "????"
+	done
+
+CardWasChosenText:
+	text "<RAMTEXT> is gekozen."
+	done
+
+ChooseBasicPokemonToPlaceOnBenchText:
+	text "Kies een Basis-Pokémon om"
+	line "op de Bank te plaatsen."
+	done
+
+ChooseEvolutionCardAndPressAButtonToDevolveText:
+	text "Kies een Evolutiekaart en druk"
+	line "op de A-knop om 1 te Devolueren."
+	done
+
+ChoosePokemonInYourAreaThenPokemonInYourOppText:
+	text "Kies 1 van jouw Pokémon, en dan"
+	line "1 van je tegenstander's Pokémon."
+	done
+
+ChooseUpTo4FromDiscardPileText:
+	text "Kies ten hoogste 4 Basis-Energie-"
+	line "kaarten uit je Weggooistapel."
+	done
+
+UnusedText016a: ; Unused
+	text "????"
+	done
+
+PokemonAndAllAttachedCardsWereReturnedToDeckText:
+	text "<RAMTEXT> en alle eraan gehechte"
+	line "kaarten zijn in het Deck gestopt."
+	done
+
+PokemonWasReturnedToHandText:
+	text "<RAMTEXT> is terug in de Hand"
+	line "genomen."
+	done
+
+UnusedText016d: ; Unused
+	text "????"
+	done
+
+PokemonWasReturnedToDeckText:
+	text "<RAMTEXT> is terug in het"
+	line "Deck gestopt."
+	done
+
+WasPlacedInTheHandText:
+	text "<RAMTEXT> is in de Hand"
+	line "geplaatst."
+	done
+
+TheCardYouReceivedText:
+	text "De kaart die je ontving"
+	done
+
+YouReceivedTheseCardsText:
+	text "Je ontving deze kaarten:"
+	done
+
+ChooseTheCardToPutBackText:
+	text "Kies een kaart om"
+	line "terug te stoppen."
+	done
+
+ChooseTheCardToDiscardText:
+	text "Kies de kaart om"
+	line "weg te gooien."
+	done
+
+DiscardedCardsFromDeckText:
+	text "<RAMNUM> kaarten weggegooid"
+	line "van <RAMNAME>'s Deck."
+	done
+
+UnusedText0175: ; Unused
+	text "Gooide <RAMTEXT>"
+	line "weg uit de Hand."
+	done
+
+UnusedText0176: ; Unused
+	text "????"
+	done
+
+UnusedText0177: ; Unused
+	text "????"
+	done
+
+DuelistHasNoCardsInHandText:
+	text "<RAMNAME> heeft"
+	line "geen kaarten in de Hand!"
+	done
+
+PokemonHealedDamageText:
+	text "<RAMTEXT> herstelde"
+	line "<RAMNUM> schade!"
+	done
+
+PokemonDevolvedToText:
+	text "<RAMTEXT> Devolueerde"
+	line "naar <RAMTEXT>!"
+	done
+
+ThereWasNoFireEnergyText:
+	text "Er zat geen <FIRE> Energie"
+	line "in je Deck."
+	done
+
+YouCanSelectMoreCardsQuitText:
+	text "Je kunt nog <RAMNUM> kaarten kiezen."
+	line "Stoppen?"
+	done
+
+ThereWasNoEffectText:
+	text "Er was geen effect!"
+	done
+
+UnusedText017e: ; Unused
+	text "????"
+	done
+
+ThereWasNoEffectFromPoisonText:
+	text "De Pokémon kon niet Vergiftigd"
+	line "worden."
+	done
+
+ThereWasNoEffectFromSleepText:
+	text "De Pokémon kon niet In Slaap"
+	line "gebracht worden."
+	done
+
+ThereWasNoEffectFromPoisonText:
+	text "De Pokémon kon niet Verlamd"
+	line "worden."
+	done
+
+ThereWasNoEffectFromConfusionText:
+	text "De Pokémon kon niet Verward"
+	line "worden."
+	done
+
+ThereWasNoEffectFromPoisonConfusionText:
+	text "De Pokémon kon niet Vergiftigd"
+	line "of Verward worden."
+	done
+
+RearrangedCardsInDuelistsDeckText:
+	text "<RAMNAME>'s Deck was herschikt."
+	done
 UnusedText0185: ; Unused
-	text "Battle Center"
+
+	text "Gevechtscentrum"
 	done
 
 PrizesCardsText:
-	text "Prizes"
-	line "       cards"
+	text "Prijzen"
+	line "       kaarten"
 	done
 
 ChooseTheNumberOfPrizesText:
-	text "Choose the number"
-	line "of Prizes."
+	text "Kies het aantal"
+	line "Prijzen."
 	done
 
 PleaseWaitDecidingNumberOfPrizesText:
-	text "Please wait..."
-	line "Deciding the number of Prizes..."
+	text "Even geduld..."
+	line "Het aantal prijzen bepalen..."
 	done
 
 BeginAPrizeDuelWithText:
-	text "Begin a <RAMNUM>-Prize Duel"
-	line "against <RAMNAME>."
+	text "Begin een <RAMNUM>-Prijs Duel"
+	line "met <RAMNAME>."
 	done
 
 AreYouBothReadyToCardPopText:
-	text "Are you both ready"
-	line "to Card Pop! ?"
+	text "Staan jullie beiden klaar om"
+	line "een Kaart-Flits! te doen?"
 	done
 
 ThePopWasntSuccessfulText:
-	text "The Pop! wasn't successful."
-	line "Please try again."
+	text "De Kaart Flits! is niet gelukt."
+	line "Probeer het opnieuw."
 	done
 
 CannotCardPopWithFriendPreviouslyPoppedWithText:
-	text "You cannot Card Pop! with a"
-	line "friend you previously Popped! with."
+	text "Je kunt geen Kaart-Flits! doen met"
+	line "dezelfde vriend als voorheen."
 	done
 
 PositionGameBoyColorsAndPressAButtonText:
-	text "Position the Game Boy Colors"
-	line "and press the A Button."
+	text "Plaats de Game Boy Colors op deze"
+	line "manier en druk op de A-knop."
 	done
 
 ReceivedThroughCardPopText:
-	text "You got a <RAMTEXT>"
-	line "from the Card Pop!"
+	text "Ontving <RAMTEXT>"
+	line "door de Kaart-Flits!"
 	done
 
 ReceivedCardText:
-	text "<RAMNAME> received a"
-	line "<RAMTEXT>!"
+	text "<RAMNAME> ontving"
+	line "een <RAMTEXT>!"
 	done
 
 ReceivedPromotionalCardText:
-	text "<RAMNAME> received a promotional"
+	text "<RAMNAME> ontving de Promokaart"
 	line "<RAMTEXT>!"
 	done
 
 ReceivedLegendaryCardText:
-	text "<RAMNAME> received the Legendary"
-	line "<RAMTEXT>!"
+	text "<RAMNAME> ontving de Legendarische"
+	line "kaart <RAMTEXT>!"
 	done
 
 ReceivedPromotionalFlyingPikachuText:
-	text "<RAMNAME> received a Promotinal"
-	line "card Flyin' Pikachu!"
+	text "<RAMNAME> ontving de Promokaart"
+	line "Vliegende Pikachu!"
 	done
 
 ReceivedPromotionalSurfingPikachuText:
-	text "<RAMNAME> received a Promotional"
-	line "card Surfin' Pikachu!"
+	text "<RAMNAME> ontving de Promokaart"
+	line "Surfende Pikachu!"
 	done
 
 UnusedText0194: ; Unused
@@ -81,49 +837,49 @@ UnusedText0195: ; Unused
 	done
 
 NowPrintingPleaseWaitText:
-	text "Now printing."
-	line "Please wait..."
+	text "Aan het printen."
+	line "Even geduld..."
 	done
 
 WouldYouLikeToTryAgainText:
-	text "Would you like to try again?"
+	text "Wil je opnieuw proberen?"
 	done
 
 UnusedText0198: ; Unused
-	text "Sent to <RAMNAME>."
+	text "Naar <RAMNAME> gestuurd."
 	done
 
 UnusedText0199: ; Unused
-	text "Received from <RAMNAME>."
+	text "Van <RAMNAME> ontvangen."
 	done
 
 SendingACardText:
-	text "Sending a card...Move the Game"
-	line "Boys close and press the A Button."
+	text "Kaart sturen... Hou de Game Boys"
+	line "dicht bij elkaar en druk op A."
 	done
 
 ReceivingACardText:
-	text "Receiving a card...Move"
-	line "the Game Boys close together."
+	text "Kaart ontvangen... Houd de"
+	line "Game Boys dicht bij elkaar."
 	done
 
 SendingADeckConfigurationText:
-	text "Sending a Deck Configuration..."
-	line "Position the Game Boys and press A."
+	text "Deckconfiguratie versturen..."
+	line "Plaats de Game Boys en druk op A."
 	done
 
 ReceivingDeckConfigurationText:
-	text "Receiving Deck configuration..."
-	line "Position the Game Boys and press A."
+	text "Deckconfiguratie ontvangen..."
+	line "Plaats de Game Boys en druk op A."
 	done
 
 CardTransferWasntSuccessfulText:
-	text "Card transfer wasn't successful."
+	text "Kaartoverdracht niet gelukt."
 	done
 
 DeckConfigurationTransferWasntSuccessfulText:
-	text "Deck configuration transfer"
-	line "wasn't successful"
+	text "Deckconfiguratieoverdracht"
+	line "niet gelukt."
 	done
 
 UnusedText01a0: ; Unused
@@ -135,7 +891,7 @@ UnusedText01a1: ; Unused
 	done
 
 NowPrintingText:
-	text "Now printing..."
+	text "Printen..."
 	done
 
 DrMasonText:
@@ -143,347 +899,377 @@ DrMasonText:
 	done
 
 DrawSevenCardsPracticeDuelText:
-	text "Draw 7 cards,"
+	text "Pak 7 kaarten,"
 	line ""
-	line "and get ready for the battle!"
-	line "Choose your Active Pokémon."
-	line "You can only choose Basic Pokémon"
-	line "as your Active Pokémon,"
-	line "so you can choose either Goldeen"
-	line "or Staryu."
-	line "For our practice duel,"
-	line "choose Goldeen."
+	line "en sta klaar voor de strijd!"
+	line "Kies je Actieve Pokémon."
+	line "Je kunt alleen Basis-Pokémon"
+	line "kiezen als je Actieve Pokémon,"
+	line "dus je kan kiezen tussen"
+	line "Goldeen of Staryu."
+	line "Voor ons oefenduel,"
+	line "kies je Goldeen."
 	done
 
 ChooseGoldeenPracticeDuelText:
-	text "Choose Goldeen for this"
-	line "practice duel, OK?"
+	text "Kies Goldeen voor dit"
+	line "oefenduel, oké?"
 	done
 
 PutPokemonOnBenchPracticeDuelText:
-	text "Next, put the other Basic Pokémon"
-	line "in your hand onto your Bench."
-	line "You can switch Benched Pokémon"
-	line "with your Active Pokémon."
-	line "Again, only Basic Pokémon can be"
-	line "placed on your Bench."
-	line "Choose Staryu from your hand and"
-	line "put it into play."
+	text "Vervolgens plaats je je"
+	line "Pokémon op de Bank."
+	line "Je kan Pokémon op de Bank"
+	line "wisselen met je Actieve"
+	line "Pokémon."
+	line "Nogmaals, je kunt alleen Basis-"
+	line "Pokémon op de Bank plaatsen."
+	line "Kies Staryu uit je Hand en"
+	line "leg hem daar neer."
 	done
 
 ChooseStaryuPracticeDuelText:
-	text "Choose Staryu for this"
-	line "practice duel, OK?"
+	text "Kies Staryu voor dit"
+	line "oefenduel, oké?"
 	done
 
 PressBToFinishPracticeDuelText:
-	text "When you no longer have any Basic"
-	line "Pokémon to put on your Bench,"
-	line "press the B Button to finish."
+	text "Als je geen Pokémon meer hebt om"
+	line "op je Bank te plaatsen, druk je"
+	line "op de B-knop om klaar te zijn."
 	done
 
 Turn1Instr1PracticeDuelText:
-	text "1. Choose Hand from the Menu."
-	line "   Select a Water Energy card."
+	text "1. Kies Hand in het Menu."
+	line "   Kies een Water Energiekaart."
 	done
 
 Turn1Instr2PracticeDuelText:
-	text "2. Attach a Water Energy card to"
-	line "   your Active Pokémon, Goldeen."
+	text "2. Hecht een Water Energiekaart"
+	line "   aan je Actieve Pokémon, Goldeen."
 	done
 
 Turn1Instr3PracticeDuelText:
-	text "3. Choose ”Attack” from the menu"
-	line "   and select Horn Attack."
+	text "3. Kies Val Aan in het Menu"
+	line "   en dan Hoornaanval."
 	done
 
 Turn2Instr1PracticeDuelText:
-	text "1. Evolve Goldeen by playing"
-	line "   the Seaking from your hand."
+	text "1. Evolueer Goldeen door"
+	line "   Seaking eraan te hechten."
 	done
 
 Turn2Instr2PracticeDuelText:
-	text "2. Attach a Psychic Energy card"
-	line "   to the evolved Seaking."
+	text "2. Hecht een Psychische Energiekaart"
+	line "   aan de geëvolueerde Seaking."
 	done
 
 Turn2Instr3PracticeDuelText:
-	text "3. Attack the Defending Pokémon"
-	line "   with Seaking's Waterfall."
+	text "3. Kies Val Aan in het Menu"
+	line "   en dan Waterval om je"
+	line "   tegenstander Aan te Vallen."
 	done
 
 Turn3Instr1PracticeDuelText:
-	text "1. Attach a Water Energy card to"
-	line "   your Benched Staryu."
+	text "1. Hecht een Water Energiekaart"
+	line "   aan je Staryu op de Bank."
 	done
 
 Turn3Instr2PracticeDuelText:
-	text "2. Attack the Defending Pokémon"
-	line "   with Seaking's Horn Attack."
+	text "2. Kies Val Aan in het Menu en"
+	line "   en val je tegenstander aan"
+	line "   met Hoornaanval."
 	done
 
 Turn3Instr3PracticeDuelText:
 	done
 
 Turn4Instr1PracticeDuelText:
-	text "1. Play Drowzee from your hand"
-	line "   and put it onto your Bench."
+	text "1. Neem Drowzee uit je Hand"
+	line "   en plaats hem op je Bank."
 	done
 
 Turn4Instr2PracticeDuelText:
-	text "2. Attach a Water Energy card to"
-	line "   your Benched Drowzee."
+	text "2. Hecht een Water Energiekaart"
+	line "   aan je Drowzee op de Bank."
 	done
 
 Turn4Instr3PracticeDuelText:
-	text "3. Attack the Defending Pokémon"
-	line "   with Seaking's Waterfall."
+	text "3. Selecteer Seaking en val je"
+	line "   tegenstander aan met Waterval."
 	done
 
 Turn5Instr1PracticeDuelText:
-	text "1. Attach a Water Energy card to"
-	line "   your Active Pokémon, Staryu."
+	text "1. Kies een Water Energiekaart uit"
+	line "   je Hand en hecht hem aan"
+	line "   Staryu."
 	done
 
 Turn5Instr2PracticeDuelText:
-	text "2. Attack the Defending Pokémon"
-	line "   with Staryu's Slap."
+	text "2. Selecteer Staryu en val je"
+	line "   tegenstander aan met Klap."
 	done
 
 Turn6Instr1PracticeDuelText:
-	text "1. Play the Potion card in your"
-	line "   hand to recover Staryu's HP."
+	text "1. Kies de Trainerkaart Drankje"
+	line "   uit je Hand om Staryu's IP"
+	line "   te herstellen."
 	done
 
 Turn6Instr2PracticeDuelText:
-	text "2. Attach a Water Energy card to"
+	text "2. Hecht een Water Energiekaart aan"
 	line "   Staryu."
 	done
 
 Turn6Instr3PracticeDuelText:
-	text "3. Attack the Defending Pokémon"
-	line "   with Staryu's Slap."
+	text "3. Selecteer Staryu en val je"
+	line "   tegenstander aan met Klap."
 	done
 
 Turn7Instr1PracticeDuelText:
-	text "1. Evolve Staryu by playing"
-	line "   Starmie from your hand."
+	text "1. Evolueer Staryu door"
+	line "   Starmie aan hem te hechten."
 	done
 
 Turn7Instr2PracticeDuelText:
-	text "2. Attack the Defending Pokémon"
-	line "   with Starmie's Star Freeze."
+	text "2. Selecteer de geëvolueerde Starmie"
+	line "   en val je tegenstander aan met"
+	line "   Sterbevriezing."
 	done
 
 Turn8Instr1PracticeDuelText:
-	text "1. Attack the Defending Pokémon"
-	line "   with Starmie's Star Freeze."
+	text "1. Selecteer Starmie en val je"
+	line "   tegenstander aan met"
+	line "   Sterbevriezing."
+	line "   "
 	done
 
 Turn8Instr2PracticeDuelText:
-	text "2. Draw your last Prize card."
+	text "2. Je hebt Machop Uitgeschakeld."
+	line "   Nu mag je een Prijskaart pakken."
 	done
 
 SamTurn4Instr1PracticeDuelText:
-	text "1. Your Seaking was Knocked Out."
-	line "   Choose your Benched Staryu"
-	line "   and press the A Button to set"
-	line "   it as your Active Pokémon."
+	text "1. Je Seaking is Uitgeschakeld."
+	line "   Kies Staryu op je Bank"
+	line "   en druk op de A-knop om hem als"
+	line "   je Actieve Pokémon te gebruiken."
 	done
 
 SamTurn4Instr2PracticeDuelText:
-	text "2. You can check the cards in your"
-	line "   hand or view the play area by"
-	line "   pressing SELECT."
+	text "2. Je kan de Pokémongegevens"
+	line "   bekijken met de SELECT-toets."
+						   
 	done
 
 Turn1DrMason1PracticeDuelText:
-	text "Before you can use the ”Attack”"
-	line "command, you need to attach"
-	line "Energy cards to your Pokémon."
+	text "Om het Val Aan-commando te"
+	line "gebruiken, moet je Energiekaarten"
+	line "hechten aan je Pokémon."
 	line ""
-	line "Look through the cards in your hand,"
-	line "and select a Water Energy card."
+	line "Kies Hand in het Menu, en"
+	line "selecteer een Water Energiekaart."
 	done
 
 Turn1DrMason2PracticeDuelText:
-	text "Next, choose your Active Pokémon,"
-	line "Goldeen, and press the A Button."
-	line "That will attach the Energy card"
-	line "to Goldeen."
+	text "Vervolgens kies je je Actieve"
+	line "Pokémon, Goldeen, en druk je op"
+	line "de A-knop. Dan is de Water"
+	line "Energiekaart gehecht"
+	line "aan Goldeen."
 	done
 
 Turn1DrMason3PracticeDuelText:
-	text "Finally, attack your opponent by"
-	line "selecting the ”Attack” command."
-	line "Choose Attack from the Menu,"
-	line "and select Horn Attack."
+	text "Tot slot val je je tegenstander"
+	line "aan door het commando Val Aan"
+	line "te selecteren."
+	line ""
+	line "Kies Val Aan in het Menu, en"
+	line "selecteer Hoornaanval."
 	done
 
 Turn2DrMason1PracticeDuelText:
-	text "Your Goldeen's about to be"
-	line "Knocked Out. Let's evolve it!"
-	line "Play Seaking from your hand and"
-	line "put it into play on top of Goldeen."
-	line "That will increase its maximum HP"
-	line "from 40 to 70."
+	text "Je Goldeen wordt straks"
+	line "Uitgeschakeld, dus laten we"
+	line "hem Evolueren!"
+	line "Kies Seaking uit je Hand en hecht"
+	line "hem aan Goldeen om hem te Evolueren."
+	line "Zijn IP neemt dan toe"
+	line "van 40 naar 70."
 	done
 
 Turn2DrMason2PracticeDuelText:
-	text "Your Seaking doesn't have enough"
-	line "Energy to use Waterfall."
-	line "You should attach a Psychic Energy"
-	line "card to Seaking.  <COLORLESS> means any type"
-	line "of Energy. Save your Water Energy"
-	line "cards for your other Pokémon."
+	text "Je Seaking heeft niet genoeg Energie"
+	line "om Waterval te gebruiken."
+	line "Je moet een Psychische Energiekaart"
+	line "aan Seaking hechten."
+	line "<COLORLESS> betekent welke Energiekaart"
+	line "dan ook."
+	line "Nu kun je Waterval gebruiken."
+	line "Bewaar de Water Energiekaart"
+	line "voor andere Pokémon."
 	done
 
 Turn2DrMason3PracticeDuelText:
-	text "Next, attack your opponent with"
-	line "Seaking's Waterfall!"
+	text "Nou, laten we je tegenstander"
+	line "Aanvallen met Seaking's Waterval!"
 	done
 
 Turn3DrMason1PracticeDuelText:
-	text "Seaking's got enough Energy, so"
-	line "you don't need to attach any more."
-	line "Attach Energy cards to your Benched"
-	line "Pokémon to get them ready for battle"
-	line "Attach a Water Energy card to your"
-	line "Benched Staryu."
+	text "Seaking heeft genoeg Energie, dus"
+	line "je hoeft er geen Energiekaarten"
+	line "meer aan te hechten."
+	line "Hecht Energiekaarten aan je"
+	line "Pokémon op de Bank om ze klaar te"
+	line "maken voor de strijd."
+	line "Hecht een Water Energiekaart aan"
+	line "je Staryu op de Bank."
 	done
 
 Turn3DrMason2PracticeDuelText:
-	text "Next, select the ”Attack” command."
-	line "Machop only has 10 HP left."
-	line "Seaking's Horn Attack will be"
-	line "enough to Knock Out Machop."
+	text "Vervolgens kies je het commando"
+	line "Val Aan."
+	line "Machop heeft nog maar 10 IP over."
+	line "Seaking's Hoornaanval is genoeg"
+	line "om Machop Uit te Schakelen."
+	line "Kies Seaking's Hoornaanval."
 	done
 
 Turn3DrMason3PracticeDuelText:
-	text "When a Pokémon's HP becomes 0,"
-	line "it is Knocked Out. When you"
-	line "KO 1 of your opponent's Pokémon,"
-	line "you can draw 1 of your Prizes."
+	text "Nu is Machop's IP 0 en is hij"
+	line "Uitgeschakeld."
+	line "Als je de Verdedigende Pokémon"
+	line "Uitschakelt, mag je een"
+	line "Prijskaart pakken."
 	done
 
 Turn4DrMason1PracticeDuelText:
-	text "When all of your Pokémon are"
-	line "Knocked Out, and there"
-	line "aren't any Pokémon on your Bench,"
-	line "you lose the game."
-	line "Put Drowzee, the Basic Pokémon"
-	line "you just drew, onto your Bench."
+	text "Wanneer al je Pokémon zijn"
+	line "Uitgeschakeld en er geen Pokémon"
+	line "meer op je Bank zijn verlies je"
+	line "het spel."
+	line "Plaats Drowzee, de Basis-Pokémon"
+	line "die je net hebt gepakt, op je Bank."
 	done
 
 Turn4DrMason2PracticeDuelText:
-	text "Attach a Water Energy card to"
-	line "Drowzee to get it ready to attack."
+	text "Hecht een Water Energiekaart aan"
+	line "Drowzee om hem klaar te maken om"
+	line "Aan te Vallen."
 	done
 
 Turn4DrMason3PracticeDuelText:
-	text "Then, attack the Defending Pokémon"
-	line "with Seaking's Waterfall."
+	text "Kies je Actieve Seaking en"
+	line "val je tegenstander aan met"
+	line "Waterval."
 	done
 
 Turn5DrMason1PracticeDuelText:
-	text "Staryu evolves into Starmie!"
-	line "Let's get Staryu ready to use"
-	line "Starmie's attacks when it"
-	line "comes time for it to evolve."
-	line "Choose the Water Energy card from"
-	line "your hand and attach it to Staryu."
+	text "Staryu evolueert in Starmie!"
+	line ""
+	line "Laten we Staryu klaar maken om"
+	line "Starmie's Aanval te gebruiken"
+	line "als hij in Starmie evolueert."
+	line ""
+	line "Kies de Water Energiekaart uit"
+	line "je Hand en hecht hem aan Staryu."
 	done
 
 Turn5DrMason2PracticeDuelText:
-	text "Then, attack the Defending Pokémon"
-	line "with Staryu's Slap."
+	text "Val je tegenstander aan met"
+	line "Staryu's Klap."
 	done
 
 Turn6DrMason1PracticeDuelText:
-	text "You should recover some of Staryu's"
-	line "HP with a Trainer card."
-	line "Play the Potion from your hand."
+	text "Herstel nu Staryu's IP met een"
+	line "Trainerkaart."
+	line "Kies Drankje uit je Hand."
 	done
 
 Turn6DrMason2PracticeDuelText:
-	text "Now let's get ready to evolve"
-	line "it to Starmie."
-	line "Attach another Water Energy card"
-	line "to your Staryu."
+	text "Laten we hem dan klaar maken om"
+	line "hem te evolueren naar Starmie."
+	line "Hecht ook een Water Energiekaart"
+	line "aan Staryu."
 	done
 
 Turn6DrMason3PracticeDuelText:
-	text "Then, attack the Defending Pokémon"
-	line "with Staryu's Slap to end your turn."
+	text "Val je tegenstander aan met"
+	line "Staryu's Klap om je beurt te"
+	line "beëindigen."
 	done
 
 Turn7DrMason1PracticeDuelText:
-	text "You have finally drawn a Starmie!"
-	line ""
-	line "Choose Starmie from your hand,"
-	line "and use it to evolve Staryu."
+	text "Je hebt eindelijk een Starmie"
+	line "kaart gepakt!"
+	line "Kies Starmie uit je Hand en"
+	line "gebruik hem om Staryu te evolueren."
 	done
 
 Turn7DrMason2PracticeDuelText:
-	text "You've already attached enough"
-	line "Energy to use Starmie's attacks,"
-	line "so attack the Defending Pokémon"
-	line "with Starmie's Star Freeze."
+	text "Je hebt al genoeg Energie gehecht"
+	line "om Sterbevriezing te gebruiken."
+	line "Val je tegenstander aan met"
+	line "Starmie's Sterbevriezing."
 	done
 
 Turn8DrMason1PracticeDuelText:
-	text "Machop has just 10 HP remaining."
-	line "Let's finish the battle!"
-	line "Attack using Starmie's Star Freeze."
-	line ""
+	text "Machop heeft nog maar 10 IP over."
+	line "Laten we het gevecht afmaken!"
+	line "Val aan met Starmie's"
+	line "Sterbevriezing."
 	done
 
 Turn8DrMason2PracticeDuelText:
-	text "After Knocking Out Machop, you can"
-	line "draw your last Prize & win the game!"
+	text "Je hebt je laatste tegenstander"
+	line "Uitgeschakeld!"
+	line "Pak de laatste Prijskaart."
+	line ""
+	text "<RAMNAME> heeft gewonnen!"
 	done
 
 SamTurn4DrMason1PracticeDuelText:
-	text "Choose a Benched Pokémon to replace"
-	line "your Knocked Out Pokémon."
-	line "Both Drowzee and Staryu are on"
-	line "your Bench."
-	line "Choose Staryu for this"
-	line "practice duel."
+	text "Kies een Pokémon op de bank om je"
+	line "uitgeschakelde Pokémon te vervangen."
+	line "Je hebt Drowzee en Staryu"
+	line "op je Bank."
+	line "Kies Staryu als de Actieve Pokémon"
+	line "voor dit oefenduel."
 	done
 
 SamTurn4DrMason2PracticeDuelText:
-	text "Here, you can press SELECT to view"
-	line "your other cards."
-	line "It is important to know your cards"
-	line "and the status of your Pokémon."
+	text "Druk hier op SELECT om de"
+	line "gegevens van de Pokémon te bekijken."
+	line "Het is belangrijk om je kaarten te"
+	line "kennen en te weten hoe je Pokémon"
+	line "eraan toe is."
 	done
 
 SelectStaryuPracticeDuelText:
-	text "Select Staryu for this practice,"
-	line "OK?"
+	text "Selecteer Staryu voor deze oefening,"
+	line "oké?"
 	done
 
 LetsPlayTheGamePracticeDuelText:
-	text "Now, let's play the game!"
+	text "Nou, laten we het spel spelen!"
 	done
 
 NeedPracticeAgainPracticeDuelText:
-	text "Do you need to practice again?"
+	text "Wil je opnieuw oefenen?"
 	done
 
 FollowMyGuidancePracticeDuelText:
-	text "This is Practice Mode, so"
-	line "please follow my guidance."
-	line "Do it again."
+	text "Dit is de Oefenmodus, dus"
+	line "volg mijn instructies op."
+	line "Doe het opnieuw."
 	done
 
 PlayersTurnPracticeDuelText:
-	text "<RAMNAME>'s turn <RAMNUM>"
+	text "<RAMNAME>'s beurt <RAMNUM>"
 	done
 
 ReplaceDueToKnockoutPracticeDuelText:
-	text "  Replace due to Knock Out "
+	text "Vervang vanwege Uitschakeling"
 	done
 
 UnusedText01dd: ; Unused
@@ -491,15 +1277,15 @@ UnusedText01dd: ; Unused
 	done
 
 PracticePlayerDeckName:
-	text "Practice Player"
+	text "Speler's Oefen-"
 	done
 
 SamsPracticeDeckName:
-	text "Sam's Practice"
+	text "Sam's Oefen-"
 	done
 
 CharmanderAndFriendsDeckName:
-	text "Charmander & Friends"
+	text "Charmander & Vrienden"
 	done
 
 CharmanderExtraDeckName:
@@ -507,7 +1293,7 @@ CharmanderExtraDeckName:
 	done
 
 SquirtleAndFriendsDeckName:
-	text "Squirtle & Friends"
+	text "Squirtle & Vrienden"
 	done
 
 SquirtleExtraDeckName:
@@ -515,7 +1301,7 @@ SquirtleExtraDeckName:
 	done
 
 BulbasaurAndFriendsDeckName:
-	text "Bulbasaur & Friends"
+	text "Bulbasaur & Vrienden"
 	done
 
 BulbasaurExtraDeckName:
@@ -523,127 +1309,127 @@ BulbasaurExtraDeckName:
 	done
 
 FirstStrikeDeckName:
-	text "First-Strike"
+	text "Eerste Klap"
 	done
 
 RockCrusherDeckName:
-	text "Rock Crusher"
+	text "Steenmaler"
 	done
 
 GoGoRainDanceDeckName:
-	text "Go Go Rain Dance"
+	text "Doe de Regendans"
 	done
 
 ZappingSelfdestructDeckName:
-	text "Zapping Selfdestruct"
+	text "Flitsende Zelfvernietiging"
 	done
 
 FlowerPowerDeckName:
-	text "Flower Power"
+	text "Bloemenkracht"
 	done
 
 StrangePsyshockDeckName:
-	text "Strange Psyshock"
+	text "Vreemde Psychische Schok"
 	done
 
 WondersofScienceDeckName:
-	text "Wonders of Science"
+	text "Wonderen van Wetenschap"
 	done
 
 FireChargeDeckName:
-	text "Fire Charge"
+	text "Vuurstorm"
 	done
 
 LegendaryMoltresDeckName:
-	text "Legendary Moltres"
+	text "Legendarische Moltres"
 	done
 
 LegendaryZapdosDeckName:
-	text "Legendary Zapdos"
+	text "Legendarische Zapdos"
 	done
 
 LegendaryArticunoDeckName:
-	text "Legendary Articuno"
+	text "Legendarische Articuno"
 	done
 
 LegendaryDragoniteDeckName:
-	text "Legendary Dragonite"
+	text "Legendarische Dragonite"
 	done
 
 ImRonaldDeckName:
-	text "I'm Ronald!"
+	text "Ik Ben Ronald!"
 	done
 
 PowerfulRonaldDeckName:
-	text "Powerful Ronald"
+	text "Krachtige Ronald"
 	done
 
 InvincibleRonaldDeckName:
-	text "Invincible Ronald"
+	text "Onsterfelijke Ronald"
 	done
 
 LegendaryRonaldDeckName:
-	text "Legendary Ronald"
+	text "Legendarische Ronald"
 	done
 
 WaterfrontPokemonDeckName:
-	text "Waterfront Pokémon"
+	text "Waterkant Pokémon"
 	done
 
 LonelyFriendsDeckName:
-	text "Lonely Friends"
+	text "Eenzame Vrienden"
 	done
 
 SoundoftheWavesDeckName:
-	text "Sound of the Waves"
+	text "Geluid van de Golven"
 	done
 
 AngerDeckName:
-	text "Anger"
+	text "Woede"
 	done
 
 FlamethrowerDeckName:
-	text "Flamethrower"
+	text "Vlammenwerper"
 	done
 
 ReshuffleDeckName:
-	text "Reshuffle"
+	text "Opnieuw Schudden"
 	done
 
 ExcavationDeckName:
-	text "Excavation"
+	text "Opgraving"
 	done
 
 BlisteringPokemonDeckName:
-	text "Blistering Pokémon"
+	text "Supersnelle Pokémon"
 	done
 
 HardPokemonDeckName:
-	text "Hard Pokémon"
+	text "Harde Pokémon"
 	done
 
 EtceteraDeckName:
-	text "Etcetera"
+	text "Enzovoort"
 	done
 
 FlowerGardenDeckName:
-	text "Flower Garden"
+	text "Bloementuin"
 	done
 
 KaleidoscopeDeckName:
-	text "Kaleidoscope"
+	text "Caleidoscoop"
 	done
 
 MusclesforBrainsDeckName:
-	text "Muscles for Brains"
+	text "Kracht Boven Denkvermogen"
 	done
 
 HeatedBattleDeckName:
-	text "Heated Battle"
+	text "Verhitte Strijd"
 	done
 
 LovetoBattleDeckName:
-	text "Love to Battle"
+	text "Ik Hou van Vechten"
 	done
 
 PikachuDeckName:
@@ -651,35 +1437,35 @@ PikachuDeckName:
 	done
 
 BoomBoomSelfdestructDeckName:
-	text "Boom Boom Selfdestruct"
+	text "Boem Boem Zelfvernietiging"
 	done
 
 PowerGeneratorDeckName:
-	text "Power Generator"
+	text "Dynamo"
 	done
 
 GhostDeckName:
-	text "Ghost"
+	text "Geest"
 	done
 
 NapTimeDeckName:
-	text "Nap Time"
+	text "Tijd voor een Dutje"
 	done
 
 StrangePowerDeckName:
-	text "Strange Power"
+	text "Vreemde Kracht"
 	done
 
 FlyinPokemonDeckName:
-	text "Flyin' Pokémon"
+	text "Vliegende Pokémon"
 	done
 
 LovelyNidoranDeckName:
-	text "Lovely Nidoran"
+	text "Lieve Nidoran"
 	done
 
 PoisonDeckName:
-	text "Poison"
+	text "Vergif"
 	done
 
 ImakuniDeckName:
@@ -687,19 +1473,19 @@ ImakuniDeckName:
 	done
 
 LightningAndFireDeckName:
-	text "Lightning & Fire"
+	text "Bliksem & Vuur"
 	done
 
 WaterAndFightingDeckName:
-	text "Water & Fighting"
+	text "Water & Vecht"
 	done
 
 GrassAndPsychicDeckName:
-	text "Grass & Psychic"
+	text "Gras & Psychisch"
 	done
 
 RetreatCostText:
-	text "Retreat Cost"
+	text "Terugtrekkingskosten"
 	done
 
 UnusedText0213: ; Unused
@@ -719,11 +1505,11 @@ InchesText:
 	done
 
 YourDiscardPileText:
-	text "Your Discard Pile"
+	text "Jouw Weggooistapel"
 	done
 
 OpponentsDiscardPileText:
-	text "Opponent's Discard Pile"
+	text "Tegenstander's Weggooistapel"
 	done
 
 DeckText:
@@ -747,7 +1533,7 @@ UnusedText021d: ; Unused
 	done
 
 WhatIsYourNameText:
-	text "What is your name?"
+	text "Wat is je naam?"
 	done
 
 ;HiraganaKeyboardText:
@@ -794,7 +1580,7 @@ WhatIsYourNameText:
 ;	done
 
 WouldYouLikeToQuitText:
-	text "Would you like to quit?"
+	text "Wil je stoppen?"
 	done
 
 UppercaseKeyboardText:
@@ -805,7 +1591,7 @@ UppercaseKeyboardText:
 	linefw "( ) < > = + - • /"
 	linefw "' ” , .   ! ? ꞉ &"
 	text ""
-	line " Lowercase     Done      Accents  "
+	line " Kleine l.     Klaar     Accenten "
 	done
 
 LowercaseKeyboardText:
@@ -816,7 +1602,7 @@ LowercaseKeyboardText:
 	linefw "( ) < > = + - • /"
 	linefw "' ” , .   ! ? ꞉ &"
 	text ""
-	line " Uppercase     Done      Accents  "
+	line " Hoofdl.     Klaar     Accenten "
 	done
 
 AccentsKeyboardText:
@@ -827,40 +1613,40 @@ AccentsKeyboardText:
 	linefw "ê ë ì í î ï ñ ò ó"
 	linefw "ô õ ö ù ú û ü ý ÿ"
 	text ""
-	line " Uppercase     Done      Lowercase"
+	line " Hoofdl.       Klaar     Kleine l."
 	done
 
 NewDeckText:
-	text "New Deck"
+	text "Nieuw Deck"
 	done
 
 PleaseSelectDeckText:
-	text "Please select a deck."
+	text "Kies een Deck."
 	done
 
 ModifyDeckText:
-	text "Modify deck"
+	text "Deck aanpassen"
 	done
 
 ChangeNameText:
-	text "Change name"
+	text "Naam aanpassen"
 	done
 
 SelectDeckText:
-	text "Select deck"
+	text "Kies Deck"
 	done
 
 CancelText:
-	text "Cancel"
+	text "Terug"
 	done
 
 NoDeckText:
-	text "No Deck"
+	text "Geen Deck"
 	done
 
 ChosenAsDuelingDeckText:
-	text "<RAMTEXT> is now"
-	line "your active deck!"
+	text "<RAMTEXT> is gekozen"
+	line "als het dueleer-Deck!"
 	done
 
 Deck1Text:
@@ -880,15 +1666,15 @@ Deck4Text:
 	done
 
 ThereIsNoDeckHereText:
-	text "There is no deck here!"
+	text "Er is hier geen Deck!"
 	done
 
 ConfirmText:
-	text "Confirm"
+	text "Bevestig"
 	done
 
 NewDeckStatisticsText:
-	text "New Deck Statistics"
+	text "Nieuw Deck-gegevens"
 	done
 
 ;DeckBuildingMenuOptionsText:
@@ -898,882 +1684,17 @@ NewDeckStatisticsText:
 ;	done
 
 DeckBuildingMenuOptions1Text:
-	text "View Deck List"
-	line "Discard Changes"
-	line "Save and Quit"
+	text "Bekijk Decklijst"
+	line "Verwerp Wijzingen"
+	line "Opslaan en Sluiten"
 	done
 
 DeckBuildingMenuOptions2Text:
-	text "Change Name"
-	line "Empty Deck"
-	line "Delete Deck"
+	text "Verander Naam"
+	line "Leeg Deck"
+	line "Verwijder Deck"
 	done
 
 RemoveEveryCardFromTheDeckText:
-	text "Remove every card from the deck?"
+	text "Verwijder alle kaarten uit het deck?"
 	done
-
-ThereIsOnly1DeckSoCannotBeDismantledText:
-	text "There is only 1 deck, so this"
-	line "deck cannot be dismantled."
-	done
-
-ThereAreNoBasicPokemonInThisDeckText:
-	text "There are no Basic Pokémon in this"
-	line "deck!"
-	done
-
-YouMustIncludeABasicPokemonInTheDeckText:
-	text "You must include a Basic Pokémon in"
-	line "every deck!"
-	done
-
-ThisIsntA60CardDeckText:
-	text "This isn't a 60-card deck!"
-	done
-
-TheDeckMustInclude60CardsText:
-	text "A deck must contain 60 cards!"
-	done
-
-ReturnToOriginalConfigurationText:
-	text "Return to original configuration?"
-	done
-
-SaveThisDeckText:
-	text "Save this deck?"
-	done
-
-QuitModifyingTheDeckText:
-	text "Quit modifying the deck?"
-	done
-
-DismantleThisDeckText:
-	text "Dismantle this deck?"
-	done
-
-NoCardsChosenText: ; Unused
-	text "No cards chosen."
-	done
-
-YourPokemonText:
-	text "Your Pokémon"
-	done
-
-YourHandText:
-	text "Your Hand"
-	done
-
-OpponentsPokemonText:
-	text "Opponent's Pokémon"
-	done
-
-OpponentsHandText:
-	text "Opponent Hand"
-	done
-
-DuelistsPlayAreaText:
-	text "<RAMNAME>'s Play Area"
-	done
-
-YourPlayAreaText:
-	text "Your Play Area"
-	done
-
-OppPlayAreaText:
-	text "Opp. Play Area"
-	done
-
-InPlayAreaText:
-	text "In Play Area"
-	done
-
-GlossaryText:
-	text "Glossary"
-	done
-
-WhichCardWouldYouLikeToSeeText:
-	text "Which card would you like to see?"
-	done
-
-PleaseChooseAPrizeText:
-	text "Please choose a Prize."
-	done
-
-DuelistDiscardPileText:
-	text "<RAMNAME>'s Discard Pile"
-	done
-
-HorizontalLineSeparatorText:
-	textfw "════════════════════"
-	done
-
-VerticalLinesX5Text:
-	textfw "║"
-	linefw "║"
-	linefw "║"
-	linefw "║"
-	linefw "║"
-	done
-
-VerticalLinesX4Text:
-	textfw "║"
-	linefw "║"
-	linefw "║"
-	linefw "║"
-	done
-
-IntersectingLines1Text:
-	textfw "╔"
-	done
-
-IntersectingLines2Text:
-	textfw "╚"
-	done
-
-EmptyLineText:
-	textfw "                  "
-	done
-
-PokemonTCGSetsText:
-	textfw "Pokémon TCG Sets"
-	done
-
-Item1ColosseumText:
-	text " 1. Colosseum Expansion"
-	done
-
-Item2EvolutionText:
-	text " 2. Evolution Expansion"
-	done
-
-Item3MysteryText:
-	text " 3. Mystery Expansion"
-	done
-
-Item4LaboratoryText:
-	text " 4. Laboratory Expansion"
-	done
-
-Item5PromotionalCardText:
-	text " 5. Promotional Cards"
-	done
-
-ViewWhichCardFileText:
-	text " Which set do you wish to view?"
-	done
-
-NoCardsCollectedInThatSetText:
-	text " You have not yet collected any"
-	line " <RAMTEXT> cards."
-	done
-
-ColosseumText:
-	textfw "Colosseum"
-	done
-
-EvolutionText:
-	textfw "Evolution"
-	done
-
-MysteryText:
-	textfw "Mystery"
-	done
-
-LaboratoryText:
-	textfw "Laboratory"
-	done
-
-PromotionalText:
-	textfw "Promotional"
-	done
-
-SCardsText:
-	text "'s Cards"
-	done
-
-EmptyDeckNameText:
-	textfw "--------------"
-	done
-
-DeckSaveMachineText:
-	text "  Deck Save Machine   "
-	done
-
-SaveADeckText:
-	text "Save a Deck"
-	done
-
-DeleteADeckText:
-	text "Delete a Deck"
-	done
-
-BuildADeckText:
-	text "Build a Deck"
-	done
-
-ChooseADeckToSaveText:
-	text "Choose a Deck to Save."
-	done
-
-SavedTheConfigurationForText:
-	text "Saved the configuration for"
-	line ""
-	text "<RAMTEXT>!"
-	done
-
-NoDeckIsSavedText:
-	text "No deck is saved."
-	done
-
-DoYouReallyWishToDeleteText:
-	text "Do you really wish to delete?"
-	done
-
-DeletedTheConfigurationForText:
-	text "Deleted the configuration for"
-	line ""
-	text "<RAMTEXT>."
-	done
-
-YouMayOnlyCarry4DecksText:
-	text "You may only carry 4 decks!"
-	done
-
-ChooseADeckToDismantleText:
-	text "Choose a deck to dismantle."
-	done
-
-DismantledDeckText:
-	text "Dismantled"
-	line ""
-	text "<RAMTEXT>."
-	done
-
-ThisDeckCanOnlyBeBuiltIfYouDismantleText:
-	text "This deck can only be built if"
-	line "you dismantle another deck."
-	done
-
-YouDoNotOwnAllCardsNeededToBuildThisDeckText:
-	text "You do not own all of the cards"
-	line "needed to build this deck."
-	done
-
-BuiltDeckText:
-	text "Built"
-	line "<RAMTEXT>"
-	done
-
-TheseCardsAreNeededToBuildThisDeckText:
-	text "These cards are needed to build"
-	line "this deck:"
-	done
-
-DismantleTheseDecksText:
-	text "Dismantle these decks?"
-	done
-
-DismantledTheDeckText:
-	text "Dismantled the deck."
-	done
-
-OKIfFileDeletedText:
-	text "OK if this file is deleted?"
-	done
-
-ReadTheInstructionsText:
-	text "Read the Instructions"
-	done
-
-PrintThisCardYesNoText:
-	text "Print this card?"
-	line "      Yes     No"
-	done
-
-PleaseChooseDeckConfigurationToPrintText:
-	text "Please choose a deck configuration"
-	line "to print."
-	done
-
-PrintThisDeckText:
-	text "Print this deck?"
-	done
-
-PrintTheCardListText:
-	text "Print the card list?"
-	line "      Yes     No"
-	done
-
-PrintMenuItemsText:
-	text "Pokémon Cards"
-	line "Deck Configuration"
-	line "Card List"
-	line "Print Quality"
-	line "Quit Print"
-	done
-
-WhatWouldYouLikeToPrintText:
-	text "What would you like to print?"
-	done
-
-PleaseSetTheContrastText:
-	text "Please set the contrast:"
-	line "  Light   1   2   3   4   5   Dark"
-	done
-
-PleaseMakeSureToTurnGameBoyPrinterOffText:
-	text "Please make sure to turn"
-	line "the Game Boy Printer off."
-	done
-
-ProceduresForSendingCardsText:
-	text "Procedures for sending cards:"
-	done
-
-CardSendingProceduresText:
-	text "1. Choose the card you wish to send."
-	line "   Press left/right to choose more."
-	line ""
-	line "2. Choose all the cards. Then press"
-	line "   the B Button to open the menu."
-	line ""
-	line "3. Choose Send to finish"
-	line "   the process."
-	done
-
-PleaseReadTheProceduresForSendingCardsText:
-	text "Please read the procedures"
-	line "for sending cards."
-	done
-
-SendText:
-	text "Send"
-	done
-
-CardReceivedText:
-	text "Card received"
-	done
-
-CardToSendText:
-	text "Card to send"
-	done
-
-SendTheseCardsText:
-	text "Send these cards?"
-	done
-
-ReceivedTheseCardsFromText:
-	text "Received these cards"
-	line "from  <RAMTEXT>!"
-	done
-
-PleaseChooseADeckConfigurationToSendText:
-	text "Please choose a deck configuration"
-	line "to send."
-	done
-
-PleaseChooseASaveSlotText:
-	text "Please choose a Save Slot."
-	done
-
-UnusedText0286: ; Unused
-	text "Receive configuration."
-	done
-
-ReceivedADeckConfigurationFromText:
-	text "Received a deck configuration"
-	line "from  <RAMTEXT>!"
-	done
-
-FightingMachineText:
-	text "  Fighting Machine  "
-	done
-
-RockMachineText:
-	text "  Rock Machine  "
-	done
-
-WaterMachineText:
-	text "  Water Machine   "
-	done
-
-LightningMachineText:
-	text "  Lightning Machine   "
-	done
-
-GrassMachineText:
-	text "  Grass Machine   "
-	done
-
-PsychicMachineText:
-	text "  Psychic Machine   "
-	done
-
-ScienceMachineText:
-	text "  Science Machine   "
-	done
-
-FireMachineText:
-	text "  Fire Machine  "
-	done
-
-AutoMachineText:
-	text "  Auto Machine  "
-	done
-
-LegendaryMachineText:
-	text "  Legendary Machine   "
-	done
-
-AllFightingPokemonText:
-	text "All Fighting Pokémon"
-	done
-
-BenchAttackText:
-	text "Bench Attack"
-	done
-
-BattleContestText:
-	text "Battle Contest"
-	done
-
-HeatedBattleText:
-	text "Heated Battle"
-	done
-
-FirstStrikeText:
-	text "First-Strike"
-	done
-
-SqueakingMouseText:
-	text "Squeaking Mouse"
-	done
-
-GreatQuakeText:
-	text "Great Quake"
-	done
-
-BoneAttackText:
-	text "Bone Attack"
-	done
-
-ExcavationText:
-	text "Excavation"
-	done
-
-RockCrusherText:
-	text "Rock Crusher"
-	done
-
-BlueWaterText:
-	text "Blue Water"
-	done
-
-OnTheBeachText:
-	text "On the Beach"
-	done
-
-ParalyzeText:
-	text "Paralyze!"
-	done
-
-EnergyRemovalText:
-	text "Energy Removal"
-	done
-
-RainDancerText:
-	text "Rain Dancer"
-	done
-
-CutePokemonText:
-	text "Cute Pokémon"
-	done
-
-PokemonFluteText:
-	text "Pokémon Flute"
-	done
-
-YellowFlashText:
-	text "Yellow Flash"
-	done
-
-ElectricShockText:
-	text "Electric Shock"
-	done
-
-ZappingSelfdestructText:
-	text "Zapping Selfdestruct"
-	done
-
-InsectCollectionText:
-	text "Insect Collection"
-	done
-
-JungleText:
-	text "Jungle"
-	done
-
-FlowerGardenText:
-	text "Flower Garden"
-	done
-
-KaleidoscopeText:
-	text "Kaleidoscope"
-	done
-
-FlowerPowerText:
-	text "Flower Power"
-	done
-
-PsychicPowerText:
-	text "Psychic Power"
-	done
-
-DreamEaterHaunterText:
-	text "Dream Eater Haunter"
-	done
-
-ScavengingSlowbroText:
-	text "Scavenging Slowbro"
-	done
-
-StrangePowerText:
-	text "Strange Power"
-	done
-
-StrangePsyshockText:
-	text "Strange Psyshock"
-	done
-
-LovelyNidoranText:
-	text "Lovely Nidoran"
-	done
-
-ScienceCorpsText:
-	text "Science Corps"
-	done
-
-FlyinPokemonText:
-	text "Flyin' Pokémon"
-	done
-
-PoisonText:
-	text "Poison"
-	done
-
-WondersOfScienceText:
-	text "Wonders of Science"
-	done
-
-ReplaceEmAllText:
-	text "Replace 'Em All"
-	done
-
-ChariSaurText:
-	text "Chari-Saur"
-	done
-
-TrafficLightText:
-	text "Traffic Light"
-	done
-
-FirePokemonDeckText:
-	text "Fire Pokémon"
-	done
-
-FireChargeText:
-	text "Fire Charge"
-	done
-
-CharmanderAndFriendsText:
-	text "Charmander & Friends"
-	done
-
-SquirtleAndFriendsText:
-	text "Squirtle & Friends"
-	done
-
-BulbasaurAndFriendsText:
-	text "Bulbasaur & Friends"
-	done
-
-PsychicMachampText:
-	text "Psychic Machamp"
-	done
-
-WaterBeetleText:
-	text "Water Beetle"
-	done
-
-LegendaryMoltresText:
-	text "Legendary Moltres"
-	done
-
-LegendaryZapdosText:
-	text "Legendary Zapdos"
-	done
-
-LegendaryArticunoText:
-	text "Legendary Articuno"
-	done
-
-LegendaryDragoniteText:
-	text "Legendary Dragonite"
-	done
-
-MysteriousPokemonText:
-	text "Mysterious Pokémon"
-	done
-
-AllFightingPokemonDescriptionText:
-	text "A deck of Fighting Pokémon:"
-	line "Feel their Fighting power!"
-	done
-
-BenchAttackDescriptionText:
-	text "A deck of Pokémon that can"
-	line "attack the Bench."
-	done
-
-BattleContestDescriptionText:
-	text "A deck which uses Fighting attacks"
-	line "such as Slash and Punch."
-	done
-
-HeatedBattleDescriptionText:
-	text "A powerful deck with both Fire"
-	line "and Fighting Pokémon."
-	done
-
-FirstStrikeDescriptionText:
-	text "A deck for fast and furious"
-	line "attacks."
-	done
-
-SqueakingMouseDescriptionText:
-	text "A deck made of Mouse Pokémon."
-	line "Uses PlusPower to power up!"
-	done
-
-GreatQuakeDescriptionText:
-	text "Use Dugtrio's Earthquake"
-	line "to cause great damage."
-	done
-
-BoneAttackDescriptionText:
-	text "A deck of Cubone and Marowak -"
-	line "A call for help."
-	done
-
-ExcavationDescriptionText:
-	text "A deck which creates Pokémon by"
-	line "evolving Mysterious Fossils."
-	done
-
-RockCrusherDescriptionText:
-	text "A deck of Rock Pokémon. It's"
-	line "strong against Lightning Pokémon."
-	done
-
-BlueWaterDescriptionText:
-	text "A deck of Water Pokémon: Their"
-	line "Blue Horror washes over enemies."
-	done
-
-OnTheBeachDescriptionText:
-	text "A well balanced deck"
-	line "of Sandshrew and Water Pokémon!"
-	done
-
-ParalyzeDescriptionText:
-	text "Paralyze the opponent's Pokémon:"
-	line "Stop 'em and drop 'em!"
-	done
-
-EnergyRemovalDescriptionText:
-	text "Uses Whirlpool and Hyper Beam to"
-	line "remove opponents' Energy cards."
-	done
-
-RainDancerDescriptionText:
-	text "Use Rain Dance to attach Water"
-	line "Energy for powerful attacks!"
-	done
-
-CutePokemonDescriptionText:
-	text "A deck of cute Pokémon such as"
-	line "Pikachu and Eevee."
-	done
-
-PokemonFluteDescriptionText:
-	text "Use the Pokémon Flute to revive"
-	line "opponents' Pokémon and attack!"
-	done
-
-YellowFlashDescriptionText:
-	text "A deck of Pokémon that use Lightning"
-	line "Energy to zap opponents."
-	done
-
-ElectricShockDescriptionText:
-	text "A deck which shocks and paralyzes"
-	line "opponents with its attacks."
-	done
-
-ZappingSelfdestructDescriptionText:
-	text "Selfdestruct causes great damage"
-	line "- even to the opponent's Bench."
-	done
-
-InsectCollectionDescriptionText:
-	text "A deck made of Insect Pokémon"
-	line "Go Bug Power!"
-	done
-
-JungleDescriptionText:
-	text "A deck of Grass Pokémon: There"
-	line "are many dangers in the jungle."
-	done
-
-FlowerGardenDescriptionText:
-	text "A deck of Flower Pokémon:"
-	line "Beautiful but Dangerous"
-	done
-
-KaleidoscopeDescriptionText:
-	text "Uses Venomoth's Pokémon Power to"
-	line "change the opponent's Weakness."
-	done
-
-FlowerPowerDescriptionText:
-	text "A powerful Big Eggsplosion"
-	line "and Energy Transfer combo!"
-	done
-
-PsychicPowerDescriptionText:
-	text "Use the Psychic power of the"
-	line "Psychic Pokémon to attack!"
-	done
-
-DreamEaterHaunterDescriptionText:
-	text "Uses Haunter's Dream Eater"
-	line "to cause great damage!"
-	done
-
-ScavengingSlowbroDescriptionText:
-	text "Continually draw Trainer"
-	line "cards from the discard pile!"
-	done
-
-StrangePowerDescriptionText:
-	text "Confuse opponents with"
-	line "mysterious power!"
-	done
-
-StrangePsyshockDescriptionText:
-	text "Use Alakazam's Damage Swap"
-	line "to move damage counters!"
-	done
-
-LovelyNidoranDescriptionText:
-	text "Uses Nidoqueen's Boyfriends to cause"
-	line "great damage to the opponent."
-	done
-
-ScienceCorpsDescriptionText:
-	text "The march of the Science Corps!"
-	line "Attack with the power of science!"
-	done
-
-FlyinPokemonDescriptionText:
-	text "Pokémon with feathers flock"
-	line "together! Retreating is easy!"
-	done
-
-PoisonDescriptionText:
-	text "A deck that uses Poison to"
-	line "slowly Knock Out the opponent."
-	done
-
-WondersOfScienceDescriptionText:
-	text "Block Pokémon Powers with"
-	line "Muk and attack with Mewtwo!"
-	done
-
-ReplaceEmAllDescriptionText:
-	text "A deck that shuffles"
-	line "the opponent's cards"
-	done
-
-ChariSaurDescriptionText:
-	text "Attack with Charizard - with"
-	line "just a few Fire Energy cards!"
-	done
-
-TrafficLightDescriptionText:
-	text "Pokémon that can attack with"
-	line "Fire, Water or Lightning Energy!"
-	done
-
-FirePokemonDescriptionText:
-	text "With Fire Pokémon like Charizard,"
-	line "Rapidash and Magmar, it's hot!"
-	done
-
-FireChargeDescriptionText:
-	text "Desperate attacks damage your"
-	line "opponent and you!"
-	done
-
-CharmanderAndFriendsDescriptionText:
-	text "A Fire, Grass and Water Deck:"
-	line "Charmander, Pinsir and Seel"
-	done
-
-SquirtleAndFriendsDescriptionText:
-	text "A Water, Fire, and Lightning Deck:"
-	line "Squirtle, Charmander and Pikachu"
-	done
-
-BulbasaurAndFriendsDescriptionText:
-	text "A Grass, Lightning and Psychic Deck:"
-	line "Bulbasaur, Pikachu and Abra"
-	done
-
-PsychicMachampDescriptionText:
-	text "Machamp, Hitmonlee, Hitmonchan,"
-	line "Gengar and Alakazam are furious!"
-	done
-
-WaterBeetleDescriptionText:
-	text "An evolution deck with Weedle,"
-	line "Nidoran♂ and Bellsprout."
-	done
-
-LegendaryMoltresDescriptionText:
-	text "Gather Fire Energy with the"
-	line "Legendary Moltres!"
-	done
-
-LegendaryZapdosDescriptionText:
-	text "Zap opponents with the"
-	line "Legandary Zapdos!"
-	done
-
-LegendaryArticunoDescriptionText:
-	text "Paralyze opponents with the"
-	line "Legendary Articuno!"
-	done
-
-LegendaryDragoniteDescriptionText:
-	text "Heal your Pokémon with the"
-	line "Legendary Dragonite!"
-	done
-
-MysteriousPokemonDescriptionText:
-	text "A very special deck made of"
-	line "very rare Pokémon cards!"
-	done
-
-;	ds $26
