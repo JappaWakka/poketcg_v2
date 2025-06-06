@@ -3012,4 +3012,8 @@ TextOffsets::
 	textpointer CowardiceDescriptionCont                           ; Dutch description was too long
 	textpointer BlizzardDescriptionCont                            ; Dutch description was too long
 	textpointer GigashockDescriptionCont                           ; Dutch description was too long
+	textpointer ThunderstormDescriptionCont                        ; Dutch description was too long
+	textpointer BigThunderDescriptionCont                          ; Dutch description was too long
+	textpointer GravelersHardenDescriptionCont                     ; Dutch description was too long
+	textpointer SnivelDescriptionCont                              ; Dutch description was too long
 	

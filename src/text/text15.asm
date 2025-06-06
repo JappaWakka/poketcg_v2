@@ -1,3 +1,62 @@
+EnergyRetrievalDescription:
+	text "Trade 1 of the other cards in your"
+	line "hand for up to 2 Basic Energy"
+	line "cards from your discard pile."
+	done
+
+SuperEnergyRetrievalName:
+	text "Super Energy Retrieval"
+	done
+
+SuperEnergyRetrievalDescription:
+	text "Trade 2 of the other cards in your"
+	line "hand for up to 4 Basic Energy"
+	line "cards from your discard pile."
+	done
+
+EnergySearchName:
+	text "Energy Search"
+	done
+
+EnergySearchDescription:
+	text "Search your deck for a Basic Energy"
+	line "card, show it to your opponent,"
+	line "and put it into your hand."
+	line "Shuffle your deck afterward."
+	done
+
+EnergyRemovalName:
+	text "Energy Removal"
+	done
+
+EnergyRemovalDescription:
+	text "Choose 1 Energy card attached"
+	line "to 1 of your opponent's Pokémon"
+	line "and discard it."
+	done
+
+SuperEnergyRemovalName:
+	text "Super Energy Removal"
+	done
+
+SuperEnergyRemovalDescription:
+	text "Discard 1 Energy card attached"
+	line "to 1 of your own Pokémon in"
+	line "order to choose 1 of your"
+	line "opponent's Pokémon and up to"
+	line "2 Energy cards attached to it."
+	line "Discard those Energy cards."
+	done
+
+SwitchName:
+	text "Verwissel"
+	done
+
+SwitchDescription:
+	text "Verwissel 1 van je Pokémon op"
+	line "de Bank met je Actieve Pokémon."
+	done
+
 PokemonCenterName:
 	text "Pokémon Center"
 	done

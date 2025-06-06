@@ -1,3 +1,98 @@
+AlakazamName:
+	text "Alakazam"
+	done
+
+DamageSwapName:
+	text "Damage Swap"
+	done
+
+DamageSwapDescription:
+	text "As often as you like during your"
+	line "turn (before your attack), you may"
+	line "move 1 damage counter from 1 of your"
+	line "Pokémon to another as long as you"
+	line "don't Knock Out that Pokémon."
+	line "This power can't be used if Alakazam"
+	line "is Asleep, Confused, or Paralyzed."
+	done
+
+AlakazamDescription:
+	text "Its brain can outperform a"
+	line "supercomputer. Its intelligence"
+	line "quotient is said to be 5000."
+	done
+
+SlowpokeName:
+	text "Slowpoke"
+	done
+
+SlowpokesAmnesiaDescription:
+	text "Choose 1 of the Defending Pokémon's"
+	line "attacks. That Pokémon can't use"
+	line "that attack during your opponent's"
+	line "next turn."
+	done
+
+DopeyName:
+	text "Dopey"
+	done
+
+SlowpokeLv9Description:
+	text "Incredibly slow and dopey."
+	line "It takes 5 seconds for it to"
+	line "feel pain when under attack."
+	done
+
+SpacingOutName:
+	text "Spacing Out"
+	done
+
+SpacingOutDescription:
+	text "Flip a coin. If heads, remove a"
+	line "damage counter from Slowpoke. This"
+	line "attack can't be used if Slowpoke"
+	line "has no damage counters on it."
+	done
+
+ScavengeName:
+	text "Scavenge"
+	done
+
+ScavengeDescription:
+	text "Discard 1 <PSYCHIC> Energy card attached"
+	line "to Slowpoke in order to use this"
+	line "attack. Put a Trainer card from your"
+	line "discard pile into your hand."
+	done
+
+SlowbroName:
+	text "Slowbro"
+	done
+
+StrangeBehaviorName:
+	text "Strange Behavior"
+	done
+
+StrangeBehaviorDescription:
+	text "As often as you like during your"
+	line "turn (before your attack), you may"
+	line "move 1 damage counter from 1 of your"
+	line "Pokémon to Slowbro as long as you"
+	line "don't Knock Out Slowbro. This power"
+	line "can't be used if Slowbro is Asleep,"
+	line "Confused, or Paralyzed."
+	done
+
+HermitcrabName:
+	text "Hermitcrab"
+	done
+
+SlowbroDescription:
+	text "The Shellder that is latched onto"
+	line "Slowpoke's tail is said to feed on"
+	line "the host's left-over scraps."
+	done
+
 GastlyName:
 	text "Gastly"
 	done
@@ -1261,63 +1356,4 @@ MysteriousFossilDescriptionCont:
 
 EnergyRetrievalName:
 	text "Energy Retrieval"
-	done
-
-EnergyRetrievalDescription:
-	text "Trade 1 of the other cards in your"
-	line "hand for up to 2 Basic Energy"
-	line "cards from your discard pile."
-	done
-
-SuperEnergyRetrievalName:
-	text "Super Energy Retrieval"
-	done
-
-SuperEnergyRetrievalDescription:
-	text "Trade 2 of the other cards in your"
-	line "hand for up to 4 Basic Energy"
-	line "cards from your discard pile."
-	done
-
-EnergySearchName:
-	text "Energy Search"
-	done
-
-EnergySearchDescription:
-	text "Search your deck for a Basic Energy"
-	line "card, show it to your opponent,"
-	line "and put it into your hand."
-	line "Shuffle your deck afterward."
-	done
-
-EnergyRemovalName:
-	text "Energy Removal"
-	done
-
-EnergyRemovalDescription:
-	text "Choose 1 Energy card attached"
-	line "to 1 of your opponent's Pokémon"
-	line "and discard it."
-	done
-
-SuperEnergyRemovalName:
-	text "Super Energy Removal"
-	done
-
-SuperEnergyRemovalDescription:
-	text "Discard 1 Energy card attached"
-	line "to 1 of your own Pokémon in"
-	line "order to choose 1 of your"
-	line "opponent's Pokémon and up to"
-	line "2 Energy cards attached to it."
-	line "Discard those Energy cards."
-	done
-
-SwitchName:
-	text "Verwissel"
-	done
-
-SwitchDescription:
-	text "Verwissel 1 van je Pokémon op"
-	line "de Bank met je Actieve Pokémon."
 	done

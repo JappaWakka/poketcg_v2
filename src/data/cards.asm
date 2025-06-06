@@ -5650,7 +5650,7 @@ ZapdosLv40Card:
 	energy LIGHTNING, 4 ; energies
 	tx ThunderstormName ; name
 	tx ThunderstormDescription ; description
-	dw NONE ; description (cont)
+	tx ThunderstormDescriptionCont ; description (cont)
 	db 40 ; damage
 	db DAMAGE_NORMAL ; category
 	dw ThunderstormEffectCommands ; effect commands
@@ -5764,7 +5764,7 @@ ZapdosLv68Card:
 	energy LIGHTNING, 3 ; energies
 	tx BigThunderName ; name
 	tx BigThunderDescription ; description
-	dw NONE ; description (cont)
+	tx BigThunderDescriptionCont ; description (cont)
 	db 0 ; damage
 	db RESIDUAL ; category
 	dw Random70DamageEffectCommands ; effect commands
@@ -6300,7 +6300,7 @@ GravelerCard:
 	energy FIGHTING, 2 ; energies
 	tx HardenName ; name
 	tx GravelersHardenDescription ; description
-	dw NONE ; description (cont)
+	tx GravelersHardenDescriptionCont ; description (cont)
 	db 0 ; damage
 	db RESIDUAL ; category
 	dw HardenEffectCommands ; effect commands
@@ -6450,7 +6450,7 @@ CuboneCard:
 	energy COLORLESS, 1 ; energies
 	tx SnivelName ; name
 	tx SnivelDescription ; description
-	dw NONE ; description (cont)
+	tx SnivelDescriptionCont ; description (cont)
 	db 0 ; damage
 	db DAMAGE_NORMAL ; category
 	dw ReduceBy20EffectCommands ; effect commands
