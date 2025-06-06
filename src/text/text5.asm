@@ -1,3 +1,538 @@
+JoshuaAmyIsRestingText:
+	text "Hey! Stop!"
+	line "This is a restricted area!"
+	line "Amy, the Club Master,"
+	line "is resting!"
+	done
+
+JoshuaGoDefeatSaraAndAmandaText:
+	text "The person resting over there"
+	line "is Amy, the Club Master."
+	line "If you wish to duel Amy,"
+	line "go defeat Sara and Amanda first."
+	line "Then I will test your skill,"
+	line "and if by chance you should win,"
+	line "I will introduce you to Amy,"
+	line "the Club Master!"
+	done
+
+JoshuaSaraAndAmandaDefeatedText:
+	text "What?"
+	line "You defeated Sara and Amanda?"
+	done
+
+JoshuaWantsToDuelInitialText:
+	text "You must be pretty good if you"
+	line "defeated Sara and Amanda..."
+	line "As promised, I'll test your skills."
+	line "If you win, I will introduce you"
+	line "to Amy..."
+	done
+
+JoshuaWantsToDuelRepeatText:
+	text "You wish to duel against me?"
+	done
+
+JoshuaWouldYouLikeToDuelText:
+	text "Would you like to duel Joshua?"
+	done
+
+JoshuaDeclinedDuelInitialText:
+	text "You don't want to duel?"
+	line "Are you afraid you won't be able"
+	line "to defeat me?"
+	line "The only way you will be able to"
+	line "meet Amy is by going through me!"
+	done
+
+JoshuaDeclinedDuelRepeatText:
+	text "You don't want to duel?"
+	line ""
+	line "Are you afraid you won't be able"
+	line "to defeat me?"
+	line "That's understandable since I'm"
+	line "very good!"
+	done
+
+JoshuaDuelStartText:
+	text "OK, this will be a 1-match duel"
+	line "with 4 Prizes!"
+	done
+
+JoshuaPlayerLostInitialText:
+	text "How's that! I win!"
+	line "I'm sorry, but unless you defeat me,"
+	line "I can't let you meet Amy."
+	done
+
+JoshuaPlayerLostRepeatText:
+	text "How's that! I win!"
+	line "Too bad for you, but"
+	line "I'm the second best player"
+	line "after Amy!"
+	done
+
+JoshuaPlayerWonInitial1Text:
+	text "What!?!"
+	line "How could I lose?"
+	done
+
+JoshuaPlayerWonRepeat1Text:
+	text "What!?!"
+	line "How could I lose again?"
+	done
+
+JoshuaPlayerWonInitial2Text:
+	text "Well, since I promised..."
+	line "I'll introduce you to Amy."
+	done
+
+JoshuaPlayerWonRepeat2Text:
+	text "How could this be?"
+	line "It must be luck!"
+	line "Yeah, that's what it was!"
+	done
+
+JoshuaWakesAmy1Text:
+	text "Don't think you're that good"
+	line "just because you defeated me."
+	line "We still have Amy here"
+	line "at the Water Club."
+	done
+
+JoshuaWakesAmy2Text:
+	text "Amy!"
+	line "Please wake up!!"
+	done
+
+AmyMeetsPlayer1Text:
+	text "Huh? What's going on?"
+	line "I was enjoying my little nap..."
+	done
+
+JoshuaWakesAmy3Text:
+	text "Well, um..."
+	line "(psst, psst, psst)"
+	done
+
+AmyMeetsPlayer2Text:
+	text "What? You lost?"
+	line "How could you!?!"
+	done
+
+AmyMeetsPlayer3Text:
+	text "Was it <RAMNAME>?"
+	line "I will be your next opponent."
+	line "I'm Amy, the Master of the"
+	line "Water Club!"
+	done
+
+AmyWantsToDuelInitialText:
+	text "Aren't you <RAMNAME>?"
+	line "So you decided you want to duel me?"
+	done
+
+AmyWouldYouLikeToDuelText:
+	text "Would you like to duel Amy?"
+	done
+
+AmyDeclinedDuelInitialText:
+	text "No? How boring! I was looking"
+	line "forward to a game of Pokémon."
+	line "Well, come see me again!"
+	done
+
+AmyDuelStartInitialText:
+	text "OK! A 1-Match Duel with 6 Prizes!"
+	line "Let's do it!"
+	done
+
+AmyPlayerWon1Text:
+	text "Oh, no! I lost!?!"
+	done
+
+AmyGivesMedal1Text:
+	text "Well, since I lost, you can have"
+	line "this Water Medal."
+	line "This should get you a step closer"
+	line "to inheriting the Legendary Cards!"
+	done
+
+AmyGivesMedal2Text:
+	text "Here, you can also have these!"
+	line "They should come in handy!"
+	done
+
+AmyPlayerWon2Text:
+	text "Come see me again! I'd like"
+	line "to duel you again sometime!"
+	done
+
+AmyPlayerLostText:
+	text "Hah! I'm the best!"
+	line "Come see me again sometime!"
+	line "I'd like another duel!"
+	done
+
+AmyWantsToDuelRepeatText:
+	text "Hi, <RAMNAME>."
+	line "Nice to see you again!!!"
+	line "Did you come to play the"
+	line "Pokémon Trading Card Game?"
+	done
+
+AmyDuelStartRepeatText:
+	text "OK, same rules as before!"
+	line "A 1-match duel with 6 Prizes!"
+	done
+
+Clerk1Text:
+	text "Hello."
+	line "Welcome to the Fighting Club!"
+	line "Here at this Club, we duel using"
+	line "Fighting Pokémon."
+	line "No dirty dueling is allowed!"
+	line "Only nice, clean duels are allowed"
+	line "in this Club."
+	done
+
+Man1FirstRequestCardText:
+	text "I see you play the Pokémon Trading"
+	line "Card Game. I'm not into dueling."
+	line "I prefer collecting the cards."
+	line "By the way, would you happen to have"
+	line "<RAMTEXT>?"
+	line "If you do, I was wondering if you"
+	line "might want to give it to me?"
+	line "How about it?"
+	done
+
+Man1WaitingForCardText:
+	text "Hi! It's you!"
+	line "What's up?"
+	line "Did you decide to give me your"
+	line "<RAMTEXT>?"
+	done
+
+Man1NewRequestCardText:
+	text "Hi! I see you're playing with"
+	line "the cards again."
+	line "By the way, I'm looking for"
+	line "<RAMTEXT> this time."
+	line "If you should happen to have one,"
+	line "would you mind giving it to me?"
+	done
+
+Man1GiveAwayCardText:
+	text "Give him your <RAMTEXT>?"
+	done
+
+Man1DeclineText:
+	text "OK. I understand."
+	line "But if you should change your"
+	line "mind, please come see me."
+	done
+
+Man1DontHaveText:
+	text "But you don't have <RAMTEXT>!"
+	line "I appreciate your generosity, but"
+	line "you can't give me what you don't"
+	line "have. Come see me again after"
+	line "you get <RAMTEXT>."
+	done
+
+Man1CardInDeckText:
+	text "You're going to give it to me?"
+	line "Thank you!"
+	line "But your <RAMTEXT>"
+	line "is in your deck."
+	line "I can't take a card that you're"
+	line "playing with!"
+	done
+
+Man1GiveCardText:
+	text "You're going to give it to me?"
+	line "I'll put it in my collection"
+	line "right away. I'll take good care of"
+	line "this card. Thank you! Thank you!!!"
+	done
+
+Man1PlayerReceivePikachuAltLv16Text:
+	text "Since you've been so kind and given"
+	line "me so many cards,"
+	line "please accept this card as a gift"
+	line "from me to you."
+	line "It's a <Lv>16 Pikachu."
+	line "Please take good care of it!"
+	done
+
+Man1ThankYouText:
+	text "Thank you for being so kind and"
+	line "giving me all these cards!"
+	done
+
+Man1GaveCardText:
+	text "Hi!"
+	line "Thanks for being so kind!"
+	line "I'm taking good care"
+	line "of all the cards you gave me!"
+	done
+
+Man1GaveAllCardsText:
+	text "Hi! Is the card I gave you"
+	line "coming in handy?"
+	line "Thanks again for being so kind!"
+	done
+
+ImakuniWouldLikeToDuelInitialText:
+	text "Huh? W..Who are you?"
+	line "Who? Me? You don't know who I am?"
+	line "I am the super musical star,"
+	line "Imakuni?!"
+	line "I'll sing the PokéRap - You dance!"
+	line ""
+	half2full
+	textfw "♪"
+	text "La di da la di da"
+	line "  La di da la di da..."
+	line "Hey!"
+	line "Move those feet!"
+	line "What? Cards?"
+	line "You want to duel me?"
+	line "OK, but if I win, you dance!"
+	done
+
+ImakuniWouldLikeToDuelRepeatText:
+	text "What? You're still here?"
+	line "OK, sit over there."
+	line "What? You're already sitting?"
+	line "OK, OK! Then let's get started!"
+	done
+
+ImakuniWouldYouLikeToDuelText:
+	text "Would you like to duel Imakuni??"
+	done
+
+ImakuniDeclinedDuelText:
+	text "Come on, don't be cruel!"
+	line "You're going to make me cry!"
+	done
+
+ImakuniDuelStartText:
+	text "OK, a 1-match duel with 6 Prizes!"
+	line "...Whatever that means..."
+	done
+
+ImakuniPlayerWonNormalText:
+	text "Hey! You're pretty good!"
+	line "I'll give you this booster pack,"
+	line "so don't tell anyone I lost, OK?"
+	done
+
+ImakuniPlayerWonThreeWinsText:
+	text "You won 3 times against me!"
+	line "Does that make you happy? Does it?"
+	done
+
+ImakuniPlayerWonSixWinsText:
+	text "I can't believe I lost 6 times!"
+	line "...Seriously!"
+	done
+
+ImakuniGivesImakuniText:
+	text "I don't really want to give you"
+	line "this, but here. Take care of it."
+	done
+
+ImakuniPlayerWonEndText:
+	text "In both cards and dance,"
+	line "soul and rhythm are the secret."
+	line "Hey, that sounds pretty cool!"
+	line "Maybe I'll become a poet!"
+	done
+
+ImakuniPlayerLostText:
+	text "Hmm...I win."
+	line "You weren't too bad, but since"
+	line "I won...Let's see you shake it!"
+	line "Come on, shake it!!!"
+	line ""
+	half2full
+	textfw "♪"
+	text "La di da la di da"
+	line "  La di da la di da..."
+	line "... You dance weird!"
+	done
+
+Specs1NormalText:
+	text "I was just saying which"
+	line "Grand Master is the best."
+	line "I think Steve is the best player."
+	done
+
+Specs1PlayerIsChampionText:
+	text "I can't believe Steve the Grand"
+	line "Master could lose!"
+	line "Who could have defeated Steve?"
+	done
+
+ButchNormalText:
+	text "The best player among the Grand"
+	line "Masters is Rod, since he's the"
+	line "leader of the Grand Masters."
+	done
+
+ButchPlayerIsChampionText:
+	text "I can't believe Rod, the leader of"
+	line "the Grand Masters, was defeated!?!"
+	line "Could this mean the Legendary"
+	line "Pokémon Cards have been passed on?"
+	done
+
+Granny1Text:
+	text "If I were just a few years younger,"
+	line "I'd be dueling with you kids, too."
+	done
+
+MitchFirstInteractionText:
+	text "I am Mitch, Master of the"
+	line "Fighting Club!"
+	line "I have to warn you that you will"
+	line "be unable to defeat me!"
+	line "If you wish to duel with me,"
+	line "you must defeat my pupils first!"
+	line "My pupils are training at"
+	line "other Clubs!"
+	line "Go see if you can defeat all"
+	line "3 of my pupils!"
+	done
+
+Mitch3PupilsRemainingText:
+	text "If you wish to duel me, you"
+	line "must defeat my pupils first!"
+	line "My pupils are training at the"
+	line "other Clubs!"
+	line "Go and see if you can defeat all"
+	line "3 of my pupils!"
+	done
+
+Mitch2PupilsRemainingText:
+	text "So, you've defeated 1 of my pupils."
+	line "You must be a pretty good player."
+	line "But you're not good enough!"
+	line "If you wish to duel me,"
+	line "you must defeat my"
+	line "2 remaining pupils!"
+	done
+
+Mitch1PupilRemainingText:
+	text "So, you've defeated 2 of my pupils!"
+	line "You are pretty good."
+	line "But there's still the last one..."
+	line "Can you defeat my last pupil?"
+	done
+
+MitchWouldLikeToDuelInitialText:
+	text "So, you have defeated"
+	line "all of my pupils!"
+	line "Let's see if you have"
+	line "what it takes to inherit"
+	line "the Legendary Pokémon Cards!"
+	line "OK! Are you ready?"
+	done
+
+MitchWouldYouLikeToDuelText:
+	text "Would you like to duel Mitch?"
+	done
+
+MitchDeclinedInitialText:
+	text "What?"
+	line "Are you getting cold feet?"
+	line "Come see me again when you"
+	line "finally work up enough nerves!"
+	done
+
+MitchDuelStartInitialText:
+	text "Come on! Show me what you've got!"
+	line "We'll play with 6 Prizes!"
+	done
+
+MitchPlayerWonInitial1Text:
+	text "Wonderful! Great Match!"
+	line "You're very good."
+	line "Here, take this."
+	line "It's the Fighting Medal!"
+	line "You'll find the secret to the decks"
+	line "of this Club encrypted in it."
+	done
+
+MitchPlayerWonInitial2Text:
+	text "Here, take this, too. It's a"
+	line "Laboratory booster pack."
+	done
+
+MitchPlayerWonInitial3Text:
+	text "I hope to duel someone"
+	line "like you again someday!"
+	done
+
+MitchPlayerLostInitialText:
+	text "You may have been able to defeat"
+	line "my pupils, but you still are not"
+	line "experienced enough to defeat me!"
+	line "Come back after you've trained more!"
+	done
+
+MitchWouldLikeToDuelRepeatText:
+	text "You wish to duel the"
+	line "Fighting Club Master again?"
+	done
+
+MitchDeclinedDuelRepeatText:
+	text "Oh, OK."
+	line "I'd like to duel again, though."
+	done
+
+MitchDuelStartRepeatText:
+	text "As before, we'll play with 6 Prizes."
+	line "Come show me what you've got!"
+	done
+
+MitchPlayerWonRepeat1Text:
+	text "Another utter defeat!"
+	line "Here, take this!"
+	done
+
+MitchPlayerWonRepeat2Text:
+	text "I'd like to duel someone"
+	line "like you again!"
+	done
+
+MitchPlayerLostRepeatText:
+	text "You must train harder!"
+	line "I'll be waiting!"
+	done
+
+ChrisFightingClubWantsToDuelInitialText:
+	text "I lost to you before at the"
+	line "Rock Club, but not this time!"
+	line "I'm going to train to become"
+	line "an even better player!"
+	line "But before I can start my training"
+	line "again, I must defeat you first!"
+	done
+
+ChrisFightingClubWantsToDuelRepeatText:
+	text "I'm going to train to become"
+	line "an even better player!"
+	line "But before I can start my training"
+	line "again, I must defeat you first!"
+	done
+
+ChrisWouldYouLikeToDuelText:
+	text "Would you like to duel Chris?"
+	done
+
 ChrisFightingClubDeclinedDuelText:
 	text "You're just going to turn"
 	line "and run!?! You chicken!"
@@ -301,716 +836,3 @@ PrehistoricPowerBookText:
 	line "Mysterious Fossil. Then you'll"
 	line "be able to evolve your Pokémon!"
 	done
-
-PhantomCardsBookName:
-	text "Phantom Cards"
-	done
-
-PhantomCardsBookText:
-	text "It is rumored that there is a"
-	line "Phantom Card that can only be"
-	line "gotten by using Card Pop! It is"
-	line "believed there are 2 such cards,"
-	line "but no one knows what kind of cards"
-	line "they are. I'm off to search for"
-	line "someone who can give me these cards!"
-	line "                        Ishihara"
-	done
-
-WeaknessAndResistanceBookName:
-	text "Weakness and Resistance"
-	done
-
-WeaknessAndResistanceBookText:
-	text "If a Pokémon has a Weakness,"
-	line "it takes double damage when attacked"
-	line "by Pokémon of a certain type."
-	line "If a Water Pokémon deals 30 damage"
-	line "to a Fire Pokémon, then that Pokémon"
-	line "will receive 60 damage!"
-	line "If a Pokémon has a Resistance, it"
-	line "takes 30 less damage when attacked"
-	line "by Pokémon of a certain type. If a"
-	line "Fighting Pokémon deals 30 damage to"
-	line "a Pokémon with Fighting Resistance,"
-	line "that Pokémon will receive 0 damage!"
-	line "Pay attention to the Weaknesses"
-	line "and Resistances of your Pokémon!"
-	done
-
-DrawingDesiredCardsBookName:
-	text "Drawing Desired Cards"
-	done
-
-DrawingDesiredCardsBookText:
-	text "The Trainer card, Computer Search,"
-	line "is useful when you want to draw a"
-	line "certain card! Item Finder and"
-	line "Poké Ball will also help!"
-	done
-
-RetreatingBookName:
-	text "Retreating"
-	done
-
-RetreatingBookText:
-	text "Retreating your Active Pokémon to"
-	line "the Bench is a good strategy in"
-	line "certain situations! Retreating a"
-	line "Pokémon requires Energy cards."
-	line "Dodrio's Retreat Aid decreases the"
-	line "amount of Energy that's required to"
-	line "retreat. If you retreat right away,"
-	line "your Pokémon won't get Knocked Out!"
-	done
-
-FightingPokemonBookName:
-	text "Fighting Pokémon"
-	done
-
-FightingPokemonBookText:
-	text "Fighting Pokémon Characteristics:"
-	line " - Need <FIGHTING> Energy to attack"
-	line " - Strong against <LIGHTNING> or <COLORLESS> Pokémon"
-	line " - Weak against <PSYCHIC> Pokémon"
-	line " - Many Pokémon have a Resistance"
-	line "   to Fighting Pokémon"
-	done
-
-FightingPokemonAndCombosBookName:
-	text "Fighting Pokémon and Combos"
-	done
-
-FightingPokemonAndCombosBookText:
-	text "It is difficult to create combos"
-	line "with a Fighting Pokémon, since"
-	line "not many Fighting Pokémon have"
-	line "Pokémon Powers. However, their"
-	line "strong attacks make up for this."
-	done
-
-DoubleColorlessEnergyBookName:
-	text "Double Colorless Energy"
-	done
-
-DoubleColorlessEnergyBookText:
-	text "Double Colorless Energy is a"
-	line "very useful card. By using this"
-	line "single card, you are able to"
-	line "attach 2 Energies at once."
-	line "But be careful because the"
-	line "Energy is <COLORLESS>."
-	done
-
-RockPokemonBookName:
-	text "Rock Pokémon"
-	done
-
-RockPokemonBookText:
-	text "Rock Pokémon Characteristics:"
-	line " - Need <FIGHTING> Energy to attack"
-	line " - Strong against <LIGHTNING> or <COLORLESS> Pokémon"
-	line " - Weak against <GRASS> Pokémon"
-	line " - Many Pokémon have a Resistance"
-	line "   to Rock Pokémon"
-	done
-
-WinningWithFightingPokemonBookName:
-	text "Winning with Fighting Pokémon"
-	done
-
-WinningWithFightingPokemonBookText:
-	text "Fighting Pokémon will have a hard"
-	line "time against Stage 2 Pokémon,"
-	line "as many Stage 2 Pokémon have a"
-	line "Resistance to Fighting Pokémon."
-	line "Try to Knock Out your opponent's"
-	line "Pokémon before they evolve."
-	done
-
-BasicPokemonBookName:
-	text "Basic Pokémon"
-	done
-
-BasicPokemonBookText:
-	text "Basic Pokémon are a must in the"
-	line "Pokémon Trading Card Game!"
-	line "Basic Pokémon are the only Pokémon"
-	line "you can put directly into play"
-	line "from your hand. Stage 1 and Stage 2"
-	line "Evolution cards cannot be used"
-	line "without having first put a"
-	line "Basic Pokémon into play."
-	line "Make sure you have enough"
-	line "Basic Pokémon in your deck!"
-	done
-
-WaterPokemonBookName:
-	text "Water Pokémon"
-	done
-
-WaterPokemonBookText:
-	text "Water Pokémon Characteristics:"
-	line " - Need <WATER> Energy to attack"
-	line " - Strong against <FIRE> Pokémon"
-	line " - Weak against <LIGHTNING> or <GRASS> Pokémon"
-	done
-
-WaterPokemonAttacksBookName:
-	text "Water Pokémon Attacks"
-	done
-
-WaterPokemonAttacksBookText:
-	text "Water Gun and Hydro Pump are"
-	line "attacks which have variable damage."
-	line "The more Water Energy you attach,"
-	line "the more powerful the attack will be"
-	line "The attack can do up to 20 more"
-	line "damage in this way."
-	done
-
-ParalyzeBookName:
-	text "Paralyzed"
-	done
-
-ParalyzeBookText:
-	text "If a Pokémon's Paralyzed (<PARALYZED>),"
-	line "it cannot attack, retreat, or use"
-	line "its Pokémon Power; the player may"
-	line "still play cards from their hand."
-	line "This condition lasts until the end"
-	line "of the Paralyzed player's turn."
-	line "Paralyzed Pokemon will also recover"
-	line "with evolution or a Full Heal card."
-	done
-
-LightningPokemonBookName:
-	text "Lightning Pokémon"
-	done
-
-LightningPokemonBookText:
-	text "Lightning Pokémon Characteristics:"
-	line " - Need <LIGHTNING> Energy to attack"
-	line " - Strong against <WATER> or <COLORLESS> Pokémon"
-	line " - Weak against <FIGHTING> Pokémon"
-	done
-
-EnergyCardsBookName:
-	text "Energy Cards"
-	done
-
-EnergyCardsBookText:
-	text "There are 6 Basic Energy cards:"
-	line "Grass, Fire, Water, Lightning,"
-	line "Fighting and Psychic! There is also"
-	line "the Double Colorless Energy card."
-	line "You may include as many Energy"
-	line "cards as you like in your deck,"
-	line "but you may only include 4"
-	line "Double Colorless Energy cards."
-	done
-
-CardPopBookName:
-	text "Card Pop!"
-	done
-
-CardPopBookText:
-	text "When you and a friend Card Pop!,"
-	line "you will each receive a new card."
-	line "After you Pop! with a friend, you"
-	line "won't be able to Pop! with the same"
-	line "friend for a while. You always get"
-	line "the same card when you Pop! with"
-	line "the same friend, so Pop! with many"
-	line "friends to get different cards!"
-	done
-
-GrassPokemonBookName:
-	text "Grass Pokémon"
-	done
-
-GrassPokemonBookText:
-	text "Grass Pokémon Characteristics:"
-	line " - Need <GRASS> Energy to attack"
-	line " - Strong against <FIGHTING> or <WATER> Pokémon"
-	line " - Weak against <FIRE> Pokémon"
-	done
-
-PoisonBookName:
-	text "Poisoned"
-	done
-
-PoisonBookText:
-	text "If a Pokémon is Poisoned (<POISONED>),"
-	line "it will continue to lose HP."
-	line "The Poisoned Pokémon will lose"
-	line "10 HP at the end of each turn."
-	line "A Pokémon is no longer Poisoned if"
-	line "it evolves or retreats to the Bench."
-	line "Using a Full Heal card can also"
-	line "remove the condition."
-	done
-
-GrassPokemonPokemonBreederBookName:
-	text "Grass Pokémon & Pokémon Breeder"
-	done
-
-GrassPokemonPokemonBreederBookText:
-	text "Many Grass Pokémon are capable of"
-	line "evolving to a Stage 2 Pokémon."
-	line "Use the Trainer card, Pokémon"
-	line "Breeder, to evolve Pokémon quickly."
-	line "You'll be able to use powerful"
-	line "attacks earlier in the game."
-	done
-
-PsychicPokemonBookName:
-	text "Psychic Pokémon"
-	done
-
-PsychicPokemonBookText:
-	text "Psychic Pokémon Characteristics:"
-	line " - Need <PSYCHIC> Energy to attack"
-	line " - Strong against <GRASS>, <PSYCHIC>, and <FIGHTING>"
-	line " - Weak against <PSYCHIC> Pokémon"
-	line " - Many Colorless Pokémon have a"
-	line "   Resistance to Psychic Pokémon"
-	done
-
-SleepBookName:
-	text "Asleep"
-	done
-
-SleepBookText:
-	text "If a Pokémon is Asleep (<ASLEEP>),"
-	line "it cannot attack, retreat, or use"
-	line "its Pokémon Power. Flip a coin for"
-	line "that Pokémon after every turn."
-	line "If heads, the Pokémon will wake up."
-	line "If tails, the Pokémon stays Asleep."
-	line "You can also evolve the Pokémon or"
-	line "use a Full Heal card to wake it up!"
-	done
-
-PokemonPowerBookName:
-	text "Pokémon Powers"
-	done
-
-PokemonPowerBookText:
-	text "Some Pokémon have special abilities"
-	line "called Pokémon Powers. They can be"
-	line "used before attacking, even when the"
-	line "Pokémon is on the Bench. There are"
-	line "many different Pokémon Powers,"
-	line "so read your cards carefully!"
-	done
-
-ScienceClubPokemonBookName:
-	text "Science Club Pokémon"
-	done
-
-ScienceClubPokemonBookText:
-	text "Characteristics of Pokémon used"
-	line "in the Science Club:"
-	line " - Need <GRASS> Energy to attack"
-	line " - Make the Defending Pokémon <POISONED>"
-	line " - Strong against <FIGHTING> or <WATER> Pokémon"
-	line " - Weak against <PSYCHIC> Pokémon"
-	done
-
-ConfusionBookName:
-	text "Confused"
-	done
-
-ConfusionBookText:
-	text "It's big trouble if your Pokémon"
-	line "becomes Confused (<CONFUSED>). If that"
-	line "Pokémon tries to attack, you must"
-	line "flip a coin! If it's heads, then"
-	line "the attack is successful, but if"
-	line "it's tails, then the attack fails,"
-	line "and the Pokémon will deal 20 damage"
-	line "to itself instead!"
-	done
-
-UsefulButtonsBookName:
-	text "Duel Shortcuts"
-	done
-
-UsefulButtonsBookText:
-	text "While pressing the B Button,"
-	line "use the + Control Pad to view"
-	line "your own or your opponent's"
-	line "Play Area or Discard Pile!"
-	line "B + Down = Your Play Area"
-	line "B + Left = Your Discard Pile"
-	line "B + Up = Opponent's Play Area"
-	line "B + Right = Opponent's Discard Pile"
-	line "Try to remember all of these"
-	line "handy shortcuts!"
-	done
-
-FirePokemonBookName:
-	text "Fire Pokémon"
-	done
-
-FirePokemonBookText:
-	text "Fire Pokémon Characteristics:"
-	line " - Need <FIRE> Energy to attack"
-	line " - Strong against <GRASS> Pokémon"
-	line " - Weak against <WATER> Pokémon"
-	done
-
-FirePokemonAttacksBookName:
-	text "Fire Pokémon Attacks"
-	done
-
-FirePokemonAttacksBookText:
-	text "Many Fire Pokémon attacks require"
-	line "that an Energy card be removed."
-	line "Be sure to include many Energy"
-	line "cards in decks with Fire Pokémon."
-	line "It might be wise to also include"
-	line "Energy Retrieval in your deck."
-	done
-
-OriginalGameBoyCardsBookName:
-	text "Original Game Boy Cards"
-	done
-
-OriginalGameBoyCardsBookText:
-	text "The Pokémon Trading Card Game for"
-	line "the Game Boy includes many original"
-	line "cards, like the <Lv>14 Meowth card"
-	line "that uses the Cat Punch attack."
-	line "There are many new cards to"
-	line "discover, so go search them out!"
-	done
-
-ColorlessPokemonBookName:
-	text "Colorless Pokémon"
-	done
-
-ColorlessPokemonBookText:
-	text "Colorless Pokémon are very easy"
-	line "to use. They can attack with"
-	line "any type of Energy card, so"
-	line "you can include them in any type"
-	line "of deck. There are many Colorless"
-	line "Pokémon, so check them all out!"
-	done
-
-DragonPokemonBookName:
-	text "Dragon Pokémon"
-	done
-
-DragonPokemonBookText:
-	text "Colorless Dragon Pokémon do not"
-	line "typically have a Weakness, but they"
-	line "do have a Resistance. They can also"
-	line "attack with any type of Energy card."
-	line "All of these characteristics make"
-	line "them worthy of the name ”dragon!”"
-	done
-
-BirdPokemonBookName:
-	text "Bird Pokémon"
-	done
-
-BirdPokemonBookText:
-	text "Colorless Bird Pokémon often have a"
-	line "Weakness to <LIGHTNING>, but they"
-	line "also have a Resistance to <FIGHTING>."
-	line "They can attack using any type of"
-	line "Energy. Since Bird Pokémon can fly,"
-	line "they have little to no retreat cost."
-	done
-
-LegendaryPokemonCardsVol1BookName:
-	text "Legendary Pokémon Cards, Vol. 1"
-	done
-
-LegendaryPokemonCardsVol1BookText:
-	text "The first of the Legendary Pokémon"
-	line "Cards is the <Lv>37 Moltres."
-	line "When played, Firegiver will add Fire"
-	line "Energy cards to the player's hand!"
-	line "It can also attack with Dive Bomb,"
-	line "a powerful, if risky, attack!"
-	line "Grand Master Courtney,"
-	line "the Fire Queen, owns this card!"
-	done
-
-LegendaryPokemonCardsVol2BookName:
-	text "Legendary Pokémon Cards, Vol. 2"
-	done
-
-LegendaryPokemonCardsVol2BookText:
-	text "The second Legendary Pokémon Card"
-	line "is the <Lv>68 Zapdos."
-	line "With Peal of Thunder, simply putting"
-	line "this card on the Bench will deal"
-	line "damage to another Pokémon, and its"
-	line "Big Thunder attack is even stronger." 
-	line "The Grand Master of Lightning,"
-	line "Thunder Steve, owns this card!"
-	done
-
-LegendaryPokemonCardsVol3BookName:
-	text "Legendary Pokémon Cards, Vol. 3"
-	done
-
-LegendaryPokemonCardsVol3BookText:
-	text "The third Legendary Pokémon Card"
-	line "is the <Lv>37 Articuno."
-	line "Its Quickfreeze can disable the"
-	line "opponent's Pokémon for one turn"
-	line "after the card is put into play!"
-	line "It can also attack with Ice Breath!"
-	line "Grand Master Jack, the Ice Man,"
-	line "owns this card!"
-	done
-
-LegendaryPokemonCardsVol4BookName:
-	text "Legendary Pokémon Cards, Vol. 4"
-	done
-
-LegendaryPokemonCardsVol4BookText:
-	text "The fourth Legendary Pokémon Card"
-	line "is the <Lv>41 Dragonite."
-	line "When played, its Healing Wind power"
-	line "will remove 2 damage counters from"
-	line "each of the player's Pokémon!"
-	line "It can also attack with Slam!"
-	line "Rod, Leader of the Grand Masters,"
-	line "owns this card!"
-	done
-
-TheGrandMastersBookName:
-	text "The Grand Masters"
-	done
-
-TheGrandMastersBookText:
-	text "Courtney, Steve, Jack, and Rod -"
-	line ""
-	line "the 4 Grand Masters who defend"
-	line "the Legendary Pokémon Cards -"
-	line "are all master players of the"
-	line "Pokémon Trading Card Game!"
-	done
-
-MasterMedalsBookName:
-	text "Master Medals"
-	done
-
-MasterMedalsBookText:
-	text "There are a total of 8 Master Medals"
-	line "owned by the Club Masters. It is"
-	line "said that the secret of their Club's"
-	line "decks are encrypted in the Master"
-	line "Medals. Some say the medals were"
-	line "a gift from the Grand Masters."
-	done
-
-PlateOfLegendsName:
-	text "Plate of Legends"
-	done
-
-PlateOfLegendsText:
-	text "”Those in search of the Legendary"
-	line " Pokémon Cards..."
-	line " Defeat the Masters of the 8 Clubs"
-	line " and attain the 8 Master Medals."
-	line " Once attained, defeat the Grand"
-	line " Master here at Pokémon Dome..."
-	line " Then you shall inherit"
-	line " the Legendary Pokémon Cards.”"
-	done
-
-MysteriousVoiceDoorName:
-	text "Mysterious Voice"
-	done
-
-Clerk9DefaultText:
-	text "Greetings! Welcome to the"
-	line "Challenge Hall! The Challenge Cup"
-	line "will begin soon. If you win the"
-	line "Challenge Cup, you will receive"
-	line "a Promotional card! Please join"
-	line "us for this competition."
-	done
-
-Clerk9ChallengeCupOverText:
-	text "Greetings! Welcome to the"
-	line "Challenge Hall! This is where"
-	line "the Challenge Cup is held."
-	line "The Challenge Cup may start at"
-	line "any time, so please visit the"
-	line "Challenge Hall often."
-	done
-
-Clerk9ChallengeCupReadyText:
-	text "Greetings! Welcome to the Challenge"
-	line "Hall! Defeat 3 opponents, and you'll"
-	line "be presented with a wonderful gift!"
-	line "Please join in the competition!"
-	done
-
-Clerk9ChallengeCupLostText:
-	text "Most unfortunate, <RAMNAME>."
-	line "Once you enter, you won't be able"
-	line "to re-enter for some time."
-	line "Please try again another day."
-	done
-
-Clerk9ChallengeCupWonText:
-	text "Congratulations, <RAMNAME>!"
-	line "You received a card!"
-	line "Please join us for the next"
-	line "Challenge Cup, too."
-	done
-
-Pappy3Text:
-	text "I won't lose to any"
-	line "whipper-snapper!"
-	line "I'm going to win this"
-	line "Challenge Cup!"
-	done
-
-Gal4Text:
-	text "I work at the Challenge Cup"
-	line "as the host."
-	line "I can't wait to get up on stage!"
-	done
-
-ChampText:
-	text "The time has come to see if all"
-	line "my training has paid off!"
-	line "I'm going to win the Challenge Cup"
-	line "and become a Grand Master!"
-	done
-
-Hood2Text:
-	text "Hey now! It's the Challenge Cup!"
-	line "Hey now! Gonna give it a try!"
-	line "Hey now! Gonna beat 3 people!"
-	line "Hey now! Watch me win the prize!"
-	done
-
-Lass5Text:
-	text "I'm good enough to compete in"
-	line "the Challenge Cup! Girls are just"
-	line "as good at the Pokémon Trading"
-	line "Card Game as boys!"
-	done
-
-Chap5Text:
-	text "What's that? Oh! The Challenge"
-	line "Cup isn't being held right now."
-	line "Me? I'm waiting for the Challenge"
-	line "Cup to begin."
-	done
-
-RonaldChallengeCup1NotStarted1Text:
-	text "Hi, <RAMNAME>."
-	line "Are you competing, too?"
-	done
-
-RonaldChallengeCup1NotStarted2Text:
-	text "I'm the one who's going to"
-	line "defeat all 3 opponents!"
-	line "The prized <Lv>60 Mewtwo card"
-	line "belongs to me! You just sit tight"
-	line "and watch me win! See Ya!"
-	line "Ha ha ha ha ha ha!"
-	done
-
-RonaldChallengeCup1LostActive1Text:
-	text "Hey, it's <RAMNAME> - the loser"
-	line "of the Challenge Cup!"
-	done
-
-RonaldChallengeCup1LostActive2Text:
-	text "What? You're asking if I won?"
-	line "I lost to the third opponent!"
-	line "I just lost my concentration. But"
-	line "I'll win the next Challenge Cup!"
-	line "Of course I'll puverize you!"
-	line "See ya! Ha ha ha ha ha ha!"
-	done
-
-RonaldChallengeCup1LostInactive1Text:
-	text "Hey <RAMNAME>, too bad"
-	line "you're too late!"
-	done
-
-RonaldChallengeCup1LostInactive2Text:
-	text "The Challenge Cup is over!"
-	line "I defeated 3 opponents and won"
-	line "the prize - a <Lv>60 Mewtwo!"
-	line "See ya! Ha ha ha ha ha ha!"
-	done
-
-RonaldChallengeCup1Missed1Text:
-	text "Hi, <RAMNAME>."
-	line "What are you doing here?"
-	done
-
-RonaldChallengeCup1Missed2Text:
-	text "The Challenge Cup is over!"
-	line "I defeated 3 opponents and won"
-	line "the prize - a <Lv>60 Mewtwo!"
-	line "I guess you could try entering"
-	line "the next Challenge Cup, but"
-	line "you won't have a chance since"
-	line "I'll win that one, too!"
-	line "See ya! Ha ha ha ha ha ha!"
-	done
-
-RonaldChallengeCup2NotStarted1Text:
-	text "Hey, <RAMNAME>."
-	line "We meet again."
-	done
-
-RonaldChallengeCup2NotStarted2Text:
-	text "No matter who enters the Challenge"
-	line "Cup, I'll be the winner!"
-	line "This Cup's prize, the <Lv>8 Mew,"
-	line "will belong to me! Why don't you"
-	line "just give up and go home!"
-	line "See ya! Ha ha ha ha ha ha!"
-	done
-
-RonaldChallengeCup2LostActive1Text:
-	text "Hey, it's <RAMNAME> - the"
-	line "loser of the Challenge Cup!"
-	done
-
-RonaldChallengeCup2LostActive2Text:
-	text "That was a close one for me!"
-	line "I lost to the third opponent!"
-	line "But I'll win the next Challenge Cup!"
-	line "And of course, I'll pulverize you!"
-	line "See ya! Ha ha ha ha ha!"
-	done
-
-RonaldChallengeCup2LostInactive1Text:
-	text "Hey, isn't that <RAMNAME>?"
-	line "Late as always!"
-	done
-
-RonaldChallengeCup2LostInactive2Text:
-	text "The Challenge Cup is already"
-	line "over! What? Who won?"
-	line "Who do you expect!?! Me, of"
-	line "course! The prize belongs to"
-	line "me! <Lv>8 Mew! See ya!"
-	line "Ha ha ha ha ha ha!"
-	done
-
-RonaldChallengeCup2Missed1Text:
-	text "Hey, <RAMNAME>!"
-	line "What are you doing here?"
-	done
-
-;	ds $d6

@@ -30,3 +30,6 @@
 
 # *disasm.py output file
 *disasm_output.asm
+
+# Dutch Magic Set Editor set files
+nl_mse_sets/

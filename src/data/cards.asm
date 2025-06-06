@@ -4564,7 +4564,7 @@ ArticunoLv35Card:
 	energy WATER, 4 ; energies
 	tx BlizzardName ; name
 	tx BlizzardDescription ; description
-	dw NONE ; description (cont)
+	tx BlizzardDescriptionCont ; description (cont)
 	db 50 ; damage
 	db DAMAGE_NORMAL ; category
 	dw BlizzardEffectCommands ; effect commands
@@ -5050,7 +5050,7 @@ RaichuLv45Card:
 	energy LIGHTNING, 4 ; energies
 	tx GigashockName ; name
 	tx GigashockDescription ; description
-	dw NONE ; description (cont)
+	tx GigashockDescriptionCont ; description (cont)
 	db 30 ; damage
 	db DAMAGE_NORMAL ; category
 	dw Also10DamageTo3BenchedEffectCommands ; effect commands

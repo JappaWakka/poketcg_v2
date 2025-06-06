@@ -1,1585 +1,1130 @@
-KakunaName:
-	text "Kakuna"
+Text0703:
+	text "Only girls are allowed to join"
+	line "the Grass Club,"
+	line "But we're not accepting"
+	line "applications now, anyway. Sorry!"
 	done
 
-KakunasStiffenDescription:
-	text "Flip a coin. If heads, prevent all"
-	line "damage done to Kakuna during your"
-	line "opponent's next turn. (Any other"
-	line "effects of attacks still happen.)"
+Text0704:
+	text "Are you looking for Nikki,"
+	line "the Grass Club Master?"
+	line "I don't think she's here"
+	line "at the Club at the moment."
+	line "Would you like to take care"
+	line "of the plants?"
+	line "We could duel with cards"
+	line "if you prefer..."
 	done
 
-KakunaDescription:
-	text "Almost incapable of moving, this"
-	line "Pokémon can only harden its shell to"
-	line "protect itself from predators."
+Text0705:
+	text "Hi, would you like to take care of"
+	line "the plants with me?"
+	line "We could duel with cards"
+	line "if you prefer..."
 	done
 
-BeedrillName:
-	text "Beedrill"
+Text0706:
+	text "Would you like to duel Kristin?"
 	done
 
-TwineedleName:
-	text "Twineedle"
+Text0707:
+	text "If you'll excuse me,"
+	line "I have plants to look after!"
 	done
 
-DoubleAttackX30Description:
-	text "Flip 2 coins. This attack does"
-	line "30 damage times the number of heads."
+Text0708:
+	text "We'll play a single match"
+	line "with 4 Prizes."
+	line "Don't take me lightly"
+	line "just because I'm a girl!"
 	done
 
-PoisonBeeName:
-	text "Poison Bee"
+Text0709:
+	text "Oh! I lost."
+	line "Well, I guess this is for you..."
 	done
 
-BeedrillDescription:
-	text "Flies at high speed and attacks"
-	line "using the large, venomous stingers"
-	line "on its forelegs and tail."
+Text070a:
+	text "The Pokémon Trading Card Game is"
+	line "fun, but so is taking care of trees!"
 	done
 
-EkansName:
-	text "Ekans"
+Text070b:
+	text "I believe Nikki is at"
+	line "Ishihara's house."
+	line "Maybe you should go meet her there,"
+	line "since she's late getting back."
 	done
 
-SpitPoisonName:
-	text "Spit Poison"
+Text070c:
+	text "Oh! I won."
+	line "I told you not to take me lightly."
+	line "Now, if you'll excuse me,"
+	line "I have plants to look after!"
 	done
 
-WrapName:
-	text "Wrap"
+Text070d:
+	text "Master Nikki is out right now."
+	line "Where'd she go? That's a secret..."
+	line "... Hmmm, let me see..."
+	line "If you defeat..."
+	line "3 members of the Grass Club,"
+	line "I'll tell you where she is."
+	line "So, how about it?"
 	done
 
-SnakeName:
-	text "Snake"
+Text070e:
+	text "Oh!"
+	line "It's you again."
+	line "If you don't mind,"
+	line "would you duel with me?"
 	done
 
-EkansDescription:
-	text "Moves silently and stealthily."
-	line "Eats the eggs of birds, such as"
-	line "Pidgey and Spearow, whole."
+Text070f:
+	text "Would you like to duel Heather?"
 	done
 
-ArbokName:
-	text "Arbok"
+Text0710:
+	text "I'll be glad to duel you"
+	line "any time you like."
 	done
 
-TerrorStrikeName:
-	text "Terror Strike"
+Text0711:
+	text "Are 4 Prizes OK?"
+	line "Let's begin!"
 	done
 
-TerrorStrikeDescription:
-	text "Flip a coin. If heads and if your"
-	line "opponent has any Benched Pokémon,"
-	line "he or she chooses 1 of them and"
-	line "switches it with the Defending"
-	line "Pokémon. (Do the damage before"
-	line "switching the Pokémon.)"
+Text0712:
+	text "I can't believe"
+	line "I could lose..."
 	done
 
-PoisonFangName:
-	text "Poison Fang"
+Text0713:
+	text "I can't believe"
+	line "I would lose again..."
 	done
 
-CobraName:
-	text "Cobra"
+Text0714:
+	text "I need to practice more..."
 	done
 
-ArbokDescription:
-	text "It is rumored that the ferocious"
-	line "warning markings on its belly differ"
-	line "from area to area."
+Text0715:
+	text "Nikki is visiting Ishihara."
+	line "Why don't you go see her there?"
 	done
 
-NidoranFName:
-	text "Nidoran♀"
+Text0716:
+	text "Well, that wasn't much of a duel!"
+	line "I'll be glad to duel you"
+	line "any time you like."
 	done
 
-FurySwipesName:
-	text "Fury Swipes"
+Text0717:
+	text "I wonder if your last win"
+	line "was just luck?"
+	line "I will be glad to duel you"
+	line "any time you like."
 	done
 
-TripleAttackX10Description:
-	text "Flip 3 coins. This attack does"
-	line "10 damage times the number of heads."
+Text0718:
+	text "I'm Nikki, the Master of the"
+	line "Grass Club."
+	line "I'm sorry I kept you waiting."
+	line "Shall we duel?"
 	done
 
-CallForFamilyName:
-	text "Call for Family"
+Text0719:
+	text "Hello, <RAMNAME>."
+	line "Did you come for a duel?"
 	done
 
-NidoranFsCallForFamilyDescription:
-	text "Search your deck for a Basic Pokémon"
-	line "named Nidoran♀ or Nidoran♂ and put"
-	line "it onto your Bench. Shuffle your"
-	line "deck afterward. (You can't use this"
-	line "attack if your Bench is full.)"
+Text071a:
+	text "Would you like to duel Nikki?"
 	done
 
-PoisonPinName:
-	text "Poison Pin"
+Text071b:
+	text "Oh...You do not wish to duel?"
+	line "I'll be here at the Club for"
+	line "a while, so please come by"
+	line "any time you like."
 	done
 
-NidoranFDescription:
-	text "Although small, its venomous barbs"
-	line "make this Pokémon dangerous."
-	line "The female has smaller horns."
+Text071c:
+	text "Then why don't you stop and"
+	line "gaze at our flowers for a while."
+	line "Looking at beautiful flowers"
+	line "makes you feel so serene."
 	done
 
-NidorinaName:
-	text "Nidorina"
+Text071d:
+	text "Shall we play with 6 Prizes?"
+	line "Please go easy on me."
 	done
 
-SupersonicName:
-	text "Supersonic"
+Text071e:
+	text "We'll play with 6 Prizes, as usual."
+	line "Please go easy on me."
 	done
 
-MayInflictConfusionDescription:
-	text "Flip a coin. If heads, the"
-	line "Defending Pokémon is now Confused."
+Text071f:
+	text "Oh, no! I lost!"
+	line "Well, you truly are skilled."
+	line "Maybe one day you will inherit"
+	line "the Legendary Pokémon Cards."
+	line "Please allow me to give you"
+	line "this Grass Medal."
 	done
 
-DoubleKickName:
-	text "Double Kick"
+Text0720:
+	text "Oh, no!"
+	line "How could I lose?"
+	line "Please allow me to give you"
+	line "this booster pack."
 	done
 
-NidorinaDescription:
-	text "The female's horn develops slowly."
-	line "Prefers physical attacks such as"
-	line "clawing and biting."
+Text0721:
+	text "Please"
+	line "take this, too."
 	done
 
-NidoqueenName:
-	text "Nidoqueen"
+Text0722:
+	text "My duel with you was... quite fun!"
+	line "Please allow me to duel you again!"
 	done
 
-BoyfriendsName:
-	text "Boyfriends"
+Text0723:
+	text "I am Nikki, the Grass Club"
+	line "Master. What? You were looking"
+	line "for me? Oh my..."
+	line "I'm very sorry to keep you waiting."
+	line "I was doing a little research here."
+	line "I assume you would like to duel?"
+	line "I only duel at the Club. I'm sorry,"
+	line "but could you meet me there?"
+	line "I will head back to the Grass Club"
+	line "and wait for you there."
 	done
 
-BoyfriendsDescription:
-	text "Does 20 damage plus 20 more damage"
-	line "for each Nidoking you have in play."
+Text0724:
+	text "Thank you very much, Ishihara."
+	line "Your books were very helpful!"
+	line "You are indeed the Number 1"
+	line "Pokémon card collector."
 	done
 
-MegaPunchName:
-	text "Mega Punch"
+Text0725:
+	text "Oh, no!"
+	line "You give me too much credit..."
+	line "If you need to research anything,"
+	line "please come see me again!"
 	done
 
-DrillName:
-	text "Drill"
+Text0726:
+	text "Thank you very much, Ishihara."
+	line "If you will excuse me..."
 	done
 
-NidoqueenDescription:
-	text "Its hard scales provide strong"
-	line "protection. It uses its hefty bulk"
-	line "to execute powerful moves."
+Text0727:
+	text "Hello, nice to meet you."
+	line "I'm Ishihara."
+	line "I'm a Pokémon card collector."
+	line "I love collecting cards."
+	line "I see you also love Pokémon cards."
+	line "Please come see me again."
+	line "We must trade sometime.  OH!"
+	line "If you're playing with the cards,"
+	line "please read some of the books here."
+	line "I believe they will be helpful."
 	done
 
-NidoranMName:
-	text "Nidoran♂"
+Text0728:
+	text "Hello, <RAMNAME>."
+	line "Welcome."
+	line "There aren't any cards I want"
+	line "or can trade at the moment."
+	line "Let's trade some other time."
+	line "If you like, please feel free to"
+	line "read some of the books I wrote."
+	line "I believe they will be helpful!"
 	done
 
-HornHazardName:
-	text "Horn Hazard"
+Text0729:
+	text "Hello, <RAMNAME>."
+	line "I guess you're here because you"
+	line "heard the rumor that I'm looking"
+	line "for a Clefable..."
+	line "I'm thinking about trading"
+	line "my Surfing Pikachu for it."
+	line "Do you have a Clefable?"
 	done
 
-MayDoNothingDescription:
-	text "Flip a coin. If tails, this attack"
-	line "does nothing."
+Text072a:
+	text "Hello, <RAMNAME>."
+	line "Are you enjoying the Pokémon TCG?"
+	line "By the way, I'm looking for a"
+	line "Clefable..."
+	line "I'm thinking about trading"
+	line "my Surfing Pikachu for it."
+	line "Do you have a Clefable?"
 	done
 
-NidoranMDescription:
-	text "Stiffens its ears to sense danger."
-	line "The larger, more powerful of its"
-	line "horns secretes venom."
+Text072b:
+	text "Would you like to trade cards?"
 	done
 
-NidorinoName:
-	text "Nidorino"
+Text072c:
+	text "All right."
+	line "I understand..."
+	line "Please trade with me"
+	line "some other time..."
 	done
 
-HornDrillName:
-	text "Horn Drill"
+Text072d:
+	text "I appreciate your interest,"
+	line "but you don't own that card."
+	line "Please trade with me"
+	line "some other time..."
 	done
 
-NidorinoDescription:
-	text "An aggressive Pokémon that is quick"
-	line "to attack. The horn on its head"
-	line "secretes a powerful venom."
+Text072e:
+	text "Hmm, I see all the Clefable cards"
+	line "you own are in your deck."
+	line "I can't very well take a card"
+	line "you are using in duels."
+	line "Please trade with me"
+	line "some other time..."
 	done
 
-NidokingName:
-	text "Nidoking"
+Text072f:
+	text "Oh wonderful!"
+	line "Then without delay..."
 	done
 
-ThrashName:
-	text "Thrash"
+Text0730:
+	text "<RAMNAME> traded a Clefable"
+	line "for a Surfing Pikachu!"
 	done
 
-ThrashDescription:
-	text "Flip a coin. If heads, this attack"
-	line "does 30 damage plus 10 more damage;"
-	line "if tails, this attack does 30 damage"
-	line "and Nidoking does 10 damage to"
-	line "itself."
+Text0731:
+	text "Thank you for this Clefable."
+	line "You've been a great help!"
 	done
 
-ToxicName:
-	text "Toxic"
+Text0732:
+	text "Hello, <RAMNAME>."
+	line "I suppose you're here because"
+	line "you heard that I was looking for"
+	line "a Ditto this time..."
+	line "I'm thinking about trading"
+	line "my Flying Pikachu for one."
+	line "Do you have a Ditto?"
 	done
 
-ToxicDescription:
-	text "The Defending Pokémon is now"
-	line "Poisoned. It now takes 20 Poison"
-	line "damage instead of 10 after each"
-	line "player's turn (even if it was"
-	line "already Poisoned)."
+Text0733:
+	text "Hello, <RAMNAME>."
+	line "Are you enjoying the Pokémon TCG?"
+	line "I'm looking for a Ditto this time..."
+	line "I'm thinking about trading"
+	line "my Flying Pikachu for one."
+	line "Do you have a Ditto?"
 	done
 
-NidokingDescription:
-	text "Uses its powerful tail in battle to"
-	line "smash, constrict, then break its"
-	line "prey's bones."
+Text0734:
+	text "Hmmm..."
+	line "I see you don't have a Ditto card."
+	line "I will only trade my"
+	line "Flying Pikachu for a Ditto."
+	line "Please trade with me"
+	line "some other time..."
 	done
 
-ZubatName:
-	text "Zubat"
+Text0735:
+	text "Hmmm...I see all your Ditto cards"
+	line "are in your deck."
+	line "I can't very well take a card"
+	line "you are using in duels."
+	line "Please trade with me"
+	line "some other time..."
 	done
 
-LeechLifeName:
-	text "Leech Life"
+Text0736:
+	text "<RAMNAME> traded a Ditto"
+	line "for a Flying Pikachu!"
 	done
 
-ZubatsLeechLifeDescription:
-	text "Remove a number of damage counters"
-	line "from Zubat equal to the damage done"
-	line "to the Defending Pokémon (after"
-	line "applying Weakness and Resistance)."
-	line "If Zubat has fewer damage counters"
-	line "than that, remove all of them."
+Text0737:
+	text "Thank you for this Ditto."
+	line "You've been a great help!"
 	done
 
-BatName:
-	text "Bat"
+Text0738:
+	text "Hello, <RAMNAME>."
+	line "You're really current on the news!"
+	line "I'm looking for a Chansey this"
+	line "time! I'm thinking about trading"
+	line "my Surfing Pikachu for it."
+	line "This one has a different"
+	line "illustration than the last one."
+	line "Do you have a Chansey?"
 	done
 
-ZubatDescription:
-	text "Forms colonies in perpetually dark"
-	line "places. Uses ultrasonic waves to"
-	line "identify and approach targets."
+Text0739:
+	text "Hello, <RAMNAME>."
+	line "Are you enjoying the Pokémon TCG?"
+	line "I'm looking for a Chansey this time!"
+	line "I'm thinking about trading my"
+	line "Surfing Pikachu for one."
+	line "This one has a different"
+	line "illustration than the last one."
+	line "Do you have a Chansey to trade?"
 	done
 
-GolbatName:
-	text "Golbat"
+Text073a:
+	text "Hmmm..."
+	line "I see you don't have a Chansey."
+	line "Please trade with me"
+	line "some other time..."
 	done
 
-WingAttackName:
-	text "Wing Attack"
+Text073b:
+	text "Hmmm...I see all your Chansey"
+	line "are in your deck."
+	line "I can't very well take a card"
+	line "you are using in duels."
+	line "Please trade with me"
+	line "some other time..."
 	done
 
-GolbatsLeechLifeDescription:
-	text "Remove a number of damage counters"
-	line "from Golbat equal to the damage done"
-	line "to the Defending Pokémon (after"
-	line "applying Weakness and Resistance)."
-	line "If Golbat has fewer damage counters"
-	line "than that, remove all of them."
+Text073c:
+	text "<RAMNAME> traded a Chansey"
+	line "for a Surfing Pikachu!"
 	done
 
-GolbatDescription:
-	text "Once it strikes, it will not stop"
-	line "draining energy from the victim"
-	line "even if it gets too heavy to fly."
+Text073d:
+	text "Thank you for this Chansey."
+	line "You've been a great help!"
 	done
 
-OddishName:
-	text "Oddish"
+Text073e:
+	text "Oh! Congratulations, <RAMNAME>!"
+	line "I heard the news! You've finally"
+	line "inherited the Legendary Pokémon"
+	line "Cards! Don't worry, I'm not going"
+	line "to ask you to trade them to me."
+	line "Besides, it would be a waste"
+	line "not to use the Legendary Cards"
+	line "for dueling. Make sure your"
+	line "duels are worthy of"
+	line "the Legendary Pokémon Cards."
 	done
 
-SproutName:
-	text "Sprout"
+Text073f:
+	text "Who?"
+	line "Oh! It's you, <RAMNAME>..."
+	line "I couldn't believe that I could"
+	line "lose, but now... Now I understand."
+	line "The fun thing about the"
+	line "Pokémon Trading Card Game"
+	line "is not who wins or loses..."
+	line "I couldn't inherit the Legendary"
+	line "Pokémon Cards because all that"
+	line "was important to me was winning."
+	line "But now I understand!"
+	line "What's important..."
+	line "Is to love each card, to use all"
+	line "the different cards to build"
+	line "different types of decks, and"
+	line "to play against different people!"
+	line "So...<RAMNAME>..."
+	line "Will you play with me again?"
+	line "With all sorts of different decks?"
+	line "And this time, I'm not gonna lose!"
 	done
 
-SproutDescription:
-	text "Search your deck for a Basic Pokémon"
-	line "named Oddish and put it onto your"
-	line "Bench. Shuffle your deck afterward."
-	line "(You can't use this attack if your"
-	line "Bench is full.)"
+Text0740:
+	text "Oh, hi <RAMNAME>..."
+	line "Do you want to duel?"
 	done
 
-WeedName:
-	text "Weed"
+Text0741:
+	text "Would you like to duel Ronald?"
 	done
 
-OddishDescription:
-	text "During the day, it keeps its face"
-	line "buried in the ground. At night,"
-	line "it wanders around sowing its seeds."
+Text0742:
+	text "OK... That suits me fine!"
+	line "I'm building a new deck!"
+	line "I'm busy building a better deck than"
+	line "yours!!! We'll duel another time!"
 	done
 
-GloomName:
-	text "Gloom"
+Text0743:
+	text "I can't..."
+	line "I'm building a new deck!"
+	line "I'm busy building a better deck than"
+	line "yours!!! We'll duel another time!"
 	done
 
-FoulOdorName:
-	text "Foul Odor"
+Text0744:
+	text "Greetings."
+	line "Welcome to the Science Club!"
+	line "This Club is for technicians"
+	line "who love the sciences."
+	line "The Pokémon cards used here are"
+	line "those with the powers of science!"
 	done
 
-FoulOdorDescription:
-	text "Both the Defending Pokémon and"
-	line "Gloom are now Confused (after doing"
-	line "damage)."
+Text0745:
+	text "Umm... Umm..."
+	line "Do you know Ishihara?"
+	line "He lives in the house on the cape"
+	line "to the northwest."
+	line "He's a very famous card collector!"
+	line "I hope to be like him someday."
 	done
 
-GloomDescription:
-	text "The fluid that oozes from its mouth"
-	line "isn't drool; it is a nectar that is"
-	line "used to attract prey."
+Text0746:
+	text "Umm... Umm... Ishihara wants to"
+	line "trade a very rare card."
+	line "If I had a card, I'd go and trade"
+	line "with him myself."
 	done
 
-VileplumeName:
-	text "Vileplume"
+Text0747:
+	text "Umm... Umm... Ishihara wants to"
+	line "trade another very rare card."
+	line "I wish I could trade cards"
+	line "like Ishihara."
 	done
 
-HealName:
-	text "Heal"
+Text0748:
+	text "Umm... Umm... Ishihara wants to "
+	line "trade a very, very, very rare card!"
+	line "I wish I could trade, so I could"
+	line "meet Ishihara."
 	done
 
-HealDescription:
-	text "Once during your turn (before your"
-	line "attack), you may flip a coin. If"
-	line "heads, remove 1 damage counter from"
-	line "1 of your Pokémon. This power can't"
-	line "be used if Vileplume is Asleep,"
-	line "Confused, or Paralyzed."
+Text0749:
+	text "Umm... Umm... Did you meet Ishihara?"
+	line "I wish I could be like him."
 	done
 
-PetalDanceName:
-	text "Petal Dance"
+Text074a:
+	text "Umm... Umm..."
+	line "Ishihara left on a trip"
+	line "in search of a really rare card."
+	line "I wish I could have gone with him..."
 	done
 
-PetalDanceDescription:
-	text "Flip 3 coins. This attack does"
-	line "40 damage times the number of heads."
-	line "Vileplume is now Confused (after"
-	line "doing damage)."
+Text074b:
+	text "I don't understand science,"
+	line "but I understand Pokémon cards!"
+	line "... I  L O S T..."
 	done
 
-FlowerName:
-	text "Flower"
+Text074c:
+	text "Please don't disturb me!"
+	line ""
+	line "I'm in the middle of"
+	line "a very important experiment!"
 	done
 
-VileplumeDescription:
-	text "The larger its petals, the more"
-	line "toxic pollen it contains. Its big"
-	line "head is heavy and hard to hold up."
+Text074d:
+	text "If I use <RAMTEXT> now,"
+	line "This will happen..."
 	done
 
-ParasName:
-	text "Paras"
+Text074e:
+	text "I get so involved in the Pokémon"
+	line "Trading Card Game, I lose track"
+	line "of time. Isn't the Pokémon Trading"
+	line "Card Game really fun?"
 	done
 
-ScratchName:
-	text "Scratch"
+Text074f:
+	text "Hmmm... The machine..."
+	line "It's not quite working right."
+	line "Huh? Oh, this? This is a machine"
+	line "that makes decks."
+	line "It's much better than Dr. Mason's."
+	line "Hmmm... Let's see here..."
+	line "Do you want to duel against me?"
 	done
 
-SporeName:
-	text "Spore"
+Text0750:
+	text "Hmmm... The machine..."
+	line "It's not quite working right."
+	line "Unlike Dr. Mason's machine,"
+	line "this machine is very complicated."
+	line "Hmmm... Let's see here..."
+	line "Do you want to duel against me?"
 	done
 
-InflictSleepDescription:
-	text "The Defending Pokémon is now Asleep."
+Text0751:
+	text "Would you like to duel David?"
 	done
 
-MushroomName:
-	text "Mushroom"
+Text0752:
+	text "OK, then I guess I'll fix"
+	line "the machine."
 	done
 
-ParasDescription:
-	text "Burrows to suck tree roots."
-	line "The mushrooms on its back grow by"
-	line "drawing nutrients from the bug host."
+Text0753:
+	text "Shall we begin the match? It will"
+	line "be a single match for 4 Prizes."
 	done
 
-ParasectName:
-	text "Parasect"
+Text0754:
+	text "My theory is that the machine's"
+	line "malfunctioning caused it."
 	done
 
-SlashName:
-	text "Slash"
+Text0755:
+	text "I've got to fix this machine..."
 	done
 
-ParasectDescription:
-	text "A host-parasite pair in which the"
-	line "parasite mushroom has taken over"
-	line "the host bug. Prefers damp places."
+Text0756:
+	text "See! Isn't the deck built"
+	line "by this machine great?"
 	done
 
-VenonatName:
-	text "Venonat"
+Text0757:
+	text "We research Pokémon cards here"
+	line "at the Science Club, especially"
+	line "Science Pokémon cards! Science"
+	line "Pokémon are exceedingly strong."
+	line "Would you like to duel against"
+	line "my Science Pokémon deck?"
 	done
 
-VenonatLeechLifeDescription:
-	text "Remove a number of damage counters"
-	line "from Venonat equal to the damage"
-	line "done to the Defending Pokémon (after"
-	line "applying Weakness and Resistance)."
-	line "If Venonat has fewer damage counters"
-	line "than that, remove all of them."
+Text0758:
+	text "Would you like to duel Erik?"
 	done
 
-InsectName:
-	text "Insect"
+Text0759:
+	text "That's too bad. I hoped to show"
+	line "you the results of my research."
 	done
 
-VenonatDescription:
-	text "Lives in the shadows of tall trees"
-	line "where it eats insects."
-	line "It is attracted by light at night."
+Text075a:
+	text "We'll play with 4 Prizes."
+	line "Let's begin."
 	done
 
-VenomothName:
-	text "Venomoth"
+Text075b:
+	text "I can't believe my Science Pokémon"
+	line "deck could lose..."
 	done
 
-ShiftName:
-	text "Shift"
+Text075c:
+	text "I must research this further!"
 	done
 
-ShiftDescription:
-	text "Once during your turn (before your"
-	line "attack), you may change the type of"
-	line "Venomoth to the type of any other"
-	line "Pokémon in play other than <COLORLESS>."
-	line "This power can't be used if Venomoth"
-	line "is Asleep, Confused, or Paralyzed."
+Text075d:
+	text "So how do you like the results"
+	line "of my research?"
 	done
 
-VenomPowderName:
-	text "Venom Powder"
+Text075e:
+	text "I am Rick, the Master of"
+	line "the Science Club."
+	line "Science rules nature!"
+	line "That is why it is so strong."
+	line "Do you wish to test the strengths"
+	line "of science by playing against me?"
 	done
 
-VenomPowderDescription:
-	text "Flip a coin. If heads, the"
-	line "Defending Pokémon is now Confused"
-	line "and Poisoned."
+Text075f:
+	text "Would you like to duel Rick?"
 	done
 
-PoisonmothName:
-	text "Poisonmoth"
+Text0760:
+	text "It is regrettable that you do not"
+	line "understand the wonders of science."
 	done
 
-VenomothDescription:
-	text "The dust-like scales covering its"
-	line "wings are color-coded to indicate"
-	line "the kinds of poison it has."
+Text0761:
+	text "All right, 6 Prizes!"
+	line "Let us begin!"
 	done
 
-BellsproutName:
-	text "Bellsprout"
+Text0762:
+	text "There are, at times, problems even"
+	line "science cannot answer."
+	line "Here, take this medal."
+	line "It is the result of our research."
 	done
 
-BellsproutsCallForFamilyDescription:
-	text "Search your deck for a Basic Pokémon"
-	line "named Bellsprout and put it onto"
-	line "your Bench. Shuffle your deck"
-	line "afterward. (You can't use this"
-	line "attack if your Bench is full.)"
+Text0763:
+	text "And let me give you this."
+	line "Please add this to your collection."
 	done
 
-BellsproutDescription:
-	text "A carnivorous Pokémon that traps and"
-	line "eats bugs. It uses its root feet to"
-	line "soak up needed moisture."
+Text0764:
+	text "Legendary Cards are but a legend!"
+	line "Science is the only truth!"
+	line "I must continue my research"
+	line "of Science Pokémon!"
 	done
 
-WeepinbellName:
-	text "Weepinbell"
+Text0765:
+	text "Ha ha ha! As expected!"
+	line "Science is overpowering!"
+	line "The outcome will be the same! But"
+	line "I will duel you again, if you wish."
 	done
 
-RazorLeafName:
-	text "Razor Leaf"
+Text0766:
+	text "Hello! It's you again!"
+	line "Do you wish to duel me!"
 	done
 
-FlycatcherName:
-	text "Flycatcher"
+Text0767:
+	text "Really? That is too bad."
 	done
 
-WeepinbellDescription:
-	text "It spits out poisonpowder to"
-	line "immobilize the enemy, and then"
-	line "finishes the enemy with a spray of"
-	line "acid."
+Text0768:
+	text "We'll play with 6 Prizes again!"
+	line "Let us begin!"
 	done
 
-VictreebelName:
-	text "Victreebel"
+Text0769:
+	text "It seems my research was incomplete."
+	line "Please add these to your collection."
 	done
 
-LureName:
-	text "Lure"
+Text076a:
+	text "I will keep researching the"
+	line "Science Pokémon."
 	done
 
-VictreebelsLureDescription:
-	text "If your opponent has any Benched"
-	line "Pokémon, choose 1 of them and switch"
-	line "it with his or her Active Pokémon."
+Text076b:
+	text "Ha ha ha! As expected."
+	line "Science is overpowering!"
 	done
 
-AcidName:
-	text "Acid"
+Text076c:
+	text "Hey, you!"
+	line "Rick, the Club Master, is in the"
+	line "middle of an important experiment!"
+	line "He has no time to see someone like"
+	line "you! If you really want to see him,"
+	line "you must defeat me first!"
 	done
 
-VictreebelsAcidDescription:
-	text "Flip a coin. If heads, the"
-	line "Defending Pokémon can't retreat"
-	line "during your opponent's next turn."
+Text076d:
+	text "Would you like to duel Joseph?"
 	done
 
-VictreebelDescription:
-	text "Said to live in huge colonies deep"
-	line "in jungles, although no one has ever"
-	line "returned from there."
+Text076e:
+	text "Then get out of here!"
 	done
 
-GrimerName:
-	text "Grimer"
+Text076f:
+	text "Not too smart, but you've got"
+	line "nerves. We'll play for 4 Prizes!"
+	line "If you win a match,"
+	line "I'll let you through!"
 	done
 
-NastyGooName:
-	text "Nasty Goo"
+Text0770:
+	text "Hey, I lost... Since I promised,"
+	line "I have to let you through."
 	done
 
-MinimizeName:
-	text "Minimize"
+Text0771:
+	text "And..."
+	line "Take this."
 	done
 
-GrimersMinimizeDescription:
-	text "All damage done by attacks to Grimer"
-	line "during your opponent's next turn is"
-	line "reduced by 20 (after applying"
-	line "Weakness and Resistance)."
+Text0772:
+	text "Rick's in the midst of an experiment"
+	line "so don't bother him too much."
 	done
 
-SludgeName:
-	text "Sludge"
+Text0773:
+	text "Since you lost the duel,"
+	line "I can't let you through!"
+	line "Now get out of here!"
 	done
 
-GrimerDescription:
-	text "Appears in filthy areas. Thrives by"
-	line "sucking up polluted sludge that is"
-	line "pumped out of factories."
+Text0774:
+	text "What? You're here again?"
+	line "You want to duel me?"
 	done
 
-MukName:
-	text "Muk"
+Text0775:
+	text "A single match for 4 Prizes!"
+	line "Let's begin!"
 	done
 
-ToxicGasName:
-	text "Toxic Gas"
+Text0776:
+	text "Shoot! I lost again!"
+	line "Here, take this."
 	done
 
-ToxicGasDescription:
-	text "Ignore all Pokémon Powers other"
-	line "than Toxic Gases. This power stops"
-	line "working while Muk is Asleep,"
-	line "Confused, or Paralyzed."
+Text0777:
+	text "Everyone in our Club is very busy,"
+	line "so don't get in anyone's way!"
 	done
 
-MukDescription:
-	text "Thickly covered with a filthy, vile"
-	line "sludge. It is so toxic, even its"
-	line "footprints contain poison."
+Text0778:
+	text "Hah! I won!"
+	line "Just shows you who's better!"
 	done
 
-ExeggcuteName:
-	text "Exeggcute"
+Text0779:
+	text "Greetings."
+	line "Welcome to the Rock Club!"
+	line "This Club is for members who"
+	line "use Rock Pokémon cards."
+	line "Rock Pokémon are defensive"
+	line "and take very little damage."
 	done
 
-HypnosisName:
-	text "Hypnosis"
+Text077a:
+	text "I'm training here at the Rock Club!"
+	line "But Mitch told me to defeat you"
+	line "before you duel any of the members"
+	line "here!"
 	done
 
-ExeggcutesLeechSeedDescription:
-	text "Unless all damage from this attack"
-	line "is prevented, you may remove 1"
-	line "damage counter from Exeggcute."
+UnusedText077b: ; Unused
+	text "????"
 	done
 
-EggName:
-	text "Egg"
+Text077c:
+	text "Are you going to run!?!"
+	line "C'mon! Fight me!"
 	done
 
-ExeggcuteDescription:
-	text "Often mistaken for eggs."
-	line "When disturbed, they quickly gather"
-	line "and attack in swarms."
+Text077d:
+	text "OK! A single match with 4 Prizes!"
+	line "I'm going to defeat you!"
 	done
 
-ExeggutorName:
-	text "Exeggutor"
+Text077e:
+	text "How could this be!?!"
+	line "I'm the one who was defeated!"
 	done
 
-TeleportName:
-	text "Teleport"
+Text077f:
+	text "I must return to the Fighting Club"
+	line "to start my training over!"
 	done
 
-TeleportDescription:
-	text "Switch Exeggutor with 1 of your"
-	line "Benched Pokémon."
+Text0780:
+	text "That was good for my training!"
+	line "Come back whenever you want!"
+	line "I'll defeat you any time you like!"
 	done
 
-BigEggsplosionName:
-	text "Big Eggsplosion"
+Text0781:
+	text "Hi, I'm Matthew, a member"
+	line "of the Rock Club."
+	line "I just finished a duel!"
+	line "I won, of course!"
+	line "The Legendary Cards"
+	line "will belong to me!"
+	line "How about it?"
+	line "Would you like to duel me?"
 	done
 
-BigEggsplosionDescription:
-	text "Flip a number of coins equal to the"
-	line "number of Energy attached to"
-	line "Exeggutor. This attack does"
-	line "20 damage times the number of heads."
+Text0782:
+	text "Hi, <RAMNAME>."
+	line "Would you like to duel?"
+	line "The Legendary Cards will eventually"
+	line "belong to me!"
+	line "How about it?"
+	line "Would you like to duel me?"
 	done
 
-CoconutName:
-	text "Coconut"
+Text0783:
+	text "Hi, <RAMNAME>."
+	line "Would you like to duel?"
 	done
 
-ExeggutorDescription:
-	text "Legend has it that on rare"
-	line "occasions, one of its heads will"
-	line "drop off and continue on as an"
-	line "Exeggcute."
+Text0784:
+	text "Would you like to duel Matthew?"
 	done
 
-KoffingName:
-	text "Koffing"
+Text0785:
+	text "What?"
+	line "Are you afraid of me?"
+	line "Well, come back any time"
+	line "you want to duel with me."
 	done
 
-FoulGasName:
-	text "Foul Gas"
+Text0786:
+	text "OK, same as last time!"
+	line "We'll play with 4 Prizes."
+	line "Is that all right?"
+	line "OK then, let's begin!"
 	done
 
-FoulGasDescription:
-	text "Flip a coin. If heads, the"
-	line "Defending Pokémon is now Poisoned;"
-	line "if tails, it is now Confused."
+Text0787:
+	text "I'll never get the Legendary Cards"
+	line "if I play like that..."
 	done
 
-PoisonGasName:
-	text "Poison Gas"
+Text0788:
+	text "Wow! So that's the strength of"
+	line "the Legendary Pokémon Cards!"
 	done
 
-KoffingDescription:
-	text "Because it stores several kinds of"
-	line "toxic gases in its body, it is prone"
-	line "to exploding without warning."
+Text0789:
+	text "I'm going to win the next"
+	line "time we duel."
 	done
 
-WeezingName:
-	text "Weezing"
+Text078a:
+	text "I won again!"
+	line ""
+	line "I guess the Legendary Pokémon Cards"
+	line "will eventually belong to me!"
 	done
 
-SmogName:
-	text "Smog"
+Text078b:
+	text "I guess I win again!"
 	done
 
-SelfdestructName:
-	text "Selfdestruct"
+Text078c:
+	text "Oh! Excuse me!"
+	line "Did you hear?"
+	line "Ishihara who lives on the cape"
+	line "to the northwest..."
+	line "He owns 10,000 cards!"
+	line "He probably even has rare cards!"
 	done
 
-WeezingsSelfdestructDescription:
-	text "Does 10 damage to each Pokémon on"
-	line "each player's Bench. (Don't apply"
-	line "Weakness and Resistance for"
-	line "Benched Pokémon.) Weezing does"
-	line "60 damage to itself."
+Text078d:
+	text "Oh! Excuse me!"
+	line "Did you hear?"
+	line "It's the talk of the town"
+	line "that Ishihara wishes to trade"
+	line "a very rare card."
+	line "Maybe I'll visit him myself!"
 	done
 
-WeezingDescription:
-	text "Where two kinds of poison gases"
-	line "meet, two Koffings can fuse into a"
-	line "Weezing over many years."
+Text078e:
+	text "Oh! Excuse me!"
+	line "Did you hear?"
+	line "Everyone's saying that Ishihara"
+	line "wishes to trade a very rare card!"
+	line "Maybe you should go visit him."
 	done
 
-TangelaName:
-	text "Tangela"
+Text078f:
+	text "Oh! Excuse me!"
+	line "Did you hear?"
+	line "Ishihara wishes to trade"
+	line "a very rare card again!"
+	line "Maybe you should go visit him."
 	done
 
-BindName:
-	text "Bind"
+Text0790:
+	text "Oh! Excuse me!"
+	line "There's no new news right now,"
+	line "but if I hear any new rumors,"
+	line "I'll let you know."
 	done
 
-VineName:
-	text "Vine"
+Text0791:
+	text "Oh! Excuse me!"
+	line "Did you hear?"
+	line "It seems Ishihara left on a"
+	line "trip in search of a rare card!"
+	line "They say he's not coming back"
+	line "for a while!"
 	done
 
-TangelaLv8Description:
-	text "Its whole body is swathed with wide"
-	line "vines that are similar to seaweed."
-	line "These vines shake as it walks."
+Text0792:
+	text "Gee! I lost!"
+	line "Matthew's really good!"
+	line "He'll probably inherit"
+	line "the Legendary Pokémon Cards!"
 	done
 
-PoisonWhipName:
-	text "Poison Whip"
+Text0793:
+	text "I lost to Matthew again!"
+	line ""
+	line "I can't win, no matter how many"
+	line "times I duel against him!"
+	line "He's probably going to inherit"
+	line "the Legendary Pokémon Cards!"
+	line "What? You already inherited"
+	line "the Legendary Pokémon Cards???"
+	line "Then you must be better than"
+	line "Matthew!"
 	done
 
-TangelaLv12Description:
-	text "Its identity is obscured by masses"
-	line "of thick, blue vines. The vines are"
-	line "said to never stop growing."
+Text0794:
+	text "I'm going to be moving soon to a"
+	line "faraway place. But I'm not sad."
+	line "I'll make new friends dueling"
+	line "with Pokémon cards..."
 	done
 
-ScytherName:
-	text "Scyther"
+Text0795:
+	text "I'm carving a statue of a Pokémon"
+	line "out of this Rock!"
+	line "What? You want to duel?"
+	line "All right. You want to duel now?"
 	done
 
-SwordsDanceName:
-	text "Swords Dance"
+Text0796:
+	text "Would you like to duel Ryan?"
 	done
 
-SwordsDanceDescription:
-	text "During your next turn, Scyther's"
-	line "Slash attack's base damage is"
-	line "doubled."
+Text0797:
+	text "Get outta here if you aren't"
+	line "serious - I'm really busy!"
 	done
 
-MantisName:
-	text "Mantis"
+Text0798:
+	text "Let's make it a quick single match"
+	line "with 3 Prizes. OK, let's start!"
 	done
 
-ScytherDescription:
-	text "With ninja-like agility and speed,"
-	line "it can create the illusion that"
-	line "there is more than one of it."
+Text0799:
+	text "Whoa! I lost!"
+	line "Here! Take this!"
 	done
 
-PinsirName:
-	text "Pinsir"
+Text079a:
+	text "What's going on?"
+	line "Must be my unlucky day..."
 	done
 
-IronGripName:
-	text "Irongrip"
+Text079b:
+	text "Yeah!"
+	line "Must be my lucky day!"
+	line "Come see me any time you want!"
+	line "I'll duel with you again!"
 	done
 
-GuillotineName:
-	text "Guillotine"
+Text079c:
+	text "I've always wanted to be"
+	line "a Hard Rocker!"
+	line "Rock Pokémon..."
+	line "Doesn't the name Rock?"
+	line "Won't you duel against my"
+	line "Rock Pokémon deck?"
 	done
 
-StagbeetleName:
-	text "Stagbeetle"
+Text079d:
+	text "Would you like to duel Andrew?"
 	done
 
-PinsirDescription:
-	text "If it fails to crush the victim in"
-	line "its pincers, it will swing its"
-	line "victim around and toss it hard."
+Text079e:
+	text "That's OK..."
+	line "I'll Rock with someone else!"
 	done
 
-CharmanderName:
-	text "Charmander"
+Text079f:
+	text "Thanks! We'll Rock this Match"
+	line "with 4 Prizes!"
 	done
 
-EmberName:
-	text "Ember"
+Text07a0:
+	text "Whoa! I lost!"
+	line "A Rockin' guy like me can't lose!"
 	done
 
-EmberDescription:
-	text "Discard 1 <FIRE> Energy card attached"
-	line "to Charmander in order to use this"
-	line "attack."
+Text07a1:
+	text "A Rockin' guy like me should be"
+	line "hard to beat!"
+	line "I've got to Rock harder!"
 	done
 
-LizardName:
-	text "Lizard"
+Text07a2:
+	text "Hah! I won!"
+	line "Am I Rockin' or what!"
 	done
 
-CharmanderDescription:
-	text "Obviously prefers hot places. If it"
-	line "gets caught in the rain, steam is"
-	line "said to spout from the tip of its"
-	line "tail."
+Text07a3:
+	text "I am Gene, the Master of the"
+	line "Rock Club! Rock is good..."
+	line "Isn't Rock good, <RAMNAME>...?"
+	line "Rock is hard and strong!"
+	line "Doesn't crumble under pressure!"
+	line "After you duel me, you'll know"
+	line "I'm right! Come!"
+	line "Show me what you're made of!"
 	done
 
-CharmeleonName:
-	text "Charmeleon"
+Text07a4:
+	text "Would you like to duel Gene?"
 	done
 
-FlamethrowerName:
-	text "Flamethrower"
+Text07a5:
+	text "I have no time for a softie"
+	line "like you!"
+	line "Come back after you've hardened"
+	line "your nerve!"
 	done
 
-CharmeleonsFlamethrowerDescription:
-	text "Discard 1 <FIRE> Energy card attached"
-	line "to Charmeleon in order to use this"
-	line "attack."
+Text07a6:
+	text "Our duel will be played"
+	line "with 6 Prizes!"
+	line "You won't get the Rock Medal"
+	line "unless you defeat me!"
 	done
 
-FlameName:
-	text "Flame"
+Text07a7:
+	text "Wonderful... Your persistence -"
+	line "persistence that can even"
+	line "break Rock - has led you to"
+	line "defeat me!"
+	line "You are worthy of receiving this"
+	line "Rock Medal!"
 	done
 
-CharmeleonDescription:
-	text "When it swings its burning tail, it"
-	line "raises the temperature to unbearably"
-	line "high levels."
+Text07a8:
+	text "And take this booster pack, too."
 	done
 
-CharizardName:
-	text "Charizard"
+Text07a9:
+	text "I look forward to the day"
+	line "we duel again!"
 	done
 
-EnergyBurnName:
-	text "Energy Burn"
+Text07aa:
+	text "You see? Isn't Rock good?"
+	line "Isn't Rock wonderful?"
+	line "'Fess up and admit the greatness"
+	line "of Rock Pokémon!"
 	done
 
-EnergyBurnDescription:
-	text "As often as you like during your"
-	line "turn (before your attack), you may"
-	line "turn all Energy attached to"
-	line "Charizard into <FIRE> Energy for the"
-	line "rest of the turn. This power can't"
-	line "be used if Charizard is Asleep,"
-	line "Confused, or Paralyzed."
+Text07ab:
+	text "Yes!"
+	line "Our last duel was wonderful!"
+	line "You wish to have another"
+	line "wonderful duel?"
 	done
 
-FireSpinName:
-	text "Fire Spin"
+Text07ac:
+	text "Mmmm..."
+	line "I will be waiting for you here..."
 	done
 
-FireSpinDescription:
-	text "Discard 2 Energy cards attached to"
-	line "Charizard in order to use this"
-	line "attack."
+Text07ad:
+	text "This will be a single match with"
+	line "6 Prizes! Come! Let us begin!"
 	done
 
-CharizardDescription:
-	text "Spits fire that is hot enough to"
-	line "melt boulders. Known to"
-	line "unintentionally cause forest fires."
+Text07ae:
+	text "Yes! You are an worthy opponent!"
+	line "Here, take this booster pack."
 	done
 
-VulpixName:
-	text "Vulpix"
+Text07af:
+	text "I look forward to the day"
+	line "when we duel again!"
 	done
 
-ConfuseRayName:
-	text "Confuse Ray"
+Text07b0:
+	text "It was a wonderful duel!"
+	line "But better luck next time!"
+	line "I look forward to the day"
+	line "when we duel again!"
 	done
-
-FoxName:
-	text "Fox"
-	done
-
-VulpixDescription:
-	text "At the time of birth, it has just"
-	line "one tail. Its tail splits from the"
-	line "tip as it grows older."
-	done
-
-NinetalesName:
-	text "Ninetales"
-	done
-
-NinetalesLureDescription:
-	text "If your opponent has any Benched"
-	line "Pokémon, choose 1 of them and switch"
-	line "it with the Defending Pokémon."
-	done
-
-FireBlastName:
-	text "Fire Blast"
-	done
-
-FireBlastDescription:
-	text "Discard 1 <FIRE> Energy card attached"
-	line "to Ninetales in order to use this"
-	line "attack."
-	done
-
-NinetalesLv32Description:
-	text "Very smart and very vengeful."
-	line "Grabbing one of its many tails could"
-	line "result in a 1,000-year curse."
-	done
-
-MixUpName:
-	text "Mix-Up"
-	done
-
-MixUpDescription:
-	text "If your opponent has any Basic"
-	line "Pokémon or Evolution cards in his"
-	line "or her hand, your opponent shuffles"
-	line "them into his or her deck. Then,"
-	line "your opponent puts an equal number"
-	line "of Basic Pokémon or Evolution cards"
-	line "chosen at random from his or"
-	done
-
-MixUpDescriptionCont:
-	text "her deck into his or her hand. Your"
-	line "opponent shuffles his or her deck"
-	line "afterward."
-	done
-
-DancingEmbersName:
-	text "Dancing Embers"
-	done
-
-DancingEmbersDescription:
-	text "Flip 8 coins. This attack does"
-	line "10 damage times the number of heads."
-	done
-
-NinetalesLv35Description:
-	text "According to an enduring legend,"
-	line "9 noble heroes were united and"
-	line "reincarnated as this."
-	done
-
-GrowlitheName:
-	text "Growlithe"
-	done
-
-FlareName:
-	text "Flare"
-	done
-
-PuppyName:
-	text "Puppy"
-	done
-
-GrowlitheDescription:
-	text "Very protective of its territory."
-	line "It will bark and bite to repel"
-	line "intruders from its space."
-	done
-
-ArcanineName:
-	text "Arcanine"
-	done
-
-QuickAttackName:
-	text "Quick Attack"
-	done
-
-QuickAttackDescription:
-	text "Flip a coin. If heads, this attack"
-	line "does 10 damage plus 20 more damage."
-	done
-
-FlamesOfRageName:
-	text "Flames of Rage"
-	done
-
-FlamesOfRageDescription:
-	text "Discard 2 <FIRE> Energy cards attached"
-	line "to Arcanine in order to use this"
-	line "attack. This attack does 40 damage"
-	line "plus 10 more damage for each"
-	line "damage counter on Arcanine."
-	done
-
-LegendaryName:
-	text "Legendary"
-	done
-
-ArcanineLv34Description:
-	text "A legendary Pokémon famous for its"
-	line "beauty. It looks almost as if it"
-	line "flies when it runs."
-	done
-
-ArcaninesFlamethrowerDescription:
-	text "Discard 1 <FIRE> Energy card attached"
-	line "to Arcanine in order to use this"
-	line "attack."
-	done
-
-TakeDownName:
-	text "Take Down"
-	done
-
-TakeDownDescription:
-	text "Arcanine does 30 damage to itself."
-	done
-
-ArcanineLv45Description:
-	text "A Pokémon that has been long admired"
-	line "for its beauty. It runs gracefully,"
-	line "as if on wings."
-	done
-
-PonytaName:
-	text "Ponyta"
-	done
-
-SmashKickName:
-	text "Smash Kick"
-	done
-
-FlameTailName:
-	text "Flame Tail"
-	done
-
-FireHorseName:
-	text "Fire Horse"
-	done
-
-PonytaDescription:
-	text "Its hooves are 10 times harder than"
-	line "diamonds. It can trample anything"
-	line "flat in moments."
-	done
-
-RapidashName:
-	text "Rapidash"
-	done
-
-StompName:
-	text "Stomp"
-	done
-
-StompDescription:
-	text "Flip a coin. If heads, this attack"
-	line "does 20 damage plus 10 more damage."
-	done
-
-AgilityName:
-	text "Agility"
-	done
-
-RapidashsAgilityDescription:
-	text "Flip a coin. If heads, during your"
-	line "opponent's next turn, prevent all"
-	line "effects of attacks, including"
-	line "damage, done to Rapidash."
-	done
-
-RapidashDescription:
-	text "Very competitive, this Pokémon will"
-	line "chase anything that moves fast in"
-	line "the hopes of racing it."
-	done
-
-MagmarName:
-	text "Magmar"
-	done
-
-FirePunchName:
-	text "Fire Punch"
-	done
-
-FirePunchDescription:
-	text "Discard 1 <FIRE> Energy card attached to"
-	line "Magmar in order to use this attack."
-	done
-
-SpitfireName:
-	text "Spitfire"
-	done
-
-MagmarLv24Description:
-	text "Its body always burns with an"
-	line "orange glow that enables it to"
-	line "hide perfectly among flames."
-	done
-
-SmokescreenName:
-	text "Smokescreen"
-	done
-
-MagmarsSmokescreenDescription:
-	text "If the Defending Pokémon tries to"
-	line "attack during your opponent's next"
-	line "turn, your opponent flips a coin. If"
-	line "tails, that attack does nothing."
-	done
-
-MagmarLv31Description:
-	text "Found at the mouths of volcanoes and"
-	line "extremely hard to spot. There are"
-	line "very few instances of capturing this"
-	line "Pokémon."
-	done
-
-FlareonName:
-	text "Flareon"
-	done
-
-EeveeName:
-	text "Eevee"
-	done
-
-BiteName:
-	text "Bite"
-	done
-
-RageName:
-	text "Rage"
-	done
-
-FlareonsRageDescription:
-	text "Does 10 damage plus 10 more damage"
-	line "for each damage counter on Flareon."
-	done
-
-FlareonLv22Description:
-	text "It has a flame chamber inside its"
-	line "body. It inhales, then blows out"
-	line "fire that is over 3,000 degrees."
-	done
-
-FlareonsFlamethrowerDescription:
-	text "Discard 1 <FIRE> Energy card attached to"
-	line "Flareon in order to use this attack."
-	done
-
-FlareonLv28Description:
-	text "When storing thermal energy in its"
-	line "body, its temperature could soar to"
-	line "over 1,600 degrees."
-	done
-
-MoltresName:
-	text "Moltres"
-	done
-
-WildfireName:
-	text "Wildfire"
-	done
-
-WildfireDescription:
-	text "You may discard any number of <FIRE>"
-	line "Energy cards attached to Moltres"
-	line "when you use this attack. If you do,"
-	line "discard that many cards from the top"
-	line "of your opponent's deck."
-	done
-
-DiveBombName:
-	text "Dive Bomb"
-	done
-
-MoltresLv35Description:
-	text "Known as the legendary bird of fire."
-	line "Every flap of its wings creates a"
-	line "dazzling flash of flames."
-	done
-
-FiregiverName:
-	text "Firegiver"
-	done
-
-FiregiverDescription:
-	text "When you put Moltres into play"
-	line "during your turn (not during"
-	line "set-up), put from 1 to 4 (chosen at"
-	line "random) <FIRE> Energy cards from your"
-	line "deck into your hand. Shuffle your"
-	line "deck afterward."
-	done
-
-MoltresLv37Description:
-	text "A legendary bird Pokémon. As it"
-	line "flaps its flaming wings, even the"
-	line "night sky will turn red."
-	done
-
-SquirtleName:
-	text "Squirtle"
-	done
-
-BubbleName:
-	text "Bubble"
-	done
-
-WithdrawName:
-	text "Withdraw"
-	done
-
-SquirtlesWithdrawDescription:
-	text "Flip a coin. If heads, prevent all"
-	line "damage done to Squirtle during your"
-	line "opponent's next turn. (Any other"
-	line "effects of attacks still happen.)"
-	done
-
-TinyTurtleName:
-	text "Tiny Turtle"
-	done
-
-SquirtleDescription:
-	text "After birth, its back swells and"
-	line "hardens into a shell. It powerfully"
-	line "sprays foam from its mouth."
-	done
-
-WartortleName:
-	text "Wartortle"
-	done
-
-WartortlesWithdrawDescription:
-	text "Flip a coin. If heads, prevent all"
-	line "damage done to Wartortle during your"
-	line "opponent's next turn. (Any other"
-	line "effects of attacks still happen.)"
-	done
-
-TurtleName:
-	text "Turtle"
-	done
-
-WartortleDescription:
-	text "Often hides in water to stalk unwary"
-	line "prey. When swimming quickly, it"
-	line "moves its ears to maintain balance."
-	done
-
-BlastoiseName:
-	text "Blastoise"
-	done
-
-RainDanceName:
-	text "Rain Dance"
-	done
-
-RainDanceDescription:
-	text "As often as you like during your"
-	line "turn (before your attack), you may"
-	line "attach 1 <WATER> Energy card to 1 of"
-	line "your <WATER> Pokémon. (This doesn't use"
-	line "up your 1 Energy card attachment"
-	line "for the turn.)"
-	done
-
-RainDanceDescriptionCont:
-	text "This power can't be used if"
-	line "Blastoise is Asleep, Confused, or"
-	line "Paralyzed."
-	done
-
-HydroPumpName:
-	text "Hydro Pump"
-	done
-
-HydroPumpDescription:
-	text "Does 40 damage plus 10 more damage"
-	line "for each <WATER> Energy attached to"
-	line "Blastoise but not used to pay for"
-	line "this attack's Energy cost. You can't"
-	line "add more than 20 damage in this way."
-	done
-
-ShellfishName:
-	text "Shellfish"
-	done
-
-BlastoiseDescription:
-	text "A brutal Pokémon with pressurized"
-	line "water jets on its shell. They are"
-	line "used for high-speed tackles."
-	done
-
-PsyduckName:
-	text "Psyduck"
-	done
-
-HeadacheName:
-	text "Headache"
-	done
-
-HeadacheDescription:
-	text "Your opponent can't play Trainer"
-	line "cards during his or her next turn."
-	done
-
-DuckName:
-	text "Duck"
-	done
-
-PsyduckDescription:
-	text "While lulling its enemies with its"
-	line "vacant look, this wily Pokémon will"
-	line "use psychokinetic powers."
-	done
-
-GolduckName:
-	text "Golduck"
-	done
-
-PsyshockName:
-	text "Psyshock"
-	done
-
-HyperBeamName:
-	text "Hyper Beam"
-	done
-
-Discard1EnergyFromTargetDescription:
-	text "If the Defending Pokémon has any"
-	line "Energy cards attached to it,"
-	line "choose 1 of them and discard it."
-	done
-
-GolduckDescription:
-	text "Often seen swimming elegantly by"
-	line "lake shores. It is often mistaken"
-	line "for the Japanese monster, Kappa."
-	done
-
-PoliwagName:
-	text "Poliwag"
-	done
-
-WaterGunName:
-	text "Water Gun"
-	done
-
-PoliwagsWaterGunDescription:
-	text "Does 10 damage plus 10 more damage"
-	line "for each <WATER> Energy attached to"
-	line "Poliwag but not used to pay for"
-	line "this attack's Energy cost. You can't"
-	line "add more than 20 damage in this way."
-	done
-
-TadpoleName:
-	text "Tadpole"
-	done
-
-PoliwagDescription:
-	text "Its newly grown legs prevent it"
-	line "from running. It appears to prefer"
-	line "swimming over trying to stand."
-	done
-
-PoliwhirlName:
-	text "Poliwhirl"
-	done
-
-AmnesiaName:
-	text "Amnesia"
-	done
-
-PoliwhirlsAmnesiaDescription:
-	text "Choose 1 of the Defending Pokémon's"
-	line "attacks. That Pokémon can't use"
-	line "that attack during your opponent's"
-	line "next turn."
-	done
-
-DoubleslapName:
-	text "Doubleslap"
-	done
-
-PoliwhirlsDescription:
-	text "Capable of living in or out of"
-	line "water. When out of water, it sweats"
-	line "to keep its body slimy."
-	done
-
-PoliwrathName:
-	text "Poliwrath"
-	done
-
-PoliwrathsWaterGunDescription:
-	text "Does 30 damage plus 10 more damage"
-	line "for each <WATER> Energy attached to"
-	line "Poliwrath but not used to pay for"
-	line "this attack's Energy cost. You"
-	line "can't add more than 20 damage in"
-	line "this way."
-	done
-
-WhirlpoolName:
-	text "Whirlpool"
-	done
-
-PoliwrathDescription:
-	text "An adept swimmer at both the front"
-	line "crawl and breaststroke. Easily"
-	line "overtakes the best human swimmers."
-	done
-
-TentacoolName:
-	text "Tentacool"
-	done
-
-CowardiceName:
-	text "Cowardice"
-	done
-
-CowardiceDescription:
-	text "At any time during your turn"
-	line "(before your attack), you may return"
-	line "Tentacool to your hand. (Discard all"
-	line "cards attached to Tentacool.) This"
-	line "power can't be used the turn you put"
-	line "Tentacool into play or if Tentacool"
-	line "is Asleep, Confused, or Paralyzed."
-	done
-
-JellyfishName:
-	text "Jellyfish"
-	done
-
-TentacoolDescription:
-	text "Drifts in shallow seas. Anglers who"
-	line "hook them by accident are often"
-	line "punished by its stinging acid."
-	done
-
-TentacruelName:
-	text "Tentacruel"
-	done
-
-JellyfishStingName:
-	text "Jellyfish Sting"
-	done
-
-TentacruelDescription:
-	text "The tentacles are normally kept"
-	line "short. On hunts, they are extended"
-	line "to ensnare and immobilize prey."
-	done
-
-SeelName:
-	text "Seel"
-	done
-
-HeadbuttName:
-	text "Headbutt"
-	done
-
-SeaLionName:
-	text "Sea Lion"
-	done
-
-SeelDescription:
-	text "The protruding horn on its head is"
-	line "very hard. This horn is used for"
-	line "bashing through thick ice."
-	done
-
-DewgongName:
-	text "Dewgong"
-	done
-
-AuroraBeamName:
-	text "Aurora Beam"
-	done
-
-IceBeamName:
-	text "Ice Beam"
-	done
-
-DewgongDescription:
-	text "Stores thermal energy in its body."
-	line "Swims at a steady 8 knots even in"
-	line "intensely cold waters."
-	done
-
-ShellderName:
-	text "Shellder"
-	done
-
-HideInShellName:
-	text "Hide in Shell"
-	done
-
-HideInShellDescription:
-	text "Flip a coin. If heads, prevent all"
-	line "damage done to Shellder during your"
-	line "opponent's next turn. (Any other"
-	line "effects of attacks still happen.)"
-	done
-
-BivalveName:
-	text "Bivalve"
-	done
-
-ShellderDescription:
-	text "Its hard shell repels any kind of"
-	line "attack. It is vulnerable only when"
-	line "its shell is open."
-	done
-
-CloysterName:
-	text "Cloyster"
-	done
-
-ClampName:
-	text "Clamp"
-	done
-
-ClampDescription:
-	text "Flip a coin. If heads, the Defending"
-	line "Pokémon is now Paralyzed. If tails,"
-	line "this attack does nothing (not even"
-	line "damage)."
-	done
-
-SpikeCannonName:
-	text "Spike Cannon"
-	done
-
-CloysterDescription:
-	text "When attacked, it launches its horns"
-	line "in quick volleys. Its innards have"
-	line "never been seen."
-	done
-
-KrabbyName:
-	text "Krabby"
-	done
-
-KrabbysCallForFamilyDescription:
-	text "Search your deck for a Basic Pokémon"
-	line "named Krabby and put it onto your"
-	line "Bench. Shuffle your deck afterward."
-	line "(You can't use this attack if your"
-	line "Bench is full.)"
-	done
-
-RiverCrabName:
-	text "River Crab"
-	done
-
-KrabbyDescription:
-	text "Its pincers are not only powerful"
-	line "weapons, they are used for balance"
-	line "when walking sideways."
-	done
-
-KinglerName:
-	text "Kingler"
-	done
-
-FlailName:
-	text "Flail"
-	done
-
-KinglersFlailDescription:
-	text "Does 10 damage times the number of"
-	line "damage counters on Kingler."
-	done
-
-CrabhammerName:
-	text "Crabhammer"
-	done
-
-PincerName:
-	text "Pincer"
-	done
-
-KinglerDescription:
-	text "The large pincer has 10,000"
-	line "horsepower of crushing power."
-	line "However, its huge size makes it"
-	line "unwieldy to use."
-	done
-
-;	ds $21

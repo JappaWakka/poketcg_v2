@@ -735,7 +735,7 @@ ThereWasNoEffectFromSleepText:
 	line "gebracht worden."
 	done
 
-ThereWasNoEffectFromPoisonText:
+ThereWasNoEffectFromParalysisText:
 	text "De Pokémon kon niet Verlamd"
 	line "worden."
 	done
@@ -961,7 +961,7 @@ Turn2Instr1PracticeDuelText:
 
 Turn2Instr2PracticeDuelText:
 	text "2. Hecht een Psychische Energiekaart"
-	line "   aan de geëvolueerde Seaking."
+	line "   aan de Geëvolueerde Seaking."
 	done
 
 Turn2Instr3PracticeDuelText:
@@ -1032,7 +1032,7 @@ Turn7Instr1PracticeDuelText:
 	done
 
 Turn7Instr2PracticeDuelText:
-	text "2. Selecteer de geëvolueerde Starmie"
+	text "2. Selecteer de Geëvolueerde Starmie"
 	line "   en val je tegenstander aan met"
 	line "   Sterbevriezing."
 	done
@@ -1058,8 +1058,7 @@ SamTurn4Instr1PracticeDuelText:
 
 SamTurn4Instr2PracticeDuelText:
 	text "2. Je kan de Pokémongegevens"
-	line "   bekijken met de SELECT-toets."
-						   
+	line "   bekijken met de SELECT-toets." 
 	done
 
 Turn1DrMason1PracticeDuelText:

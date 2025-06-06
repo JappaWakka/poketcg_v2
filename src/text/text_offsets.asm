@@ -3010,4 +3010,6 @@ TextOffsets::
 	textpointer HypnosisAttackName                                 ; Made this because I don't want HypnosisName to be used as both a category and an attack name
 	textpointer NinetalesLureName                                  ; Ninetales' Lure is different in Dutch
 	textpointer CowardiceDescriptionCont                           ; Dutch description was too long
+	textpointer BlizzardDescriptionCont                            ; Dutch description was too long
+	textpointer GigashockDescriptionCont                           ; Dutch description was too long
 	

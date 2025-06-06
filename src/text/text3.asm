@@ -993,7 +993,7 @@ AboutSpecialConditions2Text:
 
 ActivePokemonAndBenchDescriptionText:
 	text " Je Actieve Pokémon is de enige"
-	line " Pokémon die kan aanvallen."
+	line " Pokémon die kan Aanvallen."
 	line " Pokémon die in het spel worden"
 	line " gebracht maar niet actief vechten,"
 	line " worden op de Bank geplaatst. Elke"
@@ -1002,254 +1002,288 @@ ActivePokemonAndBenchDescriptionText:
 	line " zich terugtrekt of Uitgeschakeld"
 	line " wordt, wordt hij vervangen door een"
 	line " Pokémon op de Bank."
-	line " Druk B+Onder om je Pokémon te zien."
-	line " B+Op toont de Pokémon van de ander."
+	line "   Druk op B+Omlaag om je eigen"
+	line "   Pokémon te bekijken."
+	line "   B+Omhoog toont de Pokémon van je"
+	line "   tegenstander."
 	done
 
 PrizesDescriptionText:
-	text " Prizes are random cards from your"
-	line " deck which are placed face down at"
-	line " the start of a game. You draw 1 of"
-	line " your Prize cards each time an"
-	line " opponent's Pokémon is Knocked Out."
-	line " The first player to draw all of"
-	line " their Prizes wins the game."
-	line ""
-	line " You will also win the game if your"
-	line " opponent has no Pokémon left in"
-	line " play or no cards left to draw at"
-	line " the beginning of their turn."
+	text " Prijzen zijn willekeurige kaarten"
+	line " uit je Deck die aan het begin van"
+	line " het spel met de beeldzijde naar"
+	line " beneden worden gelegd. Telkens"
+	line " wanneer een Pokémon van je"
+	line " tegenstander wordt Uitgeschakeld,"
+	line " trek je 1 van je prijskaarten. De"
+	line " eerste speler die al zijn prijzen"
+	line " heeft getrokken, wint het spel."
+	line " Je wint het spel ook als je"
+	line " tegenstander aan het begin van"
+	line " zijn beurt geen Pokémon meer in"
+	line " het spel heeft of geen kaarten"
+	line " meer kan trekken."
 	done
 
 TheDeckDescriptionText:
-	text " A player's deck is composed of a"
-	line " combination of Pokémon, Trainer,"
-	line " and Energy cards. Every deck must"
-	line " contain exactly 60 cards. Once a"
-	line " match begins, no one can look at"
-	line " or reorder the cards in either"
-	line " player's deck unless told to do so"
-	line " by a card effect. Players begin"
-	line " each of their turns by drawing a"
-	line " card from their deck. If a player"
-	line " cannot do so because their deck is"
-	line " empty, that player loses the game."
+	text " Het Deck van een speler bestaat"
+	line " uit een combinatie van Pokémon-,"
+	line " Trainer- en Energiekaarten."
+	line " Elk Deck moet precies 60 kaarten"
+	line " bevatten. Zodra een wedstrijd"
+	line " begint, kan niemand de kaarten in"
+	line " het Deck van een speler bekijken of"
+	line " herschikken, tenzij dit wordt"
+	line " aangegeven door een kaarteffect."
+	line " Spelers beginnen elke beurt met het"
+	line " trekken van een kaart uit hun Deck."
+	line " Als een speler dit niet kan doen"
+	line " omdat zijn Deck leeg is, verliest"
+	line " die speler het spel."
 	done
 
 TheDiscardPileDescriptionText:
-	text " Discarded cards go to their owner's"
-	line " discard pile, and when a Pokémon is"
-	line " Knocked Out, it and any attached"
-	line " cards are sent to the discard pile."
-	line " Cards in the discard pile are not"
-	line " considered to be in play."
+	text " Weggegooide kaarten gaan naar"
+	line " de weggooistapel van de eigenaar,"
+	line " en als een Pokémon wordt Uitge-"
+	line " schakeld, gaat hij samen met de"
+	line " bijbehorende kaarten naar de"
+	line " Weggooistapel. Kaarten op de"
+	line " Weggooistapel worden niet als in"
+	line " het spel beschouwd."
 	line ""
-	line "   Press B+Left to view"
-	line "   your own discard pile."
-	line ""
-	line "   Press B+Right to view"
-	line "   your opponent's discard pile."
+	line "   Druk op B+Links om je eigen"
+	line "   Weggooistapel te bekijken."
+	line "   Druk op B+Rechts om de"
+	line "   Weggooistapel van je tegen-"
+	line "   stander te bekijken."
 	done
 
 TheHandDescriptionText:
-	text " The hand is where a player holds"
-	line " cards that have been drawn until"
-	line " they are played."
+	text ""
+	line " In de hand houdt een speler kaarten"
+	line " die gepakt zijn totdat ze gespeeld"
+	line " worden."
 	line ""
-	line " There is no limit to the number of"
-	line " cards in a player's hand."
+	line " Er is geen limiet aan het aantal"
+	line " kaarten in de Hand van een speler."
+	line " Je kunt niet naar de hand van je"
+	line " tegenstander kijken, tenzij een"
+	line " kaart zegt dat je dat moet doen."
 	line ""
-	line " You cannot look at your opponent's"
-	line " hand unless a card says to do so."
-	line ""
-	line " Press SELECT to organize the cards"
-	line " in your hand by card type."
+	line "   Druk op SELECT om de kaarten in"
+	line "   je hand te ordenen op kaarttype."
 	done
 
 BasicPokemonDescriptionText:
-	text " Basic Pokémon are the lowest"
-	line " evolutionary stage and act as the"
-	line " base for your Evolution cards."
-	line " Bulbasaur, Charmander, and Squirtle"
-	line " are some examples of Basic Pokémon."
+	text ""
+	line " Basis-Pokémon zijn de laagste"
+	line " evolutiefase en dienen als basis"
+	line " voor je Evolutiekaarten."
+	line " Bulbasaur, Charmander en Squirtle"
+	line " zijn voorbeelden van Basis-Pokémon."
 	line ""
-	line " Basic Pokémon can be put directly"
-	line " into play from your hand."
+	line " Basis-Pokémon kunnen rechtstreeks"
+	line " vanuit je Hand in het spel worden"
+	line " gebracht."
 	line ""
-	line " Every deck must have at least 1"
-	line " Basic Pokémon in it."
+	line " Elk Deck moet minstens 1 Basis-"
+	line " Pokémon bevatten."
 	done
 
 EvolutionCardsDescriptionText:
-	text " Cards which show evolved forms of"
-	line " Pokémon are called Evolution cards."
-	line " An Evolution card is played on top"
-	line " of a Basic Pokémon (or occasionally"
-	line " on top of another Evolution card)"
-	line " to create an evolved Pokémon."
-	line " A Stage 1 Evolution card can be put"
-	line " on a matching Basic Pokémon, and"
-	line " a Stage 2 Evolution card can be put"
-	line " on a matching Stage 1 Pokémon."
+	text " Evolutiekaarten zijn kaarten waarop"
+	line " Geëvolueerde vormen van Pokémon"
+	line " staan afgebeeld. Een Evolutiekaart"
+	line " wordt bovenop een Basis-Pokémon"
+	line " gelegd (of soms bovenop een andere"
+	line " Evolutiekaart) om een Geëvolueerde"
+	line " Pokémon te creëren."
+	line " Een Fase-1-Evolutiekaart kan op een"
+	line " bijpassende Basis-Pokémon worden"
+	line " gelegd en een Fase-2-Evolutiekaart"
+	line " kan op een bijpassende Fase-1-"
+	line " Pokémon worden gelegd."
 	line ""
-	line " See ”Evolving”."
+	line " Zie ”Evolueren” voor meer info."
 	done
 
 TrainerCardsDescriptionText:
-	text " Trainer cards are support cards."
-	line " There are many Trainer cards"
-	line " with a wide variety of effects."
+	text ""
+	line " Trainerkaarten zijn ondersteunende"
+	line " kaarten. Er zijn veel Trainer-"
+	line " kaarten met een grote diversiteit"
+	line " aan effecten."
 	line ""
-	line " You may play any number of Trainer"
-	line " cards during your turn by following"
-	line " the instructions on the card and"
-	line " then discarding it."
+	line " Je mag tijdens je beurt zoveel"
+	line " Trainerkaarten spelen als je wilt"
+	line " door de instructies op de kaarten"
+	line " te volgen en ze dan weg te gooien."
 	line ""
-	line " Trainer cards are generally"
-	line " not put into play."
+	line " Trainerkaarten worden over het"
+	line " algemeen niet in het spel gebracht."
 	done
 
 EnergyCardsDescriptionText:
-	text " Pokémon require Energy to attack."
-	line " When playing an Energy card, you"
-	line " attach it to 1 of your Pokémon."
-	line " You can only play 1 Energy card"
-	line " from your hand each turn."
+	text ""
+	line " Pokémon hebben Energie nodig om aan"
+	line " te vallen. Als je een Energiekaart"
+	line " speelt, hecht je deze aan 1 van je"
+	line " Pokémon. Je kunt elke beurt maar 1"
+	line " Energiekaart uit je Hand spelen."
 	line ""
-	line " There are 6 types of Basic Energy:"
-	line "  <GRASS> Grass        <FIRE> Fire"
-	line "  <WATER> Water        <LIGHTNING> Lightning"
-	line "  <PSYCHIC> Psychic      <FIGHTING> Fighting"
+	line "Er zijn 6 types Basis-Energie:"
+	line "  <GRASS> Gras         <FIRE> Vuur"
+	line "  <WATER> Water        <LIGHTNING> Bliksem"
+	line "  <PSYCHIC> Psychisch    <FIGHTING> Vecht"
+	line " Elk type Energie kan worden gebruikt"
+	line " voor <COLORLESS> Kleurloos."
 	line ""
-	line " Any Energy can be used for <COLORLESS>."
 	done
 
 AttackingDescriptionText:
-	text " Use the ”Attack” menu to have your"
-	line " Active Pokémon fight the opposing"
-	line " Pokémon. Follow the instructions"
-	line " written after the attack's name and"
-	line " then deal damage to the Defending"
-	line " Pokémon equal to the number printed"
-	line " beside the attack (accounting for"
-	line " Weakness and Resistance). Before"
-	line " you can select an attack, you will"
-	line " need to attach Energy cards to your"
-	line " Active Pokémon. The amount will"
-	line " depend on the cost of the attack."
-	line " Your turn ends after you attack."
+	text " Gebruik het menu ”Val Aan” om je"
+	line " Actieve Pokémon te laten vechten"
+	line " tegen de Pokémon van de tegenstan-"
+	line " der. Volg de instructies achter de"
+	line " naam van de Aanval en doe schade"
+	line " aan de Verdedigende Pokémon gelijk"
+	line " aan het getal dat naast de Aanval"
+	line " staat (rekening houdende met Zwakte"
+	line " en Weerstand). Voordat je een Aan-"
+	line " val kunt selecteren, moet je Ener-"
+	line " giekaarten aan je Actieve Pokémon"
+	line " hechten. De hoeveelheid is afhan-"
+	line " kelijk van de kosten van de Aanval."
+	line " Je beurt eindigt na het Aanvallen."
 	done
 
 DamageCountersDescriptionText:
-	text " Damage Counters are used to show"
-	line " that a Pokémon has taken damage."
-	line " Each Damage Counter represents"
-	line " 10 HP worth of damage."
+	text ""
+	line " Schadetellers worden gebruikt om"
+	line " aan te geven dat een Pokémon schade"
+	line " heeft opgelopen. Elke Schadeteller"
+	line " staat voor 10 IP aan schade."
 	line ""
-	line " A Pokémon is Knocked Out if it has"
-	line " damage that is greater than or"
-	line " equal to its HP."
+	line " Een Pokémon is Uitgeschakeld als"
+	line " zijn schade groter is dan of gelijk"
+	line " is aan zijn IP."
 	line ""
-	line " Damage Counters stay on a Pokémon,"
-	line " even when it moves to the Bench"
-	line " or evolves."
+	line " Schadetellers blijven op een Poké-"
+	line " mon zitten, zelfs als deze naar de"
+	line " Bank wordt verplaatst of Evolueert."
 	done
 
 EvolvingDescriptionText:
-	text " When a Pokémon evolves or devolves,"
-	line " it keeps all of its attached cards"
-	line " and damage counters. However, any"
-	line " effects of attacks or Special"
-	line " Conditions that affected the"
-	line " previous stage are removed."
+	text ""
+	line " Als een Pokémon Evolueert of"
+	line " Devolueert, behoudt hij alle aan"
+	line " hem gehechte kaarten en Schade-"
+	line " tellers die op hem liggen."
+	line " Alle effecten van Aanvallen of"
+	line " Speciale Toestanden die van invloed"
+	line " waren op de vorige Fase, worden"
+	line " echter verwijderd."
+	line " Een speler kan een Pokémon niet"
+	line " laten Evolueren in dezelfde beurt"
+	line " waarin hij in het spel kwam of"
+	line " tijdens zijn eerste beurt."
 	line ""
-	line " A player cannot evolve a Pokémon"
-	line " on the same turn that it came into"
-	line " play or during their first turn."
 	done
 
 PokemonPowersDescriptionText:
-	text " Some Pokémon have special abilities"
-	line " known as Pokémon Powers. Unlike"
-	line " attacks, Pokémon Powers can be used"
-	line " by Benched Pokémon and do not"
-	line " automatically end a player's turn."
-	line " Some Powers are triggered after"
-	line " putting the Pokémon into play, but"
-	line " for many others, you will need to"
-	line " use the ”PKMN Power” menu."
-	line ""
-	line " A Pokémon cannot use its Power if"
-	line " it's Asleep, Confused or Paralyzed."
+	text " Sommige Pokémon hebben speciale"
+	line " vaardigheden die Pokémon-Krachten"
+	line " worden genoemd. In tegenstelling"
+	line " tot Aanvallen kunnen Pokémon-"
+	line " Krachten worden gebruikt door"
+	line " Pokémon op de Bank en beëindigen"
+	line " ze niet automatisch de beurt van"
+	line " een speler. Sommige Krachten worden"
+	line " geactiveerd nadat je de Pokémon in"
+	line " het spel hebt gebracht, maar voo"
+	line " veel andere moet je het menu ”PKMN-"
+	line " Kracht” gebruiken. Een Pokémon kan"
+	line " zijn Kracht niet gebruiken als hij"
+	line " In Slaap is, Verward of Verlamd is."
 	done
 
 RetreatingDescriptionText:
-	text " By choosing ”Retreat”, you can"
-	line " switch your Active Pokémon with"
-	line " 1 of your Benched Pokémon. You"
-	line " must first discard Energy from that"
-	line " Pokémon equal to its Retreat Cost."
-	line " You may retreat as often as you"
-	line " like during your turn."
-	line ""
-	line " A Pokémon will recover from all"
-	line " Special Conditions when it moves to"
-	line " the Bench,  but Pokémon that are"
-	line " Asleep or Paralyzed cannot retreat."
+	text ""
+	line " Door ”Trek Terug” te kiezen, kun je"
+	line " je Actieve Pokémon vervangen door 1"
+	line " Pokémon op de Bank. Je moet eerst"
+	line " Energie van die Pokémon weggooien"
+	line " gelijk aan zijn Terugtrekkings-"
+	line " kosten. Je mag zo vaak Terugtrekken"
+	line " als je wilt tijdens je beurt."
+	line " Een Pokémon herstelt van alle"
+	line " Speciale Toestanden als hij naar de"
+	line " Bank wordt verplaatst, maar Pokémon"
+	line " die In Slaap of Verlamd zijn,"
+	line " kunnen zich niet Terugtrekken."
 	done
 
 WeaknessDescriptionText:
-	text " Some Pokémon have a Weakness."
+	text ""
+	line " Sommige Pokémon hebben een Zwakte."
 	line ""
-	line " If an Active Pokémon has Weakness"
-	line " to a certain type, then it will"
-	line " receive double damage when it is"
-	line " attacked by a Pokémon of that type."
+	line " Als een Actieve Pokémon zwak is"
+	line " tegen een bepaald type, ontvangt"
+	line " hij dubbele schade wanneer hij"
+	line " wordt Aangevallen door een Pokémon"
+	line " van dat type."
 	line ""
-	line " Damage to Benched Pokémon is not"
-	line " usually affected by Weakness."
+	line " Schade aan Pokémon op de Bank wordt"
+	line " meestal niet beïnvloed door Zwakte."
 	done
 
 ResistanceDescriptionText:
-	text " Some Pokémon have a Resistance."
+	text ""
+	line " Sommige Pokémon hebben Weerstand."
 	line ""
-	line " If an Active Pokémon has"
-	line " Resistance to a certain type, then"
-	line " it will receive 30 less damage when"
-	line " attacked by a Pokémon of that type."
+	line " Als een Actieve Pokémon Weerstand"
+	line " heeft tegen een bepaald type,"
+	line " ontvangt hij 30 minder schade"
+	line " wanneer hij wordt Aangevallen"
+	line " door een Pokémon van dat type."
 	line ""
-	line " Damage to Benched Pokémon is not"
-	line " usually affected by Resistance."
-	done
+	line " Schade aan Pokémon op de Bank wordt"
+	line " meestal niet beïnvloed door"
+	line " Weerstand."
 
 SpecialConditions1DescriptionText:
-	text " A Pokémon will recover from all"
-	line " Special Conditions if it evolves"
-	line " or moves to the Bench."
+	text " Een Pokémon herstelt van alle"
+	line " Speciale Toestanden als hij"
+	line " Evolueert of naar de Bank wordt"
+	line " verplaatst."
 	line ""
-	line " An Active Pokémon can be either"
-	line " Asleep, Confused, or Paralyzed."
-	line " Any new condition erases the last."
+	line " Een Actieve Pokémon kan In Slaap"
+	line " zijn, Verward of Verlamd. Elke"
+	line " nieuwe Conditie vervangt de vorige."
 	line ""
-	line "<ASLEEP> A Pokémon that is Asleep cannot"
-	line "   attack or retreat. Flip a coin"
-	line "   between turns. If heads, the"
-	line "   Pokémon is no longer Asleep."
+	line " <ASLEEP> Een Pokémon die In Slaap is,"
+	line "   kan niet Aanvallen of zich Terug-"
+	line "   trekken. Gooi tussen beurten een"
+	line "   munt op. Als het kop is, is de"
+	line "   Pokémon niet langer In Slaap."
 	done
 
 SpecialConditions2DescriptionText:
-	text "<CONFUSED> Flip a coin before a Pokémon that"
-	line "   is Confused can attack or retreat"
-	line "   (after you pay any costs)."
-	line "   Tails: the attack/retreat fails"
-	line "   & 20 damage to self if attacking"
-	line ""
-	line "<PARALYZED> A Paralyzed Pokémon cannot"
-	line "   attack or retreat. It recovers"
-	line "   after one turn."
-	line ""
-	line "<POISONED> Put a damage counter on any"
-	line "   Poisoned Pokémon between turns."
+	text " <CONFUSED> Gooi een munt op voordat"
+	line "   een Pokémon die Verward is kan"
+	line "   Aanvallen of zich Terug kan"
+	line "   Trekken (nadat je eventuele"
+	line "   kosten hebt betaald). Munt: de"
+	line "   Aanval/Terugtrekking mislukt & 20"
+	line "   schade aan jezelf als je Aanvalt."
+	line " <PARALYZED> Een Pokémon die Verlamd is, kan"
+	line "   niet Aanvallen of zich Terug-"
+	line "   trekken. Hij herstelt na één"
+	line "   beurt."
+	line " <POISONED> Plaats tussen beurten een"
+	line "   Schadeteller op elke Vergiftigde"
+	line "   Pokémon."
 	done
 
 ;Setup1DescriptionText:
@@ -1314,87 +1348,87 @@ SpecialConditions2DescriptionText:
 ;	done
 
 UnusedText0320: ; Unused
-	text "Send a Card"
-	line "Receive a Card"
-	line "Give Deck Instructions"
-	line "Receive Deck Instructions"
+	text "Stuur een kaart"
+	line "Ontvang een kaart"
+	line "Geef Deckconfiguraties"
+	line "Ontvang Deckconfiguraties"
 	done
 
 UnusedText0321: ; Unused
-	text "Lecture Duel"
+	text "Les-Duel"
 	done
 
 UnusedText0322: ; Unused
-	text "First Strike Deck"
+	text "Eerste Slag-Deck"
 	line ""
 	done
 
 OverworldMapMasonLaboratoryText:
-	text "  Mason Laboratory  "
+	text " Mason Onderzoekslab "
 	done
 
 OverworldMapIshiharasHouseText:
-	text "  ISHIHARA's House  "
+	text "  Ishihara's Huis  "
 	done
 
 OverworldMapFightingClubText:
-	text "   Fighting Club    "
+	text "     Vecht-Club    "
 	done
 
 OverworldMapRockClubText:
-	text "     Rock Club      "
+	text "     Steen-Club     "
 	done
 
 OverworldMapWaterClubText:
-	text "     Water Club     "
+	text "     Water-Club     "
 	done
 
 OverworldMapLightningClubText:
-	text "   Lightning Club   "
+	text "     Bliksem-Club   "
 	done
 
 OverworldMapGrassClubText:
-	text "     Grass Club     "
+	text "     Gras-Club     "
 	done
 
 OverworldMapPsychicClubText:
-	text "    Psychic Club    "
+	text "   Psychische Club    "
 	done
 
 OverworldMapScienceClubText:
-	text "    Science Club    "
+	text "   Wetenschap-Club   "
 	done
 
 OverworldMapFireClubText:
-	text "     Fire Club      "
+	text "     Vuur-Club       "
 	done
 
 OverworldMapChallengeHallText:
-	text "   Challenge Hall   "
+	text "     Toernooihal    "
 	done
 
 OverworldMapPokemonDomeText:
-	text "    Pokémon Dome    "
+	text "   Pokémon Stadion   "
 	done
 
 OverworldMapMysteryHouseText:
-	text "     ??'s House     "
+	text "     ???'s Huis     "
 	done
 
 MasonLaboratoryMapName:
-	text "Mason Laboratory"
+	text "Mason Onderzoekslab"
 	done
 
 MrIshiharasHouseMapName:
-	text "Mr Ishihara's House"
+	text "Mr. Ishihara's Huis"
 	done
 
 FightingClubMapName:
-	text "Fighting"
+	text "Vecht"
 	done
 
 RockClubMapName:
-	text "Rock"
+	text "Steen"
 	done
 
 WaterClubMapName:
@@ -1402,116 +1436,116 @@ WaterClubMapName:
 	done
 
 LightningClubMapName:
-	text "Lightning"
+	text "Bliksem"
 	done
 
 GrassClubMapName:
-	text "Grass"
+	text "Gras"
 	done
 
 PsychicClubMapName:
-	text "Psychic"
+	text "Psychisch"
 	done
 
 ScienceClubMapName:
-	text "Science"
+	text "Wetenschap"
 	done
 
 FireClubMapName:
-	text "Fire"
+	text "Vuur"
 	done
 
 ChallengeHallMapName:
-	text "Challenge Hall"
+	text "Toernooihal"
 	done
 
 PokemonDomeMapName:
-	text "Pokémon Dome"
+	text "Pokémon Stadion"
 	done
 
 UnusedText033c: ; Unused
-	text "??'s House"
+	text "???'s House"
 	done
 
 PauseMenuOptionsText:
 	text "Status"
-	line "Diary"
+	line "Dagboek"
 	line "Deck"
-	line "Card"
-	line "Config"
-	line "Exit"
+	line "Kaarten"
+	line "Opties"
+	line "Sluit Menu"
 	done
 
 DebugPauseMenuOptionsText:
 	text "Status"
-	line "Diary"
+	line "Dagboek"
 	line "Deck"
-	line "Card"
-	line "Config"
+	line "Kaarten"
+	line "Opties"
 	line "Debug"
-	line "Close"
+	line "Sluit Menu"
 	done
 
 PlayerStatusNameText:
-	text "Name <RAMNAME>"
+	text "Naam <RAMNAME>"
 	done
 
 PlayerStatusAlbumText:
-	text "Album           "
+	text "Kaarten         "
 	half2full
 	textfw "/"
 	done
 
 PlayerStatusPlayTimeText:
-	text "Play time         "
+	text "Speeltijd         "
 	half2full
 	textfw "꞉"
 	done
 
 PlayerDiaryTitleText:
-	text "<RAMNAME>'s Diary"
+	text "<RAMNAME>'s Dagboek"
 	done
 
 PlayerDiaryMedalsWonText:
-	text "Master Medals Won "
+	text "Meestermedailles"
 	done
 
 PlayerDiarySaveQuestionText:
-	text "Would you like to keep a diary?"
+	text "Wil je je dagboek bijwerken?"
 	done
 
 PlayerDiarySaveConfirmText:
-	text "<RAMNAME>"
-	line "wrote in the diary."
+	text "<RAMNAME> heeft"
+	line "in het dagboek geschreven."
 	done
 
 PlayerDiarySaveCancelText:
-	text "Nothing was recorded"
-	line "in the diary."
+	text "Er is niks in het dagboek"
+	line "geschreven."
 	done
 
 PlayerStatusMedalsTitleText:
-	text "Master Medals"
+	text "Meestermedailles"
 	done
 
 ConfigMenuTitleText:
-	text "           Change Settings"
+	text "          Instellingenmenu"
 	done
 
 ConfigMenuMessageSpeedText:
-	text "Message Speed"
+	text "  Hoe snel komt de tekst in beeld?"
 	line ""
-	line "   Slow   1   2   3   4   5   Fast"
+	line "  Sloom   1   2   3   4   5   Snel"
 	done
 
 ConfigMenuDuelAnimationText:
-	text "Duel Animation"
+	text "  Hoeveel Duel-animaties afspelen?"
 	line ""
-	line "  Show All    Skip Some       None"
+	line "  Alle        Sommige         Geen"
 	done
 
 ConfigMenuExitText:
-	text "   Exit Settings"
+	text "   Instellingen verlaten"
 	done
 
 UnusedText034c: ; Unused
@@ -1519,61 +1553,61 @@ UnusedText034c: ; Unused
 	done
 
 UnusedText034d: ; Unused
-	text "Normal Duel"
+	text "Normaal Duel"
 	done
 
 UnusedText034e: ; Unused
-	text "Skip"
+	text "Overslaan"
 	done
 
 UnusedText034f: ; Unused
-	text "Normal"
+	text "Normaal"
 	done
 
 UnusedText0350: ; Unused
-	text "Freeze Screen"
+	text "Bevries Scherm"
 	done
 
 PCMenuOptionsText:
-	text "Card Album"
-	line "Read Mail"
-	line "Glossary"
-	line "Print"
-	line "Shut Down"
+	text "Kaartalbum"
+	line "Lees E-mails"
+	line "Trefwoorden"
+	line "Printen"
+	line "Afsluiten"
 	done
 
 TurnedPCOnText:
 	text "<RAMNAME>"
-	line "turned the PC on!"
+	line "startte de PC op!"
 	done
 
 TurnedPCOffText:
 	text "<RAMNAME>"
-	line "turned the PC off!"
+	line "sloot de PC af!"
 	done
 
 GiftCenterMenuText:
-	text "Send Card"
-	line "Receive Card"
-	line "Send Deck Configuration"
-	line "Receive Deck Configuration"
-	line "Exit"
+	text "Stuur Kaart"
+	line "Ontvang Kaart"
+	line "Stuur Deckconfiguratie"
+	line "Ontvang Deckconfiguratie"
+	line "Stoppen"
 	done
 
 SendCardText:
-	text "Send Card"
+	text "Stuur Kaart"
 	done
 
 ReceiveCardText:
-	text "Receive Card"
+	text "Ontvang Kaart"
 	done
 
 SendDeckConfigurationText:
-	text "Send Deck Configuration"
+	text "Stuur Deckconfiguratie"
 	done
 
 ReceiveDeckConfigurationText:
-	text "Receive Deck Configuration"
+	text "Ontvang Deckconfiguratie"
 	done
 
 MailText:
@@ -1581,825 +1615,5 @@ MailText:
 	done
 
 WhichMailWouldYouLikeToReadText:
-	text "Which mail would you like to read?"
+	text "Welke e-mail wil je lezen?"
 	done
-
-MailNumbersText:
-	text "Mail 0 1 2 3 4 5 6 7 8 9101112131415"
-	done
-
-EmptyMailNameText:
-	textfw "     "
-	done
-
-Mail1Text:
-	text "Mail 1"
-	done
-
-Mail2Text:
-	text "Mail 2"
-	done
-
-Mail3Text:
-	text "Mail 3"
-	done
-
-Mail4Text:
-	text "Mail 4"
-	done
-
-Mail5Text:
-	text "Mail 5"
-	done
-
-Mail6Text:
-	text "Mail 6"
-	done
-
-Mail7Text:
-	text "Mail 7"
-	done
-
-Mail8Text:
-	text "Mail 8"
-	done
-
-Mail9Text:
-	text "Mail 9"
-	done
-
-Mail10Text:
-	text "Mail 10"
-	done
-
-Mail11Text:
-	text "Mail 11"
-	done
-
-Mail12Text:
-	text "Mail 12"
-	done
-
-Mail13Text:
-	text "Mail 13"
-	done
-
-Mail14Text:
-	text "Mail 14"
-	done
-
-Mail15Text:
-	text "Mail 15"
-	done
-
-NewGameText:
-	text "New Game"
-	done
-
-CardPopContinueDiaryNewGameText:
-	text "Card Pop!"
-	line "Continue from Diary"
-	line "New Game"
-	done
-
-CardPopContinueDiaryNewGameContinueDuelText:
-	text "Card Pop!"
-	line "Continue from Diary"
-	line "New Game"
-	line "Continue Duel"
-	done
-
-WhenYouCardPopWithFriendText:
-	text " When you Card Pop! with a friend,"
-	line " you will each receive a new card!"
-	done
-
-ContinueFromDiarySummaryText:
-	text "  <RAMNAME>  <RAMTEXT>"
-	line "      Master Medals Won "
-	half2full
-	textfw "<RAMNUM>"
-	text ""
-	line "      Album           "
-	half2full
-	textfw "/"
-	text ""
-	line "      Play time         "
-	half2full
-	textfw "꞉"
-	text ""
-	done
-
-StartANewGameText:
-	text "  Start a New Game."
-	line ""
-	done
-
-TheGameWillContinueFromThePointInTheDuelText:
-	text "  The game will continue from"
-	line "  the point in the duel when"
-	line "  the power was turned off."
-	done
-
-SavedDataAlreadyExistsText:
-	text "Saved data already exists."
-	line "If you continue, you will lose"
-	line "all the cards you have collected."
-	done
-
-OKToDeleteTheDataText:
-	text "OK to delete the data?"
-	done
-
-AllDataWasDeletedText:
-	text "All data was deleted."
-	done
-
-DataExistsWhenPowerWasTurnedOFFDuringDuelText:
-	text "Data exists from when the power"
-	line "was turned off during a duel."
-	line "Choose ”Continue Duel” on the"
-	line "Main Menu to continue the duel."
-	line "If you continue now, the heading,"
-	line "”Continue Duel”, will be deleted,"
-	line "and the game will start from when"
-	line "you last wrote in your diary."
-	line "Would you like to continue the game"
-	line "from the point saved in"
-	done
-
-ContinueFromDiaryText:
-	text "”Continue from Diary?”"
-	done
-
-YouCanAccessCardPopOnlyWithGameBoyColorsText:
-	text "You can access Card Pop! only"
-	line "with two Game Boy Colors."
-	line "Please play using a Game Boy Color."
-	done
-
-IsCrazyAboutPokemonAndPokemonCardCollectingText:
-	text "<RAMNAME> is crazy about Pokémon"
-	line "and Pokémon card collecting!"
-	line "One day,"
-	line "<RAMNAME> heard a rumor:"
-	line " ”The Legendary Pokémon Cards..."
-	line "  the extremely rare and powerful"
-	line "  cards held by Pokémon Trading"
-	line "  Card Game's greatest players..."
-	line "  The Grand Masters are searching"
-	line "  for one to inherit the legend!”"
-	line "Dreaming of inheriting the"
-	line "Legendary Pokémon Cards,"
-	line "<RAMNAME> visits the Pokémon"
-	line "card researcher, Dr. Mason..."
-	done
-
-DebugMenuText:
-	text "POWER ON"
-	line "DUEL MODE"
-	line "CONTINUE FROM DIARY"
-	line "CGB TEST"
-	line "SGB FRAME"
-	line "STANDARD BG CHARACTER"
-	line "LOOK AT SPR"
-	line "V EFFECT"
-	line "CREATE BOOSTER PACK"
-	line "CREDITS"
-	line "QUIT"
-	done
-
-DebugDuelModeMenuText:
-	text "NORMAL DUEL"
-	line "SKIP"
-	done
-
-DebugBoosterPackMenuText:
-	text "COLOSSEUM"
-	line "EVOLUTION"
-	line "MYSTERY"
-	line "LABORATORY"
-	line "ENERGY"
-	done
-
-DebugBoosterPackColosseumEvolutionMenuText:
-	text "1"
-	line "2"
-	line "3"
-	line "4"
-	line "5"
-	line "6"
-	line "7"
-	done
-
-DebugBoosterPackMysteryMenuText:
-	text "1"
-	line "2"
-	line "3"
-	line "4"
-	line "5"
-	line "6"
-	done
-
-DebugBoosterPackLaboratoryMenuText:
-	text "1"
-	line "2"
-	line "3"
-	line "4"
-	line "5"
-	done
-
-DebugBoosterPackEnergyMenuText:
-	text "1"
-	line "2"
-	line "3"
-	line "4"
-	done
-
-UnusedText0381: ; Unused
-	text "????"
-	done
-
-UnusedText0382: ; Unused
-	text "Left"
-	done
-
-UnusedText0383: ; Unused
-	text "Right"
-	done
-
-SPRText:
-	text "SPR_"
-	done
-
-WinLosePrizesDuelWithText:
-	text "WIN      <RAMNUM> Prizes Duel"
-	line "LOSE     with <RAMTEXT>(<RAMNUM>)"
-	done
-
-UseDuelistsDeckText:
-	text "         Use <RAMNUM>'s deck"
-	done
-
-ReceivedBoosterPackText:
-	text "<RAMNAME> received a booster"
-	line "pack: <RAMTEXT>."
-	done
-
-AndAnotherBoosterPackText:
-	text "...And another booster pack:"
-	line "<RAMTEXT>."
-	done
-
-CheckedCardsInBoosterPackText:
-	text "<RAMNAME> checked the cards"
-	line "in the booster pack!!"
-	done
-
-UnusedText038a: ; Unused
-	text "????"
-	done
-
-WonTheMedalText:
-	text "<RAMNAME>"
-	line "Won the <RAMTEXT> Medal!"
-	done
-
-VenusaurLv64TradeCardName:
-	text "<Lv>64 Venusaur"
-	done
-
-MewLv15TradeCardName:
-	text "<Lv>15 Mew"
-	done
-
-UnusedText038e: ; Unused
-	text "????"
-	done
-
-UnusedText038f: ; Unused
-	text "????"
-	done
-
-UnusedText0390: ; Unused
-	text "????"
-	done
-
-UnusedText0391: ; Unused
-	text "????"
-	done
-
-UnusedText0392: ; Unused
-	text "????"
-	done
-
-UnusedText0393: ; Unused
-	text "????"
-	done
-
-UnusedText0394: ; Unused
-	text "????"
-	done
-
-OpponentTitleAndNameText:
-	text "<RAMTEXT>  <RAMTEXT>"
-	done
-
-OpponentDeckNameText:
-	text "<RAMTEXT> Deck"
-	done
-
-FightingClubMemberText:
-	text "Fighting Club Member"
-	done
-
-RockClubMemberText:
-	text "Rock Club Member"
-	done
-
-WaterClubMemberText:
-	text "Water Club Member"
-	done
-
-LightningClubMemberText:
-	text "Lightning Club Member"
-	done
-
-GrassClubMemberText:
-	text "Grass Club Member"
-	done
-
-PsychicClubMemberText:
-	text "Psychic Club Member"
-	done
-
-ScienceClubMemberText:
-	text "Science Club Member"
-	done
-
-FireClubMemberText:
-	text "Fire Club Member"
-	done
-
-FightingClubMasterText:
-	text "Fighting Club Master"
-	done
-
-RockClubMasterText:
-	text "Rock Club Master"
-	done
-
-WaterClubMasterText:
-	text "Water Club Master"
-	done
-
-LightningClubMasterText:
-	text "Lightning Club Master"
-	done
-
-GrassClubMasterText:
-	text "Grass Club Master"
-	done
-
-PsychicClubMasterText:
-	text "Psychic Club Master"
-	done
-
-ScienceClubMasterText:
-	text "Science Club Master"
-	done
-
-FireClubMasterText:
-	text "Fire Club Master"
-	done
-
-BoosterPackText:
-	textfw "Booster Pack"
-	done
-
-ColosseumName:
-	text "Colosseum"
-	done
-
-MysteryName:
-	text "Mystery"
-	done
-
-LaboratoryName:
-	text "Laboratory"
-	done
-
-PromotionalName:
-	text "Promotional"
-	done
-
-DrMasonNPCName:
-	text "Dr. Mason"
-	done
-
-RonaldNPCName:
-	text "Ronald"
-	done
-
-IshiharaNPCName:
-	text "Ishihara"
-	done
-
-ImakuniNPCName:
-	text "Imakuni?"
-	done
-
-ClerkNPCName:
-	text "Clerk"
-	done
-
-SamNPCName:
-	text "Sam"
-	done
-
-TechNPCName:
-	text "Tech"
-	done
-
-UnusedText03b3: ; Unused
-	text "????"
-	done
-
-ChrisNPCName:
-	text "Chris"
-	done
-
-MichaelNPCName:
-	text "Michael"
-	done
-
-JessicaNPCName:
-	text "Jessica"
-	done
-
-MitchNPCName:
-	text "Mitch"
-	done
-
-MatthewNPCName:
-	text "Matthew"
-	done
-
-RyanNPCName:
-	text "Ryan"
-	done
-
-AndrewNPCName:
-	text "Andrew"
-	done
-
-GeneNPCName:
-	text "Gene"
-	done
-
-SaraNPCName:
-	text "Sara"
-	done
-
-AmandaNPCName:
-	text "Amanda"
-	done
-
-JoshuaNPCName:
-	text "Joshua"
-	done
-
-AmyNPCName:
-	text "Amy"
-	done
-
-JenniferNPCName:
-	text "Jennifer"
-	done
-
-NicholasNPCName:
-	text "Nicholas"
-	done
-
-BrandonNPCName:
-	text "Brandon"
-	done
-
-IsaacNPCName:
-	text "Isaac"
-	done
-
-BrittanyNPCName:
-	text "Brittany"
-	done
-
-KristinNPCName:
-	text "Kristin"
-	done
-
-HeatherNPCName:
-	text "Heather"
-	done
-
-NikkiNPCName:
-	text "Nikki"
-	done
-
-RobertNPCName:
-	text "Robert"
-	done
-
-DanielNPCName:
-	text "Daniel"
-	done
-
-StephanieNPCName:
-	text "Stephanie"
-	done
-
-MurrayNPCName:
-	text "Murray"
-	done
-
-JosephNPCName:
-	text "Joseph"
-	done
-
-DavidNPCName:
-	text "David"
-	done
-
-ErikNPCName:
-	text "Erik"
-	done
-
-RickNPCName:
-	text "Rick"
-	done
-
-JohnNPCName:
-	text "John"
-	done
-
-AdamNPCName:
-	text "Adam"
-	done
-
-JonathanNPCName:
-	text "Jonathan"
-	done
-
-KenNPCName:
-	text "Ken"
-	done
-
-CourtneyNPCName:
-	text "Courtney"
-	done
-
-SteveNPCName:
-	text "Steve"
-	done
-
-JackNPCName:
-	text "Jack"
-	done
-
-RodNPCName:
-	text "Rod"
-	done
-
-ManNPCName:
-	text "Man"
-	done
-
-WomanNPCName:
-	text "Woman"
-	done
-
-ChapNPCName:
-	text "Chap"
-	done
-
-GalNPCName:
-	text "Gal"
-	done
-
-LassNPCName:
-	text "Lass"
-	done
-
-PappyNPCName:
-	text "Pappy"
-	done
-
-LadNPCName:
-	text "Lad"
-	done
-
-HostNPCName:
-	text "Host"
-	done
-
-SpecsNPCName:
-	text "Specs"
-	done
-
-ButchNPCName:
-	text "Butch"
-	done
-
-HoodNPCName:
-	text "Hood"
-	done
-
-ChampNPCName:
-	text "Champ"
-	done
-
-ManiaNPCName:
-	text "Mania"
-	done
-
-GrannyNPCName:
-	text "Granny"
-	done
-
-GuideNPCName:
-	text "Guide"
-	done
-
-AaronNPCName:
-	text "Aaron"
-	done
-
-MewtwoTradeCardName:
-	text "<Lv>60 Mewtwo"
-	done
-
-MewTradeCardName:
-	text "<Lv>8 Mew"
-	done
-
-ArcanineTradeCardName:
-	text "<Lv>34 Arcanine"
-	done
-
-PikachuTradeCardName:
-	text "<Lv>16 Pikachu"
-	done
-
-SurfingPikachuTradeCardName:
-	text "<Lv>13 Surfing Pikachu"
-	done
-
-ElectabuzzTradeCardName:
-	text "<Lv>20 Electabuzz"
-	done
-
-SlowpokeTradeCardName:
-	text "<Lv>9 Slowpoke"
-	done
-
-JigglypuffTradeCardName:
-	text "<Lv>12 Jigglypuff"
-	done
-
-ZapdosLegendaryCardName:
-	text "<Lv>68 Zapdos"
-	done
-
-MoltresLegendaryCardName:
-	text "<Lv>37 Moltres"
-	done
-
-ArticunoLegendaryCardName:
-	text "<Lv>37 Articuno"
-	done
-
-DragoniteLegendaryCardName:
-	text "<Lv>41 Dragonite"
-	done
-
-SuperEnergyRetrievalTradeCardName:
-	text "Super Energy Retrieval"
-	done
-
-FlyingPikachuTradeCardName:
-	text "<Lv>12 Flying Pikachu"
-	done
-
-LightningAndFireDeckChoiceText:
-	text "Lightning & Fire Deck"
-	done
-
-WaterAndFightingDeckChoiceText:
-	text "Water & Fighting Deck"
-	done
-
-GrassAndPsychicDeckChoiceText:
-	text "Grass & Psychic Deck"
-	done
-
-SelectDeckToDuelText:
-	text "Please select the deck"
-	line "you wish to face."
-	done
-
-CharmanderAndFriendsDeckChoiceText:
-	text "Charmander & Friends Deck"
-	done
-
-SquirtleAndFriendsDeckChoiceText:
-	text "Squirtle & Friends Deck"
-	done
-
-BulbasaurAndFriendsDeckChoiceText:
-	text "Bulbasaur & Friends Deck"
-	done
-
-SelectDeckToTakeText:
-	text "Please select the deck you want."
-	done
-
-HowCanIHelpText:
-	text "Hi, <RAMNAME>."
-	line "How can I help you?"
-	done
-
-SamNormalMenuText:
-	text "Normal Duel"
-	line "Practice"
-	line "Rules"
-	line "Nothing"
-	done
-
-SamRulesMenuText:
-	text "Energy"
-	line "Attacking"
-	line "Retreating"
-	line "Evolving Pokémon"
-	line "Using Pokémon Powers"
-	line "Ending Your Turn"
-	line "Win or Loss of a Duel"
-	line "Nothing to Ask"
-	done
-
-Mail1Part1Text:
-	text "<RAMNAME>,"
-	line "It's me, Doctor Mason."
-	line "Are you getting the hang of"
-	line "the Pokémon Trading Card Game?"
-	line "I have some information for you"
-	line "about booster packs."
-	line "If you want to collect the same"
-	line "cards, duel the same person many"
-	line "times to get a particular booster"
-	line "pack! By doing so, you will be able"
-	line "to collect the same cards, making it"
-	line "easier for you to build decks."
-	line "Another method for collecting"
-	line "cards is to use Card Pop!"
-	line "When you and a friend use Card Pop!,"
-	line "you will each receive a new card!"
-	line "Once you Pop! with a certain"
-	line "friend, you won't be able to Pop!"
-	line "with that friend again, so find"
-	line "many friends who own the Pokémon"
-	line "Trading Card Game for Game Boy, and"
-	line "Card Pop! with them to get cards!"
-	line "Oh, here's something for you..."
-	done
-
-Mail1Part2Text:
-	text "I'll be sending you useful"
-	line "information by e-mail."
-	line "I'll also attach a booster pack"
-	line "for you, so check your mail often."
-	line "Mason Laboratory"
-	line "      Doctor Mason  ;)"
-	done
-
-Mail2Part1Text:
-	text "<RAMNAME>,"
-	line "It's me, Doctor Mason."
-	line "I have some information for you"
-	line "about Mitch's deck - he's"
-	line "the Master of the Fighting Club."
-	line "His First-Strike deck is built"
-	line "for a quick attack, but it's"
-	line "weak against Psychic Pokémon!"
-	line "I suggest you duel him using"
-	line "a deck from the Psychic Medal's"
-	line "Deck Machine."
-	line "Here's a booster pack for you..."
-	done
-
-Mail2Part2Text:
-	text "<RAMNAME>, I know you can do it!"
-	line "Go win the Fighting Medal!"
-	line "Mason Laboratory"
-	line "      Doctor Mason ;)"
-	done
-
-;	ds $57

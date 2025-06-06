@@ -188,7 +188,7 @@ UnableToUseItText:
 	text "Kan het niet gebruiken."
 	done
 
-NoEnergyCardsText:
+NoEnergyCardsAttachedText:
 	text "Er zijn geen aangehechte"
 	line "Energiekaarten aanwezig."
 	done
@@ -231,6 +231,10 @@ ResistanceLessDamageText:
 WeaknessMoreDamageText:
 	text "<RAMTEXT> ontving <RAMNUM>"
 	line "schade door Zwakte!"
+	done
+	
+UnusedText0038: ; Unused
+	text "????"
 	done
 
 WeaknessMoreDamage2Text:
@@ -697,8 +701,8 @@ UnusedText0097: ; Unused
 	line "CHANGE COMPUTER OPPONENT"
 	line "CHANGE PLAYER 2 TO COM"
 	line "GOOI 20"
-	LINE "SLA OP"
-	LINE "LAAD BESTAND"
+	line "SLA OP"
+	line "LAAD BESTAND"
 	done
 
 UnusedText0098: ; Unused
@@ -920,6 +924,11 @@ NotEnoughWaterEnergyText:
 	text "Niet genoeg <WATER> Energie."
 	done
 
+NoAttackMayBeChosenText:
+	text "Er mogen geen Aanvallen worden"
+	line "gekozen."
+	done
+	
 NoTrainerCardsInDiscardPileText:
 	text "Er zitten geen Trainerkaarten"
 	line "in je Weggooistapel."

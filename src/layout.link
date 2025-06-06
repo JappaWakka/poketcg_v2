@@ -111,12 +111,14 @@ ROMX $19
 ROMX $1a
 	"Text 14"
 ROMX $1b
-	"Text Offsets"
+	"Text 15"
 ROMX $1c
-	"SGB"
+	"Text Offsets"
 ROMX $1d
-	"Gfx 1"
+	"SGB"
 ROMX $1e
+	"Gfx 1"
+ROMX $1f
 	"Gfx 2"
 ROMX $20
 	"Bank 20"

@@ -1,3 +1,830 @@
+MailNumbersText:
+	text "Mail 0 1 2 3 4 5 6 7 8 9101112131415"
+	done
+
+EmptyMailNameText:
+	textfw "     "
+	done
+
+Mail1Text:
+	text "Mail 1"
+	done
+
+Mail2Text:
+	text "Mail 2"
+	done
+
+Mail3Text:
+	text "Mail 3"
+	done
+
+Mail4Text:
+	text "Mail 4"
+	done
+
+Mail5Text:
+	text "Mail 5"
+	done
+
+Mail6Text:
+	text "Mail 6"
+	done
+
+Mail7Text:
+	text "Mail 7"
+	done
+
+Mail8Text:
+	text "Mail 8"
+	done
+
+Mail9Text:
+	text "Mail 9"
+	done
+
+Mail10Text:
+	text "Mail 10"
+	done
+
+Mail11Text:
+	text "Mail 11"
+	done
+
+Mail12Text:
+	text "Mail 12"
+	done
+
+Mail13Text:
+	text "Mail 13"
+	done
+
+Mail14Text:
+	text "Mail 14"
+	done
+
+Mail15Text:
+	text "Mail 15"
+	done
+
+NewGameText:
+	text "Nieuw Spel"
+	done
+
+CardPopContinueDiaryNewGameText:
+	text "Kaart-Flits!"
+	line "Verder Spelen"
+	line "Nieuw Spel"
+	done
+
+CardPopContinueDiaryNewGameContinueDuelText:
+	text "Kaart-Flits!"
+	line "Verder Spelen"
+	line "Nieuw Spel"
+	line "Duel Afmaken"
+	done
+
+WhenYouCardPopWithFriendText:
+	text "Als je een Kaart-Flits! doet met"
+	line "een vriend, krijgen jullie"
+	line "beide een nieuwe kaart!"
+	done
+	
+ContinueFromDiarySummaryText:
+	text "  <RAMNAME>  <RAMTEXT>"
+	line " Gewonnen Meestermedailles "
+	half2full
+	textfw "<RAMNUM>"
+	text ""
+	line " Kaartenalbum         "
+	half2full
+	textfw "/"
+	text ""
+	line "  Tijd gespeeld         "
+	half2full
+	textfw "꞉"
+	text ""
+	done
+
+StartANewGameText:
+	text "Start een nieuw spel."
+	line ""
+	done
+
+TheGameWillContinueFromThePointInTheDuelText:
+	text "Het spel zal doorgaan vanaf"
+	line "het moment tijdens het Duel"
+	line "toen de stroom uit ging."
+	done
+
+SavedDataAlreadyExistsText:
+	text "Er is al een opgeslagen spel"
+	line "aanwezig. Als je doorgaat, verlies"
+	line "je alle kaarten die je tot nu toe"
+	line "hebt verzameld."
+	done
+
+OKToDeleteTheDataText:
+	text "Wil je alle gegevens verwijderen?"
+	done
+
+AllDataWasDeletedText:
+	text "Alle gegevens zijn verwijderd."
+	done
+	
+DataExistsWhenPowerWasTurnedOFFDuringDuelText:
+	text "Er zijn gegevens beschikbaar vanaf"
+	line "het moment dat de stroom werd"
+	line "uitgeschakeld tijdens een Duel."
+	line "Kies ”Duel Afmaken” in het hoofdmenu"
+	line "om het Duel voort te zetten."
+	line "Als je nu doorgaat, wordt het kopje"
+	line "”Duel Afmaken” verwijderd en begint"
+	line "het spel vanaf het moment dat je"
+	line "voor het laatst in je dagboek hebt"
+	line "geschreven."
+	line "Wil je het spel voortzetten vanaf"
+	line "het punt dat is opgeslagen in"
+	done
+
+ContinueFromDiaryText:
+	text "”Verder Spelen”?"
+	done
+
+YouCanAccessCardPopOnlyWithGameBoyColorsText:
+	text "Je kunt Kaart Flits! alleen spelen"
+	line "met twee Game Boy Colors. Speel"
+	line "alsjeblieft met een Game Boy Color."
+	done
+
+IsCrazyAboutPokemonAndPokemonCardCollectingText:
+	text "<RAMNAME> is gek op Pokémon"
+	line "en Pokémonkaarten verzamelen!"
+	line "Op een dag hoorde"
+	line "<RAMNAME> een gerucht:"
+	line " ”De Legendarische Pokémonkaarten,"
+	line "  de extreem zeldzame en krachtige"
+	line "  kaarten in het bezit van de beste"
+	line "  Pokémon Ruilkaartspel-spelers:"
+	line "  De Grootmeesters, zijn op zoek"
+	line "  naar iemand die het waard is"
+	line "  om de legende over te nemen!”"
+	line "Ervan dromend om de Legendarische"
+	line "Pokémonkaarten over te nemen,"
+	line "bezocht <RAMNAME> de Pokémon-"
+	line "kaartenonderzoeker, Dr. Mason..."
+	done
+
+DebugMenuText:
+	text "ZET AAN"
+	line "DUEL MODUS"
+	line "VERDER SPELEN"
+	line "CGB TEST"
+	line "SGB RAND"
+	line "STANDAARD BG KARAKTER"
+	line "KIJK NAAR SPR"
+	line "V EFFECT"
+	line "MAAK Booster-Pakje"
+	line "CREDITS"
+	line "STOPPEN"
+	done
+
+DebugDuelModeMenuText:
+	text "NORMAAL DUEL"
+	line "OVERSLAAN"
+	done
+
+DebugBoosterPackMenuText:
+	text "STADION"
+	line "EVOLUTIE"
+	line "MYSTERIE"
+	line "CHEMIE"
+	line "ENERGIE"
+	done
+
+DebugBoosterPackColosseumEvolutionMenuText:
+	text "1"
+	line "2"
+	line "3"
+	line "4"
+	line "5"
+	line "6"
+	line "7"
+	done
+
+DebugBoosterPackMysteryMenuText:
+	text "1"
+	line "2"
+	line "3"
+	line "4"
+	line "5"
+	line "6"
+	done
+
+DebugBoosterPackLaboratoryMenuText:
+	text "1"
+	line "2"
+	line "3"
+	line "4"
+	line "5"
+	done
+
+DebugBoosterPackEnergyMenuText:
+	text "1"
+	line "2"
+	line "3"
+	line "4"
+	done
+
+UnusedText0381: ; Unused
+	text "????"
+	done
+
+UnusedText0382: ; Unused
+	text "Links"
+	done
+
+UnusedText0383: ; Unused
+	text "Rechts"
+	done
+
+SPRText:
+	text "SPR_"
+	done
+
+WinLosePrizesDuelWithText:
+	text "WIN     <RAMNUM> Prijzen Duel"
+	line "LOSE    with <RAMTEXT>(<RAMNUM>)"
+	done
+
+UseDuelistsDeckText:
+	text "     Gebruik <RAMNUM>'s Deck"
+	done
+
+ReceivedBoosterPackText:
+	text "<RAMNAME> ontving een Booster-"
+	line "Pakje: <RAMTEXT>!"
+	done
+
+AndAnotherBoosterPackText:
+	text "...en nog een Booster-"
+	line "Pakje: <RAMTEXT>!"
+	done
+
+CheckedCardsInBoosterPackText:
+	text "<RAMNAME> bekeek de kaarten"
+	line "in het Booster-Pakje!"
+	done
+
+UnusedText038a: ; Unused
+	text "????"
+	done
+
+WonTheMedalText:
+	text "<RAMNAME>"
+	line "Won de <RAMTEXT> Medaille!"
+	done
+
+VenusaurLv64TradeCardName:
+	text "<Lv>64 Venusaur"
+	done
+
+MewLv15TradeCardName:
+	text "<Lv>15 Mew"
+	done
+
+UnusedText038e: ; Unused
+	text "????"
+	done
+
+UnusedText038f: ; Unused
+	text "????"
+	done
+
+UnusedText0390: ; Unused
+	text "????"
+	done
+
+UnusedText0391: ; Unused
+	text "????"
+	done
+
+UnusedText0392: ; Unused
+	text "????"
+	done
+
+UnusedText0393: ; Unused
+	text "????"
+	done
+
+UnusedText0394: ; Unused
+	text "????"
+	done
+
+OpponentTitleAndNameText:
+	text "<RAMTEXT>  <RAMTEXT>"
+	done
+
+OpponentDeckNameText:
+	text "<RAMTEXT> Deck"
+	done
+
+FightingClubMemberText:
+	text "Vecht-Clublid"
+	done
+
+RockClubMemberText:
+	text "Steen-Clublid"
+	done
+
+WaterClubMemberText:
+	text "Water-Clublid"
+	done
+
+LightningClubMemberText:
+	text "Bliksem-Clublid"
+	done
+
+GrassClubMemberText:
+	text "Gras-Clublid"
+	done
+
+PsychicClubMemberText:
+	text "Psychische Clublid"
+	done
+
+ScienceClubMemberText:
+	text "Wetenschap-Clublid"
+	done
+
+FireClubMemberText:
+	text "Vuur-Clublid"
+	done
+
+FightingClubMasterText:
+	text "Vecht-Clubmeester"
+	done
+
+RockClubMasterText:
+	text "Steen-Clubmeester"
+	done
+
+WaterClubMasterText:
+	text "Water-Clubmeester"
+	done
+
+LightningClubMasterText:
+	text "Bliksem-Clubmeester"
+	done
+
+GrassClubMasterText:
+	text "Gras-Clubmeester"
+	done
+
+PsychicClubMasterText:
+	text "Psychische Clubmeester"
+	done
+
+ScienceClubMasterText:
+	text "Wetenschap-Clubmeester"
+	done
+
+FireClubMasterText:
+	text "Vuur-Clubmeester"
+	done
+
+BoosterPackText:
+	textfw "Booster-Pakje"
+	done
+
+ColosseumName:
+	text "Stadion"
+	done
+
+MysteryName:
+	text "Mysterie"
+	done
+
+LaboratoryName:
+	text "Chemie"
+	done
+
+PromotionalName:
+	text "Promokaarten"
+	done
+
+
+DrMasonNPCName:
+	text "Dr. Mason"
+	done
+
+RonaldNPCName:
+	text "Ronald"
+	done
+
+IshiharaNPCName:
+	text "Ishihara"
+	done
+
+ImakuniNPCName:
+	text "Imakuni?"
+	done
+
+ClerkNPCName:
+	text "Bediende"
+	done
+
+SamNPCName:
+	text "Sam"
+	done
+
+TechNPCName:
+	text "Techneut"
+	done
+
+UnusedText03b3: ; Unused
+	text "????"
+	done
+
+ChrisNPCName:
+	text "Chris"
+	done
+
+MichaelNPCName:
+	text "Michael"
+	done
+
+JessicaNPCName:
+	text "Jessica"
+	done
+
+MitchNPCName:
+	text "Mitch"
+	done
+
+MatthewNPCName:
+	text "Matthew"
+	done
+
+RyanNPCName:
+	text "Ryan"
+	done
+
+AndrewNPCName:
+	text "Andrew"
+	done
+
+GeneNPCName:
+	text "Gene"
+	done
+
+SaraNPCName:
+	text "Sara"
+	done
+
+AmandaNPCName:
+	text "Amanda"
+	done
+
+JoshuaNPCName:
+	text "Joshua"
+	done
+
+AmyNPCName:
+	text "Amy"
+	done
+
+JenniferNPCName:
+	text "Jennifer"
+	done
+
+NicholasNPCName:
+	text "Nicholas"
+	done
+
+BrandonNPCName:
+	text "Brandon"
+	done
+
+IsaacNPCName:
+	text "Isaac"
+	done
+
+BrittanyNPCName:
+	text "Brittany"
+	done
+
+KristinNPCName:
+	text "Kristin"
+	done
+
+HeatherNPCName:
+	text "Heather"
+	done
+
+NikkiNPCName:
+	text "Nikki"
+	done
+
+RobertNPCName:
+	text "Robert"
+	done
+
+DanielNPCName:
+	text "Daniel"
+	done
+
+StephanieNPCName:
+	text "Stephanie"
+	done
+
+MurrayNPCName:
+	text "Murray"
+	done
+
+JosephNPCName:
+	text "Joseph"
+	done
+
+DavidNPCName:
+	text "David"
+	done
+
+ErikNPCName:
+	text "Erik"
+	done
+
+RickNPCName:
+	text "Rick"
+	done
+
+JohnNPCName:
+	text "John"
+	done
+
+AdamNPCName:
+	text "Adam"
+	done
+
+JonathanNPCName:
+	text "Jonathan"
+	done
+
+KenNPCName:
+	text "Ken"
+	done
+
+CourtneyNPCName:
+	text "Courtney"
+	done
+
+SteveNPCName:
+	text "Steve"
+	done
+
+JackNPCName:
+	text "Jack"
+	done
+
+RodNPCName:
+	text "Rod"
+	done
+
+ManNPCName:
+	text "Man"
+	done
+
+WomanNPCName:
+	text "Woman"
+	done
+
+ChapNPCName:
+	text "Kerel"
+	done
+
+GalNPCName:
+	text "Meid"
+	done
+
+LassNPCName:
+	text "Meisje"
+	done
+
+PappyNPCName:
+	text "Papa"
+	done
+
+LadNPCName:
+	text "Jongen"
+	done
+
+HostNPCName:
+	text "Gastvrouw"
+	done
+
+SpecsNPCName:
+	text "Slimmerd"
+	done
+
+ButchNPCName:
+	text "Macho"
+	done
+
+HoodNPCName:
+	text "Oppepper"
+	done
+
+ChampNPCName:
+	text "Kampioen"
+	done
+
+ManiaNPCName:
+	text "Maniak"
+	done
+
+GrannyNPCName:
+	text "Oma"
+	done
+
+GuideNPCName:
+	text "Gids"
+	done
+
+AaronNPCName:
+	text "Aaron"
+	done
+	
+MewtwoTradeCardName:
+	text "<Lv>60 Mewtwo"
+	done
+
+MewTradeCardName:
+	text "<Lv>8 Mew"
+	done
+
+ArcanineTradeCardName:
+	text "<Lv>34 Arcanine"
+	done
+
+PikachuTradeCardName:
+	text "<Lv>16 Pikachu"
+	done
+
+SurfingPikachuTradeCardName:
+	text "<Lv>13 Surfende Pikachu"
+	done
+
+ElectabuzzTradeCardName:
+	text "<Lv>20 Electabuzz"
+	done
+
+SlowpokeTradeCardName:
+	text "<Lv>9 Slowpoke"
+	done
+
+JigglypuffTradeCardName:
+	text "<Lv>12 Jigglypuff"
+	done
+
+ZapdosLegendaryCardName:
+	text "<Lv>68 Zapdos"
+	done
+
+MoltresLegendaryCardName:
+	text "<Lv>37 Moltres"
+	done
+
+ArticunoLegendaryCardName:
+	text "<Lv>37 Articuno"
+	done
+
+DragoniteLegendaryCardName:
+	text "<Lv>41 Dragonite"
+	done
+
+SuperEnergyRetrievalTradeCardName:
+	text "Super Energie Ophalen"
+	done
+
+FlyingPikachuTradeCardName:
+	text "<Lv>12 Vliegende Pikachu"
+	done
+
+LightningAndFireDeckChoiceText:
+	text "Bliksem & Vuur Deck"
+	done
+
+WaterAndFightingDeckChoiceText:
+	text "Water & Vecht Deck"
+	done
+
+GrassAndPsychicDeckChoiceText:
+	text "Gras & Psychisch Deck"
+	done
+
+SelectDeckToDuelText:
+	text "Kies het Deck waar je"
+	line "tegen wilt Dueleren."
+	done
+
+CharmanderAndFriendsDeckChoiceText:
+	text "Charmander & Vrienden Deck"
+	done
+
+SquirtleAndFriendsDeckChoiceText:
+	text "Squirtle & Vrienden Deck"
+	done
+
+BulbasaurAndFriendsDeckChoiceText:
+	text "Bulbasaur & Vrienden Deck"
+	done
+
+SelectDeckToTakeText:
+	text "Kies het deck dat je wilt."
+	done
+
+HowCanIHelpText:
+	text "Hoi, <RAMNAME>. Waar kan"
+	line "ik je mee van dienst zijn?"
+	done
+
+SamNormalMenuText:
+	text "Normaal Duel"
+	line "Oefenen"
+	line "Regels"
+	line "Niets"
+	done
+
+SamRulesMenuText:
+	text "Energie"
+	line "Aanvallen"
+	line "Terug Trekken"
+	line "Pokémon Evolueren"
+	line "Pokémon-Krachten"
+	line "Je beurt doorgeven"
+	line "Winnen en Verliezen"
+	line "Alles is duidelijk"
+	done
+
+Mail1Part1Text:
+	text "<RAMNAME>,"
+	line "Ik ben het, Dokter Mason."
+	line "Krijg je het Pokémon Ruilkaartspel"
+	line "al een beetje onder de knie?"
+	line "Ik heb wat informatie voor je"
+	line "over Booster-pakjes: Als je"
+	line "dezelfde soorten kaarten wilt"
+	line "verzamelen, Dueleer dan vaak met"
+	line "dezelfde persoon om een specifiek"
+	line "Booster-Pakje te krijgen! Op deze"
+	line "manier krijg je sneller dezelfde"
+	line "kaarten, wat het makkelijker maakt"
+	line "om je Deck te bouwen. Een andere"
+	line "methode voor het verzamelen van"
+	line "kaarten is met een Kaart-Flits!"
+	line "Als jij en een vriend een Kaart-"
+	line "Flits! doen krijgen jullie elk"
+	line "een nieuwe kaart! Wanneer je dit"
+	line "doet met een vriend, kun je het"
+	line "niet opnieuw met die vriend doen."
+	line "Dus zoek veel vrienden die het"
+	line "Pokémon Ruilkaartspel voor de"
+	line "Game Boy hebben en doe een Kaart-"
+	line "Flits! met ze voor nieuwe kaarten!"
+	line "Oh, ik heb nog iets voor je..."
+	done
+
+Mail1Part2Text:
+	text "Ik zal je nuttige informatie"
+	line "opsturen per e-mail."
+	line "Ik zal er ook een Booster-Pakje"
+	line "aan hechten, dus bekijk"
+	line "regelmatig je mail."
+	line "Mason Onderzoekslab"
+	line "      Doctor Mason  ;)"
+	done
+
+Mail2Part1Text:
+	text "<RAMNAME>,"
+	line "Ik ben het, Dokter Mason."
+	line "Ik heb wat informatie voor je over"
+	line "het deck van Mitch - hij is de"
+	line "Meester van de Vecht-Club. Zijn"
+	line "Eerste Klap Deck is gebouwd voor een"
+	line "snelle Aanval, maar het is zwak"
+	line "tegen Psychische Pokémon! Ik stel"
+	line "voor dat je met hem Duelleert met"
+	line "een Deck uit de Deckmachine van de"
+	line "Psychische Medaille. Hier is een"
+	line "Booster-Pakje voor je..."
+	done
+
+Mail2Part2Text:
+	text "<RAMNAME>, Ik weet dat je het kunt!"
+	line "Ga de Vecht-Medaille winnen!"
+	line "Mason Onderzoekslab"
+	line "      Doctor Mason ;)"
+	done
+
 Mail3Part1Text:
 	text "<RAMNAME>,"
 	line "It's me, Doctor Mason."
@@ -501,540 +1328,3 @@ AmandaPlayerLostText:
 	text "Winning in such nice surroundings"
 	line "makes it all the more pleasurable!"
 	done
-
-JoshuaAmyIsRestingText:
-	text "Hey! Stop!"
-	line "This is a restricted area!"
-	line "Amy, the Club Master,"
-	line "is resting!"
-	done
-
-JoshuaGoDefeatSaraAndAmandaText:
-	text "The person resting over there"
-	line "is Amy, the Club Master."
-	line "If you wish to duel Amy,"
-	line "go defeat Sara and Amanda first."
-	line "Then I will test your skill,"
-	line "and if by chance you should win,"
-	line "I will introduce you to Amy,"
-	line "the Club Master!"
-	done
-
-JoshuaSaraAndAmandaDefeatedText:
-	text "What?"
-	line "You defeated Sara and Amanda?"
-	done
-
-JoshuaWantsToDuelInitialText:
-	text "You must be pretty good if you"
-	line "defeated Sara and Amanda..."
-	line "As promised, I'll test your skills."
-	line "If you win, I will introduce you"
-	line "to Amy..."
-	done
-
-JoshuaWantsToDuelRepeatText:
-	text "You wish to duel against me?"
-	done
-
-JoshuaWouldYouLikeToDuelText:
-	text "Would you like to duel Joshua?"
-	done
-
-JoshuaDeclinedDuelInitialText:
-	text "You don't want to duel?"
-	line "Are you afraid you won't be able"
-	line "to defeat me?"
-	line "The only way you will be able to"
-	line "meet Amy is by going through me!"
-	done
-
-JoshuaDeclinedDuelRepeatText:
-	text "You don't want to duel?"
-	line ""
-	line "Are you afraid you won't be able"
-	line "to defeat me?"
-	line "That's understandable since I'm"
-	line "very good!"
-	done
-
-JoshuaDuelStartText:
-	text "OK, this will be a 1-match duel"
-	line "with 4 Prizes!"
-	done
-
-JoshuaPlayerLostInitialText:
-	text "How's that! I win!"
-	line "I'm sorry, but unless you defeat me,"
-	line "I can't let you meet Amy."
-	done
-
-JoshuaPlayerLostRepeatText:
-	text "How's that! I win!"
-	line "Too bad for you, but"
-	line "I'm the second best player"
-	line "after Amy!"
-	done
-
-JoshuaPlayerWonInitial1Text:
-	text "What!?!"
-	line "How could I lose?"
-	done
-
-JoshuaPlayerWonRepeat1Text:
-	text "What!?!"
-	line "How could I lose again?"
-	done
-
-JoshuaPlayerWonInitial2Text:
-	text "Well, since I promised..."
-	line "I'll introduce you to Amy."
-	done
-
-JoshuaPlayerWonRepeat2Text:
-	text "How could this be?"
-	line "It must be luck!"
-	line "Yeah, that's what it was!"
-	done
-
-JoshuaWakesAmy1Text:
-	text "Don't think you're that good"
-	line "just because you defeated me."
-	line "We still have Amy here"
-	line "at the Water Club."
-	done
-
-JoshuaWakesAmy2Text:
-	text "Amy!"
-	line "Please wake up!!"
-	done
-
-AmyMeetsPlayer1Text:
-	text "Huh? What's going on?"
-	line "I was enjoying my little nap..."
-	done
-
-JoshuaWakesAmy3Text:
-	text "Well, um..."
-	line "(psst, psst, psst)"
-	done
-
-AmyMeetsPlayer2Text:
-	text "What? You lost?"
-	line "How could you!?!"
-	done
-
-AmyMeetsPlayer3Text:
-	text "Was it <RAMNAME>?"
-	line "I will be your next opponent."
-	line "I'm Amy, the Master of the"
-	line "Water Club!"
-	done
-
-AmyWantsToDuelInitialText:
-	text "Aren't you <RAMNAME>?"
-	line "So you decided you want to duel me?"
-	done
-
-AmyWouldYouLikeToDuelText:
-	text "Would you like to duel Amy?"
-	done
-
-AmyDeclinedDuelInitialText:
-	text "No? How boring! I was looking"
-	line "forward to a game of Pokémon."
-	line "Well, come see me again!"
-	done
-
-AmyDuelStartInitialText:
-	text "OK! A 1-Match Duel with 6 Prizes!"
-	line "Let's do it!"
-	done
-
-AmyPlayerWon1Text:
-	text "Oh, no! I lost!?!"
-	done
-
-AmyGivesMedal1Text:
-	text "Well, since I lost, you can have"
-	line "this Water Medal."
-	line "This should get you a step closer"
-	line "to inheriting the Legendary Cards!"
-	done
-
-AmyGivesMedal2Text:
-	text "Here, you can also have these!"
-	line "They should come in handy!"
-	done
-
-AmyPlayerWon2Text:
-	text "Come see me again! I'd like"
-	line "to duel you again sometime!"
-	done
-
-AmyPlayerLostText:
-	text "Hah! I'm the best!"
-	line "Come see me again sometime!"
-	line "I'd like another duel!"
-	done
-
-AmyWantsToDuelRepeatText:
-	text "Hi, <RAMNAME>."
-	line "Nice to see you again!!!"
-	line "Did you come to play the"
-	line "Pokémon Trading Card Game?"
-	done
-
-AmyDuelStartRepeatText:
-	text "OK, same rules as before!"
-	line "A 1-match duel with 6 Prizes!"
-	done
-
-Clerk1Text:
-	text "Hello."
-	line "Welcome to the Fighting Club!"
-	line "Here at this Club, we duel using"
-	line "Fighting Pokémon."
-	line "No dirty dueling is allowed!"
-	line "Only nice, clean duels are allowed"
-	line "in this Club."
-	done
-
-Man1FirstRequestCardText:
-	text "I see you play the Pokémon Trading"
-	line "Card Game. I'm not into dueling."
-	line "I prefer collecting the cards."
-	line "By the way, would you happen to have"
-	line "<RAMTEXT>?"
-	line "If you do, I was wondering if you"
-	line "might want to give it to me?"
-	line "How about it?"
-	done
-
-Man1WaitingForCardText:
-	text "Hi! It's you!"
-	line "What's up?"
-	line "Did you decide to give me your"
-	line "<RAMTEXT>?"
-	done
-
-Man1NewRequestCardText:
-	text "Hi! I see you're playing with"
-	line "the cards again."
-	line "By the way, I'm looking for"
-	line "<RAMTEXT> this time."
-	line "If you should happen to have one,"
-	line "would you mind giving it to me?"
-	done
-
-Man1GiveAwayCardText:
-	text "Give him your <RAMTEXT>?"
-	done
-
-Man1DeclineText:
-	text "OK. I understand."
-	line "But if you should change your"
-	line "mind, please come see me."
-	done
-
-Man1DontHaveText:
-	text "But you don't have <RAMTEXT>!"
-	line "I appreciate your generosity, but"
-	line "you can't give me what you don't"
-	line "have. Come see me again after"
-	line "you get <RAMTEXT>."
-	done
-
-Man1CardInDeckText:
-	text "You're going to give it to me?"
-	line "Thank you!"
-	line "But your <RAMTEXT>"
-	line "is in your deck."
-	line "I can't take a card that you're"
-	line "playing with!"
-	done
-
-Man1GiveCardText:
-	text "You're going to give it to me?"
-	line "I'll put it in my collection"
-	line "right away. I'll take good care of"
-	line "this card. Thank you! Thank you!!!"
-	done
-
-Man1PlayerReceivePikachuAltLv16Text:
-	text "Since you've been so kind and given"
-	line "me so many cards,"
-	line "please accept this card as a gift"
-	line "from me to you."
-	line "It's a <Lv>16 Pikachu."
-	line "Please take good care of it!"
-	done
-
-Man1ThankYouText:
-	text "Thank you for being so kind and"
-	line "giving me all these cards!"
-	done
-
-Man1GaveCardText:
-	text "Hi!"
-	line "Thanks for being so kind!"
-	line "I'm taking good care"
-	line "of all the cards you gave me!"
-	done
-
-Man1GaveAllCardsText:
-	text "Hi! Is the card I gave you"
-	line "coming in handy?"
-	line "Thanks again for being so kind!"
-	done
-
-ImakuniWouldLikeToDuelInitialText:
-	text "Huh? W..Who are you?"
-	line "Who? Me? You don't know who I am?"
-	line "I am the super musical star,"
-	line "Imakuni?!"
-	line "I'll sing the PokéRap - You dance!"
-	line ""
-	half2full
-	textfw "♪"
-	text "La di da la di da"
-	line "  La di da la di da..."
-	line "Hey!"
-	line "Move those feet!"
-	line "What? Cards?"
-	line "You want to duel me?"
-	line "OK, but if I win, you dance!"
-	done
-
-ImakuniWouldLikeToDuelRepeatText:
-	text "What? You're still here?"
-	line "OK, sit over there."
-	line "What? You're already sitting?"
-	line "OK, OK! Then let's get started!"
-	done
-
-ImakuniWouldYouLikeToDuelText:
-	text "Would you like to duel Imakuni??"
-	done
-
-ImakuniDeclinedDuelText:
-	text "Come on, don't be cruel!"
-	line "You're going to make me cry!"
-	done
-
-ImakuniDuelStartText:
-	text "OK, a 1-match duel with 6 Prizes!"
-	line "...Whatever that means..."
-	done
-
-ImakuniPlayerWonNormalText:
-	text "Hey! You're pretty good!"
-	line "I'll give you this booster pack,"
-	line "so don't tell anyone I lost, OK?"
-	done
-
-ImakuniPlayerWonThreeWinsText:
-	text "You won 3 times against me!"
-	line "Does that make you happy? Does it?"
-	done
-
-ImakuniPlayerWonSixWinsText:
-	text "I can't believe I lost 6 times!"
-	line "...Seriously!"
-	done
-
-ImakuniGivesImakuniText:
-	text "I don't really want to give you"
-	line "this, but here. Take care of it."
-	done
-
-ImakuniPlayerWonEndText:
-	text "In both cards and dance,"
-	line "soul and rhythm are the secret."
-	line "Hey, that sounds pretty cool!"
-	line "Maybe I'll become a poet!"
-	done
-
-ImakuniPlayerLostText:
-	text "Hmm...I win."
-	line "You weren't too bad, but since"
-	line "I won...Let's see you shake it!"
-	line "Come on, shake it!!!"
-	line ""
-	half2full
-	textfw "♪"
-	text "La di da la di da"
-	line "  La di da la di da..."
-	line "... You dance weird!"
-	done
-
-Specs1NormalText:
-	text "I was just saying which"
-	line "Grand Master is the best."
-	line "I think Steve is the best player."
-	done
-
-Specs1PlayerIsChampionText:
-	text "I can't believe Steve the Grand"
-	line "Master could lose!"
-	line "Who could have defeated Steve?"
-	done
-
-ButchNormalText:
-	text "The best player among the Grand"
-	line "Masters is Rod, since he's the"
-	line "leader of the Grand Masters."
-	done
-
-ButchPlayerIsChampionText:
-	text "I can't believe Rod, the leader of"
-	line "the Grand Masters, was defeated!?!"
-	line "Could this mean the Legendary"
-	line "Pokémon Cards have been passed on?"
-	done
-
-Granny1Text:
-	text "If I were just a few years younger,"
-	line "I'd be dueling with you kids, too."
-	done
-
-MitchFirstInteractionText:
-	text "I am Mitch, Master of the"
-	line "Fighting Club!"
-	line "I have to warn you that you will"
-	line "be unable to defeat me!"
-	line "If you wish to duel with me,"
-	line "you must defeat my pupils first!"
-	line "My pupils are training at"
-	line "other Clubs!"
-	line "Go see if you can defeat all"
-	line "3 of my pupils!"
-	done
-
-Mitch3PupilsRemainingText:
-	text "If you wish to duel me, you"
-	line "must defeat my pupils first!"
-	line "My pupils are training at the"
-	line "other Clubs!"
-	line "Go and see if you can defeat all"
-	line "3 of my pupils!"
-	done
-
-Mitch2PupilsRemainingText:
-	text "So, you've defeated 1 of my pupils."
-	line "You must be a pretty good player."
-	line "But you're not good enough!"
-	line "If you wish to duel me,"
-	line "you must defeat my"
-	line "2 remaining pupils!"
-	done
-
-Mitch1PupilRemainingText:
-	text "So, you've defeated 2 of my pupils!"
-	line "You are pretty good."
-	line "But there's still the last one..."
-	line "Can you defeat my last pupil?"
-	done
-
-MitchWouldLikeToDuelInitialText:
-	text "So, you have defeated"
-	line "all of my pupils!"
-	line "Let's see if you have"
-	line "what it takes to inherit"
-	line "the Legendary Pokémon Cards!"
-	line "OK! Are you ready?"
-	done
-
-MitchWouldYouLikeToDuelText:
-	text "Would you like to duel Mitch?"
-	done
-
-MitchDeclinedInitialText:
-	text "What?"
-	line "Are you getting cold feet?"
-	line "Come see me again when you"
-	line "finally work up enough nerves!"
-	done
-
-MitchDuelStartInitialText:
-	text "Come on! Show me what you've got!"
-	line "We'll play with 6 Prizes!"
-	done
-
-MitchPlayerWonInitial1Text:
-	text "Wonderful! Great Match!"
-	line "You're very good."
-	line "Here, take this."
-	line "It's the Fighting Medal!"
-	line "You'll find the secret to the decks"
-	line "of this Club encrypted in it."
-	done
-
-MitchPlayerWonInitial2Text:
-	text "Here, take this, too. It's a"
-	line "Laboratory booster pack."
-	done
-
-MitchPlayerWonInitial3Text:
-	text "I hope to duel someone"
-	line "like you again someday!"
-	done
-
-MitchPlayerLostInitialText:
-	text "You may have been able to defeat"
-	line "my pupils, but you still are not"
-	line "experienced enough to defeat me!"
-	line "Come back after you've trained more!"
-	done
-
-MitchWouldLikeToDuelRepeatText:
-	text "You wish to duel the"
-	line "Fighting Club Master again?"
-	done
-
-MitchDeclinedDuelRepeatText:
-	text "Oh, OK."
-	line "I'd like to duel again, though."
-	done
-
-MitchDuelStartRepeatText:
-	text "As before, we'll play with 6 Prizes."
-	line "Come show me what you've got!"
-	done
-
-MitchPlayerWonRepeat1Text:
-	text "Another utter defeat!"
-	line "Here, take this!"
-	done
-
-MitchPlayerWonRepeat2Text:
-	text "I'd like to duel someone"
-	line "like you again!"
-	done
-
-MitchPlayerLostRepeatText:
-	text "You must train harder!"
-	line "I'll be waiting!"
-	done
-
-ChrisFightingClubWantsToDuelInitialText:
-	text "I lost to you before at the"
-	line "Rock Club, but not this time!"
-	line "I'm going to train to become"
-	line "an even better player!"
-	line "But before I can start my training"
-	line "again, I must defeat you first!"
-	done
-
-ChrisFightingClubWantsToDuelRepeatText:
-	text "I'm going to train to become"
-	line "an even better player!"
-	line "But before I can start my training"
-	line "again, I must defeat you first!"
-	done
-
-ChrisWouldYouLikeToDuelText:
-	text "Would you like to duel Chris?"
-	done
-
-;	ds $8

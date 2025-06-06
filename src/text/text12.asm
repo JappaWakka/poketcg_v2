@@ -1,1416 +1,1308 @@
-KadabraName:
-	text "Kadabra"
+ExeggcuteName:
+	text "Exeggcute"
 	done
 
-KadabrasRecoverDescription:
-	text "Discard 1 <PSYCHIC> Energy card attached to"
-	line "Kadabra in order to use this attack."
-	line "Remove all damage counters from"
-	line "Kadabra."
+HypnosisName:
+	text "Hypnose-"
 	done
 
-SuperPsiName:
-	text "Super Psy"
+ExeggcutesLeechSeedDescription:
+	text "Tenzij alle schade van deze"
+	line "Aanval wordt voorkomen, mag je"
+	line "1 schadeteller van Exeggcute"
+	line "verwijderen."
 	done
 
-KadabraDescription:
-	text "It emits special alpha waves from"
-	line "its body that induce headaches"
-	line "even to those just nearby."
+EggName:
+	text "Ei-"
 	done
 
-AlakazamName:
-	text "Alakazam"
+ExeggcuteDescription:
+	text "Vaak verward met eieren. Als ze"
+	line "worden gestoord, verzamelen ze zich"
+	line "nel en vallen ze in zwermen aan."
 	done
 
-DamageSwapName:
-	text "Damage Swap"
+ExeggutorName:
+	text "Exeggutor"
 	done
 
-DamageSwapDescription:
-	text "As often as you like during your"
-	line "turn (before your attack), you may"
-	line "move 1 damage counter from 1 of your"
-	line "Pokémon to another as long as you"
-	line "don't Knock Out that Pokémon."
-	line "This power can't be used if Alakazam"
-	line "is Asleep, Confused, or Paralyzed."
+TeleportName:
+	text "Teleportatie"
 	done
 
-AlakazamDescription:
-	text "Its brain can outperform a"
-	line "supercomputer. Its intelligence"
-	line "quotient is said to be 5000."
+TeleportDescription:
+	text "Verwissel Exeggutor met 1 van je"
+	line "Pokémon op de Bank."
 	done
 
-SlowpokeName:
-	text "Slowpoke"
+BigEggsplosionName:
+	text "Grote eisplosie"
 	done
 
-SlowpokesAmnesiaDescription:
-	text "Choose 1 of the Defending Pokémon's"
-	line "attacks. That Pokémon can't use"
-	line "that attack during your opponent's"
-	line "next turn."
+BigEggsplosionDescription:
+	text "Gooi een aantal munten op gelijk aan"
+	line "het aantal aan Exeggutor gehechte"
+	line "Energie. Deze Aanval doet 20 schade"
+	line "maal het aantal keren kop."
 	done
 
-DopeyName:
-	text "Dopey"
+CoconutName:
+	text "Kokosnoot-"
 	done
 
-SlowpokeLv9Description:
-	text "Incredibly slow and dopey."
-	line "It takes 5 seconds for it to"
-	line "feel pain when under attack."
+ExeggutorDescription:
+	text "Volgens de legende zal bij zeldzame"
+	line "gelegenheden een van zijn hoofden"
+	line "afvallen en verder gaan als"
+	line "Exeggcute."
 	done
 
-SpacingOutName:
-	text "Spacing Out"
+KoffingName:
+	text "Koffing"
 	done
 
-SpacingOutDescription:
-	text "Flip a coin. If heads, remove a"
-	line "damage counter from Slowpoke. This"
-	line "attack can't be used if Slowpoke"
-	line "has no damage counters on it."
+FoulGasName:
+	text "Stinkgas"
 	done
 
-ScavengeName:
-	text "Scavenge"
+FoulGasDescription:
+	text "Gooi een munt op. Als het kop is,"
+	line "is de Verdedigende Pokémon"
+	line "nu Vergiftigd; als het munt is,"
+	line "is de Verdedigende Pokémon"
+	line "nu Verward."
 	done
 
-ScavengeDescription:
-	text "Discard 1 <PSYCHIC> Energy card attached"
-	line "to Slowpoke in order to use this"
-	line "attack. Put a Trainer card from your"
-	line "discard pile into your hand."
+PoisonGasName:
+	text "Gifgas-"
 	done
 
-SlowbroName:
-	text "Slowbro"
+KoffingDescription:
+	text "Omdat hij verschillende soorten gif-"
+	line "gas in zijn lijf heeft opgeslagen,"
+	line "kan hij makkelijk zonder"
+	line "waarschuwing exploderen."
 	done
 
-StrangeBehaviorName:
-	text "Strange Behavior"
+WeezingName:
+	text "Weezing"
 	done
 
-StrangeBehaviorDescription:
-	text "As often as you like during your"
-	line "turn (before your attack), you may"
-	line "move 1 damage counter from 1 of your"
-	line "Pokémon to Slowbro as long as you"
-	line "don't Knock Out Slowbro. This power"
-	line "can't be used if Slowbro is Asleep,"
-	line "Confused, or Paralyzed."
+SmogName:
+	text "Smog"
 	done
 
-HermitcrabName:
-	text "Hermitcrab"
+SelfdestructName:
+	text "Zelfvernietiging"
 	done
 
-SlowbroDescription:
-	text "The Shellder that is latched onto"
-	line "Slowpoke's tail is said to feed on"
-	line "the host's left-over scraps."
+WeezingsSelfdestructDescription:
+	text "Doet 10 schade aan elke Pokémon"
+	line "op de Bank van elke speler. (Pas"
+	line "geen Zwakte en Weerstand toe voor"
+	line "Pokémon op de Bank.) Weezing doet"
+	line "60 schade aan zichzelf."
 	done
 
-GastlyName:
-	text "Gastly"
+WeezingDescription:
+	text "Waar twee soorten gifgas elkaar"
+	line "ontmoeten, kunnen twee Koffing"
+	line "over vele jaren tot een Weezing"
+	line "versmelten."
 	done
 
-SleepingGasName:
-	text "Sleeping Gas"
+TangelaName:
+	text "Tangela"
 	done
 
-MayInflictSleepDescription:
-	text "Flip a coin. If heads, the"
-	line "Defending Pokémon is now Asleep."
+BindName:
+	text "Koppelen"
 	done
 
-DestinyBondName:
-	text "Destiny Bond"
+VineName:
+	text "Klimplant-"
 	done
 
-DestinyBondDescription:
-	text "Discard 1 <PSYCHIC> Energy card attached to"
-	line "Gastly in order to use this attack."
-	line "If a Pokémon Knocks Out Gastly"
-	line "during your opponent's next turn,"
-	line "Knock Out that Pokémon."
+TangelaLv8Description:
+	text "Zijn hele lichaam is gewikkeld in"
+	line "brede strengen die veel op zeewier"
+	line "lijken. Als hij loopt, schudden"
+	line "deze strengen."
 	done
 
-GasName:
-	text "Gas"
+PoisonWhipName:
+	text "Gifzweepslag"
 	done
 
-GastlyLv8Description:
-	text "Almost invisible, this gaseous"
-	line "Pokémon cloaks the target and puts"
-	line "it to sleep without notice."
+TangelaLv12Description:
+	text "Zijn identiteit wordt verhuld door"
+	line "grote hoeveelheden dikke blauwe"
+	line "strengen. Er wordt gezegd dat de"
+	line "strengen nooit stoppen met groeien."
 	done
 
-LickName:
-	text "Lick"
+ScytherName:
+	text "Scyther"
 	done
 
-EnergyConversionName:
-	text "Energy Conversion"
+SwordsDanceName:
+	text "Zwaardendans"
 	done
 
-EnergyConversionDescription:
-	text "Put up to 2 Energy cards from"
-	line "your discard pile into your hand."
-	line "Gastly does 10 damage to itself."
+SwordsDanceDescription:
+	text "Tijdens je volgende beurt is de"
+	line "basisschade van Scyther's"
+	line "Hak-Aanval 60 in plaats van 30."
 	done
 
-GastlyLv17Description:
-	text "A mysterious Pokémon. Some say it is"
-	line "a lifeform from another dimension,"
-	line "while others believe it is formed"
-	line "from smog."
+MantisName:
+	text "Bidsprinkhaan"
 	done
 
-HaunterName:
-	text "Haunter"
+ScytherDescription:
+	text "Met ninja-achtige behendigheid"
+	line "en snelheid kan hij de illusie"
+	line "creëren dat er meer dan één"
+	line "van hem is."
 	done
 
-TransparencyName:
-	text "Transparency"
+PinsirName:
+	text "Pinsir"
 	done
 
-TransparencyDescription:
-	text "Whenever an attack does anything to"
-	line "Haunter, flip a coin. If heads,"
-	line "prevent all effects of that attack,"
-	line "including damage, done to Haunter."
-	line "This power stops working while"
-	line "Haunter is Asleep, Confused, or"
-	line "Paralyzed."
+IronGripName:
+	text "IJzeren Greep"
 	done
 
-NightmareName:
-	text "Nightmare"
+GuillotineName:
+	text "Guillotine"
 	done
 
-HaunterDescription:
-	text "Because of its ability to slip"
-	line "through block walls, it is said to"
-	line "be from another dimension."
+StagbeetleName:
+	text "Vliegend-Hert-"
 	done
 
-DreamEaterName:
-	text "Dream Eater"
+PinsirDescription:
+	text "Als hij zijn slachtoffer niet in"
+	line "zijn scharen kan verbrijzelen,"
+	line "slingert hij hem in het rond"
+	line "en gooit hij hem hard neer."
 	done
 
-DreamEaterDescription:
-	text "You can't use this attack unless"
-	line "the Defending Pokémon is Asleep."
+CharmanderName:
+	text "Charmander"
 	done
 
-GengarName:
-	text "Gengar"
+EmberName:
+	text "Sintel"
 	done
 
-CurseName:
-	text "Curse"
+EmberDescription:
+	text "Om deze Aanval te kunnen gebruiken"
+	line "moet je 1 aan Charmander gehechte"
+	line "<FIRE> Energiekaart weggooien."
 	done
 
-CurseDescription:
-	text "Once during your turn (before your"
-	line "attack), you may move 1 damage"
-	line "counter from 1 of your opponent's"
-	line "Pokémon to another (even if it would"
-	line "Knock Out the other Pokémon)."
-	line "This power can't be used if Gengar"
-	line "is Asleep, Confused, or Paralyzed."
+LizardName:
+	text "Hagedis-"
 	done
 
-DarkMindName:
-	text "Dark Mind"
+CharmanderDescription:
+	text "Geeft uiteraard de voorkeur aan hete"
+	line "plekken. Ze zeggen dat er stoom"
+	line "uit de punt van zijn staart spuit"
+	line "als hij in de regen terecht komt."
 	done
 
-DarkMindDescription:
-	text "If your opponent has any Benched"
-	line "Pokémon, choose 1 of them and this"
-	line "attack does 10 damage to it."
-	line "(Don't apply Weakness and Resistance"
-	line "for Benched Pokémon.)"
+CharmeleonName:
+	text "Charmeleon"
 	done
 
-ShadowName:
-	text "Shadow"
+FlamethrowerName:
+	text "Vlammenwerper"
 	done
 
-GengarDescription:
-	text "Under a full moon, this Pokémon"
-	line "likes to mimic the shadows of people"
-	line "and laugh at their fright."
+CharmeleonsFlamethrowerDescription:
+	text "Om deze Aanval te kunnen gebruiken"
+	line "moet je 1 aan Charmeleon gehechte"
+	line "<FIRE> Energiekaart weggooien."
 	done
 
-DrowzeeName:
-	text "Drowzee"
+FlameName:
+	text "Vlam-"
 	done
 
-PoundName:
-	text "Pound"
+CharmeleonDescription:
+	text "Als hij met zijn brandende staart"
+	line "zwaait, stijgt de temperatuur tot"
+	line "een ondraaglijke hoogte"
 	done
 
-DrowzeeDescription:
-	text "Puts enemies to sleep, then eats"
-	line "their dreams. Occasionally gets"
-	line "sick from eating bad dreams."
+CharizardName:
+	text "Charizard"
 	done
 
-HypnoName:
-	text "Hypno"
+EnergyBurnName:
+	text "Energieverbranding"
 	done
 
-ProphecyName:
-	text "Prophecy"
+EnergyBurnDescription:
+	text "Je mag zo vaak als je wilt tijdens"
+	line "je beurt (vóór je Aanval) alle aan"
+	line "Charizard gehechte Energie omzetten"
+	line "naar <FIRE> Energie voor de rest van"
+	line "je beurt. Deze kracht kan niet"
+	line "worden gebruikt als Charizard"
+	line "In Slaap, Verward, of Verlamd is."
 	done
 
-ProphecyDescription:
-	text "Look at up to 3 cards from the"
-	line "top of either player's deck and"
-	line "rearrange them as you like."
+FireSpinName:
+	text "Vuurdraak"
 	done
 
-HypnoDescription:
-	text "When it locks eyes with an enemy,"
-	line "it will use a mix of psi moves"
-	line "such as Hypnosis and Confusion."
+FireSpinDescription:
+	text "Om deze Aanval te kunnen gebruiken,"
+	line "moet je 2 aan Charizard gehechte"
+	line "Energiekaarten weggooien."
 	done
 
-MrMimeName:
-	text "Mr. Mime"
+CharizardDescription:
+	text "Spuwt vuur dat heet genoeg is om"
+	line "rotsblokken te laten smelten. Staat"
+	line "erom bekend dat hij onopzettelijk"
+	line "bosbranden veroorzaakt."
 	done
 
-InvisibleWallName:
-	text "Invisible Wall"
+VulpixName:
+	text "Vulpix"
 	done
 
-InvisibleWallDescription:
-	text "Whenever an attack (including your"
-	line "own) does 30 or more damage to Mr."
-	line "Mime (after applying Weakness and"
-	line "Resistance), prevent that damage."
-	line "(Any other effects of attacks still"
-	line "happen.)"
+ConfuseRayName:
+	text "Verwarstraal"
 	done
 
-InvisibleWallDescriptionCont:
-	text "This power can't be used if Mr. Mime"
-	line "is Asleep, Confused, or Paralyzed."
+FoxName:
+	text "Vos-"
 	done
 
-MeditateName:
-	text "Meditate"
+VulpixDescription:
+	text "Bij zijn geboorte heeft hij maar"
+	line "één staart. Als hij ouder wordt,"
+	line "begint zijn staart vanaf het"
+	line "puntje te splitsen."
 	done
 
-MrMimesMeditateDescription:
-	text "Does 10 damage plus 10 more damage"
-	line "for each damage counter on the"
-	line "Defending Pokémon."
+NinetalesName:
+	text "Ninetales"
 	done
 
-BarrierName:
-	text "Barrier"
+NinetalesLureName:
+	text "Verleiding"
 	done
 
-MrMimeDescription:
-	text "If interrupted while miming, it will"
-	line "slap around the enemy with its broad"
-	line "hands."
+NinetalesLureDescription:
+	text "Als je tegenstander Pokémon op de"
+	line "Bank heeft, kies er dan 1 van en"
+	line "verwissel deze met zijn of haar"
+	line "Actieve Pokémon."
 	done
 
-JynxName:
-	text "Jynx"
+FireBlastName:
+	text "Vuurschot"
 	done
 
-DoubleAttackX10Description:
-	text "Flip 2 coins. This attack does"
-	line "10 damage times the number of heads."
+FireBlastDescription:
+	text "Om deze Aanval te kunnen gebruiken"
+	line "moet je 1 aan Ninetales gehechte"
+	line "<FIRE> Energiekaart weggooien."
 	done
 
-JynxsMeditateDescription:
-	text "Does 20 damage plus 10 more damage"
-	line "for each damage counter on the"
-	line "Defending Pokémon."
+NinetalesLv32Description:
+	text "Bijzonder slim en erg wraakzuchtig."
+	line "Het vastpakken van één van zijn vele"
+	line "staarten kan een 1000 jaar lang"
+	line "durende vloek tot gevolg hebben."
 	done
 
-HumanShapeName:
-	text "Human Shape"
+MixUpName:
+	text "Rommelen"
 	done
 
-JynxDescription:
-	text "Merely by meditating, the Pokémon"
-	line "launches a powerful psychic energy"
-	line "attack."
+MixUpDescription:
+	text "Als je tegenstander Basis-Pokémon"
+	line "of Evolutiekaarten in zijn of haar"
+	line "Hand heeft, schudt je tegenstander"
+	line "die kaarten door zijn of haar Deck"
+	line "heen. Daarna neemt je tegenstander"
+	line "een gelijk aantal Basis-Pokémon"
+	line "en/of Evolutiekaarten uit zijn"
 	done
 
-MewtwoName:
-	text "Mewtwo"
+MixUpDescriptionCont:
+	line "of haar Deck in zijn of haar Hand,"
+	line "op willekeurige wijze gekozen."
+	line "Hierna schudt je tegenstander"
+	line "opnieuw zijn of haar Deck."
 	done
 
-PsychicName:
-	text "Psychic"
+DancingEmbersName:
+	text "Dansende vonken"
 	done
 
-PsychicDescription:
-	text "Does 10 damage plus 10 more damage"
-	line "for each Energy card attached to the"
-	line "Defending Pokémon."
+DancingEmbersDescription:
+	text "Gooi 8 munten op. Deze Aanval doet"
+	line "10 schade maal het aantal keren kop."
 	done
 
-BarrierDescription:
-	text "Discard 1 <PSYCHIC> Energy card attached to"
-	line "Mewtwo in order to use this attack."
-	line "During your opponent's next turn,"
-	line "prevent all effects of attacks,"
-	line "including damage, done to Mewtwo."
+NinetalesLv35Description:
+	text "Volgens een eeuwenoude legende"
+	line "werden 9 nobele helden verenigd"
+	line "en als hem gereïncarneerd."
 	done
 
-GeneticName:
-	text "Genetic"
+GrowlitheName:
+	text "Growlithe"
 	done
 
-MewtwoLv53Description:
-	text "A scientist created this Pokémon"
-	line "after years of horrific"
-	line "gene-splicing and DNA engineering"
-	line "experiments."
+FlareName:
+	text "Steekvlam"
 	done
 
-EnergyAbsorptionName:
-	text "Energy Absorption"
+PuppyName:
+	text "Puppy-"
 	done
 
-EnergyAbsorptionDescription:
-	text "Choose up to 2 Energy cards from"
-	line "your discard pile and attach them"
-	line "to Mewtwo."
+GrowlitheDescription:
+	text "Gaat tot het uiterste om zijn"
+	line "terrein te beschermen. Hij zal"
+	line "blaffen en bijten om indringers"
+	line "van zijn grondgebied te verjagen."
 	done
 
-PsyburnName:
-	text "Psyburn"
+ArcanineName:
+	text "Arcanine"
 	done
 
-MewtwoLv60Description:
-	text "Years of genetic experiments"
-	line "resulted in the creation of this"
-	line "never-before-seen violent Pokémon."
+QuickAttackName:
+	text "Snelle Aanval"
 	done
 
-MewName:
-	text "Mew"
+QuickAttackDescription:
+	text "Gooi een munt op. Als het kop"
+	line "is, doet deze Aanval 10 schade"
+	line "plus nog eens 20 schade; als"
+	line "het munt is, doet deze Aanval"
+	line "10 schade."
 	done
 
-NeutralizingShieldName:
-	text "Neutralizing Shield"
+FlamesOfRageName:
+	text "Vlammen van woede"
 	done
 
-NeutralizingShieldDescription:
-	text "Prevent all effects of attacks,"
-	line "including damage, done to Mew by"
-	line "evolved Pokémon (excluding your"
-	line "own). This power stops working while"
-	line "Mew is Asleep, Confused, or"
-	line "Paralyzed."
+FlamesOfRageDescription:
+	text "Om deze Aanval te kunnen gebruiken,"
+	line "moet je 2 aan Arcanine gehechte <FIRE>"
+	line "Energiekaarten weggooien. Deze"
+	line "Aanval doet 40 schade plus nog"
+	line "eens 10 schade voor elke"
+	line "Schadeteller op Arcanine."
 	done
 
-NewSpeciesName:
-	text "New Species"
+LegendaryName:
+	text "Legendarische"
 	done
 
-MewLv8Description:
-	text "So rare that it is still said to be"
-	line "a mirage by many experts. Only a few"
-	line "people have seen it worldwide."
+ArcanineLv34Description:
+	text "Een Pokémon die al een lange tijd"
+	line "bewonderd wordt om zijn schoonheid."
+	line "Wanneer hij rent, lijkt het bijna"
+	line "alsof hij vliegt."
 	done
 
-MysteryAttackName:
-	text "Mystery Attack"
+ArcaninesFlamethrowerDescription:
+	text "Om deze Aanval te kunnen gebruiken,"
+	line "moet je 1 aan Arcanine gehechte <FIRE>"
+	line "Energiekaart weggooien."
 	done
 
-MysteryAttackDescription:
-	text "Does a random amount of damage to"
-	line "the Defending Pokémon and may cause"
-	line "a random effect."
+TakeDownName:
+	text "Haal neer"
 	done
 
-MewLv15Description:
-	text "When viewed through a microscope,"
-	line "this Pokémon's short, fine, delicate"
-	line "hair can be seen."
+TakeDownDescription:
+	text "Arcanine doet 30 schade aan"
+	line "zichzelf."
 	done
 
-PsywaveName:
-	text "Psywave"
+ArcanineLv45Description:
+	text "Een Pokémon die al een lange tijd"
+	line "bewonderd wordt om zijn schoonheid."
+	line "Hij rent sierlijk, alsof hij"
+	line "vleugels heeft."
 	done
 
-PsywaveDescription:
-	text "Does 10 damage times the number of"
-	line "Energy cards attached to the"
-	line "Defending Pokémon."
+PonytaName:
+	text "Ponyta"
 	done
 
-DevolutionBeamName:
-	text "Devolution Beam"
+SmashKickName:
+	text "Verpletterende Schop"
 	done
 
-DevolutionBeamDescription:
-	text "Choose an evolved Pokémon (Your"
-	line "own or your opponent's). Return"
-	line "the highest stage evolution card"
-	line "on that Pokémon to its player's"
-	line "hand."
+FlameTailName:
+	text "Vlammenstaart"
 	done
 
-PidgeyName:
-	text "Pidgey"
+FireHorseName:
+	text "Vuurpaard-"
 	done
 
-TinyBirdName:
-	text "Tiny Bird"
+PonytaDescription:
+	text "Zijn hoeven zijn 10 keer zo hard"
+	line "als diamant. Hij kan in enkele"
+	line "ogenblikken alles plattrappen."
 	done
 
-PidgeyDescription:
-	text "A common sight in forests and woods."
-	line "It flaps its wings at ground level"
-	line "to kick up blinding sand."
+RapidashName:
+	text "Rapidash"
 	done
 
-PidgeottoName:
-	text "Pidgeotto"
+StompName:
+	text "Stomp"
 	done
 
-MirrorMoveName:
-	text "Mirror Move"
+StompDescription:
+	text "Gooi een munt op. Als het kop is,"
+	line "doet deze Aanval 20 schade plus"
+	line "nog eens 10 schade; als het munt"
+	line "is, doet deze Aanval 20 schade."
 	done
 
-PidgeottosMirrorMoveDescription:
-	text "If Pidgeotto was attacked last turn,"
-	line "do the final result of that attack"
-	line "on Pidgeotto to the Defending"
-	line "Pokémon."
+AgilityName:
+	text "Behendigheid"
 	done
 
-BirdName:
-	text "Bird"
+RapidashsAgilityDescription:
+	text "Gooi een munt op. Als het kop is,"
+	line "voorkom dan tijdens je tegen-"
+	line "stander's volgende beurt alle"
+	line "gevolgen van Aanvallen, inclusief"
+	line "schade, toegebracht aan Rapidash."
 	done
 
-PidgeottoDescription:
-	text "Very protective of its sprawling"
-	line "territory, this Pokémon will"
-	line "fiercely peck at any intruder."
+RapidashDescription:
+	text "Omdat hij graag wedijvert, zal"
+	line "deze Pokémon alles najagen wat"
+	line "snel loopt in de hoop ertegen"
+	line "te kunnen racen."
 	done
 
-PidgeotName:
-	text "Pidgeot"
+MagmarName:
+	text "Magmar"
 	done
 
-SlicingWindName:
-	text "Slicing Wind"
+FirePunchName:
+	text "Vuurslag"
 	done
 
-SlicingWildDescription:
-	text "Does 30 damage to 1 of your"
-	line "opponent's Pokémon chosen at random."
-	line "Don't apply Weakness and Resistance"
-	line "for this attack. (Any other effects"
-	line "that would happen after applying"
-	line "Weakness/Resistance still happen.)"
+FirePunchDescription:
+	text "Om deze Aanval te kunnen gebruiken,"
+	line "moet je 1 aan Magmar gehechte <FIRE>"
+	line "Energiekaart weggooien."
 	done
 
-GaleName:
-	text "Gale"
+SpitfireName:
+	text "Vuurspuwende"
 	done
 
-GaleDescription:
-	text "Switch Pidgeot with 1 of your"
-	line "Benched Pokémon chosen at random."
-	line "If your opponent has any Benched"
-	line "Pokémon, switch the Defending"
-	line "Pokémon with 1 of them chosen at"
-	line "random. (Do the damage before"
-	line "switching the Pokémon.)"
+MagmarLv24Description:
+	text "Zijn lijft gloeit altijd met een"
+	line "oranje gloed waardoor hij zich"
+	line "uitstekend tussen de vlammen"
+	line "kan verbergen."
 	done
 
-PidgeotLv38Description:
-	text "This Pokémon flies at Mach 2 speed,"
-	line "seeking prey. Its large talons are"
-	line "feared as wicked weapons."
+SmokescreenName:
+	text "Rookgordijn"
 	done
 
-HurricaneName:
-	text "Hurricane"
+MagmarsSmokescreenDescription:
+	text "Als de Verdedigende Pokémon tijdens"
+	line "je tegenstander's volgende beurt"
+	line "probeert Aan te Vallen, gooit je"
+	line "tegenstander een munt op. Als het"
+	line "munt is, doet die Aanval niets."
 	done
 
-HurricaneDescription:
-	text "Unless this attack Knocks Out the"
-	line "Defending Pokémon, return the"
-	line "Defending Pokémon and all cards"
-	line "attached to it to your opponent's"
-	line "hand."
+MagmarLv31Description:
+	text "Te vinden bij de monden van vulkanen"
+	line "en erg moeilijk in het vizier te"
+	line "krijgen. Deze Pokémon is maar in"
+	line "weinig gevallen gevangen."
 	done
 
-PidgeotLv40Description:
-	text "When hunting, it skims the surface"
-	line "of water at high speed to pick off"
-	line "unwary prey such as Magikarp."
+FlareonName:
+	text "Flareon"
 	done
 
-RattataName:
-	text "Rattata"
+EeveeName:
+	text "Eevee"
 	done
 
-RatName:
-	text "Rat"
+BiteName:
+	text "Beet"
 	done
 
-RattataDescription:
-	text "Bites anything when it attacks."
-	line "Small and very quick, it is a"
-	line "common sight in many places."
+RageName:
+	text "Razernij"
 	done
 
-RaticateName:
-	text "Raticate"
+FlareonsRageDescription:
+	text "Doet 10 schade plus nog eens 10"
+	line "schade voor elke Schadeteller"
+	line "op Flareon."
 	done
 
-SuperFangName:
-	text "Super Fang"
+FlareonLv22Description:
+	text "Het heeft een stookruimte in zijn"
+	line "lichaam. Hij ademt in, waarna hij"
+	line "vuur uitademt met een temperatuur"
+	line "van boven de 1600 graden."
 	done
 
-SuperFangDescription:
-	text "Does damage to the Defending Pokémon"
-	line "equal to half the Defending"
-	line "Pokémon's remaining HP (rounded up"
-	line "to the nearest 10)."
+FlareonsFlamethrowerDescription:
+	text "Om deze Aanval te kunnen gebruiken,"
+	line "moet je 1 aan Flareon gehechte <FIRE>"
+	line "Energiekaart weggooien."
 	done
 
-RaticateDescription:
-	text "It uses its whiskers to maintain"
-	line "its balance. It seems to slow down"
-	line "if they are cut off."
+FlareonLv28Description:
+	text "Als hij thermische energie in zijn"
+	line "lichaam opslaat, kan zijn"
+	line "temperatuur oplopen tot"
+	line "boven de 900 graden."
 	done
 
-SpearowName:
-	text "Spearow"
+MoltresName:
+	text "Moltres"
 	done
 
-PeckName:
-	text "Peck"
+WildfireName:
+	text "Lopend vuurtje"
 	done
 
-SpearowsMirrorMoveDescription:
-	text "If Spearow was attacked last turn,"
-	line "do the final result of that attack"
-	line "on Spearow to the Defending Pokémon."
+WildfireDescription:
+	text "Als je deze Aanval gebruikt mag je"
+	line "zoveel aan Moltres gehechte <FIRE>"
+	line "Energiekaarten weggooien als je"
+	line "wilt. Als je dit doet, gooi dan net"
+	line "zoveel kaarten weg van de bovenkant"
+	line "van je tegenstander's Deck."
 	done
 
-SpearowDescription:
-	text "Eats bugs in grassy areas. It has to"
-	line "flap its short wings at high speed"
-	line "to stay airborne."
+DiveBombName:
+	text "Duikbom"
 	done
 
-FearowName:
-	text "Fearow"
+MoltresLv35Description:
+	text "Staat bekend als de legendarische"
+	line "vuurvogel. Elke slag van zijn"
+	line "vleugels veroorzaakt een duizeling-"
+	line "wekkende flikkering van vlammen."
 	done
 
-FearowsAgilityDescription:
-	text "Flip a coin. If heads, during your"
-	line "opponent's next turn, prevent all"
-	line "effects of attacks, including"
-	line "damage, done to Fearow."
+FiregiverName:
+	text "Aansteker"
 	done
 
-DrillPeckName:
-	text "Drill Peck"
+FiregiverDescription:
+	text "Wanneer je Moltres in het spel"
+	line "brengt tijdens je beurt (niet"
+	line "tijdens het opzetten van het spel),"
+	line "neem je 1 tot 4 (op willekeurige"
+	line "wijze gekozen) <FIRE> Energiekaarten"
+	line "uit je Deck in je Hand. Schud hierna"
+	line "je Deck."
 	done
 
-BeakName:
-	text "Beak"
+MoltresLv37Description:
+	text "Een legendarische vogel-Pokémon."
+	line "Wanneer hij fladdert met zijn"
+	line "vlammende vleugels, kleurt zelfs"
+	line "de nachtlucht rood."
 	done
-
-FearowDescription:
-	text "With its huge and magnificent wings,"
-	line "it can keep aloft without ever"
-	line "having to land for rest."
-	done
-
-ClefairyName:
-	text "Clefairy"
-	done
-
-SingName:
-	text "Sing"
-	done
-
-MetronomeName:
-	text "Metronome"
-	done
-
-ClefairysMetronomeDescription:
-	text "Choose 1 of the Defending Pokémon's"
-	line "attacks. Metronome copies that"
-	line "attack except for its Energy costs."
-	line "(No matter what type the Defending"
-	line "Pokemon is, Clefairy's type is"
-	line "still Colorless.)"
-	done
-
-FairyName:
-	text "Fairy"
-	done
-
-ClefairyDescription:
-	text "Its magical and cute appeal has many"
-	line "admirers. It is rare and found only"
-	line "in certain areas."
-	done
-
-ClefableName:
-	text "Clefable"
-	done
-
-ClefablesMetronomeDescription:
-	text "Choose 1 of the Defending Pokémon's"
-	line "attacks. Metronome copies that"
-	line "attack except for its Energy costs."
-	line "(No matter what type the Defending"
-	line "Pokémon is, Clefable's type is"
-	line "still Colorless.)"
-	done
-
-ClefablesMinimizeDescription:
-	text "All damage done by attacks to"
-	line "Clefable during your opponent's next"
-	line "turn is reduced by 20 (after"
-	line "applying Weakness and Resistance)."
-	done
-
-ClefableDescription:
-	text "A timid Fairy Pokémon that is"
-	line "rarely seen. It will run and hide"
-	line "the moment it senses people."
-	done
-
-JigglypuffName:
-	text "Jigglypuff"
-	done
-
-FirstAidName:
-	text "First Aid"
-	done
-
-FirstAidDescription:
-	text "Remove 1 damage counter from"
-	line "Jigglypuff."
-	done
-
-DoubleEdgeName:
-	text "Double-edge"
-	done
-
-JigglypuffsDoubleEdgeDescription:
-	text "Jigglypuff does 20 damage to itself."
-	done
-
-BalloonName:
-	text "Balloon"
+SquirtleName:
+	text "Squirtle"
 	done
 
-JigglypuffLv12Description:
-	text "When its huge eyes light up, it"
-	line "sings a mysteriously soothing melody"
-	line "that lulls its enemies to sleep."
+BubbleName:
+	text "Bubbel"
 	done
 
-FriendshipSongName:
-	text "Friendship Song"
+WithdrawName:
+	text "Terugtrekking"
 	done
 
-FriendshipSongDescription:
-	text "Flip a coin. If heads, put a"
-	line "Basic Pokémon chosen at random"
-	line "from your deck onto your Bench."
-	line "(You can't use this attack if your"
-	line "Bench is full.)"
+SquirtlesWithdrawDescription:
+	text "Gooi een munt op. Als het kop is,"
+	line "voorkomt deze Aanval alle schade"
+	line "die aan Squirtle wordt gedaan"
+	line "tijdens je tegenstander's volgende"
+	line "beurt. (Alle andere gevolgen van"
+	line "Aanvallen blijven gewoon geldig.)"
 	done
 
-ExpandName:
-	text "Expand"
+TinyTurtleName:
+	text "Kleine Schildpad-"
 	done
 
-ExpandDescription:
-	text "All damage done to Jigglypuff during"
-	line "your opponent's next turn is reduced"
-	line "by 10 (after applying Weakness and"
-	line "Resistance)."
+SquirtleDescription:
+	text "Na zijn geboorte zwelt zijn rug op"
+	line "en verhardt die tot een hard schild."
+	line "Hij spuwt met grote kracht schuim"
+	line "uit zijn bek."
 	done
 
-JigglypuffLv13Description:
-	text "Uses its alluring eyes to enrapture"
-	line "its foe. It then sings a pleasing"
-	line "melody that lulls the foe to sleep."
+WartortleName:
+	text "Wartortle"
 	done
 
-LullabyName:
-	text "Lullaby"
+WartortlesWithdrawDescription:
+	text "Gooi een munt op. Als het kop is,"
+	line "voorkomt deze Aanval alle schade"
+	line "die aan Wartortle wordt gedaan"
+	line "tijdens je tegenstander's volgende"
+	line "beurt. (Alle andere gevolgen van"
+	line "Aanvallen blijven gewoon geldig.)"
 	done
 
-JigglypuffLv14Description:
-	text "When its huge eyes light up, it"
-	line "sings a mysteriously soothing melody"
-	line "that lulls its enemies to sleep."
+TurtleName:
+	text "Schildpad-"
 	done
 
-WigglytuffName:
-	text "Wigglytuff"
+WartortleDescription:
+	text "Verschuilt zich vaak in het water om"
+	line "onbehoedzame prooien te besluipen."
+	line "Als hij snel zwemt, beweegt hij zijn"
+	line "oren om zijn evenwicht te bewaren."
 	done
 
-DoTheWaveName:
-	text "Do the Wave"
+BlastoiseName:
+	text "Blastoise"
 	done
 
-DoTheWaveDescription:
-	text "Does 10 damage plus 10 more damage"
-	line "for each of your Benched Pokémon."
+RainDanceName:
+	text "Regendans"
 	done
 
-WigglytuffDescription:
-	text "The body is soft and rubbery. When"
-	line "angered, it will suck in air and"
-	line "inflate itself to an enormous size."
+RainDanceDescription:
+	text "Je mag zo vaak als je wilt tijdens"
+	line "je beurt (vóór je Aanval) 1 <WATER>"
+	line "Energiekaart aan 1 van je <WATER> Pokémon"
+	line "hechten. (Hiermee wordt de "
+	line "aanhechting van 1 Energiekaart"
+	line "voor je beurt niet opgebruikt.)"
 	done
 
-MeowthName:
-	text "Meowth"
+RainDanceDescriptionCont:
+	text "Deze kracht kan niet worden gebruikt"
+	line "als Blastoise In Slaap, Verward, of"
+	line "Verlamd is."
 	done
 
-CatPunchName:
-	text "Cat Punch"
+HydroPumpName:
+	text "Hydropomp"
 	done
 
-CatPunchDescription:
-	text "Does 20 damage to 1 of your"
-	line "opponent's Pokémon chosen at random."
-	line "Don't apply Weakness and Resistance"
-	line "for this attack. (Any other effects"
-	line "that would happen after applying"
-	line "Weakness/Resistance still happen.)"
+HydroPumpDescription:
+	text "Doet 40 schade plus nog eens 10"
+	line "schade voor elke <WATER> Energie die"
+	line "aan Blastoise gehecht is maar niet"
+	line "wordt gebruikt om de Energiekosten"
+	line "van deze Aanval te betalen. Je kunt"
+	line "op deze manier niet meer dan 20"
+	line "schade toevoegen."
 	done
 
-ScratchCatName:
-	text "Scratch Cat"
+ShellfishName:
+	text "Schelpdier-"
 	done
 
-MeowthLv14Description:
-	text "Appears to be more active at night."
-	line "It loves round and shiny things, so"
-	line "it can't stop from picking them up."
+BlastoiseDescription:
+	text "Een brute Pokémon met hogedruk-"
+	line "waterstraalpijpen op zijn schild."
+	line "Ze worden gebruikt voor aanvals-"
+	line "manouevres onder hoge snelheid."
 	done
 
-PayDayName:
-	text "Pay Day"
+PsyduckName:
+	text "Psyduck"
 	done
 
-PayDayDescription:
-	text "Flip a coin. If heads, draw a card."
+HeadacheName:
+	text "Hoofdpijn"
 	done
 
-MeowthLv15Description:
-	text "Adores circular objects. Wanders"
-	line "the streets on a nightly basis to"
-	line "look for dropped loose change."
+HeadacheDescription:
+	text "Je tegenstander kan tijdens"
+	line "zijn of haar volgende beurt geen"
+	line "Trainerkaarten spelen."
 	done
 
-PersianName:
-	text "Persian"
+DuckName:
+	text "Eend-"
 	done
 
-PounceName:
-	text "Pounce"
+PsyduckDescription:
+	text "Terwijl hij zijn vijanden met zijn"
+	line "lege blik in slaap sust, gebruikt"
+	line "deze sluwe Pokémon zijn"
+	line "psychokinetische krachten."
 	done
 
-PounceDescription:
-	text "If the Defending Pokémon attacks"
-	line "Persian during your opponent's next"
-	line "turn, any damage done by the attack"
-	line "is reduced by 10 (after applying"
-	line "Weakness and Resistance)."
-	line "(Benching or evolving either Pokémon"
-	line "ends this effect.)"
+GolduckName:
+	text "Golduck"
 	done
 
-ClassyCatName:
-	text "Classy Cat"
+PsyshockName:
+	text "Psychische schok"
 	done
 
-PersianDescription:
-	text "Although its fur has many admirers,"
-	line "it is tough to raise as a pet"
-	line "because of its fickle meanness."
+HyperBeamName:
+	text "Hydrostraal"
 	done
 
-FarfetchdName:
-	text "Farfetch'd"
+Discard1EnergyFromTargetDescription:
+	text "Als er aan de Verdedigende Pokémon"
+	line "Energiekaarten zijn gehecht, kies"
+	line "er dan 1 van en gooi deze weg."
 	done
 
-LeekSlapName:
-	text "Leek Slap"
+GolduckDescription:
+	text "Men kan hem vaak sierlijk langs de"
+	line "kant van een meer zien zwemmen."
+	line "Wordt vaak ten onrechte aangezien"
+	line "voor het Japanse monster, Kappa."
 	done
 
-LeekSlapDescription:
-	text "Flip a coin. If tails, this attack"
-	line "does nothing. Either way, you can't"
-	line "use this attack again as long as"
-	line "Farfetch'd stays in play (even"
-	line "putting Farfetch'd on the Bench"
-	line "won't let you use it again)."
+PoliwagName:
+	text "Poliwag"
 	done
 
-PotSmashName:
-	text "Pot Smash"
+WaterGunName:
+	text "Waterpistool"
 	done
 
-WildDuckName:
-	text "Wild Duck"
+PoliwagsWaterGunDescription:
+	text "Doet 10 schade plus nog eens 10"
+	line "schade voor elke aan Poliwag"
+	line "gehechte <WATER> Energie die niet wordt"
+	line "gebruikt om de Energiekosten van"
+	line "deze Aanval te betalen. Je kunt op"
+	line "deze manier niet meer dan 20 schade"
+	line "toevoegen."
 	done
 
-FarfetchdDescription:
-	text "The sprig of green onions it holds"
-	line "is its weapon. This sprig is used"
-	line "much like a metal sword."
+TadpoleName:
+	text "Kikkervisje-"
 	done
 
-DoduoName:
-	text "Doduo"
+PoliwagDescription:
+	text "Met zijn pas gegroeide pootjes kan"
+	line "hij niet rennen. Het lijkt erop dat"
+	line "hij liever zwemt dan probeert"
+	line "te staan."
 	done
 
-FuryAttackName:
-	text "Fury Attack"
+PoliwhirlName:
+	text "Poliwhirl"
 	done
 
-TwinBirdName:
-	text "Twin Bird"
+AmnesiaName:
+	text "Amnesie"
 	done
 
-DoduoDescription:
-	text "A bird that makes up for its poor"
-	line "flying with its fast foot speed."
-	line "Leaves giant footprints."
+PoliwhirlsAmnesiaDescription:
+	text "Kies 1 van de Aanvallen van de"
+	line "Verdedigende Pokémon. Gedurende"
+	line "je tegenstander's volgende beurt"
+	line "kan die Pokémon die Aanval niet"
+	line "gebruiken."
 	done
 
-DodrioName:
-	text "Dodrio"
+DoubleslapName:
+	text "Dubbelslag"
 	done
 
-RetreatAidName:
-	text "Retreat Aid"
+PoliwhirlsDescription:
+	text "Kan zowel in als buiten het water"
+	line "leven. Buiten het water zweet hij"
+	line "om zijn lijf slijmerig te houden."
 	done
 
-RetreatAidDescription:
-	text "As long as Dodrio is Benched,"
-	line "pay <COLORLESS> less to retreat your"
-	line "Active Pokémon."
+PoliwrathName:
+	text "Poliwrath"
 	done
 
-DodriosRageDescription:
-	text "Does 10 damage plus 10 more damage"
-	line "for each damage counter on Dodrio."
+PoliwrathsWaterGunDescription:
+	text "Doet 30 schade plus nog eens 10"
+	line "schade voor elke aan Poliwrath"
+	line "gehechte <WATER> Energie die niet wordt"
+	line "gebruikt om de Energiekosten van"
+	line "deze Aanval te betalen. Je kunt op"
+	line "deze manier niet meer dan 20 schade"
+	line "toevoegen."
 	done
 
-TriplebirdName:
-	text "Triplebird"
+WhirlpoolName:
+	text "Draaikolk"
 	done
 
-DodrioDescription:
-	text "Uses its three brains to execute"
-	line "complex plans. While two heads"
-	line "sleep, one head stays awake."
+PoliwrathDescription:
+	text "Een ervaren zwemmer, zowel met"
+	line "crawlen als met de borstslag. Haalt"
+	line "met gemak de beste menselijke"
+	line "zwemmers in."
 	done
 
-LickitungName:
-	text "Lickitung"
+TentacoolName:
+	text "Tentacool"
 	done
 
-TongueWrapName:
-	text "Tongue Wrap"
+CowardiceName:
+	text "Wegglippen"
 	done
 
-LickingName:
-	text "Licking"
+CowardiceDescription:
+	text "Op welk moment dan ook tijdens je"
+	line "beurt (vóór je Aanval) mag je"
+	line "Tentacool weer terug in je Hand"
+	line "nemen. (Gooi alle aan Tentacool"
+	line "gehechte kaarten weg.) Deze kracht"
+	line "kan niet worden gebruikt tijdens de"
+	line "beurt waarin je Tentacool in het"
 	done
-
-LickitungDescription:
-	text "Its tongue can be extended like a"
-	line "chameleon's. It leaves a stinging"
-	line "sensation when it licks enemies."
-	done
-
-ChanseyName:
-	text "Chansey"
-	done
-
-ScrunchName:
-	text "Scrunch"
-	done
-
-ScrunchDescription:
-	text "Flip a coin. If heads, prevent all"
-	line "damage done to Chansey during your"
-	line "opponent's next turn. (Any other"
-	line "effects of attacks still happen.)"
-	done
-
-ChanseysDoubleEdgeDescription:
-	text "Chansey does 80 damage to itself."
+	
+CowardiceDescriptionCont:
+	text "spel brengt of als Tentacool"
+	line "In Slaap, Verward, of Verlamd is."
 	done
-
-ChanseyDescription:
-	text "A rare and elusive Pokémon that is"
-	line "said to bring happiness to those"
-	line "who manage to catch it."
+	
+JellyfishName:
+	text "Kwal-"
 	done
 
-KangaskhanName:
-	text "Kangaskhan"
+TentacoolDescription:
+	text "Zwerft in ondiepe zeeën. Vissers"
+	line "die ze per ongeluk aan de haak"
+	line "slaan, worden vaak gestraft door"
+	line "zijn bijtende zuur."
 	done
 
-FetchName:
-	text "Fetch"
+TentacruelName:
+	text "Tentacruel"
 	done
 
-FetchDescription:
-	text "Draw a card."
+JellyfishStingName:
+	text "Kwallenbeet"
 	done
 
-CometPunchName:
-	text "Comet Punch"
+TentacruelDescription:
+	text "De tentakels worden gewoonlijk kort"
+	line "gehouden. Als hij op voedsel jaagt"
+	line "worden ze langer om de prooi te"
+	line "pakken en te immobiliseren."
 	done
 
-ParentName:
-	text "Parent"
+SeelName:
+	text "Seel"
 	done
 
-KangaskhanDescription:
-	text "The infant rarely ventures out of"
-	line "its mother's protective pouch until"
-	line "it is three years old."
+HeadbuttName:
+	text "Kopstoot"
 	done
 
-TaurosName:
-	text "Tauros"
+SeaLionName:
+	text "Zeeleeuw-"
 	done
 
-RampageName:
-	text "Rampage"
+SeelDescription:
+	text "De hoorn die uit zijn kop steekt"
+	line "is erg hard. Deze hoorn wordt"
+	line "gebruikt om door dik ijs"
+	line "te hakken."
 	done
 
-RampageDescription:
-	text "Does 20 damage plus 10 more damage"
-	line "for each damage counter on Tauros."
-	line "Flip a coin. If tails, Tauros is"
-	line "now Confused (after doing damage)."
+DewgongName:
+	text "Dewgong"
 	done
 
-WildBullName:
-	text "Wild Bull"
+AuroraBeamName:
+	text "Aurorastraal"
 	done
 
-TaurosDescription:
-	text "When it targets an enemy, it charges"
-	line "furiously while whipping its body"
-	line "with its long tails."
+IceBeamName:
+	text "IJsstraal"
 	done
 
-DittoName:
-	text "Ditto"
+DewgongDescription:
+	text "Slaat thermische energie op in zijn"
+	line "lijf. Zwemt met een gelijkmatige"
+	line "snelheid van 8 knopen, zelfs in"
+	line "intens koude wateren."
 	done
 
-MorphName:
-	text "Morph"
+ShellderName:
+	text "Shellder"
 	done
 
-MorphDescription:
-	text "Remove all damage counters from"
-	line "Ditto. For the rest of the game,"
-	line "replace Ditto with a copy of a Basic"
-	line "Pokémon card (other than Ditto)"
-	line "chosen at random from your deck."
+HideInShellName:
+	text "In zijn schulp kruipen"
 	done
 
-MorphDescriptionCont:
-	text "Ditto is no longer Asleep, Confused,"
-	line "Paralyzed, Poisoned, or anything"
-	line "else that might be the result of an"
-	line "attack (just as if you had evolved"
-	line "it)."
+HideInShellDescription:
+	text "Gooi een munt op. Als het kop is,"
+	line "voorkomt deze Aanval alle schade"
+	line "die aan Shellder wordt gedaan"
+	line "tijdens je tegenstander's volgende"
+	line "beurt. (Alle andere gevolgen van"
+	line "Aanvallen blijven gewoon geldig.)"
 	done
 
-TransformName:
-	text "Transform"
+BivalveName:
+	text "Tweekleppige"
 	done
 
-DittoDescription:
-	text "When it spots an enemy, its body"
-	line "transfigures into an almost perfect"
-	line "copy of its opponent."
+ShellderDescription:
+	text "Zijn harde schaal vormt een"
+	line "afwering tegen elk soort aanval."
+	line "Hij is alleen kwetsbaar als zijn"
+	line "schaal open is."
 	done
 
-TailWagName:
-	text "Tail Wag"
+CloysterName:
+	text "Cloyster"
 	done
 
-TailWagDescription:
-	text "Flip a coin. If heads, the Defending"
-	line "Pokémon can't attack Eevee during"
-	line "your opponent's next turn."
-	line "(Benching or evolving either Pokémon"
-	line "ends this effect.)"
+ClampName:
+	text "Klem"
 	done
 
-EvolutionName:
-	text "Evolution"
+ClampDescription:
+	text "Gooi een munt op. Als het kop"
+	line "is, is de Verdedigende Pokémon"
+	line "nu Verlamd. Als het munt is,"
+	line "doet deze Aanval niets (zelfs"
+	line "geen schade)."
 	done
 
-EeveeDescription:
-	text "Its genetic code is irregular."
-	line "It may mutate if it is exposed to"
-	line "radiation from elemental stones."
+SpikeCannonName:
+	text "Spijkerkanon"
 	done
 
-PorygonName:
-	text "Porygon"
+CloysterDescription:
+	text "Wanneer hij wordt aangevallen"
+	line "zet hij in snelle salvo's zijn"
+	line "horens uit. Niemand heeft ooit"
+	line "zijn inwendige gezien."
 	done
 
-Conversion1Name:
-	text "Conversion 1"
+KrabbyName:
+	text "Krabby"
 	done
 
-Conversion1Description:
-	text "If the Defending Pokémon has a"
-	line "Weakness, you may change it to a"
-	line "type of your choice other than"
-	line "Colorless."
+KrabbysCallForFamilyDescription:
+	text "Zoek in je Deck naar een Basis-"
+	line "Pokémon met de naam Krabby"
+	line "en plaats deze op je Bank. Schud"
+	line "hierna je Deck. (Je kunt deze"
+	line "Aanval niet gebruiken als je"
+	line "Bank vol is.)"
 	done
 
-Conversion2Name:
-	text "Conversion 2"
+RiverCrabName:
+	text "Rivierkreeft-"
 	done
 
-Conversion2Description:
-	text "Change Porygon's Resistance to a"
-	line "type of your choice other than"
-	line "Colorless."
+KrabbyDescription:
+	text "Zijn grijpers zijn niet alleen"
+	line "krachtige wapens, maar ze worden ook"
+	line "gebruikt om zijn evenwicht te"
+	line "bewaren wanneer hij zijwaarts loopt."
 	done
 
-VirtualName:
-	text "Virtual"
+KinglerName:
+	text "Kingler"
 	done
 
-PorygonDescription:
-	text "A Pokémon that consists entirely of"
-	line "programming code. Capable of moving"
-	line "freely in cyberspace."
+FlailName:
+	text "Spartelen"
 	done
 
-SnorlaxName:
-	text "Snorlax"
+KinglersFlailDescription:
+	text "Doet 10 schade maal het aantal"
+	line "Schadetellers op Kingler."
 	done
 
-ThickSkinnedName:
-	text "Thick Skinned"
+CrabhammerName:
+	text "Krabhamer"
 	done
 
-ThickSkinnedDescription:
-	text "Snorlax can't become Asleep,"
-	line "Confused, Paralyzed, or Poisoned."
-	line "This power can't be used if Snorlax"
-	line "is already Asleep, Confused, or"
-	line "Paralyzed."
+PincerName:
+	text "Schaar-"
 	done
 
-BodySlamName:
-	text "Body Slam"
+KinglerDescription:
+	text "De grote schaar heeft een"
+	line "verbrijzelingsvermogen van 10.000"
+	line "pk. Maar omdat hij zo groot is,"
+	line "is hij moeilijk te hanteren."
 	done
-
-SleepingName:
-	text "Sleeping"
+	
+HorseaName:
+	text "Horsea"
 	done
 
-SnorlaxDescription:
-	text "Very lazy. Just eats and sleeps."
-	line "As its rotund bulk builds,"
-	line "it becomes steadily more slothful."
+OpponentAttackMayDoNothingDescription:
+	text "Als de Verdedigende Pokémon probeert"
+	line "Aan te Vallen tijdens je tegen-"
+	line "stander's volgende beurt, gooit"
+	line "je tegenstander een munt op. Als"
+	line "het munt is, doet die Aanval niets."
 	done
 
-DratiniName:
-	text "Dratini"
+DragonName:
+	text "Draak-"
 	done
 
-DratiniDescription:
-	text "Long considered a mythical Pokémon"
-	line "until recently, when a small colony"
-	line "was found living underwater."
+HorseaDescription:
+	text "Staat erom bekend dat hij met"
+	line "uiterst nauwkeurige stralen inkt"
+	line "vliegende insecten vanaf de"
+	line "oppervlakte van het water"
+	line "neerschiet."
 	done
 
-DragonairName:
-	text "Dragonair"
+SeadraName:
+	text "Seadra"
 	done
 
-SlamName:
-	text "Slam"
+SeadrasWaterGunDescription:
+	text "Doet 20 schade plus nog eens 10"
+	line "schade voor elke aan Seadra gehechte"
+	line "<WATER> Energie die niet wordt gebruikt"
+	line "om de Energiekosten van deze Aanval"
+	line "te betalen. Je kunt op deze manier"
+	line "niet meer dan 20 schade toevoegen."
 	done
 
-DragonairDescription:
-	text "A mystical Pokémon that exudes a"
-	line "gentle aura. Has the ability to"
-	line "change climate conditions."
+SeadrasAgilityDescription:
+	text "Gooi een munt op. Als het kop is,"
+	line "voorkom dan tijdens je tegen-"
+	line "stander's volgende beurt alle"
+	line "gevolgen van Aanvallen, inclusief"
+	line "schade, toegebracht aan Seadra."
 	done
 
-DragoniteName:
-	text "Dragonite"
+SeadraDescription:
+	text "Kan achteruit zwemmen door zijn"
+	line "op vleugels lijkende borstvinnen"
+	line "en stevige staart snel heen en"
+	line "weer te zwiepen."
 	done
 
-HealingWindName:
-	text "Healing Wind"
+GoldeenName:
+	text "Goldeen"
 	done
 
-HealingWindDescription:
-	text "When you put Dragonite into play,"
-	line "remove 2 damage counters from each"
-	line "of your Pokémon. If a Pokémon has"
-	line "fewer damage counters than that,"
-	line "remove all of them from that"
-	line "Pokémon."
+HornAttackName:
+	text "Hoornaanval"
 	done
 
-DragoniteLv41Description:
-	text "It is said that this Pokémon lives"
-	line "somewhere in the sea and that it"
-	line "flies. However, it is only a rumor."
+GoldfishName:
+	text "Goudvis-"
 	done
 
-StepInName:
-	text "Step In"
+GoldeenDescription:
+	text "Zijn staartvin bolt op als een"
+	line "elegante ballroom-jurk waardoor"
+	line "hij de bijnaam ”Waterkoningin”"
+	line "heeft gekregen."
 	done
 
-StepInDescription:
-	text "Once during your turn (before your"
-	line "attack), if Dragonite is on your"
-	line "Bench, you may switch it with your"
-	line "Active Pokémon."
+SeakingName:
+	text "Seaking"
 	done
 
-DoubleAttackX40Description:
-	text "Flip 2 coins. This attack does"
-	line "40 damage times the number of heads."
+WaterfallName:
+	text "Waterval"
 	done
 
-DragoniteDescription:
-	text "An extremely rarely seen marine"
-	line "Pokémon. Its intelligence is said"
-	line "to match that of humans."
+SeakingDescription:
+	text "In de herfst, het seizoen om"
+	line "kuit te schieten, zie je ze in"
+	line "rivieren en stroompjes krachtig"
+	line "stroomopwaarts zwemmen."
 	done
 
-ProfessorOakName:
-	text "Professor Oak"
+StaryuName:
+	text "Staryu"
 	done
 
-ProfessorOakDescription:
-	text "         Discard your hand"
-	line ""
-	line "         and draw 7 cards."
+SlapName:
+	text "Klap"
 	done
 
-ImposterProfessorOakName:
-	text "Imposter Professor Oak"
+StarshapeName:
+	text "Stervormige"
 	done
 
-ImposterProfessorOakDescription:
-	text "  Your opponent shuffles his or"
-	line ""
-	line "  her hand into his or her deck,"
-	line ""
-	line "  then draws 7 cards."
+StaryuDescription:
+	text "Een raadselachtige Pokémon die"
+	line "moeiteloos elke arm die hij in"
+	line "een strijd verliest kan laten"
+	line "teruggroeien."
 	done
 
-BillName:
-	text "Bill"
+StarmieName:
+	text "Starmie"
 	done
 
-BillDescription:
-	text ""
-	line "            Draw 2 cards."
+RecoverName:
+	text "Herstel"
 	done
 
-MrFujiName:
-	text "Mr.Fuji"
+StarmiesRecoverDescription:
+	text "Om deze Aanval te kunnen gebruiken"
+	line "moet je 1 aan Starmie gehechte"
+	line "<WATER> Energiekaart weggooien."
+	line "Verwijder alle Schadetellers"
+	line "van Starmie."
 	done
 
-MrFujiDescription:
-	text "  Choose a Pokémon on your Bench."
-	line ""
-	line "  Shuffle it and any cards"
-	line ""
-	line "  attached to it into your deck."
+StarFreezeName:
+	text "Sterbevriezing"
 	done
 
-LassName:
-	text "Lass"
+MysteriousName:
+	text "Mysterieuze"
 	done
 
-LassDescription:
-	text " You and your opponent show each"
-	line " other your hands, then shuffle all"
-	line " the Trainer cards from your hands"
-	line " into your decks."
+StarmieDescription:
+	text "Zijn middelpunt glanst met de zeven"
+	line "kleuren van de regenboog. Sommige"
+	line "mensen beschouwen dit middelpunt"
+	line "als een edelsteen."
 	done
 
-ImakuniName:
-	text "Imakuni?"
+MagikarpName:
+	text "Magikarp"
 	done
 
-ImakuniDescription:
-	text "Your Active Pokémon is now Confused."
-	line "Imakuni wants you to play him as a"
-	line "Basic Pokémon, but you can't."
-	line "A mysterious creature not listed in"
-	line "the Pokédex. He asks kids around the"
-	line "world,”Who is cuter-Pikachu or me?”"
+TackleName:
+	text "Tackle"
 	done
 
-PokemonTraderName:
-	text "Pokémon Trader"
+MagikarpsFlailDescription:
+	text "Doet 10 schade maal het aantal"
+	line "schadetellers op Magikarp."
 	done
 
-PokemonTraderDescription:
-	text "  Trade 1 of the Basic Pokémon or"
-	line "  Evolution cards in your hand for"
-	line "  1 of the Basic Pokémon or"
-	line "  Evolution cards from your deck."
-	line "  Show both cards to your opponent."
-	line "  Shuffle your deck afterward."
+FishName:
+	text "Vis-"
 	done
 
-PokemonBreederName:
-	text "Pokémon Breeder"
+MagikarpDescription:
+	text "In het verre verleden was hij"
+	line "sterker dan zijn verschrikkelijk"
+	line "zwakke afstammelingen die vandaag"
+	line "de dag in leven zijn."
 	done
 
-PokemonBreederDescription:
-	text " Put a Stage 2 Evolution card from"
-	line " your hand on the matching Basic"
-	line " Pokémon. You can only play this"
-	line " card when you would be allowed to"
-	line " evolve that Pokémon anyway."
+GyaradosName:
+	text "Gyarados"
 	done
 
-ClefairyDollName:
-	text "Clefairy Doll"
+DragonRageName:
+	text "Drakenfurie"
 	done
 
-ClefairyDollDescription:
-	text " Play Clefairy Doll as if it were"
-	line " a Basic Pokémon. While in play,"
-	line " Clefairy Doll counts as a Pokémon"
-	line " (instead of a Trainer card)."
-	line " Clefairy Doll has no attacks,"
-	line " can't retreat, and can't be Asleep,"
-	line " Confused, Paralyzed, or Poisoned."
+BubblebeamName:
+	text "Bubbelstraal"
 	done
 
-ClefairyDollDescriptionCont:
-	text " If Clefairy Doll is Knocked Out,"
-	line " it doesn't count as a Knocked Out"
-	line " Pokémon. (Discard it anyway.)"
-	line " At any time during your turn"
-	line " (before your attack), you may"
-	line " discard Clefairy Doll from play."
-	line " (Use the ”PKMN Power” menu.)"
+AtrociousName:
+	text "Afgrijselijke"
 	done
 
-MysteriousFossilDescription:
-	text "Play Mysterious Fossil as if it were"
-	line "a Basic Pokémon. While in play,"
-	line "Mysterious Fossil counts as a"
-	line "Pokémon (instead of a Trainer card)."
-	line "Mysterious Fossil has no attacks,"
-	line "can't retreat, and can't be Asleep,"
-	line "Confused, Paralyzed, or Poisoned."
+GyaradosDescription:
+	text "Wordt zelden in het wild gezien."
+	line "Omdat hij zo enorm en kwaadaardig"
+	line "is, kan hij tijdens een woede-"
+	line "aanval hele steden vernietigen."
 	done
 
-MysteriousFossilDescriptionCont:
-	text "If Mysterious Fossil is Knocked Out,"
-	line "it doesn't count as a Knocked Out"
-	line "Pokémon. (Discard it anyway.)"
-	line "At any time during your turn"
-	line "(before your attack), you may"
-	line "discard Mysterious Fossil from play."
-	line "(Use the ”PKMN Power” menu.)"
+LaprasName:
+	text "Lapras"
 	done
 
-EnergyRetrievalName:
-	text "Energy Retrieval"
+LaprasWaterGunDescription:
+	text "Doet 10 schade plus nog eens 10"
+	line "schade voor elke aan Lapras gehechte"
+	line "<WATER> Energie die niet wordt gebruikt"
+	line "om de Energiekosten van deze Aanval"
+	line "te betalen. Je kunt op deze manier"
+	line "niet meer dan 20 schade toevoegen."
 	done
 
-EnergyRetrievalDescription:
-	text " Trade 1 of the other cards in your"
-	line ""
-	line " hand for up to 2 Basic Energy"
-	line ""
-	line " cards from your discard pile."
+TransportName:
+	text "Transport-"
 	done
 
-SuperEnergyRetrievalName:
-	text "Super Energy Retrieval"
+LaprasDescription:
+	text "Een Pokémon die door overbejaging"
+	line "bijna uitgeroeid is. Hij kan mensen"
+	line "het water overzetten."
 	done
 
-SuperEnergyRetrievalDescription:
-	text " Trade 2 of the other cards in your"
-	line ""
-	line " hand for up to 4 Basic Energy"
-	line ""
-	line " cards from your discard pile."
+VaporeonName:
+	text "Vaporeon"
 	done
 
-EnergySearchName:
-	text "Energy Search"
+FocusEnergyName:
+	text "Focus-energie"
 	done
 
-EnergySearchDescription:
-	text " Search your deck for a Basic Energy"
-	line " card, show it to your opponent,"
-	line " and put it into your hand."
-	line " Shuffle your deck afterward."
+FocusEnergyDescription:
+	text "Tijdens je volgende beurt is de"
+	line "basisschade van Vaporeon's Beet-"
+	line "Aanval 60 in plaats van 30."
 	done
 
-EnergyRemovalName:
-	text "Energy Removal"
+BubbleJetName:
+	text "Bubbelstraal-"
 	done
 
-EnergyRemovalDescription:
-	text "  Choose 1 Energy card attached"
-	line ""
-	line "  to 1 of your opponent's Pokémon"
-	line ""
-	line "  and discard it."
+VaporeonLv29Description:
+	text "Zijn celstructuur is vergelijkbaar"
+	line "met watermoleculen. Hij smelt weg"
+	line "en wordt onzichtbaar in water."
 	done
 
-SuperEnergyRemovalName:
-	text "Super Energy Removal"
+VaporeonsWaterGunDescription:
+	text "Doet 30 schade plus nog eens 10"
+	line "schade voor elke aan Vaporeon"
+	line "gehechte <WATER> Energie die niet"
+	line "wordt gebruikt om de Energiekosten"
+	line "van deze Aanval te betalen. Je"
+	line "kunt op deze manier niet meer"
+	line "dan 20 schade toevoegen."
 	done
 
-SuperEnergyRemovalDescription:
-	text "   Discard 1 Energy card attached"
-	line "   to 1 of your own Pokémon in"
-	line "   order to choose 1 of your"
-	line "   opponent's Pokémon and up to"
-	line "   2 Energy cards attached to it."
-	line "   Discard those Energy cards."
+VaporeonLv42Description:
+	text "Leeft dicht bij het water. Op zijn"
+	line "lange staart zit een vin die vaak"
+	line "verward wordt met die van een"
+	line "meermin."
 	done
-
-;	ds $9

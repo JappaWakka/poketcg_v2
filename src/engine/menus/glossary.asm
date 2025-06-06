@@ -172,7 +172,7 @@ OpenGlossaryScreen:
 	ld l, a
 	ld a, SINGLE_SPACED
 	ld [wLineSeparation], a
-	lb de, 1, 4
+	lb de, 1, 3
 	call InitTextPrinting_ProcessTextFromID
 	xor a ; DOUBLE_SPACED
 	ld [wLineSeparation], a

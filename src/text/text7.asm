@@ -1,3 +1,863 @@
+MysteriousVoiceDoorNotEnoughMedalsText:
+	text "Only those who have won all 8 Master"
+	line "Medals may enter the Grand Hall."
+	line "You have not won all of the"
+	line "Master Medals. Leave this place!"
+	done
+
+Text0559:
+	text "Only those who have won all 8 Master"
+	line "Medals may enter the Grand Hall."
+	line "You have won all 8 Master Medals!"
+	line "Enter the Grand Hall!"
+	done
+
+Text055a:
+	text "Congratulations!"
+	line "My Legendary Card belongs to you!"
+	line "Please take good care of this card!"
+	done
+
+Text055b:
+	text "You're very good, <RAMNAME>."
+	line "Please take care of my card."
+	done
+
+Text055c:
+	text "Congratulations! You're the Champ!"
+	line "My Zapdos card belongs to you!"
+	done
+
+Text055d:
+	text "Congratulations! You're the Champ!"
+	line "Please treasure my Zapdos card!"
+	done
+
+Text055e:
+	text "Please build a powerful deck"
+	line "around my card!"
+	done
+
+Text055f:
+	text "You've really improved your game,"
+	line "<RAMNAME>."
+	line "Use my card to make it even better!"
+	done
+
+Text0560:
+	text "You played a wonderful match!"
+	line "The Legendary Cards seem pleased"
+	line "to be passed on to you,"
+	line "<RAMNAME>. Hurry and"
+	line "go through to the Hall of Honor!"
+	done
+
+Text0561:
+	text "You played a wonderful match!"
+	line "The Legendary Cards seem pleased"
+	line "to be passed on to you."
+	done
+
+Text0562:
+	text "<RAMNAME>, That is not the way"
+	line "to the Hall of Honor."
+	line "Hurry, <RAMNAME>! Go through to"
+	line "the Hall of Honor!"
+	done
+
+Text0563:
+	text "<RAMNAME>, if you leave the"
+	line "Grand Hall, you must defeat"
+	line "each of us again to enter"
+	line "the Hall of Honor."
+	done
+
+Text0564:
+	text "Exit the Grand Hall?"
+	done
+
+Text0565:
+	text "Possessor of all 8 Master Medals..."
+	line "Enter the Dueling Stage..."
+	line "However, you will be unable to"
+	line "turn back."
+	done
+
+Text0566:
+	text "Enter the Dueling Stage?"
+	done
+
+Text0567:
+	text "Then leave the Grand Hall!"
+	done
+
+Text0568:
+	text "In that case..."
+	line "Enter the Dueling Stage."
+	done
+
+Text0569:
+	text "Welcome to Pokémon Dome!"
+	done
+
+Text056a:
+	text "Welcome back,"
+	line "brave challenger!"
+	done
+
+Text056b:
+	text "I am Rod, Leader of the"
+	line "Grand Masters, and this is"
+	line "Grand Master Courtney,"
+	line "the Fire Queen."
+	done
+
+Text056c:
+	text "Grand Master of Lightning,"
+	line "Thunder Steve!"
+	done
+
+Text056d:
+	text "Grand Master of Ice,"
+	line "Gentlemanly Jack."
+	done
+
+Text056e:
+	text "We are the 4 Grand Masters who"
+	line "guard the Legendary Pokémon Cards."
+	line "If you can defeat all of us, then"
+	line "you will have earned the right to"
+	line "inherit the Legendary Pokémon Cards!"
+	done
+
+Text056f:
+	text "We are the Grand Masters who guard"
+	line "the Legendary Pokémon Cards!"
+	line "We will accept your challenge as"
+	line "many times as will take for you"
+	line "to inherit all 4 of the"
+	line "Legendary Pokémon Cards!"
+	done
+
+Text0570:
+	text "We are the Grand Masters who guard"
+	line "the Legendary Pokémon Cards!"
+	line "Challenge us as many times as"
+	line "you wish!"
+	done
+
+Text0571:
+	text "<RAMNAME>,"
+	line "take your place at the table."
+	done
+
+Text0572:
+	text "Your first opponent shall be"
+	line "Courtney!"
+	done
+
+Text0573:
+	text "First, you must duel Courtney!"
+	done
+
+Text0574:
+	text "Hm-hmmm...I, Courtney, the Fire"
+	line "Queen, shall be your first opponent!"
+	line "Let's see if you can take the heat!"
+	line "We'll have a match with 6 prizes!"
+	line "Hm-hmm-hmm...Let's go to it!"
+	done
+
+Text0575:
+	text "Let's see if you can take the heat!"
+	line "There will be 6 Prizes."
+	line "Hm-hmm-hmm...Let's go to it!"
+	done
+
+Text0576:
+	text "Hm-hmm-hmm...I  W I N ! Come back"
+	line "when you've gotten a little better."
+	line "I can't give a Legendary Pokémon"
+	line "Card to someone who plays like that!"
+	done
+
+Text0577:
+	text "Hm-hmm-hmm...I  W I N !"
+	line "The Legendary Pokémon Cards"
+	line "deserve better than that!"
+	done
+
+Text0578:
+	text "I'm sorry, but you have to leave."
+	line "Well, take care..."
+	done
+
+Text0579:
+	text "Hmm-hmm-hmm...I lose. But that's"
+	line "no suprise, seeing as how you've"
+	line "come this far. Your next opponent"
+	line "is waiting for you!"
+	done
+
+Text057a:
+	text "Hmm-hmm-hmm...I lose."
+	line "I find you worthy of inheriting"
+	line "the Legendary Pokémon Cards!"
+	done
+
+Text057b:
+	text "Very good, <RAMNAME>!"
+	line "Your second opponent is Steve!"
+	done
+
+Text057c:
+	text "<RAMNAME>! Next, you must duel"
+	line "Steve!"
+	done
+
+Text057d:
+	text "I, Thunder Steve, am your next"
+	line "opponent. Hey! Do you want the"
+	line "Legendary Pokémon Cards!?!"
+	line "Then you must defeat me first!"
+	done
+
+Text057e:
+	text "Hey, <RAMNAME>!"
+	line "Come battle Steve!"
+	done
+
+Text057f:
+	text "Is your deck ready, <RAMNAME>?"
+	done
+
+PrepareForTheDuelText:
+	text "Prepare for the duel?"
+	done
+
+Text0581:
+	text "All right then!"
+	line "Let's begin the duel!"
+	done
+
+Text0582:
+	text "6 Prizes!"
+	line "Ready? Set! Go!"
+	done
+
+Text0583:
+	text "You lose! You still have a"
+	line "long way to go,"
+	line "but don't give up!"
+	line "Challenge me again!"
+	done
+
+Text0584:
+	text "You lose! You still have a"
+	line "long way to go!"
+	line "But don't give up!"
+	line "Challenge me again!"
+	done
+
+Text0585:
+	text "You're the winner! You're the"
+	line "greatest! With that skill, I"
+	line "feel we can give you the"
+	line "Legendary Pokémon Cards!"
+	done
+
+Text0586:
+	text "You're the winner!"
+	line "You're the greatest!"
+	done
+
+Text0587:
+	text "Very good, <RAMNAME>."
+	line "Your next opponent is Jack!"
+	done
+
+Text0588:
+	text "That's great, <RAMNAME>!"
+	line "Jack is your next opponent!"
+	done
+
+Text0589:
+	text "I, Jack, am your third opponent."
+	line "You shall not be able to defeat"
+	line "my splendid deck!"
+	line "Come! I shall prove it to you!"
+	done
+
+Text058a:
+	text "I shall duel you with my splendid"
+	line "deck! I shan't lose this time!"
+	done
+
+Text058b:
+	text "<RAMNAME>,"
+	line "have you readied your deck?"
+	done
+
+UnusedText058c: ; Unused
+	text "????"
+	done
+
+Text058d:
+	text "Very well then!"
+	line "Let us begin the duel!"
+	done
+
+Text058e:
+	text "Shall we start?"
+	line "There will be 6 Prizes!"
+	done
+
+Text058f:
+	text "What did I tell you?"
+	line "There was absolutely no way you"
+	line "could have defeated my"
+	line "splendid deck!"
+	done
+
+Text0590:
+	text "What did I tell you?"
+	line "There was no way you could have"
+	line "defeated my splendid deck!"
+	done
+
+Text0591:
+	text "I simply can't believe my"
+	line "splendid deck could lose..."
+	line "It is a mortifying thought,"
+	line "but it appears you are better"
+	line "than I. Very well! Now"
+	line "on to your final test..."
+	done
+
+Text0592:
+	text "I simply can't believe my"
+	line "splendid deck could lose..."
+	line "It would appear that you are"
+	line "a true Master..."
+	done
+
+Text0593:
+	text "Spectacular dueling! I, Rod,"
+	line "will be your next opponent!"
+	done
+
+Text0594:
+	text "Splendid, as usual!"
+	line "I will be your next opponent!"
+	done
+
+Text0595:
+	text "This is your final duel!"
+	line "Show me what you're made of!"
+	done
+
+Text0596:
+	text "If you win this duel, I will"
+	line "allow you to duel Ronald!"
+	done
+
+Text0597:
+	text "This is your final duel!"
+	line "Show me what you're made of!"
+	done
+
+Text0598:
+	text "Is your deck ready, <RAMNAME>?"
+	done
+
+UnusedText0599: ; Unused
+	text "????"
+	done
+
+Text059a:
+	text "Then let's begin the final duel -"
+	line "a 1-match duel for 6 Prizes!!!"
+	done
+
+Text059b:
+	text "A 1-match duel for 6 prizes!!"
+	done
+
+Text059c:
+	text "That was close, but you came"
+	line "up a little short."
+	done
+
+Text059d:
+	text "I'm sorry, but I cannot pass the"
+	line "the Legendary Pokémon Cards to you."
+	line "Continue training and try again."
+	line "Until then!"
+	done
+
+Text059e:
+	text "Continue training and try again."
+	line "Until then!"
+	done
+
+Text059f:
+	text "Wha-what on earth?  Even"
+	line "I, Rod, have been defeated?!?"
+	line "Wonderful! This is wonderful!!"
+	line "Congratulations, <RAMNAME>."
+	line "You have proven yourself worthy"
+	line "enough to inherit the"
+	line "Legendary Pokémon Cards!!!"
+	line "Except..."
+	done
+
+Text05a0:
+	text "Congratulations, <RAMNAME>!"
+	line "You're a master duelist!!!"
+	line "But..."
+	done
+
+Text05a1:
+	text "We have a problem..."
+	line "There is another who has"
+	line "defeated us..."
+	line "You must duel him..."
+	done
+
+Text05a2:
+	text "You must duel Ronald again."
+	done
+
+Text05a3:
+	text "Congratulations, <RAMNAME>!"
+	line "You're a master duelist!"
+	done
+
+Text05a4:
+	text "Even I, Rod, am no longer any"
+	line "match for you."
+	line "Please, enter the"
+	line "Hall of Honor!"
+	done
+
+Text05a5:
+	text "Yeah! That's right!"
+	line "It's me!!! Ronald!!!"
+	line "I have already inherited the"
+	line "Legendary Pokémon Cards!"
+	done
+
+Text05a6:
+	text "No, Ronald! That cannot be"
+	line "allowed! He, too, has earned"
+	line "the right to inherit the"
+	line "Legendary Pokémon Cards!"
+	line "Ronald! <RAMNAME>!"
+	line "You two must duel to determine who"
+	line "will inherit the Legendary Pokémon"
+	line "Cards. So say the Rules!"
+	done
+
+Text05a7:
+	text "Alright, Rod!"
+	done
+
+Text05a8:
+	text "Yeah! That's right! It's me!!!"
+	line "Ronald!!!"
+	line "I'll take your challenge,"
+	line "<RAMNAME>!"
+	done
+
+Text05a9:
+	text "Is your deck ready, <RAMNAME>?"
+	done
+
+UnusedText05aa: ; Unused
+	text "????"
+	done
+
+Text05ab:
+	text "OK, Then let's begin this"
+	line "ultimate duel!"
+	done
+
+Text05ac:
+	text "I was here first! The Legendary"
+	line "Pokémon Cards belong to me!"
+	line "I'll make it all too clear to you,"
+	line "<RAMNAME>!"
+	done
+
+Text05ad:
+	text "It's a 1-match duel with 6-prizes!"
+	line "Let it begin!"
+	done
+
+Text05ae:
+	text "Now do you know who the better"
+	line "player is!?!"
+	line "The Legendary Pokémon Cards"
+	line "belong to me!"
+	line "If you still won't give up,"
+	line "I'll take you on again..."
+	line "But first, you'll have to defeat"
+	line "all 4 of the Grand Masters again!"
+	done
+
+Text05af:
+	text "No!!! How...? How could I lose!?!"
+	done
+
+Text05b0:
+	text "I'm sorry, but the Legendary Pokémon"
+	line "Cards have chosen <RAMNAME>."
+	done
+
+Text05b1:
+	text "The Legendary Pokémon Cards"
+	line "vanished from Ronald's deck!"
+	done
+
+Text05b2:
+	text "No! My...My Legendary"
+	line "Pokémon Cards!"
+	line "No...!"
+	line "Noooooo!!!"
+	done
+
+Text05b3:
+	text "Congratulations, <RAMNAME>!"
+	line "You are a card Master"
+	line "worthy of inheriting"
+	line "the Legendary Pokémon Cards!"
+	line "The Legendary Pokémon Cards"
+	line "recognize you as a true Master!"
+	done
+
+Text05b4:
+	text "Now go through to the Hall of Honor"
+	line "to receive the Legendary Cards!"
+	done
+
+Text05b5:
+	text "The Legendary Auto Deck Machine"
+	line "has been turned on!"
+	done
+
+WouldYouLikeToBuildADeckText:
+	text "Would you like to build a deck?"
+	done
+
+Text05b7:
+	text "The Legendary Auto Deck Machine"
+	line "has been turned off!"
+	done
+
+Text05b8:
+	text "The 4 Legendary Pokémon Cards"
+	line "float, glowing in the air!"
+	done
+
+Text05b9:
+	text "The Legendary Pokémon Cards"
+	line "speak to you..."
+	line " ”You who have inherited us..."
+	line "  Great Card Master!"
+	line "  Our owner must not forget:"
+	line "  Inheriting us does not make you"
+	line "  a Pokémon card Master!"
+	line "  A true Pokémon card Master is"
+	line "  one who has the skill to use"
+	line "  the abilities of the different"
+	line "  cards and the courage to duel"
+	line "  powerful opponents. And most"
+	line "  of all, the ability to love the"
+	line "  Pokémon Trading Card Game"
+	line "  no matter what - win or lose!"
+	line "  A new journey has just begun...”"
+	done
+
+Text05ba:
+	text "One of the Legendary Pokémon Cards"
+	line "floats, glowing in the air!"
+	done
+
+Text05bb:
+	text "A Legendary Pokémon Card"
+	line "floats, glowing in the air!"
+	done
+
+Text05bc:
+	text "The Legendary Pokémon Cards"
+	line "speak to you..."
+	line " ”You who have inherited us..."
+	line "  Great Card Master!"
+	line "  There are no cards left for us"
+	line "  to give you, but do not forget:"
+	line "  Inheriting us does not make you"
+	line "  a Pokémon card Master!"
+	line "  A true Pokémon card Master"
+	line "  is one who has the skill to use"
+	line "  the abilities of the different"
+	line "  cards and the courage to duel"
+	line "  powerful opponents. And above"
+	line "  all, the ability to love the"
+	line "  Pokémon Trading Card Game no"
+	line "  matter what - win or lose!"
+	line "  A new journey has just begun...”"
+	done
+
+ItsTheChallengeMachineText:
+	text "It's the Challenge Machine,"
+	line "created by Dr. Mason!"
+	done
+
+Tech1MasterMedalExplanationText:
+	text "The 8 Club Masters each own a"
+	line "Master Medal."
+	line "The secret of each Club's deck is"
+	line "encrypted in its Master Medal."
+	line "Once you get a Master Medal, go"
+	line "to the computer room in back."
+	line "You can place the medals in the"
+	line "Auto Deck Machines to create"
+	line "different decks!"
+	done
+
+Tech1AutoDeckMachineExplanationText:
+	text "You finally inherited the"
+	line "Legendary Pokémon Cards!"
+	line "Did you see the Legendary Auto"
+	line "Deck Machine?"
+	line "It is rumored that it's in the"
+	line "Hall of Honor at Pokémon Dome."
+	line "It supposedly holds the secret"
+	line "to a very powerful deck!"
+	done
+
+Tech1FewEnergyCardsText:
+	text "Excuse me, but you don't seem"
+	line "to have many Energy cards."
+	line "Building a deck must be difficult"
+	line "with so few Energy cards."
+	line "Here, take these!"
+	done
+
+Tech1ReceivedEnergyCardsText:
+	text "<RAMNAME> received some"
+	line "Energy cards!"
+	done
+
+Tech1GoodbyeText:
+	text "Goodbye!"
+	line "Take care!"
+	done
+
+Tech2LegendaryCardsExplanationText:
+	text "Are you also hoping to inherit"
+	line "the Legendary Pokémon Cards?"
+	line "If you want the Legendary Cards,"
+	line "you must defeat the Grand Masters."
+	line "To duel the Grand Masters, you"
+	line "must first get the Master Medals."
+	line "The 8 Masters of the Card Clubs"
+	line "each have a Master Medal. Go to the"
+	line "Pokémon Dome if you want to learn"
+	line "more about the Legendary Cards."
+	done
+
+Tech2LegendaryCardsCongratsText:
+	text "You finally inherited the"
+	line "Legendary Pokémon Cards!"
+	line "Amazing!"
+	line "Congratulations, <RAMNAME>!!!"
+	done
+
+Tech3BoosterPackExplanationText:
+	text "When you defeat a club member,"
+	line "you'll receive a booster pack."
+	line "Each booster pack has 10 cards."
+	line "The cards differ depending on"
+	line "the booster pack you receive."
+	line "The type of booster pack differs"
+	line "depending on who you duel,"
+	line "so choose your opponents well."
+	done
+
+Tech3LegendaryCardsCongratsText:
+	text "Congratulations on inheriting"
+	line "the Legendary Pokémon Cards,"
+	line "<RAMNAME>! Now you should try"
+	line "dueling different people using the"
+	line "cards you inherited. I'm sure"
+	line "you'll have a good time!"
+	done
+
+Tech4ClubsExplanationText:
+	text "I'm sure you already know, but there"
+	line "are 8 Clubs: the Fighting, Water,"
+	line "Lightning, Grass, Psychic, Fire,"
+	line "Rock and Science Clubs!"
+	line "The different Clubs use cards that"
+	line "are specific to that Club."
+	done
+
+Tech4DefeatedTheGrandMastersText:
+	text "Amazing! You beat the 8 Club"
+	line "Masters!"
+	line "And you even defeated the"
+	line "4 Grand Masters! Amazing!"
+	done
+
+Tech5DiaryAndEmailExplanationText:
+	text "To save your game, press START"
+	line "and choose Diary from the Menu."
+	line "You can do all sorts of stuff with"
+	line "that PC over there."
+	line "You can read e-mail from"
+	line "Dr. Mason on that PC, too!"
+	done
+
+Tech5ChallengeMachineExplanationText:
+	text "This is the Challenge Machine"
+	line "created by Dr. Mason!"
+	line "The Challenge Machine is a"
+	line "Pokémon TCG dueling machine."
+	line "The rules of the game are simple:"
+	line "choose 1 deck with which you must"
+	line "use to duel 5 computer opponents!"
+	line "If you can defeat the 5 opponents,"
+	line "you win! You can also play to"
+	line "extend your winning streak!"
+	line "Build a deck and give it a try,"
+	line "<RAMNAME>!"
+	done
+
+Text05cb:
+	text "OK, let's start using these"
+	line "practice decks."
+	line "Listen closely and try to follow"
+	line "Dr. Mason's instructions."
+	done
+
+Text05cc:
+	text "Practice with Sam?"
+	done
+
+Text05cd:
+	text "You should practice again if there"
+	line "is anything you don't understand."
+	done
+
+Text05ce:
+	text "OK, a 2-Prize duel using"
+	line "the practice deck!"
+	done
+
+Text05cf:
+	text "Would you like to duel Sam?"
+	done
+
+Text05d0:
+	text "Come see me any time."
+	line "The basics are very important!"
+	done
+
+Text05d1:
+	text "You're getting the hang of it!"
+	done
+
+Text05d2:
+	text "Keep this up, and you should be able"
+	line "to win some duels!"
+	done
+
+Text05d3:
+	text "You need to practice more. If you"
+	line "think things through, you should"
+	line "be able to win. Why don't you"
+	line "practice a little more?"
+	done
+
+Text05d4:
+	text "So, have you learned how to"
+	line "play the game?"
+	line "I hope you enjoy playing the"
+	line "Pokémon Trading Card Game!"
+	done
+
+Text05d5:
+	text "What do you want to ask about?"
+	done
+
+Text05d6:
+	text "In order to do anything, Pokémon"
+	line "must have Energy. If no Energy cards"
+	line "are attached to a Pokémon, then it"
+	line "won't be able to attack or retreat."
+	line "There are 7 types of Energy:"
+	line "<GRASS>, <FIRE>, <WATER>, <LIGHTNING>, <PSYCHIC>, <FIGHTING>, and <COLORLESS>"
+	line "The type of Energy that a Pokémon"
+	line "requires will depend on the Pokémon."
+	line "Be sure to learn which Pokémon"
+	line "require which type of Energy!"
+	done
+
+Text05d7:
+	text "Your Pokémon can deal damage to your"
+	line "opponent's Pokémon by attacking."
+	line "Pokémon need Energy cards attached "
+	line "to them before they can attack."
+	line "For example, the energy required for"
+	line "Seaking's Waterfall attack is <WATER><COLORLESS>."
+	line "<WATER><COLORLESS> stands for 1 Water Energy"
+	line "and another Energy of any type."
+	line "The Energy required will differ"
+	line "according to the attack."
+	done
+
+Text05d8:
+	text "To switch your Active Pokémon with"
+	line "a Benched Pokémon, choose ”Retreat”."
+	line "If the Active Pokémon is in danger,"
+	line "move it back to your Bench."
+	line "A Pokémon must discard Energy cards"
+	line "before it is able to retreat. "
+	line "The number of Energy cards will"
+	line "depend on a Pokémon's Retreat Cost."
+	done
+
+Text05d9:
+	text "There are 3 stages of Pokémon cards:"
+	line "Basic, Stage 1, and Stage 2."
+	line "To provide some examples,"
+	line "Squirtle is a Basic Pokémon," 
+	line "Wartortle is a Stage 1 Pokémon,"
+	line "and Blastoise is a Stage 2 Pokémon."
+	line "Basic Pokémon are the only cards"
+	line "that can be put directly into play."
+	line "An in-play Basic Pokémon can be"
+	line "evolved into a Stage 1 Pokémon, and"
+	line "an in-play Stage 1 Pokémon can then"
+	line "be evolved into a Stage 2 Pokémon."
+	line "Therefore, a Squirtle is needed"
+	line "before you can play a Wartortle,"
+	line "and a Wartortle is needed before"
+	line "you can play a Blastoise."
+	done
+
+Text05da:
+	text "Some Pokémon have special abilities"
+	line "that are called Pokémon Powers."
+	line "Some Pokémon Powers are used as"
+	line "soon as the Pokémon is played,"
+	line "while others must be activated using"
+	line "the ”PKMN Power” command. There are"
+	line "many different Pokémon Powers,"
+	line "so read each card's text carefully."
+	done
+	
 Text05db:
 	text "Your turn ends after you attack."
 	line "If you do not have enough Energy"
@@ -152,963 +1012,3 @@ Text05ea:
 	line "OK then, let's start your"
 	line "practice game!"
 	done
-
-Text05eb:
-	text "Basically, this is how the Pokémon"
-	line "Trading Card Game is played:"
-	line "It's a game in which you try to"
-	line "Knock Out as many of your"
-	line "opponent's Pokémon as there are"
-	line "Prizes. That's the gist of it..."
-	done
-
-Text05ec:
-	text "Would you like to practice again?"
-	done
-
-Text05ed:
-	text "OK. Then let's begin another"
-	line "practice game!"
-	done
-
-Text05ee:
-	text "OK, but if there's anything that"
-	line "you don't understand, then"
-	line "it might be a good idea to practice"
-	line "again."
-	done
-
-Text05ef:
-	text "If you don't understand something,"
-	line "talk to Sam. It might be helpful"
-	line "to duel Sam again, too. This time"
-	line "was just practice, so I had you"
-	line "follow everything I said, but"
-	line "there are other styles of play,"
-	line "so try them out by choosing"
-	line "”Normal Duel”."
-	done
-
-Text05f0:
-	text "Now then, let's build your deck."
-	line "Did you bring your cards?"
-	done
-
-Text05f1:
-	text "<RAMNAME> handed his cards to"
-	line "Dr. Mason."
-	done
-
-Text05f2:
-	text "Hmm... let me add some of my own"
-	line "cards to yours!"
-	line "Now, <RAMNAME>, what kind"
-	line "of deck do you want?"
-	done
-
-Text05f3:
-	text "A <RAMTEXT>?"
-	done
-
-Text05f4:
-	text "OK, a <RAMTEXT>!"
-	line "Here are the remaining cards!"
-	done
-
-Text05f5:
-	text "<RAMNAME> received"
-	line "a <RAMTEXT>!"
-	line ""
-	text "<RAMNAME> received"
-	line "30 cards!"
-	done
-
-Text05f6:
-	text "You should duel with many different"
-	line "people. Why don't you go to one of"
-	line "the Card Clubs. There are many"
-	line "people playing at the Clubs."
-	line "Collect new cards and try"
-	line "building a new deck!"
-	done
-
-Text05f7:
-	text "Isn't the Auto Deck Machine great?"
-	line "As long as you have the necessary"
-	line "cards, this machine will"
-	line "automatically build a deck for you!"
-	done
-
-Text05f8:
-	text "Congratulations on inheriting"
-	line "the Legendary Pokémon Cards!"
-	line "But that's not all there is to this"
-	line "game! Were you able to build all"
-	line "the decks stored in this Auto Deck"
-	line "Machine? There are as many duels"
-	line "as there are decks to duel with!"
-	line "Keep dueling with Pokémon cards!"
-	done
-
-Text05f9:
-	text "This is the Deck Save Machine."
-	line "You can save the configurations of"
-	line "your modified decks in this machine."
-	line "Once you save a deck, this machine"
-	line "can rebuild it for you at any time,"
-	line "as long as you have the right cards."
-	line "When you build a great deck,"
-	line "you should save it here."
-	done
-
-Text05fa:
-	text "Congratulations on inheriting"
-	line "the Legendary Pokémon Cards!!!"
-	line "Please save your deck in this"
-	line "Deck Save Machine -"
-	line "the deck with the Legendary"
-	line "Pokémon Cards!!!"
-	done
-
-Text05fb:
-	text "You need a medal to activate a"
-	line "deactivated Auto Deck Machine -"
-	line "the Master Medals owned by the"
-	line "Club Masters! Place them here"
-	line "after you win them. Then you'll"
-	line "be able to build new decks!!!"
-	done
-
-Text05fc:
-	text "<RAMNAME>, thanks to you,"
-	line "all of the Auto Deck Machines"
-	line "have been activated!"
-	done
-
-Text05fd:
-	text "Ho-ho! Won't you duel me to"
-	line "test your deck? If you win,"
-	line "I'll give you a booster pack -"
-	line "but it only contains Energy cards."
-	done
-
-Text05fe:
-	text "Would you like to duel Aaron?"
-	done
-
-Text05ff:
-	text "It's important to know how your"
-	line "deck performs."
-	done
-
-Text0600:
-	text "Ho-ho! Please choose the deck"
-	line "you wish to duel against."
-	done
-
-Text0601:
-	text "Is it <RAMTEXT>?"
-	done
-
-Text0602:
-	text "Ho-ho! OK, let's start a"
-	line "4-prize match!"
-	done
-
-Text0603:
-	text "Ho-ho! You win!"
-	line "Here you go, as promised!"
-	done
-
-Text0604:
-	text "Ho-ho! How about it? Did you"
-	line "get a feel for your deck?"
-	line "Ho-ho! Come again. I'll be glad"
-	line "to duel you any time."
-	done
-
-Text0605:
-	text "It's an Auto Deck Machine."
-	done
-
-UnusedText0606: ; Unused
-	text "????"
-	done
-
-Text0607:
-	text "It's a <RAMTEXT> Medal"
-	line "Auto Deck Machine."
-	done
-
-Text0608:
-	text "It isn't working since the"
-	line "<RAMTEXT> Medal is not inserted."
-	done
-
-Text0609:
-	text "Insert your <RAMTEXT> Medal?"
-	done
-
-Text060a:
-	text "The Auto Deck Machine"
-	line "has been activated!"
-	done
-
-UnusedText060b: ; Unused
-	text "????"
-	done
-
-Text060c:
-	text "It's a Deck Save Machine."
-	done
-
-Text060d:
-	text "Use the Deck Save Machine?"
-	done
-
-Text060e:
-	text "Greetings!"
-	line "Welcome to the Lightning Club!"
-	line "At this club, we use decks made up"
-	line "mostly of Lightning Pokémon."
-	line "Would you like to get charged up"
-	line "with us?"
-	done
-
-Text060f:
-	text "Hey! Kid!"
-	line "I've got a <Lv>20 Electabuzz,"
-	line "but what I really want is"
-	line "a <Lv>35 Electabuzz!"
-	line "Hey! Kid! Do you have a"
-	line "<Lv>35 Electabuzz?"
-	done
-
-Text0610:
-	text "Hey! Kid! We meet again!"
-	line "Do you have a <Lv>35 Electabuzz?"
-	line "Come on! Trade it for my"
-	line "<Lv>20 Electabuzz!"
-	done
-
-Text0611:
-	text "Trade your <Lv>35 Electabuzz?"
-	done
-
-Text0612:
-	text "Whoa! Bummer!"
-	line "What a drag!"
-	line "Really uncool, kid!"
-	line "See ya, kid!"
-	done
-
-Text0613:
-	text "Hey, kid, it's not cool to lie!"
-	line "You don't own a <Lv>35 Electabuzz!"
-	line "You could get hurt lying to me, kid!"
-	done
-
-Text0614:
-	text "You're gonna trade me your"
-	line "<Lv>35 Electabuzz?"
-	line "Way cool!...Hey! Wait, kid!"
-	line "That card's in your deck!"
-	line "It isn't cool to take that card!"
-	line "You take good care of it!"
-	line "That's what's best for that"
-	line "Electabuzz!"
-	done
-
-Text0615:
-	text "You're gonna trade me your"
-	line "<Lv>35 Electabuzz? Way cool, kid!"
-	line "OK, I'll trade you my"
-	line "<Lv>20 Electabuzz for it!"
-	done
-
-Text0616:
-	text "Whoa! Thanks!"
-	line "You're too cool, kid!"
-	done
-
-Text0617:
-	text "Whoa! Cool, kid! Thanks for"
-	line "that <Lv>35 Electabuzz!"
-	line "My <Lv>20 Electabuzz is a cool card!"
-	line "Charge it up with Electabuzz!"
-	done
-
-Text0618:
-	text "I wonder if the Legendary Cards"
-	line "are pretty?"
-	line "If they're sparkly, I'll be"
-	line "really happy."
-	done
-
-Text0619:
-	text "Hey! You charged up!?!"
-	line "You playin' the Pokémon"
-	line "Trading Card Game!?!"
-	line "Yeah! Gotta be a Grand Master!"
-	done
-
-Text061a:
-	text "Hey! <RAMNAME>!"
-	line "You beat the Grand Masters?"
-	line "Cool! Got all the Legendary"
-	line "Pokémon Cards? Yeah!"
-	line "Gotta Catch 'Em All!(TM)"
-	done
-
-Text061b:
-	text "Isn't Pikachu totally cute? My heart"
-	line "skips a beat whenever I see those"
-	line "cute little eyes! Hey, do you want"
-	line "to duel my Pikachu deck?"
-	done
-
-Text061c:
-	text "Would you like to duel Jennifer?"
-	done
-
-Text061d:
-	text "Awww! Doesn't anyone want to play"
-	line "with my Pikachu deck...?"
-	done
-
-Text061e:
-	text "OK then! Let's play with 4 Prizes!"
-	done
-
-Text061f:
-	text "Awww! My Pikachu lost!"
-	done
-
-Text0620:
-	text "You have to take care of your"
-	line "Pokémon cards!"
-	done
-
-Text0621:
-	text "My Pikachu's not only cute"
-	line "but strong, too!"
-	done
-
-Text0622:
-	text "Lightning Pokémon can attack"
-	line "the opponent's Bench!"
-	line "Lightning Pokémon are the toughest"
-	line "Pokémon! How about it?"
-	line "You want to duel me?"
-	done
-
-Text0623:
-	text "Would you like to duel Nicholas?"
-	done
-
-Text0624:
-	text "Tch! I was going to shock you"
-	line "with my Lightning deck!"
-	done
-
-Text0625:
-	text "OK! Let's start!"
-	line "1 match with 4 Prizes!"
-	done
-
-Text0626:
-	text "My Lightning deck lost..."
-	line "I can't believe it..."
-	done
-
-Text0627:
-	text "I won't lose next time!"
-	line "I'm gonna zap you!"
-	done
-
-Text0628:
-	text "Did I shock you?"
-	line "My Lightning deck is pretty strong!"
-	line "If you want to be shocked again,"
-	line "come around...I'll be waiting!"
-	done
-
-Text0629:
-	text "Isaac's working on the wiring"
-	line "for this stage. It looks cool"
-	line "with all these lights, but it takes"
-	line "a lot of work to keep 'em lit!"
-	done
-
-Text062a:
-	text "I wonder what Isaac's doing...?"
-	done
-
-Text062b:
-	text "What? a Pokémon card duel?"
-	line "I'll be glad to duel any time!"
-	done
-
-Text062c:
-	text "Would you like to duel Brandon?"
-	done
-
-Text062d:
-	text "Oh, OK."
-	line "I'll duel you any time."
-	done
-
-Text062e:
-	text "OK, 4 Prizes!"
-	line "Ready? Let's do it!"
-	done
-
-Text062f:
-	text "Shoot! I lost! Well, no sense"
-	line "crying over spilled milk!"
-	done
-
-Text0630:
-	text "I'll duel you any time!"
-	line "Come see me again!"
-	done
-
-Text0631:
-	text "Hey, don't take it so hard!"
-	line "I'm just too good!"
-	line "I'll duel you any time!"
-	line "Come see me again!"
-	done
-
-Text0632:
-	text "I'm a little busy at the moment!"
-	line "Duel someone else!"
-	done
-
-Text0633:
-	text "Well, that ought to do it. It was"
-	line "hard work, but here's our stage!"
-	line "Got to keep it looking smart!"
-	line "I'm the Lightning Club Master!"
-	line "Sure! I'll duel you!"
-	done
-
-Text0634:
-	text "My Lightning Pokémon deck"
-	line "is the greatest!"
-	line "How about it?"
-	line "You want to see how good it is?"
-	done
-
-Text0635:
-	text "Would you like to duel Isaac?"
-	done
-
-Text0636:
-	text "I'm not busy any more,"
-	line "so I'll take you on any time!"
-	done
-
-Text0637:
-	text "The sparks will fly with"
-	line "6 Prizes!"
-	line "I'll show you what my Lightning"
-	line "Pokémon deck can do!"
-	done
-
-Text0638:
-	text "How could my Lightning deck lose!?!"
-	line "How shocking...!"
-	line "Here, take this Lightning Medal"
-	line "as proof of defeating me."
-	done
-
-Text0639:
-	text "And here, take this booster pack,"
-	line "too."
-	done
-
-Text063a:
-	text "I'm going to polish my card skills,"
-	line "so come duel again."
-	done
-
-Text063b:
-	text "So? How's my deck?"
-	line "Isn't it cool, just like this stage?"
-	line "Come challenge my deck again!"
-	done
-
-Text063c:
-	text "My Lightning deck is the greatest!"
-	line "How about it?"
-	line "You want to see what my deck can do?"
-	done
-
-Text063d:
-	text "I'm not busy right now,"
-	line "so I'll duel you any time!"
-	done
-
-Text063e:
-	text "Sparks will fly again, this time"
-	line "with 6 Prizes!"
-	done
-
-Text063f:
-	text "I lost again!"
-	line "How shocking...!"
-	done
-
-Text0640:
-	text "I'm going to polish my card skills,"
-	line "so come challenge me again!"
-	done
-
-Text0641:
-	text "So? How's my deck?"
-	line "Isn't it cool, just like this stage?"
-	line "Come challenge my deck again!"
-	done
-
-Text0642:
-	text "Greetings."
-	line "Welcome to the Psychic Club!"
-	line "This Club is for people who use"
-	line "Psychic Pokémon."
-	line "Psychic Pokémon are difficult to"
-	line "use, but they're very strong."
-	done
-
-Text0643:
-	text "What? You also want the Legendary"
-	line "Pokémon Cards?"
-	line "I want them too, but I'm still"
-	line "not quite good enough."
-	done
-
-Text0644:
-	text "I hear you got the Legendary"
-	line "Pokémon Cards. Wow! That's great!"
-	line "I'm going to train so I can get"
-	line "them myself!"
-	done
-
-Text0645:
-	text "Well, getting the <RAMTEXT> Medal"
-	line "wasn't that hard! If I keep"
-	line "this up, I should be able to get"
-	line "the Legendary Pokémon Cards!"
-	done
-
-Text0646:
-	text "What? It's you, <RAMNAME>!"
-	line "What are you doing?"
-	line "Huh? That's a deck!"
-	line "Are you... trying to get the"
-	line "Legendary Pokémon Cards?"
-	done
-
-Text0647:
-	text "It's useless trying to hide it!"
-	line "I know you came here for the medal!"
-	line "You're out of your league!"
-	done
-
-Text0648:
-	text "What!?! I can't believe it!"
-	line "You? The Legendary Pokémon Cards?"
-	line "Ha ha ha ha ha!"
-	line "Don't make me laugh!!!"
-	done
-
-Text0649:
-	text "Alright! Listen up!"
-	line "I'll teach you what it's about!"
-	line "To inherit the Legendary Pokémon"
-	line "Cards, you must defeat the 8 Club"
-	line "Masters and earn all 8 medals!"
-	line "Then you have to go to Pokémon"
-	line "Dome and defeat all 4 of the"
-	line "Grand Masters there!!!"
-	line "There's no way you can do it!!!"
-	line "You might as well just give up"
-	line "and go home!"
-	line "'Cause the Legendary Pokémon Cards"
-	line "are gonna be mine!"
-	line "I already won the first medal!"
-	line "See ya, <RAMNAME>!"
-	line "Ha ha ha ha ha!!!"
-	done
-
-Text064a:
-	text "Hi, <RAMNAME>!"
-	line "How ya doin'?"
-	done
-
-Text064b:
-	text "So you won the second medal?"
-	line "You must have been really lucky!"
-	line "I'll see how good you really are!"
-	line "Come on, let's duel! We'll play with"
-	line "6 Prizes! If you win, I'll give you"
-	line "a really rare card!"
-	done
-
-Text064c:
-	text "I... I wasn't really trying"
-	line "that hard!"
-	line "Well, a loss is a loss, so I'll"
-	line "have to give you this card."
-	done
-
-Text064d:
-	text "It won't be so easy next time!"
-	line "See ya!"
-	done
-
-Text064e:
-	text "See! What did I tell you?"
-	line "It was luck, wasn't it?"
-	line "Now you know better than to try and"
-	line "win the medals!"
-	line "See ya!"
-	line "Ha ha ha ha ha ha!"
-	done
-
-Text064f:
-	text "Hi, <RAMNAME>!"
-	line "Have you gotten any better?"
-	done
-
-Text0650:
-	text "I already won the sixth medal!"
-	line "I'll see how much better you are!"
-	line "If you win, I'll give you another"
-	line "rare card!"
-	line "Come on!!! Let's duel!"
-	line "We'll play with 6 Prizes!"
-	done
-
-Text0651:
-	text "Shoot! I let you win!"
-	line "But a loss is a loss,"
-	line "so I'll give you this card."
-	done
-
-Text0652:
-	text "Don't get so cocky just because"
-	line "you won."
-	line "The Legendary Pokémon Cards"
-	line "belong to me!!!"
-	done
-
-Text0653:
-	text "Huh?!? You're not even half as good"
-	line "as I am!"
-	line "There's no way you'll be able to"
-	line "inherit the Legendary Pokémon Cards!"
-	line "Why don't you just give up!?!"
-	line "See ya! Ha ha ha ha ha ha!"
-	done
-
-Text0654:
-	text "Hi, I'm Robert!"
-	line "I'm a member of the Psychic Club."
-	line "My Ghost deck is really strong!"
-	line "It doesn't have any weaknesses,"
-	line "and it's difficult for opponents'"
-	line "attacks to cause damage!"
-	line "Would you like to duel me?"
-	done
-
-Text0655:
-	text "Would you like to duel Robert?"
-	done
-
-Text0656:
-	text "Oh, man! You're boring!"
-	line "Won't anyone duel me?"
-	done
-
-Text0657:
-	text "A single match with 4 prizes!"
-	line "Come on, my precious ghosts!"
-	line "Let's make his Pokémon disappear!"
-	done
-
-Text0658:
-	text "How could my Ghost deck lose!?!"
-	done
-
-Text0659:
-	text "I won't lose next time!"
-	line "Let's duel again!"
-	done
-
-Text065a:
-	text "I told you my Ghost deck was"
-	line "really strong!"
-	line "Please duel me again sometime, OK?"
-	line "Bye!"
-	done
-
-Text065b:
-	text "I don't like people who think"
-	line "too highly of themselves."
-	line "That's why I don't like the"
-	line "members of the Psychic Club."
-	line "I wish I could knock them off their"
-	line "high horses!"
-	line "Would you try to defeat Murray,"
-	line "the Psychic Club Master?"
-	line "If you defeat Murray, I'll give you"
-	line "something really valuable!"
-	done
-
-Text065c:
-	text "Grant the old man's wish?"
-	done
-
-Text065d:
-	text "I understand... he's very skilled."
-	line "Defeating Murray is no easy task."
-	done
-
-Text065e:
-	text "Good!"
-	line "I'll be waiting here for you!"
-	done
-
-Text065f:
-	text "I see you still haven't defeated"
-	line "Murray. He's very skilled, but"
-	line "don't give up! I'm pulling for you!"
-	line "If you manage to defeat Murray,"
-	line "then I'll give you something"
-	line "very valuable."
-	done
-
-Text0660:
-	text "I'm not very fond of people who"
-	line "think too highly of themselves."
-	line "That's why I don't like the"
-	line "members of the Psychic Club."
-	line "Hey!?! Is that the Psychic Medal?"
-	line "Did you defeat Murray!?!"
-	line "I feel so much better!"
-	line "Here, let me give you this"
-	line "Mewtwo card!"
-	done
-
-Text0661:
-	text "What? Is that the Psychic Medal?"
-	line "Did you defeat Murray!?!"
-	line "I feel so much better!"
-	line "Here, let me give you this"
-	line "Mewtwo card."
-	done
-
-Text0662:
-	text "Thank you for defeating Murray!"
-	done
-
-Text0663:
-	text "Thank you! I feel so much better"
-	line "since you defeated Murray!"
-	done
-
-Text0664:
-	text "Hi, <RAMNAME>."
-	line "So you've finally come this far?"
-	line "I've already won 5 medals!"
-	line "By the time you win your 8th medal,"
-	line "I will have inherited the"
-	line "Legendary Pokémon Cards!"
-	line "I'll catch you later!"
-	line "See ya! Ha ha ha ha ha ha!"
-	done
-
-Text0665:
-	text "The Legendary Pokémon Cards are"
-	line "the ultimate cards. Everyone wants"
-	line "to inherit the Legendary Cards -"
-	line "that's why we play against so many"
-	line "different people. I just lost a"
-	line "duel, so I can't play right now."
-	done
-
-Text0666:
-	text "Did you hear? Someone inherited"
-	line "the Legendary Pokémon Cards!"
-	line "Whoever it is must be really cool if"
-	line "they can defeat the Grand Masters!"
-	done
-
-Text0667:
-	text "I dropped all my cards, so I'm"
-	line "putting them in order here!"
-	done
-
-Text0668:
-	text "Huh? What am I doing?"
-	line "I'm building a deck!"
-	done
-
-Text0669:
-	text "What do you think Murray's doing"
-	line "over there in the corner?"
-	line "He's thinking about how to"
-	line "duel using his new cards."
-	line "We strive to better ourselves"
-	line "here at the Psychic Club."
-	done
-
-Text066a:
-	text "You still haven't won any medals."
-	line "You aren't qualified to duel me."
-	line "Go to some other Club and win"
-	line "a medal first!"
-	done
-
-Text066b:
-	text "I see you've won a medal."
-	line "Then I will duel with you."
-	done
-
-Text066c:
-	text "Murray finally came up with a new"
-	line "strategy. He's in a very good mood,"
-	line "so he'll probably duel you now."
-	line "By the way, would you duel me?"
-	done
-
-Text066d:
-	text "Would you like to duel Daniel?"
-	done
-
-Text066e:
-	text "Are you afraid to duel?"
-	line "Well, not that I care!"
-	done
-
-Text066f:
-	text "Let's play with 4 Prizes."
-	line "OK, here we go!"
-	done
-
-Text0670:
-	text "You're no ordinary player if"
-	line "you can defeat me!"
-	done
-
-Text0671:
-	text "Next time we play, I'm going"
-	line "to win!"
-	done
-
-Text0672:
-	text "You're still not good enough"
-	line "to defeat me!"
-	line "I'll duel you any time you want."
-	done
-
-Text0673:
-	text "I can see the future..."
-	line "You cannot defeat me."
-	line "But if you win 2 medals, maybe..."
-	line "Then... I would duel you..."
-	done
-
-Text0674:
-	text "You've won quite a few medals."
-	line "OK...Let's duel."
-	line "But I see the future..."
-	line "You will lose..."
-	done
-
-Text0675:
-	text "Would you like to duel Stephanie?"
-	done
-
-Text0676:
-	text "Yes, I understand."
-	line "Losing is scary, isn't it?"
-	done
-
-Text0677:
-	text "OK, a single match with 4 Prizes!"
-	line "Here we go!"
-	done
-
-Text0678:
-	text "I can't believe my prediction"
-	line "was wrong..."
-	done
-
-Text0679:
-	text "I see a vision..."
-	line "You're dueling me again."
-	done
-
-Text067a:
-	text "I told you that you would lose..."
-	line "I have the ability to foretell"
-	line "the future! I see a vision..."
-	line "You're dueling me again!"
-	done
-
-Text067b:
-	text "Let me see... if this happens..."
-	line "then that... so... ummm..."
-	done
-
-Text067c:
-	text "Club Master Murray doesn't listen"
-	line "to what people are saying!"
-	done
-
-Text067d:
-	text "Hi, I'm Murray, Master of the"
-	line "Psychic Club. You're the one"
-	line "who's visiting the Clubs to win"
-	line "the medals. How do I know this?"
-	line "Because I'm Psychic!"
-	line "OK, let me test my new card"
-	line "strategy... against your deck!"
-	line "Are you ready?"
-	done
-
-Text067e:
-	text "Hi! It's you again."
-	line "Are you ready for a duel?"
-	done
-
-Text067f:
-	text "Would you like to duel Murray?"
-	done
-
-Text0680:
-	text "OK. Come back when you're ready."
-	done
-
-Text0681:
-	text "When you duel me, it's for 6 Prizes."
-	line "Shall we start then!?!"
-	done
-
-Text0682:
-	text "Huh!?! I lost!"
-	line "Hmmmm..."
-	line "Well, you must be pretty good if"
-	line "you're trying to inherit"
-	line "the Legendary Pokémon Cards."
-	line "Here, take this Psychic Medal."
-	done
-
-Text0683:
-	text "And here, take this"
-	line "Laboratory booster pack!"
-	done
-
-;	ds $29
