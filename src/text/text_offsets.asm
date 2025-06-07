@@ -3016,4 +3016,14 @@ TextOffsets::
 	textpointer BigThunderDescriptionCont                          ; Dutch description was too long
 	textpointer GravelersHardenDescriptionCont                     ; Dutch description was too long
 	textpointer SnivelDescriptionCont                              ; Dutch description was too long
+	textpointer WailDescriptionCont                                ; Dutch description was too long
+	textpointer DamageSwapDescriptionCont                          ; Dutch description was too long
+	textpointer StrangeBehaviorDescriptionCont                     ; Dutch description was too long
+	textpointer TransparencyDescriptionCont                        ; Dutch description was too long
+	textpointer BarrierAttackName                                  ; Made this because I don't want BarrierName to be used as both a category and an attack name
+	textpointer DevolutionBeamDescriptionCont                      ; Dutch description was too long
+	textpointer GaleDescriptionCont                                ; Dutch description was too long
+	textpointer ClefairysMetronomeDescriptionCont                  ; Dutch description was too long
+	textpointer ClefablesMetronomeDescriptionCont                  ; Dutch description was too long
+	textpointer PounceDescriptionCont                              ; Dutch description was too long
 	

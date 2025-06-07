@@ -1044,7 +1044,7 @@ TheDeckDescriptionText:
 
 TheDiscardPileDescriptionText:
 	text " Weggegooide kaarten gaan naar"
-	line " de weggooistapel van de eigenaar,"
+	line " de Weggooistapel van de eigenaar,"
 	line " en als een Pokémon wordt Uitge-"
 	line " schakeld, gaat hij samen met de"
 	line " bijbehorende kaarten naar de"

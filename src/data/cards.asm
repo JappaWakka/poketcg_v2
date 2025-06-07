@@ -6564,7 +6564,7 @@ MarowakLv32Card:
 	energy FIGHTING, 3 ; energies
 	tx WailName ; name
 	tx WailDescription ; description
-	dw NONE ; description (cont)
+	tx WailDescriptionCont ; description (cont)
 	db 0 ; damage
 	db RESIDUAL ; category
 	dw RandomBenchFillEffectCommands ; effect commands
@@ -7050,7 +7050,7 @@ AlakazamCard:
 	energy 0 ; energies
 	tx DamageSwapName ; name
 	tx DamageSwapDescription ; description
-	dw NONE ; description (cont)
+	tx DamageSwapDescriptionCont ; description (cont)
 	db 0 ; damage
 	db POKEMON_POWER ; category
 	dw AlakazamDamageSwapEffectCommands ; effect commands
@@ -7200,7 +7200,7 @@ SlowbroCard:
 	energy 0 ; energies
 	tx StrangeBehaviorName ; name
 	tx StrangeBehaviorDescription ; description
-	dw NONE ; description (cont)
+	tx StrangeBehaviorDescriptionCont ; description (cont)
 	db 0 ; damage
 	db POKEMON_POWER ; category
 	dw SlowbroStrangeBehaviorEffectCommands ; effect commands
@@ -7350,7 +7350,7 @@ HaunterLv17Card:
 	energy 0 ; energies
 	tx TransparencyName ; name
 	tx TransparencyDescription ; description
-	dw NONE ; description (cont)
+	tx TransparencyDescriptionCont ; description (cont)
 	db 0 ; damage
 	db POKEMON_POWER ; category
 	dw HaunterTransparencyEffectCommands ; effect commands
@@ -7712,7 +7712,7 @@ MewtwoLv53Card:
 
 	; attack 2
 	energy PSYCHIC, 2 ; energies
-	tx BarrierName ; name
+	tx BarrierAttackName ; name
 	tx BarrierDescription ; description
 	dw NONE ; description (cont)
 	db 0 ; damage
@@ -7964,7 +7964,7 @@ MewLv23Card:
 	energy PSYCHIC, 2 ; energies
 	tx DevolutionBeamName ; name
 	tx DevolutionBeamDescription ; description
-	dw NONE ; description (cont)
+	tx DevolutionBeamDescriptionCont ; description (cont)
 	db 0 ; damage
 	db RESIDUAL ; category
 	dw DevolutionBeamEffectCommands ; effect commands
@@ -8114,7 +8114,7 @@ PidgeotLv38Card:
 	energy COLORLESS, 4 ; energies
 	tx GaleName ; name
 	tx GaleDescription ; description
-	dw NONE ; description (cont)
+	tx GaleDescriptionCont ; description (cont)
 	db 20 ; damage
 	db DAMAGE_NORMAL ; category
 	dw RandomlySwitchBothActiveEffectCommands ; effect commands
@@ -8414,7 +8414,7 @@ ClefairyCard:
 	energy COLORLESS, 3 ; energies
 	tx MetronomeName ; name
 	tx ClefairysMetronomeDescription ; description
-	dw NONE ; description (cont)
+	tx ClefairysMetronomeDescriptionCont ; description (cont)
 	db 0 ; damage
 	db RESIDUAL ; category
 	dw ClefairyMetronomeEffectCommands ; effect commands
@@ -8450,7 +8450,7 @@ ClefableCard:
 	energy COLORLESS, 1 ; energies
 	tx MetronomeName ; name
 	tx ClefablesMetronomeDescription ; description
-	dw NONE ; description (cont)
+	tx ClefablesMetronomeDescriptionCont ; description (cont)
 	db 0 ; damage
 	db RESIDUAL ; category
 	dw ClefableMetronomeEffectCommands ; effect commands
@@ -8814,7 +8814,7 @@ PersianCard:
 	energy COLORLESS, 3 ; energies
 	tx PounceName ; name
 	tx PounceDescription ; description
-	dw NONE ; description (cont)
+	tx PounceDescriptionCont ; description (cont)
 	db 30 ; damage
 	db DAMAGE_NORMAL ; category
 	dw ReduceBy10EffectCommands ; effect commands

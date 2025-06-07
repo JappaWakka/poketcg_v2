@@ -1,3 +1,51 @@
+ClefairyDollName:
+	text "Clefairy Doll"
+	done
+
+ClefairyDollDescription:
+	text "Play Clefairy Doll as if it were"
+	line "a Basic Pokémon. While in play,"
+	line "Clefairy Doll counts as a Pokémon"
+	line "(instead of a Trainer card)."
+	line "Clefairy Doll has no attacks,"
+	line "can't retreat, and can't be Asleep,"
+	line "Confused, Paralyzed, or Poisoned."
+	done
+
+ClefairyDollDescriptionCont:
+	text "If Clefairy Doll is Knocked Out,"
+	line "it doesn't count as a Knocked Out"
+	line "Pokémon. (Discard it anyway.)"
+	line "At any time during your turn"
+	line "(before your attack), you may"
+	line "discard Clefairy Doll from play."
+	line "(Use the ”PKMN Power” menu.)"
+	done
+
+MysteriousFossilDescription:
+	text "Play Mysterious Fossil as if it were"
+	line "a Basic Pokémon. While in play,"
+	line "Mysterious Fossil counts as a"
+	line "Pokémon (instead of a Trainer card)."
+	line "Mysterious Fossil has no attacks,"
+	line "can't retreat, and can't be Asleep,"
+	line "Confused, Paralyzed, or Poisoned."
+	done
+
+MysteriousFossilDescriptionCont:
+	text "If Mysterious Fossil is Knocked Out,"
+	line "it doesn't count as a Knocked Out"
+	line "Pokémon. (Discard it anyway.)"
+	line "At any time during your turn"
+	line "(before your attack), you may"
+	line "discard Mysterious Fossil from play."
+	line "(Use the ”PKMN Power” menu.)"
+	done
+
+EnergyRetrievalName:
+	text "Energy Retrieval"
+	done
+
 EnergyRetrievalDescription:
 	text "Trade 1 of the other cards in your"
 	line "hand for up to 2 Basic Energy"
@@ -151,7 +199,7 @@ ItemFinderName:
 ItemFinderDescription:
 	text "Gooi 2 andere kaarten uit je"
 	line "Hand weg om een Trainerkaart"
-	line "uit je weggooistapel in je Hand"
+	line "uit je Weggooistapel in je Hand"
 	line "te kunnen nemen."
 	done
 
@@ -226,7 +274,7 @@ ReviveName:
 
 ReviveDescription:
 	text "Leg 1 Basis-Pokémonkaart uit je"
-	line "weggooistapel op je Bank. Leg op die"
+	line "Weggooistapel op je Bank. Leg op die"
 	line "Pokémon schadetellers ter waarde"
 	line "van de helft van zijn IP (naar"
 	line "beneden afgerond naar de dichtst-"

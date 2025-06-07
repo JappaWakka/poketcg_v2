@@ -1015,59 +1015,68 @@ MarowakName:
 	done
 
 BonemerangName:
-	text "Bonemerang"
+	text "Botmerang"
 	done
 
 CallforFriendName:
-	text "Call for Friend"
+	text "Roep om een vriend"
 	done
 
 CallforFriendDescription:
-	text "Search your deck for a <FIGHTING> Basic"
-	line "Pokémon and put it onto your Bench."
-	line "Shuffle your deck afterward."
-	line "(You can't use this attack"
-	line "if your Bench is full.)"
+	text "Zoek in je Deck naar een <FIGHTING> Basis-"
+	line "Pokémonkaart en plaats hem op je"
+	line "Bank. Schud hierna je Deck. (Je"
+	line "kunt deze Aanval niet gebruiken"
+	line "als je Bank vol is.)"
 	done
 
 BonekeeperName:
-	text "Bonekeeper"
+	text "Botbewaarder-"
 	done
 
 MarowakLv26Description:
-	text "The bone it holds is its key weapon."
-	line "It throws the bone skillfully like"
-	line "a boomerang to K.O. targets."
+	text "Het bot dat hij vasthoudt is zijn"
+	line "belangrijkste wapen. Hij gooit het"
+	line "bot met grote vaardigheid als een"
+	line "boemerang om zijn doelen uit te"
+	line "schakelen."
 	done
 
 BoneAttackName:
-	text "Bone Attack"
+	text "Bottenaanval"
 	done
 
 BoneAttackDescription:
-	text "Flip a coin. If heads, the"
-	line "Defending Pokémon can't attack"
-	line "during your opponent's next turn."
+	text "Gooi een munt op. Als het kop is,"
+	line "kan de Verdedigende Pokémon niet"
+	line "Aanvallen tijdens je tegenstander's"
+	line "volgende beurt."
 	done
 
 WailName:
-	text "Wail"
+	text "Jammeren"
 	done
 
 WailDescription:
-	text "Each player fills his or her Bench"
-	line "with Basic Pokémon chosen at random"
-	line "from his or her deck. If a player"
-	line "has fewer Basic Pokémon than that in"
-	line "his or deck, he or she chooses all"
-	line "of them. Each player shuffles his"
-	line "or her deck afterward."
+	text "Elke speler vult zijn of haar Bank"
+	line "met Basis-Pokémon die op willekeu-"
+	line "rige wijze uit zijn of haar Deck"
+	line "worden gekozen. Als een speler min-"
+	line "der Basis-Pokémon heeft dan dat in"
+	line "zijn of haar Deck, kiest hij of zij"
+	line "ze allemaal."
+	done
+
+WailDescriptionCont:
+	text "Elke speler schudt daarna zijn of"
+	line "haar deck."
 	done
 
 MarowakLv32Description:
-	text "Small and weak, this Pokémon is"
-	line "adept with its bone club. It has"
-	line "grown more vicious over the ages."
+	text "Deze kleine en zwakke Pokémon"
+	line "is bedreven met zijn bottenknots."
+	line "Door de eeuwen heen is hij steeds"
+	line "venijniger geworden."
 	done
 
 HitmonleeName:
@@ -1075,29 +1084,30 @@ HitmonleeName:
 	done
 
 StretchKickName:
-	text "Stretch Kick"
+	text "Rekschop"
 	done
 
 StretchKickDescription:
-	text "If your opponent has any Benched"
-	line "Pokémon, choose 1 of them and this"
-	line "attack does 20 damage to it."
-	line "(Don't apply Weakness and"
-	line "Resistance for Benched Pokémon.)"
+	text "Als je tegenstander Pokémon op de"
+	line "Bank heeft, kies er dan 1 van en"
+	line "deze Aanval doet 20 schade aan die"
+	line "Pokémon. (Pas geen Zwakte en Weer-"
+	line "stand toe voor Pokémon op de Bank.)"
 	done
 
 HighJumpKickName:
-	text "High Jump Kick"
+	text "Hoge sprongschop"
 	done
 
 KickingName:
-	text "Kicking"
+	text "Schoppende"
 	done
 
 HitmonleeDescription:
-	text "When in a hurry, its legs lengthen"
-	line "progressively. It runs smoothly with"
-	line "extra long, loping strides."
+	text "Als hij haast heeft, worden zijn"
+	line "benen steeds langer. Hij loopt"
+	line "soepel met extra lange, vloeiende"
+	line "schreden."
 	done
 
 HitmonchanName:
@@ -1105,21 +1115,22 @@ HitmonchanName:
 	done
 
 JabName:
-	text "Jab"
+	text "Por"
 	done
 
 SpecialPunch:
-	text "Special Punch"
+	text "Speciale stoot"
 	done
 
 PunchingName:
-	text "Punching"
+	text "Stompende"
 	done
 
 HitmonchanDescription:
-	text "While seeming to do nothing, it"
-	line "fires punches in lightning-fast"
-	line "volleys that are impossible to see."
+	text "Terwijl het lijkt alsof hij niets"
+	line "doet, deelt hij een reeks stompen"
+	line "uit in bliksemsnelle salvo's die"
+	line "onzichtbaar zijn voor het blote oog."
 	done
 
 RhyhornName:
@@ -1127,25 +1138,27 @@ RhyhornName:
 	done
 
 LeerName:
-	text "Leer"
+	text "Lonken"
 	done
 
 LeerDescription:
-	text "Flip a coin. If heads, the Defending"
-	line "Pokémon can't attack Rhyhorn during"
-	line "your opponent's next turn."
-	line "(Benching or evolving either Pokémon"
-	line "ends this effect.)"
+	text "Gooi een munt op. Als het kop is,"
+	line "kan de Verdedigende Pokémon Rhyhorn"
+	line "niet Aanvallen tijdens je tegenstan-"
+	line "der's volgende beurt. (Het op de"
+	line "Bank plaatsen van een van beide"
+	line "Pokémon beëindigt dit effect.)"
 	done
 
 SpikeName:
-	text "Spike"
+	text "Spijker-"
 	done
 
 RhyhornDescription:
-	text "Its massive bones are 1,000 times"
-	line "harder than human bones. It can"
-	line "easily knock a trailer flying."
+	text "Zijn massieve botten zijn 1000 keer"
+	line "harder dan menselijke botten. Hij"
+	line "kan makkelijk een trailer de lucht"
+	line "in slaan."
 	done
 
 RhydonName:
@@ -1157,23 +1170,23 @@ RamName:
 	done
 
 RamDescription:
-	text "Rhydon does 20 damage to itself."
-	line "If your opponent has any Benched"
-	line "Pokémon, he or she chooses 1 of them"
-	line "and switches it with the Defending"
-	line "Pokémon. (Do the damage before"
-	line "switching the Pokémon and"
+	text "Rhydon doet 20 schade aan zichzelf."
+	line "Als je tegenstander Pokémon op de"
+	line "Bank heeft, kiest hij of zij er 1"
+	line "van en verwisselt deze met de Verde-"
+	line "digende Pokémon. (Doe de schade vóór"
+	line "het verwisselen van de Pokémon."
 	done
 
 RamDescriptionCont:
-	text "switch the Defending Pokémon even"
-	line "if Rhydon is Knocked Out.)"
+	text "Verwissel de Pokémon zelfs als"
+	line "Rhydon Uitgeschakeld is.)"
 	done
 
 RhydonDescription:
-	text "Protected by an armor-like hide, it"
-	line "is capable of living in molten lava"
-	line "of 3600 degrees."
+	text "Beschermd door zijn pantserachtige"
+	line "huid, is hij in staat te leven in"
+	line "gesmolten lava van 2000 graden."
 	done
 
 KabutoName:
@@ -1181,29 +1194,31 @@ KabutoName:
 	done
 
 KabutoArmorName:
-	text "Kabuto Armor"
+	text "Kabuto-pantser"
 	done
 
 KabutoArmorDescription:
-	text "Whenever an attack (even your own)"
-	line "does damage to Kabuto (after"
-	line "applying Weakness and Resistance),"
-	line "that attack only does half the"
-	line "damage to Kabuto (rounded down to"
-	line "the nearest 10)."
+	text "Telkens wanneer een Aanval (zelfs"
+	line "die van jezelf) schade doet aan"
+	line "Kabuto (na het toepassen van Zwakte"
+	line "en Weerstand), doet die Aanval"
+	line "slechts de helft van de schade aan"
+	line "Kabuto (naar beneden afgerond naar"
+	line "de dichtstbijzijnde 10)."
 	done
 
 KabutoArmorDescriptionCont:
-	text "(Any other effects of attacks still"
-	line "happen.) This power stops working"
-	line "while Kabuto is Asleep, Confused,"
-	line "or Paralyzed."
+	text "(Alle andere effecten van Aanvallen"
+	line "blijven gewoon geldig.) Deze kracht"
+	line "stopt met werken als Kabuto In"
+	line "Slaap, Verward, of Verlamd is."
 	done
 
 KabutoDescription:
-	text "A Pokémon that was resurrected from"
-	line "a fossil found in what was once the"
-	line "ocean floor eons ago."
+	text "Een Pokémon die opnieuw tot leven is"
+	line "gebracht uit een fossiel dat is ge-"
+	line "vonden in wat eens, een eeuwigheid"
+	line "geleden, de bodem van de oceaan was."
 	done
 
 KabutopsName:
@@ -1211,90 +1226,32 @@ KabutopsName:
 	done
 
 SharpSickleName:
-	text "Sharp Sickle"
+	text "Scherpe Sikkel"
 	done
 
 AbsorbName:
-	text "Absorb"
+	text "Absorberen"
 	done
 
 AbsorbDescription:
-	text "Remove a number of damage counters"
-	line "from Kabutops equal to half the"
-	line "damage done to the Defending"
-	line "Pokémon (after applying Weakness"
-	line "and Resistance) (rounded up to the"
-	line "nearest 10)."
+	text "Verwijder een aantal Schadetellers"
+	line "van Kabutops gelijk aan de helft van"
+	line "de schade die gedaan is aan de Ver-"
+	line "dedigende Pokémon (na het toepassen"
+	line "van Zwakte en Weerstand) (naar boven"
+	line "afgerond naar de dichtstbijzijnde"
+	line "10)."
 	done
 
 AbsorbDescriptionCont:
-	text "If Kabutops has fewer damage"
-	line "counters than that, remove all of"
-	line "them."
+	text "Als Kabutops minder Schadetellers"
+	line "heeft dan dat, verwijder ze dan"
+	line "allemaal."
 	done
 
 KabutopsDescription:
-	text "Its sleek shape is perfect for"
-	line "swimming. It slashes prey with its"
-	line "claws and drains the body fluids."
-	done
-
-AerodactylName:
-	text "Aerodactyl"
-	done
-
-PrehistoricPowerName:
-	text "Prehistoric Power"
-	done
-
-PrehistoricPowerDescription:
-	text "No more Evolution cards can be"
-	line "played. This power stops working"
-	line "while Aerodactyl is Asleep,"
-	line "Confused, or Paralyzed."
-	done
-
-FossilName:
-	text "Fossil"
-	done
-
-AerodactylDescription:
-	text "A ferocious prehistoric Pokémon that"
-	line "goes for the enemy's throat with its"
-	line "serrated saw-like fangs."
-	done
-
-AbraName:
-	text "Abra"
-	done
-
-PsiName:
-	text "Psi"
-	done
-
-AbraDescription:
-	text "Using its ability to read minds,"
-	line "it will identify impending danger"
-	line "and teleport to safety."
-	done
-
-KadabraName:
-	text "Kadabra"
-	done
-
-KadabrasRecoverDescription:
-	text "Discard 1 <PSYCHIC> Energy card attached to"
-	line "Kadabra in order to use this attack."
-	line "Remove all damage counters from"
-	line "Kadabra."
-	done
-
-SuperPsiName:
-	text "Super Psy"
-	done
-
-KadabraDescription:
-	text "It emits special alpha waves from"
-	line "its body that induce headaches"
-	line "even to those just nearby."
+	text "Zijn slanke vorm is perfect om te"
+	line "zwemmen. Hij hakt met zijn klauwen"
+	line "in op zijn prooi en zuigt er de"
+	line "lichaamssappen uit."
 	done
