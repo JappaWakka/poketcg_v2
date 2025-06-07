@@ -2,10 +2,6 @@ OmanyteName:
 	text "Omanyte"
 	done
 
-MysteriousFossilName:
-	text "Mysterieus Fossiel"
-	done
-
 ClairvoyanceName:
 	text "Toekomst voorspellen"
 	done

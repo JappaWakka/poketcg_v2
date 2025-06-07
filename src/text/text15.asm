@@ -1,99 +1,267 @@
+DratiniName:
+	text "Dratini"
+	done
+
+DratiniDescription:
+	text "Lange tijd beschouwd als een mythi-"
+	line "sche Pokémon totdat onlangs een"
+	line "kleine kolonie gevonden werd die"
+	line "onder water leeft."
+	done
+
+DragonairName:
+	text "Dragonair"
+	done
+
+SlamName:
+	text "Smijt"
+	done
+
+DragonairDescription:
+	text "Een mystieke Pokémon die een zachte"
+	line "uitstraling heeft. Bezit het vermo-"
+	line "gen om de omstandigheden van het"
+	line "klimaat te veranderen."
+	done
+DragoniteName:
+	text "Dragonite"
+	done
+
+HealingWindName:
+	text "Genezende wind"
+	done
+
+HealingWindDescription:
+	text "Wanneer je Dragonite uit je hand"
+	line "speelt om 1 van je Pokémon te"
+	line "Evolueren, verwijder dan 2 Schade-"
+	line "tellers van elk van je Pokémon."
+	line "Als een Pokémon minder Schadetel-"
+	line "lers heeft dan dat, verwijder ze"
+	line "dan allemaal van die Pokémon."
+	done
+
+DragoniteLv41Description:
+	text "Het gerucht gaat dat deze Pokémon"
+	line "ergens in de zee leeft en dat hij"
+	line "vliegt. Echter, het is maar een"
+	line "gerucht."
+	done
+
+StepInName:
+	text "Invallen"
+	done
+
+StepInDescription:
+	text "Eenmaal tijdens je beurt (vóór je"
+	line "Aanval), als Dragonite op jouw Bank"
+	line "zit, mag je hem verwisselen met je"
+	line "Actieve Pokémon."
+	done
+
+DoubleAttackX40Description:
+	text "Gooi 2 munten op. Deze Aanval doet"
+	line "40 schade maal het aantal keren kop."
+	done
+
+DragoniteDescription:
+	text "Een mariene Pokémon die uiterst"
+	line "zelden gezien wordt. Er wordt"
+	line "beweerd dat zijn intelligentie"
+	line "overeenkomt met die van mensen."
+	done
+
+ProfessorOakName:
+	text "Professor Oak"
+	done
+
+ProfessorOakDescription:
+	text "Gooi je Hand weg en pak dan"
+	line "7 kaarten."
+	done
+
+ImposterProfessorOakName:
+	text "Professor Oak's Dubbelganger"
+	done
+
+ImposterProfessorOakDescription:
+	text "Je tegenstander schudt zijn of haar"
+	line "Hand door zijn of haar Deck en"
+	line "pakt vervolgens 7 kaarten."
+	done
+
+BillName:
+	text "Bill"
+	done
+
+BillDescription:
+	text "Pak 2 kaarten."
+	done
+
+MrFujiName:
+	text "Mr.Fuji"
+	done
+
+MrFujiDescription:
+	text "Kies een van je Pokémon op de Bank."
+	line "Schud die kaart en alle kaarten die"
+	line "eraan gehecht zijn door je Deck"
+	line "heen."
+	done
+
+LassName:
+	text "Meisje"
+	done
+
+LassDescription:
+	text "Jij en je tegenstander laten elkaar"
+	line "jullie hand zien, en schudden dan"
+	line "alle Trainerkaarten in jullie hand"
+	line "door jullie Deck heen."
+	done
+
+ImakuniName:
+	text "Imakuni?"
+	done
+
+ImakuniDescription:
+	text "Je Actieve Pokémon is nu Verward."
+	line "Imakuni wil dat je hem speelt als"
+	line "een Basis-Pokémon, maar dat kan je"
+	line "niet."
+	done
+	
+ImakuniDescriptionCont:
+	text "Een mysterieus wezen die niet in de"
+	line "Pokédex staat. Hij vraagt kinderen"
+	line "over de hele wereld: ”Wie is"
+	line "schattiger - Pikachu of ik?”"
+	done
+
+PokemonTraderName:
+	text "Pokémon-Handelaar"
+	done
+
+PokemonTraderDescription:
+	text "Ruil 1 van de Basis-Pokémon- of"
+	line "Evolutiekaarten in je hand met 1 van"
+	line "de Basis-Pokémon- of Evolutiekaarten"
+	line "uit je Deck. Laat beide kaarten aan"
+	line "je tegenstander zien. Schud hierna"
+	line "je Deck."
+	done
+
+PokemonBreederName:
+	text "Pokémon-Kweker"
+	done
+
+PokemonBreederDescription:
+	text "Leg een Fase-2-Evolutiekaart uit je"
+	line "hand op de bijbehorende Basis-"
+	line "Pokémon. Je kunt deze kaart alleen"
+	line "spelen als je die Pokémon toch al"
+	line "zou mogen Evolueren."
+	done
+
 ClefairyDollName:
-	text "Clefairy Doll"
+	text "Clefairy-Pop"
 	done
 
 ClefairyDollDescription:
-	text "Play Clefairy Doll as if it were"
-	line "a Basic Pokémon. While in play,"
-	line "Clefairy Doll counts as a Pokémon"
-	line "(instead of a Trainer card)."
-	line "Clefairy Doll has no attacks,"
-	line "can't retreat, and can't be Asleep,"
-	line "Confused, Paralyzed, or Poisoned."
+	text "Speel Clefairy-Pop alsof hij een"
+	line "Basis-Pokémon is. Terwijl hij in het"
+	line "spel is, telt Clefairy-Pop als een"
+	line "Pokémon (in plaats van een Trainer-"
+	line "kaart). Clefairy-Pop heeft geen"
+	line "Aanvallen, kan niet Terugtrekken,"
+	line "en kan niet In Slaap, Verward,"
 	done
 
 ClefairyDollDescriptionCont:
-	text "If Clefairy Doll is Knocked Out,"
-	line "it doesn't count as a Knocked Out"
-	line "Pokémon. (Discard it anyway.)"
-	line "At any time during your turn"
-	line "(before your attack), you may"
-	line "discard Clefairy Doll from play."
-	line "(Use the ”PKMN Power” menu.)"
+	text "Verlamd, of Vergiftigd zijn. Als"
+	line "Clefairy-Pop wordt Uitgeschakeld,"
+	line "telt hij niet als een Uitgeschakel-"
+	line "de Pokémon (gooi hem toch weg). Je"
+	line "mag Clefairy-Pop op elk moment tij-"
+	line "dens je beurt vóór je Aanval weg-"
+	line "gooien (in het ”PKMN-Kracht” menu)."
 	done
 
+MysteriousFossilName:
+	text "Mysterieus Fossiel"
+	done
+	
 MysteriousFossilDescription:
-	text "Play Mysterious Fossil as if it were"
-	line "a Basic Pokémon. While in play,"
-	line "Mysterious Fossil counts as a"
-	line "Pokémon (instead of a Trainer card)."
-	line "Mysterious Fossil has no attacks,"
-	line "can't retreat, and can't be Asleep,"
-	line "Confused, Paralyzed, or Poisoned."
+	text "Speel Mysterieus Fossiel alsof hij"
+	line "een Basis-Pokémon is. Terwijl hij in"
+	line "het spel is, telt hij als een Poké-"
+	line "mon (in plaats van een Trainer"
+	line "kaart). Mysterieus Fossiel heeft"
+	line "geen Aanvallen, kan niet Terugtrek-"
+	line "ken, en kan niet In Slaap, Verward,"
 	done
 
 MysteriousFossilDescriptionCont:
-	text "If Mysterious Fossil is Knocked Out,"
-	line "it doesn't count as a Knocked Out"
-	line "Pokémon. (Discard it anyway.)"
-	line "At any time during your turn"
-	line "(before your attack), you may"
-	line "discard Mysterious Fossil from play."
-	line "(Use the ”PKMN Power” menu.)"
+	text "Verlamd, of Vergiftigd zijn. Als"
+	line "hij wordt Uitgeschakeld, telt hij"
+	line "niet als een Uitgeschakelde Poké-"
+	line "mon (gooi hem toch weg). Je mag"
+	line "Mysterieus Fossiel op elk moment"
+	line "tijdens je beurt vóór je Aanval weg-"
+	line "gooien. (in het ”PKMN-Kracht” menu)."
 	done
 
 EnergyRetrievalName:
-	text "Energy Retrieval"
+	text "Energie Ophalen"
 	done
 
 EnergyRetrievalDescription:
-	text "Trade 1 of the other cards in your"
-	line "hand for up to 2 Basic Energy"
-	line "cards from your discard pile."
+	text "Ruil 1 van de andere kaarten in"
+	line "je hand met ten hoogste 2 Basis-"
+	line "Energiekaarten uit je Weggooistapel."
 	done
 
 SuperEnergyRetrievalName:
-	text "Super Energy Retrieval"
+	text "Super Energie Ophalen"
 	done
 
 SuperEnergyRetrievalDescription:
-	text "Trade 2 of the other cards in your"
-	line "hand for up to 4 Basic Energy"
-	line "cards from your discard pile."
+	text "Ruil 2 van de andere kaarten in"
+	line "je hand met ten hoogste 4 Basis-"
+	line "Energiekaarten uit je Weggooistapel."
 	done
 
 EnergySearchName:
-	text "Energy Search"
+	text "Zoeken naar Energie"
 	done
 
 EnergySearchDescription:
-	text "Search your deck for a Basic Energy"
-	line "card, show it to your opponent,"
-	line "and put it into your hand."
-	line "Shuffle your deck afterward."
+	text "Zoek in je Deck naar een Basis-"
+	line "Energiekaart en neem hem in je hand."
+	line "Schud hierna je Deck."
 	done
 
 EnergyRemovalName:
-	text "Energy Removal"
+	text "Energie Verwijderen"
 	done
 
 EnergyRemovalDescription:
-	text "Choose 1 Energy card attached"
-	line "to 1 of your opponent's Pokémon"
-	line "and discard it."
+	text "Kies 1 Energiekaart die aan 1 van je"
+	line "tegenstander's Pokémon gehecht is en"
+	line "gooi deze weg."
 	done
 
 SuperEnergyRemovalName:
-	text "Super Energy Removal"
+	text "Super Energie Verwijderen"
 	done
 
 SuperEnergyRemovalDescription:
-	text "Discard 1 Energy card attached"
-	line "to 1 of your own Pokémon in"
-	line "order to choose 1 of your"
-	line "opponent's Pokémon and up to"
-	line "2 Energy cards attached to it."
-	line "Discard those Energy cards."
+	text "Gooi 1 Energiekaart die aan 1 van je"
+	line "Pokémon is gehecht weg om 1 van je"
+	line "tegenstander's Pokémon te kunnen"
+	line "kiezen en 2 daaraan gehechte"
+	line "Energiekaarten. Gooi die Energie-"
+	line "kaarten weg."
 	done
 
 SwitchName:
@@ -106,15 +274,14 @@ SwitchDescription:
 	done
 
 PokemonCenterName:
-	text "Pokémon Center"
+	text "Pokémon-Centrum"
 	done
 
 PokemonCenterDescription:
-	text "   Remove all damage counters from"
-	line "   all of your own Pokémon with"
-	line "   any damage counters on them,"
-	line "   then discard all Energy cards"
-	line "   attached to those Pokémon."
+	text "Verwijder alle Schadetellers van je"
+	line "eigen Pokémon met Schadetellers"
+	line "erop; gooi vervolgens alle aan die"
+	line "Pokémon gehechte Energiekaarten weg."
 	done
 
 PokeBallName:
@@ -215,22 +382,23 @@ GustOfWindDescription:
 	done
 
 DevolutionSprayName:
-	text "Devolution Spray"
+	text "Devolutie-Spray"
 	done
 
 DevolutionSprayDescription:
-	text " Choose 1 of your in-play Pokémon"
-	line " and a Stage of Evolution. Discard"
-	line " all Evolution cards of that Stage"
-	line " or higher attached to that Pokémon."
+	text "Kies 1 van je Pokémon in het spel en"
+	line "een Evolutiefase. Gooi alle aan deze"
+	line "Pokémon gehechte Evolutiekaarten van"
+	line "de gekozen Fase en hoger weg."
 	done
 
 DevolutionSprayDescriptionCont:
-	text " That Pokémon is no longer Asleep,"
-	line " Confused, Paralyzed, Poisoned, or"
-	line " anything else that might be the"
-	line " result of an attack (just as if"
-	line " you had evolved it)."
+	text "Deze Pokémon is niet langer In"
+	line "Slaap, Verward, Verlamd, of Vergif-"
+	line "tigd, of iets anders wat het gevolg"
+	line "van een Aanval zou kunnen zijn"
+	line "(precies zoals wanneer je hem zou"
+	line "hebben Geëvolueerd)."
 	done
 
 PotionName:
@@ -246,16 +414,14 @@ PotionDescription:
 	done
 
 SuperPotionName:
-	text "Super Potion"
+	text "Super-Drankje"
 	done
 
 SuperPotionDescription:
-	text " Discard 1 Energy card attached to"
-	line " 1 of your own Pokémon in order to"
-	line " remove 4 damage counters from that"
-	line " Pokémon. If the Pokémon has fewer"
-	line " damage counters than that, remove"
-	line " all of them."
+	text "Gooi 1 Energiekaart weg die gehecht"
+	line "is aan 1 van je Pokémon om ten hoog-"
+	line "ste 4 Schadetellers van die Pokémon"
+	line "te kunnen verwijderen."
 	done
 
 FullHealName:
@@ -283,120 +449,115 @@ ReviveDescription:
 	done
 
 MaintenanceName:
-	text "Maintenance"
+	text "Onderhoud"
 	done
 
 MaintenanceDescription:
-	text " Shuffle 2 of the other cards from"
-	line ""
-	line " your hand into your deck in order"
-	line ""
-	line " to draw a card."
+	text "Schud 2 van de andere kaarten uit je"
+	line "hand door je Deck heen om een kaart"
+	line "te mogen pakken."
 	done
 
 PokemonFluteName:
-	text "Pokémon Flute"
+	text "Pokémon-Fluit"
 	done
 
 PokemonFluteDescription:
-	text " Choose 1 Basic Pokémon card"
-	line " from your opponent's discard pile"
-	line " and put it onto his or her Bench."
-	line " (You can't play Pokémon Flute"
-	line " if your opponent's Bench is full.)"
+	text "Kies 1 Basis-Pokémonkaart uit je"
+	line "tegenstander's Weggooistapel en leg"
+	line "deze op zijn of haar Bank. (Je kunt"
+	line "Pokémon-Fluit niet spelen als je"
+	line "tegenstander's Bank vol is.)"
 	done
 
 GamblerName:
-	text "Gambler"
+	text "Gokker"
 	done
 
 GamblerDescription:
-	text "  Shuffle your hand into your deck."
-	line ""
-	line "  Flip a coin. If heads, draw 8"
-	line ""
-	line "  cards. If tails, draw 1 card."
+	text "Schud je hand door je Deck heen."
+	line "Gooi hierna een munt op. Als het kop"
+	line "is, pak dan 8 kaarten; als het munt"
+	line "is, pak dan 1 kaart."
 	done
 
 RecycleName:
-	text "Recycle"
+	text "Kringloop"
 	done
 
 RecycleDescription:
-	text " Flip a coin. If heads, put a card"
-	line ""
-	line " in your discard pile on top of"
-	line ""
-	line " your deck."
+	text "Gooi een munt op. Als het kop is,"
+	line "leg dan een kaart uit je Weggooi-"
+	line "stapel bovenop je Deck."
 	done
 
 AreYouBoyOrGirlText:
-	text "     Are you a boy or a girl?"
+	text "    Ben je een jongen of een meisje?"
 	done
 
 BoyText:
-	text "Boy"
+	text "Jongen"
 	done
 
 GirlText:
-	text "Girl"
+	text "Meisje"
 	done
 
 NewIntroText1:
-	text "Oh! Why the rush, <RAMNAME>?"
-	line "What? "
-	line "So you're interested in playing"
-	line "the Pokémon Trading Card Game?"
-	line "Well, playing is certainly more fun"
-	line "than simply collecting the cards!"
+	text "Oh! Waarom zo'n haast, <RAMNAME>?"
+	line "Wat?"
+	line "Je zou graag het Pokémon"
+	line "Ruilkaartspel willen spelen?"
+	line "Nou, spelen is natuurlijk veel"
+	line "leuker dan alleen de kaarten"
+	line "verzamelen!"
 	done
 
 NewIntroText2:
-	text "Do you want to try a practice game?"
+	text "Heb je zin in een oefenduel?"
 	line ""
 	done
 
 NewIntroText3:
-	text "Well, if you change your mind,"
-	line "Sam would be happy to help you."
-	line "He can answer a lot of questions"
-	line "that you might have about the game,"
-	line "and he's always up for a match"
-	line "using the practice decks."
-	line "Sam can usually be found near "
-	line "the card table to your left."
+	text "Wel, als je van gedachten verandert,"
+	line "zal Sam je graag helpen. Hij kan"
+	line "veel vragen over het spel beant-"
+	line "woorden en is altijd bereid om een"
+	line "potje te spelen met de oefendecks."
+	line "Sam is meestal te vinden bij de"
+	line "kaarttafel links van je."
 	done
 
 ChooseBasicPokemonText:
-	text "Choose a"
-	line "Basic Pokémon."
+	text "Kies een"
+	line "Basis-Pokémon."
 	done
 
 ChooseBasicPokemonFromDeckText:
-	text "Choose a Basic Pokémon from"
-	line "your deck."
+	text "Kies een Basis-Pokémon uit"
+	line "je Deck."
 	done
 
 ChooseEvolutionCardText:
-	text "Choose an"
-	line "Evolution card."
+	text "Kies een"
+	line "Evolutiekaart."
 	done
 
 ChooseEvolutionCardFromDeckText:
-	text "Choose an Evolution card from"
-	line "your deck."
+	text "Kies een Evolutiekaart uit"
+	line "je Deck."
 	done
 
 ChooseTrainerCardText:
-	text "Choose a"
-	line "Trainer card."
+	text "Kies een"
+	line "Trainerkaart."
 	done
 
 ChooseTrainerCardFromDeckText:
-	text "Choose a Trainer card from"
-	line "your deck."
+	text "Kies een Trainerkaart uit"
+	line "je Deck."
 	done
 
 Draw2CardsText:
-	text "Draw 2 cards."
+	text "Pak 2 kaarten."
 	done

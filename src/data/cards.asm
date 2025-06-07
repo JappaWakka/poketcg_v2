@@ -9726,7 +9726,7 @@ ImakuniCard:
 	db IMAKUNI_CARD
 	dw ImakuniEffectCommands ; effect commands
 	tx ImakuniDescription ; description
-	dw NONE ; description (cont)
+	tx ImakuniDescriptionCont ; description (cont)
 
 PokemonTraderCard:
 	db TYPE_TRAINER ; type

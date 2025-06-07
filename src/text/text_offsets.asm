@@ -3026,4 +3026,5 @@ TextOffsets::
 	textpointer ClefairysMetronomeDescriptionCont                  ; Dutch description was too long
 	textpointer ClefablesMetronomeDescriptionCont                  ; Dutch description was too long
 	textpointer PounceDescriptionCont                              ; Dutch description was too long
+	textpointer ImakuniDescriptionCont                             ; Dutch description was too long
 	

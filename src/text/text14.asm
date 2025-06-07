@@ -828,7 +828,7 @@ FirstAidName:
 	done
 
 FirstAidDescription:
-	text "Verwijder 1 schadeteller van"
+	text "Verwijder 1 Schadeteller van"
 	line "Jigglypuff."
 	done
 
@@ -1037,13 +1037,14 @@ FuryAttackName:
 	done
 
 TwinBirdName:
-	text "Twin Bird"
+	text "Tweelingvogel-"
 	done
 
 DoduoDescription:
-	text "A bird that makes up for its poor"
-	line "flying with its fast foot speed."
-	line "Leaves giant footprints."
+	text "Een vogel die het feit dat hij"
+	line "slecht vliegt goedmaakt door enorm"
+	line "snel te lopen. Laat gigantische"
+	line "voetafdrukken na."
 	done
 
 DodrioName:
@@ -1051,28 +1052,30 @@ DodrioName:
 	done
 
 RetreatAidName:
-	text "Retreat Aid"
+	text "Terugtrekhulp"
 	done
 
 RetreatAidDescription:
-	text "As long as Dodrio is Benched,"
-	line "pay <COLORLESS> less to retreat your"
-	line "Active Pokémon."
+	text "Betaal <COLORLESS> minder om je"
+	line "Actieve Pokémon Terug te Trekken"
+	line "zolang Dodrio op de Bank zit."
 	done
 
 DodriosRageDescription:
-	text "Does 10 damage plus 10 more damage"
-	line "for each damage counter on Dodrio."
+	text "Doet 10 schade plus nog eens 10"
+	line "schade voor elke Schadeteller op"
+	line "Dodrio."
 	done
 
 TriplebirdName:
-	text "Triplebird"
+	text "Drielingvogel-"
 	done
 
 DodrioDescription:
-	text "Uses its three brains to execute"
-	line "complex plans. While two heads"
-	line "sleep, one head stays awake."
+	text "Gebruikt zijn drie breinen om com-"
+	line "plexe plannen uit te voeren. Terwijl"
+	line "twee hoofden slapen blijft één hoofd"
+	line "wakker."
 	done
 
 LickitungName:
@@ -1080,17 +1083,18 @@ LickitungName:
 	done
 
 TongueWrapName:
-	text "Tongue Wrap"
+	text "Tongwikkel"
 	done
 
 LickingName:
-	text "Licking"
+	text "Likkende"
 	done
 
 LickitungDescription:
-	text "Its tongue can be extended like a"
-	line "chameleon's. It leaves a stinging"
-	line "sensation when it licks enemies."
+	text "Zijn tong kan worden uitgestoken"
+	line "zoals die van een kameleon. Hij"
+	line "laat een stekend gevoel achter"
+	line "wanneer hij vijanden likt."
 	done
 
 ChanseyName:
@@ -1098,24 +1102,28 @@ ChanseyName:
 	done
 
 ScrunchName:
-	text "Scrunch"
+	text "Kraken"
 	done
 
 ScrunchDescription:
-	text "Flip a coin. If heads, prevent all"
-	line "damage done to Chansey during your"
-	line "opponent's next turn. (Any other"
-	line "effects of attacks still happen.)"
+	text "Gooi een munt op. Als het kop is,"
+	line "voorkomt deze Aanval alle schade die"
+	line "aan Chansey wordt gedaan tijdens je"
+	line "tegenstander's volgende beurt. (Alle"
+	line "andere gevolgen van Aanvallen blij-"
+	line "ven gewoon geldig.)"
 	done
 
 ChanseysDoubleEdgeDescription:
-	text "Chansey does 80 damage to itself."
+	text "Chansey doet 80 schade aan zichzelf."
 	done
 
 ChanseyDescription:
-	text "A rare and elusive Pokémon that is"
-	line "said to bring happiness to those"
-	line "who manage to catch it."
+	text "Een zeldzame en praktisch ongrijp-"
+	line "bare Pokémon waarvan wordt beweerd"
+	line "dat hij geluk brengt aan degenen"
+	line "die erin slagen hem te pakken te"
+	line "krijgen."
 	done
 
 KangaskhanName:
@@ -1149,24 +1157,26 @@ TaurosName:
 	done
 
 RampageName:
-	text "Rampage"
+	text "Dolheid"
 	done
 
 RampageDescription:
-	text "Does 20 damage plus 10 more damage"
-	line "for each damage counter on Tauros."
-	line "Flip a coin. If tails, Tauros is"
-	line "now Confused (after doing damage)."
+	text "Deze Aanval doet 20 schade plus nog"
+	line "eens 10 schade voor elke Schadetel-"
+	line "ler op Tauros. Gooi een munt op."
+	line "Als het munt is, is Tauros nu"
+	line "Verward (nadat de schade is gedaan)."
 	done
 
 WildBullName:
-	text "Wild Bull"
+	text "Wilde Stier-"
 	done
 
 TaurosDescription:
-	text "When it targets an enemy, it charges"
-	line "furiously while whipping its body"
-	line "with its long tails."
+	text "Als hij een vijand op het oog heeft,"
+	line "valt hij heftig aan terwijl hij zijn"
+	line "lichaam opzweept met zijn lange"
+	line "staarten."
 	done
 
 DittoName:
@@ -1174,33 +1184,36 @@ DittoName:
 	done
 
 MorphName:
-	text "Morph"
+	text "Metamorfose"
 	done
 
 MorphDescription:
-	text "Remove all damage counters from"
-	line "Ditto. For the rest of the game,"
-	line "replace Ditto with a copy of a Basic"
-	line "Pokémon card (other than Ditto)"
-	line "chosen at random from your deck."
+	text "Verwijder alle Schadetellers van"
+	line "Ditto. Vervang Ditto voor de rest"
+	line "van het spel met een kopie van een"
+	line "op willekeurige wijze gekozen"
+	line "Basis-Pokémon uit je Deck"
+	line "(anders dan Ditto)."
 	done
 
 MorphDescriptionCont:
-	text "Ditto is no longer Asleep, Confused,"
-	line "Paralyzed, Poisoned, or anything"
-	line "else that might be the result of an"
-	line "attack (just as if you had evolved"
-	line "it)."
+	text "Ditto is niet langer In Slaap,"
+	line "Verward, Verlamd, Vergiftigd, of"
+	line "iets anders wat het gevolg van een"
+	line "aanval zou kunnen zijn (precies"
+	line "zoals wanneer je hem zou hebben"
+	line "Geëvolueerd)."
 	done
 
 TransformName:
-	text "Transform"
+	text "Transformatie-"
 	done
 
 DittoDescription:
-	text "When it spots an enemy, its body"
-	line "transfigures into an almost perfect"
-	line "copy of its opponent."
+	text "Als hij een vijand in het oog heeft,"
+	line "transformeert zijn lichaam in een"
+	line "bijna perfecte kopie van zijn tegen-"
+	line "stander."
 	done
 	
 TailWagName:
@@ -1210,10 +1223,10 @@ TailWagName:
 TailWagDescription:
 	text "Gooi een munt op. Als het kop is,"
 	line "kan de Verdedigende Pokémon Eevee"
-	line "niet Aanvallen tijdens je"
-	line "tegenstander's volgende beurt. (Het"
-	line "op de Bank plaatsen of evolueren"
-	line "van een van beide Pokémon beëindigt"
+	line "niet Aanvallen tijdens je tegen-"
+	line "stander's volgende beurt. (Het op"
+	line "de Bank plaatsen of evolueren van"
+	line "een van beide Pokémon beëindigt"
 	line "dit effect.)"
 	done
 
@@ -1268,182 +1281,27 @@ SnorlaxName:
 	done
 
 ThickSkinnedName:
-	text "Thick Skinned"
+	text "Dikhuidig"
 	done
 
 ThickSkinnedDescription:
-	text "Snorlax can't become Asleep,"
-	line "Confused, Paralyzed, or Poisoned."
-	line "This power can't be used if Snorlax"
-	line "is already Asleep, Confused, or"
-	line "Paralyzed."
+	text "Snorlax kan niet In Slaap gebracht,"
+	line "Verward, Verlamd, of Vergiftigd"
+	line "worden. Deze kracht stopt met werken"
+	line "als Snorlax al In Slaap, Verward, of"
+	line "Verlamd is."
 	done
 
 BodySlamName:
-	text "Body Slam"
+	text "Lijfstraf"
 	done
 
 SleepingName:
-	text "Sleeping"
+	text "Slapende"
 	done
 
 SnorlaxDescription:
-	text "Very lazy. Just eats and sleeps."
-	line "As its rotund bulk builds,"
-	line "it becomes steadily more slothful."
-	done
-
-DratiniName:
-	text "Dratini"
-	done
-
-DratiniDescription:
-	text "Long considered a mythical Pokémon"
-	line "until recently, when a small colony"
-	line "was found living underwater."
-	done
-
-DragonairName:
-	text "Dragonair"
-	done
-
-SlamName:
-	text "Slam"
-	done
-
-DragonairDescription:
-	text "A mystical Pokémon that exudes a"
-	line "gentle aura. Has the ability to"
-	line "change climate conditions."
-	done
-
-DragoniteName:
-	text "Dragonite"
-	done
-
-HealingWindName:
-	text "Healing Wind"
-	done
-
-HealingWindDescription:
-	text "When you put Dragonite into play,"
-	line "remove 2 damage counters from each"
-	line "of your Pokémon. If a Pokémon has"
-	line "fewer damage counters than that,"
-	line "remove all of them from that"
-	line "Pokémon."
-	done
-
-DragoniteLv41Description:
-	text "It is said that this Pokémon lives"
-	line "somewhere in the sea and that it"
-	line "flies. However, it is only a rumor."
-	done
-
-StepInName:
-	text "Step In"
-	done
-
-StepInDescription:
-	text "Once during your turn (before your"
-	line "attack), if Dragonite is on your"
-	line "Bench, you may switch it with your"
-	line "Active Pokémon."
-	done
-
-DoubleAttackX40Description:
-	text "Flip 2 coins. This attack does"
-	line "40 damage times the number of heads."
-	done
-
-DragoniteDescription:
-	text "An extremely rarely seen marine"
-	line "Pokémon. Its intelligence is said"
-	line "to match that of humans."
-	done
-
-ProfessorOakName:
-	text "Professor Oak"
-	done
-
-ProfessorOakDescription:
-	text "Gooi je Hand weg en pak dan"
-	line "7 kaarten."
-	done
-
-ImposterProfessorOakName:
-	text "Professor Oak's Dubbelganger"
-	done
-
-ImposterProfessorOakDescription:
-	text "Je tegenstander schudt zijn of haar"
-	line "Hand door zijn of haar Deck en"
-	line "pakt vervolgens 7 kaarten."
-	done
-
-BillName:
-	text "Bill"
-	done
-
-BillDescription:
-	text "Pak 2 kaarten."
-	done
-
-MrFujiName:
-	text "Mr.Fuji"
-	done
-
-MrFujiDescription:
-	text "Choose a Pokémon on your Bench."
-	line "Shuffle it and any cards"
-	line "attached to it into your deck."
-	done
-
-LassName:
-	text "Lass"
-	done
-
-LassDescription:
-	text "You and your opponent show each"
-	line "other your hands, then shuffle all"
-	line "the Trainer cards from your hands"
-	line "into your decks."
-	done
-
-ImakuniName:
-	text "Imakuni?"
-	done
-
-ImakuniDescription:
-	text "Your Active Pokémon is now Confused."
-	line "Imakuni wants you to play him as a"
-	line "Basic Pokémon, but you can't."
-	line "A mysterious creature not listed in"
-	line "the Pokédex. He asks kids around the"
-	line "world,”Who is cuter-Pikachu or me?”"
-	done
-
-PokemonTraderName:
-	text "Pokémon Trader"
-	done
-
-PokemonTraderDescription:
-	text "Trade 1 of the Basic Pokémon or"
-	line "Evolution cards in your hand for"
-	line "1 of the Basic Pokémon or"
-	line "Evolution cards from your deck."
-	line "Show both cards to your opponent."
-	line "Shuffle your deck afterward."
-	done
-
-PokemonBreederName:
-	text "Pokémon Breeder"
-	done
-
-PokemonBreederDescription:
-	text "Put a Stage 2 Evolution card from"
-	line "your hand on the matching Basic"
-	line "Pokémon. You can only play this"
-	line "card when you would be allowed to"
-	line "evolve that Pokémon anyway."
+	text "Erg lui. Eet en slaapt alleen maar."
+	line "Naarmate zijn mollige massa groter"
+	line "wordt, wordt hij steeds luier."
 	done
