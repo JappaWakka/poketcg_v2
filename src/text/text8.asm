@@ -4,8 +4,8 @@ Text05eb:
 	line "Het is een spel waarin je zoveel"
 	line "van je tegenstander's Pokémon"
 	line "probeert Uit te schakelen als er"
-	line "Prijskaarten zijn. Dat is"
-	line "de kern van het spel..."
+	line "Prijskaarten zijn. Dat is de kern"
+	line "van het spel..."
 	done
 
 Text05ec:
@@ -30,9 +30,9 @@ Text05ef:
 	line "keer was gewoon om kennis te maken"
 	line "met het spel, dus je moest alles"
 	line "doen wat ik zei, maar er zijn"
-	line "ook andere speelstijlen,"
-	line "dus probeer ze uit door"
-	line "Normaal Duel te selecteren."
+	line "ook andere speelstijlen, dus"
+	line "probeer ze uit door"
+	line "”Normaal” Duel te selecteren."
 	done
 
 Text05f0:
@@ -41,7 +41,7 @@ Text05f0:
 	done
 
 Text05f1:
-	text "<RAMNAME> gaf zijn kaarten aan"
+	text "<RAMNAME> gaf de kaarten aan"
 	line "Dr. Mason."
 	done
 

@@ -1487,17 +1487,17 @@ DebugPauseMenuOptionsText:
 	done
 
 PlayerStatusNameText:
-	text "Naam <RAMNAME>"
+	text "Naam: <RAMNAME>"
 	done
 
 PlayerStatusAlbumText:
-	text "Kaarten         "
+	text "Kaarten:        "
 	half2full
 	textfw "/"
 	done
 
 PlayerStatusPlayTimeText:
-	text "Speeltijd         "
+	text "Speeltijd:        "
 	half2full
 	textfw "꞉"
 	done

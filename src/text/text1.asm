@@ -426,7 +426,7 @@ AttachedEnergyToPokemonText:
 	done
 
 PokemonEvolvedIntoPokemonText:
-	text "<RAMTEXT> is geëvolueerd"
+	text "<RAMTEXT> is Geëvolueerd"
 	line "in <RAMTEXT>."
 	done
 
@@ -568,7 +568,7 @@ YesText:
 	done
 
 CardsText:
-	text "Over"
+	text " Over"
 	done
 
 TookAllThePrizesText:

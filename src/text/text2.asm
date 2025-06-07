@@ -899,10 +899,8 @@ DrMasonText:
 	done
 
 DrawSevenCardsPracticeDuelText:
-	text "Pak 7 kaarten,"
-	line "en sta klaar voor de strijd!"
-	line "Kies je Actieve Pokémon."
-	line ""
+	text "Pak 7 kaarten, en sta klaar voor"
+	line "de strijd! Kies je Actieve Pokémon."
 	line "Je kunt alleen Basis-Pokémon"
 	line "kiezen als je Actieve Pokémon,"
 	line "dus je kan kiezen tussen"
@@ -912,17 +910,15 @@ DrawSevenCardsPracticeDuelText:
 	done
 
 ChooseGoldeenPracticeDuelText:
-	text "Kies Goldeen voor dit"
-	line "oefenduel, oké?"
+	text "Kies Goldeen voor dit oefenduel,"
+	line "oké?"
 	done
 
 PutPokemonOnBenchPracticeDuelText:
-	text "Vervolgens plaats je je"
-	line "Pokémon op de Bank."
-	line "Je kan Pokémon op de Bank"
-	line "wisselen met je Actieve"
+	text "Vervolgens plaats je je Pokémon"
+	line "op de Bank. Je kan Pokémon op"
+	line "de Bank wisselen met je Actieve"
 	line "Pokémon."
-	line ""
 	line "Nogmaals, je kunt alleen Basis-"
 	line "Pokémon op de Bank plaatsen."
 	line "Kies Staryu uit je Hand en"
@@ -930,8 +926,8 @@ PutPokemonOnBenchPracticeDuelText:
 	done
 
 ChooseStaryuPracticeDuelText:
-	text "Kies Staryu voor dit"
-	line "oefenduel, oké?"
+	text "Kies Staryu voor dit oefenduel,"
+	line "oké?"
 	done
 
 PressBToFinishPracticeDuelText:
@@ -978,7 +974,7 @@ Turn3Instr1PracticeDuelText:
 
 Turn3Instr2PracticeDuelText:
 	text "2. Kies ”Val Aan” in het Menu en"
-	line "   en val je tegenstander aan"
+	line "   en Val je tegenstander Aan"
 	line "   met Hoornaanval."
 	done
 
@@ -996,8 +992,8 @@ Turn4Instr2PracticeDuelText:
 	done
 
 Turn4Instr3PracticeDuelText:
-	text "3. Selecteer Seaking en val je"
-	line "   tegenstander aan met Waterval."
+	text "3. Selecteer Seaking en Val je"
+	line "   tegenstander Aan met Waterval."
 	done
 
 Turn5Instr1PracticeDuelText:
@@ -1007,8 +1003,8 @@ Turn5Instr1PracticeDuelText:
 	done
 
 Turn5Instr2PracticeDuelText:
-	text "2. Selecteer Staryu en val je"
-	line "   tegenstander aan met Klap."
+	text "2. Selecteer Staryu en Val je"
+	line "   tegenstander Aan met Klap."
 	done
 
 Turn6Instr1PracticeDuelText:
@@ -1023,8 +1019,8 @@ Turn6Instr2PracticeDuelText:
 	done
 
 Turn6Instr3PracticeDuelText:
-	text "3. Selecteer Staryu en val je"
-	line "   tegenstander aan met Klap."
+	text "3. Selecteer Staryu en Val je"
+	line "   tegenstander Aan met Klap."
 	done
 
 Turn7Instr1PracticeDuelText:
@@ -1034,13 +1030,13 @@ Turn7Instr1PracticeDuelText:
 
 Turn7Instr2PracticeDuelText:
 	text "2. Selecteer de Geëvolueerde Starmie"
-	line "   en val je tegenstander aan met"
+	line "   en Val je tegenstander Aan met"
 	line "   Sterbevriezing."
 	done
 
 Turn8Instr1PracticeDuelText:
-	text "1. Selecteer Starmie en val je"
-	line "   tegenstander aan met"
+	text "1. Selecteer Starmie en Val je"
+	line "   tegenstander Aan met"
 	line "   Sterbevriezing."
 	line "   "
 	done
@@ -1066,7 +1062,6 @@ Turn1DrMason1PracticeDuelText:
 	text "Om het ”Val Aan”-commando te"
 	line "gebruiken, moet je Energiekaarten"
 	line "hechten aan je Pokémon."
-	line ""
 	line "Kies ”Hand” in het Menu, en"
 	line "selecteer een Water Energiekaart."
 	done
@@ -1074,25 +1069,20 @@ Turn1DrMason1PracticeDuelText:
 Turn1DrMason2PracticeDuelText:
 	text "Vervolgens kies je je Actieve"
 	line "Pokémon, Goldeen, en druk je op"
-	line "de A-knop."
-	line ""
-	line "Dan is de Water Energiekaart"
-	line "gehecht aan Goldeen."
+	line "de A-knop. Dan is de Water Energie-"
+	line "kaart gehecht aan Goldeen."
 	done
 
 Turn1DrMason3PracticeDuelText:
-	text "Tot slot val je je tegenstander"
-	line "aan door het commando ”Val Aan”"
-	line "te selecteren."
-	line ""
-	line "Kies ”Val Aan” in het Menu, en"
-	line "selecteer Hoornaanval."
+	text "Tot slot Val je je tegenstander Aan"
+	line "door het commando ”Val Aan” te"
+	line "selecteren. Kies ”Val Aan” in het"
+	line "Menu, en selecteer Hoornaanval."
 	done
 
 Turn2DrMason1PracticeDuelText:
-	text "Je Goldeen wordt straks"
-	line "Uitgeschakeld, dus laten we"
-	line "hem Evolueren!"
+	text "Je Goldeen wordt straks Uitgescha-"
+	line "keld, dus laten we hem Evolueren!"
 	line "Kies Seaking uit je Hand en hecht"
 	line "hem aan Goldeen om hem te Evolueren."
 	line "Zijn IP neemt dan toe"
@@ -1103,9 +1093,8 @@ Turn2DrMason2PracticeDuelText:
 	text "Je Seaking heeft niet genoeg Energie"
 	line "om Waterval te gebruiken."
 	line "Je moet een Psychische Energiekaart"
-	line "aan Seaking hechten."
-	line "<COLORLESS> betekent welke Energiekaart"
-	line "dan ook."
+	line "aan Seaking hechten. <COLORLESS> betekent"
+	line "welke Energiekaart dan ook."
 	line "Nu kun je Waterval gebruiken."
 	line "Bewaar de Water Energiekaart"
 	line "voor andere Pokémon."
@@ -1129,7 +1118,7 @@ Turn3DrMason1PracticeDuelText:
 
 Turn3DrMason2PracticeDuelText:
 	text "Vervolgens kies je het commando"
-	line "Val Aan."
+	line "”Val Aan”."
 	line "Machop heeft nog maar 10 IP over."
 	line "Seaking's Hoornaanval is genoeg"
 	line "om Machop Uit te Schakelen."
@@ -1138,10 +1127,9 @@ Turn3DrMason2PracticeDuelText:
 
 Turn3DrMason3PracticeDuelText:
 	text "Nu is Machop's IP 0 en is hij"
-	line "Uitgeschakeld."
-	line "Als je de Verdedigende Pokémon"
-	line "Uitschakelt, mag je een"
-	line "Prijskaart pakken."
+	line "Uitgeschakeld. Als je de Verdedi-"
+	line "gende Pokémon Uitschakelt,"
+	line "mag je een Prijskaart pakken."
 	done
 
 Turn4DrMason1PracticeDuelText:
@@ -1160,18 +1148,15 @@ Turn4DrMason2PracticeDuelText:
 	done
 
 Turn4DrMason3PracticeDuelText:
-	text "Kies je Actieve Seaking en"
-	line "val je tegenstander aan met"
-	line "Waterval."
+	text "Kies je Actieve Seaking en Val je"
+	line "tegenstander Aan met Waterval."
 	done
 
 Turn5DrMason1PracticeDuelText:
 	text "Staryu evolueert in Starmie!"
-	line ""
 	line "Laten we Staryu klaar maken om"
 	line "Starmie's Aanval te gebruiken"
 	line "als hij in Starmie evolueert."
-	line ""
 	line "Kies de Water Energiekaart uit"
 	line "je Hand en hecht hem aan Staryu."
 	done
@@ -1189,22 +1174,21 @@ Turn6DrMason1PracticeDuelText:
 
 Turn6DrMason2PracticeDuelText:
 	text "Laten we hem dan klaar maken om"
-	line "hem te evolueren naar Starmie."
+	line "hem te Evolueren naar Starmie."
 	line "Hecht ook een Water Energiekaart"
 	line "aan Staryu."
 	done
 
 Turn6DrMason3PracticeDuelText:
-	text "Val je tegenstander aan met"
-	line "Staryu's Klap om je beurt te"
-	line "beëindigen."
+	text "Val je tegenstander aan met Staryu's"
+	line "Klap om je beurt te beëindigen."
 	done
 
 Turn7DrMason1PracticeDuelText:
-	text "Je hebt eindelijk een Starmie"
+	text "Je hebt eindelijk een Starmie-"
 	line "kaart gepakt!"
 	line "Kies Starmie uit je Hand en"
-	line "gebruik hem om Staryu te evolueren."
+	line "gebruik hem om Staryu te Evolueren."
 	done
 
 Turn7DrMason2PracticeDuelText:
@@ -1231,7 +1215,7 @@ Turn8DrMason2PracticeDuelText:
 
 SamTurn4DrMason1PracticeDuelText:
 	text "Kies een Pokémon op de bank om je"
-	line "uitgeschakelde Pokémon te vervangen."
+	line "Uitgeschakelde Pokémon te vervangen."
 	line "Je hebt Drowzee en Staryu"
 	line "op je Bank."
 	line "Kies Staryu als de Actieve Pokémon"
@@ -1239,8 +1223,8 @@ SamTurn4DrMason1PracticeDuelText:
 	done
 
 SamTurn4DrMason2PracticeDuelText:
-	text "Druk hier op SELECT om de"
-	line "gegevens van de Pokémon te bekijken."
+	text "Druk hier op SELECT om de gegevens"
+	line "van de Pokémon te bekijken."
 	line "Het is belangrijk om je kaarten te"
 	line "kennen en te weten hoe je Pokémon"
 	line "eraan toe is."
@@ -1260,9 +1244,8 @@ NeedPracticeAgainPracticeDuelText:
 	done
 
 FollowMyGuidancePracticeDuelText:
-	text "Dit is de Oefenmodus, dus"
-	line "volg mijn instructies op."
-	line "Doe het opnieuw."
+	text "Dit is de Oefenmodus, dus volg mijn"
+	line "instructies op. Doe het opnieuw."
 	done
 
 PlayersTurnPracticeDuelText:
