@@ -900,9 +900,9 @@ DrMasonText:
 
 DrawSevenCardsPracticeDuelText:
 	text "Pak 7 kaarten,"
-	line ""
 	line "en sta klaar voor de strijd!"
 	line "Kies je Actieve Pokémon."
+	line ""
 	line "Je kunt alleen Basis-Pokémon"
 	line "kiezen als je Actieve Pokémon,"
 	line "dus je kan kiezen tussen"
@@ -922,6 +922,7 @@ PutPokemonOnBenchPracticeDuelText:
 	line "Je kan Pokémon op de Bank"
 	line "wisselen met je Actieve"
 	line "Pokémon."
+	line ""
 	line "Nogmaals, je kunt alleen Basis-"
 	line "Pokémon op de Bank plaatsen."
 	line "Kies Staryu uit je Hand en"
@@ -940,7 +941,7 @@ PressBToFinishPracticeDuelText:
 	done
 
 Turn1Instr1PracticeDuelText:
-	text "1. Kies Hand in het Menu."
+	text "1. Kies ”Hand” in het Menu."
 	line "   Kies een Water Energiekaart."
 	done
 
@@ -950,7 +951,7 @@ Turn1Instr2PracticeDuelText:
 	done
 
 Turn1Instr3PracticeDuelText:
-	text "3. Kies Val Aan in het Menu"
+	text "3. Kies ”Val Aan” in het Menu"
 	line "   en dan Hoornaanval."
 	done
 
@@ -965,7 +966,7 @@ Turn2Instr2PracticeDuelText:
 	done
 
 Turn2Instr3PracticeDuelText:
-	text "3. Kies Val Aan in het Menu"
+	text "3. Kies ”Val Aan” in het Menu"
 	line "   en dan Waterval om je"
 	line "   tegenstander Aan te Vallen."
 	done
@@ -976,7 +977,7 @@ Turn3Instr1PracticeDuelText:
 	done
 
 Turn3Instr2PracticeDuelText:
-	text "2. Kies Val Aan in het Menu en"
+	text "2. Kies ”Val Aan” in het Menu en"
 	line "   en val je tegenstander aan"
 	line "   met Hoornaanval."
 	done
@@ -1062,28 +1063,29 @@ SamTurn4Instr2PracticeDuelText:
 	done
 
 Turn1DrMason1PracticeDuelText:
-	text "Om het Val Aan-commando te"
+	text "Om het ”Val Aan”-commando te"
 	line "gebruiken, moet je Energiekaarten"
 	line "hechten aan je Pokémon."
 	line ""
-	line "Kies Hand in het Menu, en"
+	line "Kies ”Hand” in het Menu, en"
 	line "selecteer een Water Energiekaart."
 	done
 
 Turn1DrMason2PracticeDuelText:
 	text "Vervolgens kies je je Actieve"
 	line "Pokémon, Goldeen, en druk je op"
-	line "de A-knop. Dan is de Water"
-	line "Energiekaart gehecht"
-	line "aan Goldeen."
+	line "de A-knop."
+	line ""
+	line "Dan is de Water Energiekaart"
+	line "gehecht aan Goldeen."
 	done
 
 Turn1DrMason3PracticeDuelText:
 	text "Tot slot val je je tegenstander"
-	line "aan door het commando Val Aan"
+	line "aan door het commando ”Val Aan”"
 	line "te selecteren."
 	line ""
-	line "Kies Val Aan in het Menu, en"
+	line "Kies ”Val Aan” in het Menu, en"
 	line "selecteer Hoornaanval."
 	done
 
@@ -1601,7 +1603,7 @@ LowercaseKeyboardText:
 	linefw "( ) < > = + - • /"
 	linefw "' ” , .   ! ? ꞉ &"
 	text ""
-	line " Hoofdl.     Klaar     Accenten "
+	line " Hoofdl.       Klaar     Accenten "
 	done
 
 AccentsKeyboardText:

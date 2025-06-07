@@ -34,7 +34,7 @@ JoshuaWantsToDuelRepeatText:
 	done
 
 JoshuaWouldYouLikeToDuelText:
-	text "Would you like to duel Joshua?"
+	text "Wil je Dueleren met Joshua?"
 	done
 
 JoshuaDeclinedDuelInitialText:
@@ -133,7 +133,7 @@ AmyWantsToDuelInitialText:
 	done
 
 AmyWouldYouLikeToDuelText:
-	text "Would you like to duel Amy?"
+	text "Wil je Dueleren met Amy?"
 	done
 
 AmyDeclinedDuelInitialText:
@@ -310,7 +310,7 @@ ImakuniWouldLikeToDuelRepeatText:
 	done
 
 ImakuniWouldYouLikeToDuelText:
-	text "Would you like to duel Imakuni??"
+	text "Wil je Dueleren met Imakuni??"
 	done
 
 ImakuniDeclinedDuelText:
@@ -442,7 +442,7 @@ MitchWouldLikeToDuelInitialText:
 	done
 
 MitchWouldYouLikeToDuelText:
-	text "Would you like to duel Mitch?"
+	text "Wil je Dueleren met Mitch?"
 	done
 
 MitchDeclinedInitialText:
@@ -530,7 +530,7 @@ ChrisFightingClubWantsToDuelRepeatText:
 	done
 
 ChrisWouldYouLikeToDuelText:
-	text "Would you like to duel Chris?"
+	text "Wil je Dueleren met Chris?"
 	done
 
 ChrisFightingClubDeclinedDuelText:
@@ -566,7 +566,7 @@ MichaelFightingClubWantsToDuelText:
 	done
 
 MichaelWouldYouLikeToDuelText:
-	text "Would you like to duel Michael?"
+	text "Wil je Dueleren met Michael?"
 	done
 
 MichaelFightingClubDeclinedDuelText:
@@ -601,7 +601,7 @@ JessicaFightingClubWantsToDuelText:
 	done
 
 JessicaWouldYouLikeToDuelText:
-	text "Would you like to duel Jessica?"
+	text "Wil je Dueleren met Jessica?"
 	done
 
 JessicaFightingClubDeclinedDuelText:
@@ -631,128 +631,138 @@ JessicaFightingClubPlayerLostText:
 	done
 
 WhatIsADeckBookName:
-	text "What is a deck?"
+	text "Wat is een Deck?"
 	done
 
 WhatIsADeckBookText:
-	text "A deck is the set of Pokémon cards"
-	line "used in duels."
-	line "A deck consists of 60 cards."
-	line "Only 4 of the same card are"
-	line "allowed in a deck. Create your"
-	line "own deck to play the game."
-	line "These are the basic rules of the"
-	line "Pokémon Trading Card Game."
+	text "Een Deck is de stapel Pokémonkaarten"
+	line "die gebruikt wordt bij Duellen."
+	line "Een Deck bestaat uit 60 kaarten."
+	line "Er mogen maar 4 kaarten met dezelfde"
+	line "naam in een Deck. Maak je eigen Deck"
+	line "om het spel te spelen."
+	line "Dit zijn de basisregels van het"
+	line "Pokémon Ruilkaartspel."
 	done
 
 CardsVol1BookName:
-	text "Cards, Vol. 1: Pokémon Cards"
+	text "Kaarten, Deel 1: Pokémonkaarten"
 	done
 
 CardsVol1BookText:
-	text "There are 2 types of Pokémon cards"
-	line "in the Pokémon Trading Card Game:"
-	line "Basic Pokémon and Evolution"
-	line "Pokémon. Only Basic Pokémon may be"
-	line "placed directly on the Bench."
-	line "There are 2 types of Evolution"
-	line "Pokémon cards: Stage 1 and"
-	line "Stage 2. Play Stage 1 Pokémon on"
-	line "top of Basic Pokémon, and Stage 2"
-	line "Pokémon on top of Stage 1 Pokémon."
+	text "Er zijn 2 soorten Pokémonkaarten"
+	line "in het Pokémon Ruilkaartspel:"
+	line "Basis-Pokémon en Evolutie-Pokémon"
+	line "Alleen Basis-Pokémon mogen meteen"
+	line "op de Bank geplaatst worden."
+	line "Er zijn 2 soorten Evolutie-"
+	line "Pokémon-kaarten: Fase 1 en"
+	line "Fase 2. Leg Fase-1-Pokémon"
+	line "bovenop Basis-Pokémon, en Fase-2-"
+	line "Pokémon bovenop Fase-1-Pokémon."
 	done
 
 CardsVol2BookName:
-	text "Cards, Vol. 2: Energy Cards"
+	text "Kaarten, Deel 2: Energiekaarten"
 	done
 
 CardsVol2BookText:
-	text "Attach Energy cards to your Pokémon"
-	line "to give them the energy they need to"
-	line "attack. Choose an Energy card from"
-	line "your hand and attach it to a"
-	line "Pokémon. You may attach only"
-	line "one Energy card per turn."
+	text "Hecht Energiekaarten aan je Pokémon"
+	line "om ze de kracht te geven die ze"
+	line "nodig hebben om Aan te Vallen. Kies"
+	line "een Energiekaart uit je Hand en"
+	line "hecht hem aan een Pokémon. je mag"
+	line "maar 1 Energiekaart per"
+	line "beurt hechten."
 	done
 
 CardsVol3BookName:
-	text "Cards, Vol. 3: Trainer Cards"
+	text "Kaarten, Deel 3: Trainerkaarten"
 	done
 
 CardsVol3BookText:
-	text "Trainer cards are one-shot cards"
-	line "that can be used once and are"
-	line "then discarded. You can play as"
-	line "many Trainer cards as you like"
-	line "during your turn."
+	text "Trainerkaarten zijn eenmalig"
+	line "te gebruiken kaarten die"
+	line "meteen in werking gaan en dan"
+	line "weg worden gegooid. Je kan zo veel"
+	line "Trainerkaarten spelen als je wilt"
+	line "tijdens je beurt."
 	done
 
 WinOrLossOfAMatchVol1BookName:
-	text "Win or Loss of a Match, Vol. 1"
+	text "Winnen en Verliezen, Deel 1"
 	done
 
 WinOrLossOfAMatchVol1BookText:
-	text "When a Pokémon loses all of its"
-	line "HP, that Pokémon is Knocked Out."
-	line "Place it and all cards attached"
-	line "to it in the discard pile."
-	line "Each time you Knock Out 1 of"
-	line "your opponent's Pokémon,"
-	line "you draw 1 of your Prize cards"
-	line "and place it into your hand."
-	line "When you've taken all of your"
-	line "Prizes, you win the game."
+	text "Als een Pokémon al zijn IP"
+	line "verliest, is de Pokémon"
+	line "Uitgeschakeld. Leg de Pokémon"
+	line "en alle eraan gehechte Energie-"
+	line "kaarten op de Weggooistapel."
+	line "Elke keer als je 1 van je"
+	line "tegenstander's Pokémon Uitschakelt,"
+	line "mag je 1 van je Prijskaarten pakken"
+	line "en hem in je Hand nemen."
+	line "Als je alle Prijskaarten hebt"
+	line "gepakt, win je het spel."
 	done
 
 WinOrLossOfAMatchVol2BookName:
-	text "Win or Loss of a Match, Vol. 2"
+	text "Winnen en Verliezen, Deel 2"
 	done
 
 WinOrLossOfAMatchVol2BookText:
-	text "You also win if your opponent's"
-	line "deck is out of cards at the start"
-	line "of your opponent's turn. Be"
-	line "careful not to run out of cards!"
+	text "Je kan ook winnen als er geen"
+	line "kaarten meer zitten in je"
+	line "tegenstander's Deck aan het"
+	line "begin van je tegenstander's"
+	line "beurt. Pas op dat je niet"
+	line "zonder kaarten komt te zitten!"
 	done
 
 WinOrLossOfAMatchVol3BookName:
-	text "Win or Loss of a Match, Vol. 3"
+	text "Winnen en Verliezen, Deel 3"
 	done
 
 WinOrLossOfAMatchVol3BookText:
-	text "You will also win if your opponent"
-	line "does not have any remaining"
-	line "Pokémon on the Bench after their"
-	line "Active Pokémon is Knocked Out."
-	line "Be sure to include enough Pokémon"
-	line "in your deck."
+	text "Je kan ook winnen als je"
+	line "tegenstander geen Pokémon meer"
+	line "over heeft op de Bank nadat"
+	line "je zijn of haar Actieve Pokémon"
+	line "hebt Uitgeschakeld. Zorg ervoor"
+	line "dat je genoeg Pokémon op je"
+	line "Bank hebt."
 	done
 
 CombosBookName:
-	text "Combos"
+	text "Combo's"
 	done
 
 CombosBookText:
-	text "You can create powerful combos by"
-	line "combining the abilities of 2 cards."
-	line "Pokémon Powers and Trainer cards"
-	line "are useful in creating combos!"
-	line "Find card combinations that will"
-	line "create your own powerful combos."
+	text "Je kan krachtige combo's maken"
+	line "door de vaardigheden van 2 kaarten"
+	line "te combineren. Pokémon-Krachten"
+	line "en Trainerkaarten kunnen handig"
+	line "zijn om zulke combo's te maken!"
+	line "Vind kaartencombinaties waarin"
+	line "de kaarten goed met elkaar"
+	line "kunnen samenwerken."
 	done
 
 EnergyTransBookName:
-	text "Energy Trans"
+	text "Energietransfer"
 	done
 
 EnergyTransBookText:
-	text "What if you place Exeggutor in the"
-	line "Arena, but you don't have any Energy"
-	line "cards? In this case, use Venusaur's"
-	line "Energy Trans to transfer Grass"
-	line "Energy and use Big Eggsplosion! If"
-	line "you attach 8 Energy cards, you can"
-	line "give your opponent up to 160 damage."
+	text "Wat als je Exeggutor in de Arena"
+	line "plaatst, maar je heb geen Energie-"
+	line "kaarten? In dat geval kun je"
+	line "Venusaur's Energietransfer Pokémon-"
+	line "Kracht gebruiken om Gras Energie"
+	line "over te zetten en Grote eisplosie te"
+	line "gebruiken! Als je 8 Energiekaarten"
+	line "eraan gehecht hebt, kan je tot 160"
+	line "schade doen aan je tegenstander."
 	done
 
 ToxicGasBookName:
@@ -823,7 +833,7 @@ HyperBeamBookText:
 	done
 
 PrehistoricPowerBookName:
-	text "Prehistoric Power"
+	text "Prehistorische kracht"
 	done
 
 PrehistoricPowerBookText:

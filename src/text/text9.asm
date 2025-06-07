@@ -1,5 +1,5 @@
 Text06a6:
-	text "Would you like to duel John?"
+	text "Wil je Dueleren met John?"
 	done
 
 Text06a7:
@@ -37,7 +37,7 @@ Text06ac:
 	done
 
 Text06ad:
-	text "Would you like to duel Adam?"
+	text "Wil je Dueleren met Adam?"
 	done
 
 Text06ae:
@@ -74,7 +74,7 @@ Text06b3:
 	done
 
 Text06b4:
-	text "Would you like to duel Jonathan?"
+	text "Wil je Dueleren met Jonathan?"
 	done
 
 Text06b5:
@@ -138,7 +138,7 @@ Text06bd:
 	done
 
 Text06be:
-	text "Would you like to duel Ken?"
+	text "Wil je Dueleren met Ken?"
 	done
 
 Text06bf:
@@ -197,7 +197,7 @@ Text06c7:
 Text06c8:
 	text "Greetings."
 	line "Welcome to the Battle Center!"
-	line "Would you like to duel a friend?"
+	line "Wil je Dueleren met a friend?"
 	done
 
 Text06c9:
@@ -367,7 +367,7 @@ Text06e1:
 	done
 
 Text06e2:
-	text "Would you like to duel Brittany?"
+	text "Wil je Dueleren met Brittany?"
 	done
 
 Text06e3:

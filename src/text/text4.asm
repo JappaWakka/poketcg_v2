@@ -771,7 +771,7 @@ Mail1Part1Text:
 	line "Krijg je het Pokémon Ruilkaartspel"
 	line "al een beetje onder de knie?"
 	line "Ik heb wat informatie voor je"
-	line "over Booster-pakjes: Als je"
+	line "over Booster-Pakjes: Als je"
 	line "dezelfde soorten kaarten wilt"
 	line "verzamelen, Dueleer dan vaak met"
 	line "dezelfde persoon om een specifiek"
@@ -800,14 +800,14 @@ Mail1Part2Text:
 	line "aan hechten, dus bekijk"
 	line "regelmatig je mail."
 	line "Mason Onderzoekslab"
-	line "      Doctor Mason  ;)"
+	line "      Dokter Mason  ;)"
 	done
 
 Mail2Part1Text:
 	text "<RAMNAME>,"
 	line "Ik ben het, Dokter Mason."
 	line "Ik heb wat informatie voor je over"
-	line "het deck van Mitch - hij is de"
+	line "het Deck van Mitch - hij is de"
 	line "Meester van de Vecht-Club. Zijn"
 	line "Eerste Klap Deck is gebouwd voor een"
 	line "snelle Aanval, maar het is zwak"
@@ -822,106 +822,112 @@ Mail2Part2Text:
 	text "<RAMNAME>, Ik weet dat je het kunt!"
 	line "Ga de Vecht-Medaille winnen!"
 	line "Mason Onderzoekslab"
-	line "      Doctor Mason ;)"
+	line "      Dokter Mason ;)"
 	done
 
 Mail3Part1Text:
 	text "<RAMNAME>,"
-	line "It's me, Doctor Mason."
-	line "I have some information about"
-	line "Gene's deck - he's the Master"
-	line "of the Rock Club."
-	line "His Rock Crusher Deck is extremely"
-	line "strong against Lightning Pokémon,"
-	line "but it's weak against Grass Pokémon!"
-	line "I suggest you study the decks from"
-	line "the Grass Medal's Deck Machine."
-	line "Oh! Before I forget..."
-	line "Here's a booster pack for you!"
+	line "Ik ben het, Dokter Mason."
+	line "Ik heb wat informatie voor je over"
+	line "het Deck van Gene - hij is de"
+	line "Meester van de Steen-Club."
+	line "Zijn Steenmaler-Deck is extreem"
+	line "sterk tegen Bliksem-Pokémon, maar"
+	line "het is zwak tegen Gras-Pokémon!"
+	line "Ik stel voor dat je de Decks uit"
+	line "de Deckmachine van de Gras-Medaille"
+	line "eens bestudeert."
+	line "Oh! Voordat ik het vergeet..."
+	line "Hier heb je nog een Booster-Pakje!"
 	done
 
 Mail3Part2Text:
-	text "<RAMNAME>! Go defeat Gene,"
-	line "the Master of the Rock Club!"
-	line "Mason Laboratory"
-	line "      Doctor Mason  ;)"
+	text "<RAMNAME>! Ga en versla Gene, de"
+	line "Meester van de Steen-Club!"
+	line "Mason Onderzoekslab"
+	line "      Dokter Mason  ;)"
 	done
 
 Mail4Part1Text:
 	text "<RAMNAME>,"
-	line "It's me, Doctor Mason."
-	line "I have some information for you"
-	line "about Amy's deck - she's the"
-	line "Master of the Water Club. Her deck"
-	line "uses Blastoise's Rain Dance power."
-	line "This allows her to keep attaching"
-	line "Energy to her Water Pokémon to"
-	line "power them up. Her deck's weakness"
-	line "is Lightning Pokémon!"
-	line "I suggest you duel her using a deck"
-	line "from the Lightning Medal's"
-	line "Deck Machine."
-	line "Here's a booster pack for you."
+	line "Ik ben het, Dokter Mason."
+	line "Ik heb wat informatie voor je over"
+	line "het Deck van Amy's -  zij is de"
+	line "Meester van de Water-Club. Haar"
+	line "Deck maakt gebruik van Blastoise's"
+	line "Regendans-kracht. Hierdoor kan ze"
+	line "Energie blijven toevoegen aan haar"
+	line "Water-Pokémon om ze sterker te"
+	line "maken. Maar haar Deck is zwak"
+	line "tegen Bliksem Pokémon!"
+	line "Ik stel voor dat je met haar"
+	line "Duelleert een Deck uit de Deck-"
+	line "machine van de Bliksem-Medaille."
+	line "Hier is een Booster-Pakje voor je."
 	done
 
 Mail4Part2Text:
 	text "<RAMNAME>!"
-	line "Keep at it, and don't give up!"
-	line "Mason Laboratory"
-	line "      Doctor Mason  ;)"
+	line "Hou vol, en geef niet op!"
+	line "Mason Onderzoekslab"
+	line "      Dokter Mason  ;)"
 	done
 
 Mail5Part1Text:
-	text "How's it going, <RAMNAME>?"
-	line "It's me, Doctor Mason."
-	line "I have some information for you"
-	line "about Isaac's deck - he's"
-	line "the Master of the Lightning Club."
-	line "His deck is a Selfdestruct deck!"
-	line "He uses Selfdestruct for maximum"
-	line "damage! Pay attention to the amount"
-	line "of Energy on his Pokémon, and"
-	line "watch out for Selfdestruct."
-	line "I would suggest using Fighting"
-	line "Pokémon such as Cubone and Rhyhorn"
-	line "to counter Isaac's deck."
-	line "The Cubone & Marowak deck from"
-	line "the Rock Medal's Deck Machine"
-	line "is probably your best bet."
-	line "I hope you find many Fighting"
-	line "Pokémon in this booster pack!"
+	text "Hoe gaat het, <RAMNAME>?"
+	line "Ik ben het, Dokter Mason."
+	line "Ik heb wat informatie voor je over"
+	line "het Deck van Isaac's - hij is de"
+	line "Meester van de Bliksem-Club."
+	line "Zijn Deck is een Zelfvernietiging-"
+	line "Deck! Hij gebruikt Zelfvernietiging"
+	line "Voor een maximale hoeveelheid"
+	line "schade! Let goed op de hoeveelheid"
+	line "aan zijn Pokémon gehechte Energie,"
+	line "en pas op voor Zelfvernietiging."
+	line "Ik zou voorstellen om Vecht-"
+	line "Pokémon zoals Cubone en Rhyhorn te"
+	line "gebruiken om tegen Isaac's Deck in"
+	line "te gaan. Het Cubone & Marowak-Deck"
+	line "uit de Deckmachine van de Steen-"
+	line "medaille is waarschijnlijk je"
+	line "beste kans."
+	line "Ik hoop dat je veel Vecht-Pokémon"
+	line "vindt in dit Booster-Pakje!"
 	done
 
 Mail5Part2Text:
-	text "Did you find the Pokémon you were"
-	line "looking for in the booster pack?"
-	line "Mason Laboratory"
-	line "      Doctor Mason  ;)"
+	text "Vond je de Pokémon waar je naar"
+	line "zocht in het Booster-Pakje?"
+	line "Mason Onderzoekslab"
+	line "      Dokter Mason  ;)"
 	done
 
 Mail6Part1Text:
-	text "It's me, Doctor Mason."
-	line "Have you won many Master Medals?"
-	line "I have some information for you"
-	line "about Nikki's deck - she's"
-	line "the Master of the Grass Club."
-	line "You must be wary of Exeggutor's"
-	line "Big Eggsplosion with Nikki's deck."
-	line "Use your Fire Pokémon to Knock Out"
-	line "Exeggute and Exeggutor at an"
-	line "early stage!"
-	line "I suggest you study the decks from"
-	line "the Fire Medal's Deck Machine."
-	line "I'll give you a booster pack"
-	line "that should contain a lot of"
-	line "Fire Pokémon."
+	text "Ik ben het, Dokter Mason."
+	line "Heb je al veel Meestermedailles"
+	line "gewonnen? Ik heb wat informatie"
+	line "voor je over het Deck van Nikki"
+	line "- zij is de Meester van de"
+	line "Gras-Club. Je moet op je hoede"
+	line "zijn voor Exeggutor's Grote"
+	line "Eisplosie in Nikki's Deck."
+	line "Gebruik je Vuur-Pokémon om"
+	line "Exeggcute en Exeggutor zo snel"
+	line "mogelijk Uit te Schakelen!"
+	line "Ik stel voor dat je de Decks"
+	line "uit de Deckmachine van de Vuur-"
+	line "Medaille eens bestudeert."
+	line "Ik zal je een Booster-Pakje geven"
+	line "waar een heleboel Vuur-Pokémon"
+	line "zouden moeten zitten."
 	done
 
 Mail6Part2Text:
-	text "Did it have a lot of Fire Pokémon"
-	line "(the weakness of Grass Pokémon)?"
-	line "Mason Laboratory"
-	line "      Dr. Mason  ;)"
+	text "Zaten er een hoop Vuur-Pokémon in"
+	line "(de Zwakte van Gras-Pokémon)?"
+	line "Mason Onderzoekslab"
+	line "      Dokter Mason  ;)"
 	done
 
 Mail7Part1Text:
@@ -1125,8 +1131,8 @@ Mail15Part1Text:
 	done
 
 MailBoosterPackAlreadyOpenedText:
-	text "You have already received the"
-	line "attached booster pack."
+	text "Je hebt het aangehechte"
+	line "Booster-Pakje al ontvangen."
 	done
 
 PokemonTradingCards101Text:
@@ -1261,7 +1267,7 @@ SaraWantsToDuelText:
 	done
 
 SaraWouldYouLikeToDuelText:
-	text "Would you like to duel Sara?"
+	text "Wil je Dueleren met Sara?"
 	done
 
 SaraDeclinedDuelText:
@@ -1301,7 +1307,7 @@ AmandaWantsToDuelText:
 	done
 
 AmandaWouldYouLikeToDuelText:
-	text "Would you like to duel Amanda?"
+	text "Wil je Dueleren met Amanda?"
 	done
 
 AmandaDeclinedDuelText:

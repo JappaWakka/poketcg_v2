@@ -1,80 +1,82 @@
 Text05eb:
-	text "Basically, this is how the Pokémon"
-	line "Trading Card Game is played:"
-	line "It's a game in which you try to"
-	line "Knock Out as many of your"
-	line "opponent's Pokémon as there are"
-	line "Prizes. That's the gist of it..."
+	text "Over het algemeen is dit hoe je "
+	line "het Pokémon Ruilkaartspel speelt:"
+	line "Het is een spel waarin je zoveel"
+	line "van je tegenstander's Pokémon"
+	line "probeert Uit te schakelen als er"
+	line "Prijskaarten zijn. Dat is"
+	line "de kern van het spel..."
 	done
 
 Text05ec:
-	text "Would you like to practice again?"
+	text "Wil je opnieuw oefenen?"
 	done
 
 Text05ed:
-	text "OK. Then let's begin another"
-	line "practice game!"
+	text "Oké! Dan beginnen we nog een"
+	line "oefenduel!"
 	done
 
 Text05ee:
-	text "OK, but if there's anything that"
-	line "you don't understand, then"
-	line "it might be a good idea to practice"
-	line "again."
+	text "Oké, maar als er iets is dat"
+	line "je niet begrijpt is het een"
+	line "goed idee om opnieuw te oefenen."
 	done
 
 Text05ef:
-	text "If you don't understand something,"
-	line "talk to Sam. It might be helpful"
-	line "to duel Sam again, too. This time"
-	line "was just practice, so I had you"
-	line "follow everything I said, but"
-	line "there are other styles of play,"
-	line "so try them out by choosing"
-	line "”Normal Duel”."
+	text "Als je iets niet begrijpt, praat"
+	line "met Sam. Het is misschien handig"
+	line "om ook opnieuw te oefenen. Deze"
+	line "keer was gewoon om kennis te maken"
+	line "met het spel, dus je moest alles"
+	line "doen wat ik zei, maar er zijn"
+	line "ook andere speelstijlen,"
+	line "dus probeer ze uit door"
+	line "Normaal Duel te selecteren."
 	done
 
 Text05f0:
-	text "Now then, let's build your deck."
-	line "Did you bring your cards?"
+	text "Nu dan, laten we je deck bouwen."
+	line "Heb je je kaarten meegenomen?"
 	done
 
 Text05f1:
-	text "<RAMNAME> handed his cards to"
+	text "<RAMNAME> gaf zijn kaarten aan"
 	line "Dr. Mason."
 	done
 
 Text05f2:
-	text "Hmm... let me add some of my own"
-	line "cards to yours!"
-	line "Now, <RAMNAME>, what kind"
-	line "of deck do you want?"
+	text "Hmm... laat me wat van mijn kaarten"
+	line "aan die van jou toevoegen!"
+	line "Oké, <RAMNAME>, wat voor Deck"
+	line "zou je willen?"
 	done
 
 Text05f3:
-	text "A <RAMTEXT>?"
+	text "Een <RAMTEXT>?"
 	done
 
 Text05f4:
-	text "OK, a <RAMTEXT>!"
-	line "Here are the remaining cards!"
+	text "Oké, een <RAMTEXT>!"
+	line "Hier zijn de rest van de kaarten!"
 	done
 
 Text05f5:
-	text "<RAMNAME> received"
-	line "a <RAMTEXT>!"
+	text "<RAMNAME> ontving"
+	line "een <RAMTEXT>!"
 	line ""
-	text "<RAMNAME> received"
-	line "30 cards!"
+	text "<RAMNAME> ontving"
+	line "30 kaarten!"
 	done
 
 Text05f6:
-	text "You should duel with many different"
-	line "people. Why don't you go to one of"
-	line "the Card Clubs. There are many"
-	line "people playing at the Clubs."
-	line "Collect new cards and try"
-	line "building a new deck!"
+	text "Ga erop uit en Dueleer met veel"
+	line "verschillende mensen. Waarom ga je"
+	line "niet naar een van de Kaartclubs?"
+	line "Er zitten altijd heel veel"
+	line "mensen te spelen in die clubs."
+	line "Verzamel nieuwe kaarten en"
+	line "probeer een nieuw Deck te bouwen!"
 	done
 
 Text05f7:
@@ -138,7 +140,7 @@ Text05fd:
 	done
 
 Text05fe:
-	text "Would you like to duel Aaron?"
+	text "Wil je Dueleren met Aaron?"
 	done
 
 Text05ff:
@@ -255,6 +257,7 @@ Text0613:
 
 Text0614:
 	text "You're gonna trade me your"
+	
 	line "<Lv>35 Electabuzz?"
 	line "Way cool!...Hey! Wait, kid!"
 	line "That card's in your deck!"
@@ -266,8 +269,10 @@ Text0614:
 
 Text0615:
 	text "You're gonna trade me your"
+	
 	line "<Lv>35 Electabuzz? Way cool, kid!"
 	line "OK, I'll trade you my"
+	
 	line "<Lv>20 Electabuzz for it!"
 	done
 
@@ -308,12 +313,12 @@ Text061a:
 Text061b:
 	text "Isn't Pikachu totally cute? My heart"
 	line "skips a beat whenever I see those"
-	line "cute little eyes! Hey, do you want"
+	line "cute little eyes! Hey, do you want"	
 	line "to duel my Pikachu deck?"
 	done
 
 Text061c:
-	text "Would you like to duel Jennifer?"
+	text "Wil je Dueleren met Jennifer?"
 	done
 
 Text061d:
@@ -348,7 +353,7 @@ Text0622:
 	done
 
 Text0623:
-	text "Would you like to duel Nicholas?"
+	text "Wil je Dueleren met Nicholas?"
 	done
 
 Text0624:
@@ -380,7 +385,7 @@ Text0628:
 
 Text0629:
 	text "Isaac's working on the wiring"
-	line "for this stage. It looks cool"
+	line "for this stage. It looks cool"	
 	line "with all these lights, but it takes"
 	line "a lot of work to keep 'em lit!"
 	done
@@ -395,7 +400,7 @@ Text062b:
 	done
 
 Text062c:
-	text "Would you like to duel Brandon?"
+	text "Wil je Dueleren met Brandon?"
 	done
 
 Text062d:
@@ -446,7 +451,7 @@ Text0634:
 	done
 
 Text0635:
-	text "Would you like to duel Isaac?"
+	text "Wil je Dueleren met Isaac?"
 	done
 
 Text0636:
@@ -534,7 +539,7 @@ Text0643:
 
 Text0644:
 	text "I hear you got the Legendary"
-	line "Pokémon Cards. Wow! That's great!"
+	line "Pokémon Cards. Wow! That's great!" 
 	line "I'm going to train so I can get"
 	line "them myself!"
 	done
@@ -595,7 +600,7 @@ Text064b:
 	text "So you won the second medal?"
 	line "You must have been really lucky!"
 	line "I'll see how good you really are!"
-	line "Come on, let's duel! We'll play with"
+	line "Come on, let's duel! We'll play with" 
 	line "6 Prizes! If you win, I'll give you"
 	line "a really rare card!"
 	done
@@ -628,7 +633,7 @@ Text064f:
 
 Text0650:
 	text "I already won the sixth medal!"
-	line "I'll see how much better you are!"
+	line "I'll see how much better you are!" 
 	line "If you win, I'll give you another"
 	line "rare card!"
 	line "Come on!!! Let's duel!"
@@ -653,7 +658,7 @@ Text0653:
 	line "as I am!"
 	line "There's no way you'll be able to"
 	line "inherit the Legendary Pokémon Cards!"
-	line "Why don't you just give up!?!"
+	line "Why don't you just give up!?!"  
 	line "See ya! Ha ha ha ha ha ha!"
 	done
 
@@ -664,11 +669,11 @@ Text0654:
 	line "It doesn't have any weaknesses,"
 	line "and it's difficult for opponents'"
 	line "attacks to cause damage!"
-	line "Would you like to duel me?"
+	line "Wil je Dueleren met me?"
 	done
 
 Text0655:
-	text "Would you like to duel Robert?"
+	text "Wil je Dueleren met Robert?"
 	done
 
 Text0656:
@@ -829,7 +834,7 @@ Text066c:
 	done
 
 Text066d:
-	text "Would you like to duel Daniel?"
+	text "Wil je Dueleren met Daniel?"
 	done
 
 Text066e:
@@ -873,7 +878,7 @@ Text0674:
 	done
 
 Text0675:
-	text "Would you like to duel Stephanie?"
+	text "Wil je Dueleren met Stephanie?"
 	done
 
 Text0676:
@@ -930,7 +935,7 @@ Text067e:
 	done
 
 Text067f:
-	text "Would you like to duel Murray?"
+	text "Wil je Dueleren met Murray?"
 	done
 
 Text0680:

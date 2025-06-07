@@ -492,15 +492,15 @@ RecycleDescription:
 	done
 
 AreYouBoyOrGirlText:
-	text "    Ben je een jongen of een meisje?"
+	text "  Ben je een jongen of een meisje?"
 	done
 
 BoyText:
-	text "Jongen"
+	text " Jongen"
 	done
 
 GirlText:
-	text "Meisje"
+	text " Meisje"
 	done
 
 NewIntroText1:

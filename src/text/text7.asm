@@ -609,20 +609,21 @@ Text05bc:
 	done
 
 ItsTheChallengeMachineText:
-	text "It's the Challenge Machine,"
-	line "created by Dr. Mason!"
+	text "Het is de Uitdagingsmachine,"
+	line "gemaakt door Dr. Mason!"
 	done
 
 Tech1MasterMedalExplanationText:
-	text "The 8 Club Masters each own a"
-	line "Master Medal."
-	line "The secret of each Club's deck is"
-	line "encrypted in its Master Medal."
-	line "Once you get a Master Medal, go"
-	line "to the computer room in back."
-	line "You can place the medals in the"
-	line "Auto Deck Machines to create"
-	line "different decks!"
+	text "De 8 Clubmeesters hebben elk een"
+	line "Meestermedaille in hun bezit."
+	line "Het geheim van de Decks van elke"
+	line "Club staat gegraveerd in hun"
+	line "Meestermedaille. Wanneer je een"
+	line "Medaille wint, ga naar de"
+	line "computerkamer hiernaast."
+	line "Je kan de Meestermedailles in de"
+	line "Auto-Deck-Machines plaatsen om"
+	line "andere Decks te bouwen!"
 	done
 
 Tech1AutoDeckMachineExplanationText:
@@ -637,21 +638,21 @@ Tech1AutoDeckMachineExplanationText:
 	done
 
 Tech1FewEnergyCardsText:
-	text "Excuse me, but you don't seem"
-	line "to have many Energy cards."
-	line "Building a deck must be difficult"
-	line "with so few Energy cards."
-	line "Here, take these!"
+	text "Sorry dat ik het zeg, maar volgens"
+	line "mij heb je niet veel Energiekaarten."
+	line "Een deck bouwen met zo weinig"
+	line "Energiekaarten lijkt me moeilijk."
+	line "Hier, neem deze!"
 	done
 
 Tech1ReceivedEnergyCardsText:
-	text "<RAMNAME> received some"
-	line "Energy cards!"
+	text "<RAMNAME> ontving wat"
+	line "Energiekaarten!"
 	done
 
 Tech1GoodbyeText:
-	text "Goodbye!"
-	line "Take care!"
+	text "Tot ziens!"
+	line "Veel succes!"
 	done
 
 Tech2LegendaryCardsExplanationText:
@@ -695,35 +696,35 @@ Tech3LegendaryCardsCongratsText:
 	done
 
 Tech4ClubsExplanationText:
-	text "I'm sure you already know, but there"
-	line "are 8 Clubs: the Fighting, Water,"
-	line "Lightning, Grass, Psychic, Fire,"
-	line "Rock and Science Clubs!"
-	line "The different Clubs use cards that"
-	line "are specific to that Club."
+	text "Ik weet zeker dat je dit al weet,"
+	line "maar er zijn 8 Clubs: de Vecht-,"
+	line "Water-, Bliksem-, Gras-, Psychische,"
+	line "Vuur-, Rots- en Wetenschap-Clubs!"
+	line "De verschillende Clubleden gebruiken"
+	line "kaarten die bij hun Club horen."
 	done
 
 Tech4DefeatedTheGrandMastersText:
 	text "Amazing! You beat the 8 Club"
 	line "Masters!"
 	line "And you even defeated the"
-	line "4 Grand Masters! Amazing!"
 	done
+	line "4 Grand Masters! Amazing!"
 
 Tech5DiaryAndEmailExplanationText:
-	text "To save your game, press START"
-	line "and choose Diary from the Menu."
-	line "You can do all sorts of stuff with"
-	line "that PC over there."
-	line "You can read e-mail from"
-	line "Dr. Mason on that PC, too!"
+	text "Om je spel op te slaan, druk je op"
+	line "START en kies je Dagboek in het"
+	line "Menu. Je kunt trouwens allerlei"
+	line "dingen doen met die Computer daar."
+	line "Je kan er zelfs de e-mails van"
+	line "Dr. Mason op lezen!"
 	done
 
 Tech5ChallengeMachineExplanationText:
 	text "This is the Challenge Machine"
 	line "created by Dr. Mason!"
 	line "The Challenge Machine is a"
-	line "Pokémon TCG dueling machine."
+	line "Pokémon TCG Dueling Machine."
 	line "The rules of the game are simple:"
 	line "choose 1 deck with which you must"
 	line "use to duel 5 computer opponents!"
@@ -735,49 +736,51 @@ Tech5ChallengeMachineExplanationText:
 	done
 
 Text05cb:
-	text "OK, let's start using these"
-	line "practice decks."
-	line "Listen closely and try to follow"
-	line "Dr. Mason's instructions."
+	text "Oké, laten we beginnen met deze"
+	line "oefendecks. Luister goed naar Dr."
+	line "Mason en volg zijn instructies op."
 	done
 
 Text05cc:
-	text "Practice with Sam?"
+	text "Wil je oefenen met Sam?"
 	done
 
 Text05cd:
-	text "You should practice again if there"
-	line "is anything you don't understand."
+	text "Wees niet bang om opnieuw te"
+	line "oefenen als er iets is dat je"
+	line "niet begrijpt, oké?"
 	done
 
 Text05ce:
-	text "OK, a 2-Prize duel using"
-	line "the practice deck!"
+	text "Oké, laten we een Duel houden met"
+	line "2 Prijskaarten en het oefendeck!"
 	done
 
 Text05cf:
-	text "Would you like to duel Sam?"
+	text "Wil je Dueleren met Sam?"
 	done
 
 Text05d0:
-	text "Come see me any time."
-	line "The basics are very important!"
+	text "Je mag altijd naar me toe komen."
+	line "De basis leren is belangrijk!"
 	done
 
 Text05d1:
-	text "You're getting the hang of it!"
+	text "Juist! Je hebt het onder de knie!"
 	done
 
 Text05d2:
-	text "Keep this up, and you should be able"
-	line "to win some duels!"
+	text "Hou dit vol, en je zal snel nog"
+	line "meer Duels gaan winnen!"
 	done
 
 Text05d3:
-	text "You need to practice more. If you"
-	line "think things through, you should"
-	line "be able to win. Why don't you"
-	line "practice a little more?"
+	text "Je moet nog wat meer oefenen."
+	line "Als je meer ervaring hebt en"
+	line "goed blijft nadenken zal je"
+	line "meer Duellen gaan winnen."
+	line "Waarom oefenen we niet"
+	line "wat meer?"
 	done
 
 Text05d4:
@@ -788,113 +791,129 @@ Text05d4:
 	done
 
 Text05d5:
-	text "What do you want to ask about?"
+	text "Waar wil je iets over weten?"
 	done
 
 Text05d6:
-	text "In order to do anything, Pokémon"
-	line "must have Energy. If no Energy cards"
-	line "are attached to a Pokémon, then it"
-	line "won't be able to attack or retreat."
-	line "There are 7 types of Energy:"
-	line "<GRASS>, <FIRE>, <WATER>, <LIGHTNING>, <PSYCHIC>, <FIGHTING>, and <COLORLESS>"
-	line "The type of Energy that a Pokémon"
-	line "requires will depend on the Pokémon."
-	line "Be sure to learn which Pokémon"
-	line "require which type of Energy!"
+	text "Om iets te kunnen doen, hebben"
+	line "Pokémon Energiekaarten nodig."
+	line "Als er geen Energiekaarten aan"
+	line "gehecht zijn, zou de Pokémon"
+	line "geen mogelijkheid kunnen hebben"
+	line "om Aan te Vallen of zich Terug"
+	line "te Trekken. Er zijn 7 typen"
+	line "Energie: <GRASS>, <FIRE>, <WATER>, <LIGHTNING>, <PSYCHIC>, <FIGHTING>,"
+	line "en <COLORLESS>. Het benodigde type Energie"
+	line "verschilt per Pokémon."
+	line "Let goed op welke Pokémon"
+	line "welk type Energie nodig heeft!"
 	done
 
 Text05d7:
-	text "Your Pokémon can deal damage to your"
-	line "opponent's Pokémon by attacking."
-	line "Pokémon need Energy cards attached "
-	line "to them before they can attack."
-	line "For example, the energy required for"
-	line "Seaking's Waterfall attack is <WATER><COLORLESS>."
-	line "<WATER><COLORLESS> stands for 1 Water Energy"
-	line "and another Energy of any type."
-	line "The Energy required will differ"
-	line "according to the attack."
+	text "Pokémon kunnen schade doen aan"
+	line "Verdedigende Pokémon door Aan"
+	line "te Vallen. Pokémon hebben daarvoor"
+	line "Energie-kaarten nodig."
+	line "Bijvoorbeeld, de Energie die nodig"
+	line "is voor Seaking's Waterval is <WATER><COLORLESS>."
+	line "<WATER><COLORLESS> staat voor 1 Water"
+	line "Energiekaart en nog een andere"
+	line "Energiekaart van welk type dan ook."
+	line ""
+	line "De benodigde Energie verschilt"
+	line "per Aanval."
 	done
 
 Text05d8:
-	text "To switch your Active Pokémon with"
-	line "a Benched Pokémon, choose ”Retreat”."
-	line "If the Active Pokémon is in danger,"
-	line "move it back to your Bench."
-	line "A Pokémon must discard Energy cards"
-	line "before it is able to retreat. "
-	line "The number of Energy cards will"
-	line "depend on a Pokémon's Retreat Cost."
+	text "Om je Actieve Pokémon te wisselen"
+	line "met een Pokémon op de Bank, kies"
+	line "je het commando ”Trek Terug”."
+	line "Als de Actieve Pokémon in gevaar"
+	line "is, verplaats hem dan naar de Bank."
+	line "Een Pokémon moet Energiekaarten"
+	line "weggooien om Terug te Trekken."
+	line ""
+	line "Hoeveel Energiekaarten daarvoor"
+	line "nodig zijn verschilt, afhankelijk"
+	line "van welke Pokémon zich Terug wil"
+	line "Trekken."
 	done
 
 Text05d9:
-	text "There are 3 stages of Pokémon cards:"
-	line "Basic, Stage 1, and Stage 2."
-	line "To provide some examples,"
-	line "Squirtle is a Basic Pokémon," 
-	line "Wartortle is a Stage 1 Pokémon,"
-	line "and Blastoise is a Stage 2 Pokémon."
-	line "Basic Pokémon are the only cards"
-	line "that can be put directly into play."
-	line "An in-play Basic Pokémon can be"
-	line "evolved into a Stage 1 Pokémon, and"
-	line "an in-play Stage 1 Pokémon can then"
-	line "be evolved into a Stage 2 Pokémon."
-	line "Therefore, a Squirtle is needed"
-	line "before you can play a Wartortle,"
-	line "and a Wartortle is needed before"
-	line "you can play a Blastoise."
+	text "Er zijn 3 typen Pokémon-kaarten:"
+	line "Basis-Pokémon, Fase-1-Pokémon en"
+	line "Fase-2-Pokémon. Wat voorbeelden:"
+	line "Squirtle is een Basis-Pokémon,"
+	line "Wartortle een Fase-1-Pokémon,"
+	line "en Blastoise is een Fase-2-Pokémon."
+	line "Basis-Pokémon zijn de enige"
+	line "kaarten die je direct in het spel"
+	line "kunt brengen. Een Basis-Pokémon"
+	line "in het spel kan Evolueren in een"
+	line "Fase-1-Pokémon. Een Fase-1-Pokémon"
+	line "in het Spelgebied kan dan Evolueren"
+	line "in een Fase-2-Pokémon. Dus daarom"
+	line "is Squirtle nodig om een Wartortle"
+	line "te spelen, en is Wartortle nodig"
+	line "om een Blastoise te spelen."
 	done
 
 Text05da:
-	text "Some Pokémon have special abilities"
-	line "that are called Pokémon Powers."
-	line "Some Pokémon Powers are used as"
-	line "soon as the Pokémon is played,"
-	line "while others must be activated using"
-	line "the ”PKMN Power” command. There are"
-	line "many different Pokémon Powers,"
-	line "so read each card's text carefully."
+	text "Sommige Pokémon hebben speciale"
+	line "vaardigheden genaamd Pokémon-"
+	line "Krachten. Sommige Pokémon-Krachten"
+	line "worden gebruikt zodra een Pokémon"
+	line "in het spel komt, terwijl andere"
+	line "gebruikt moeten worden door het"
+	line "”PKMN-Kracht” commando te kiezen."
+	line "Er zijn heel veel verschillende"
+	line "Pokémon-Krachten dus lees goed wat"
+	line "er op de kaarten staat."
 	done
 	
 Text05db:
-	text "Your turn ends after you attack."
-	line "If you do not have enough Energy"
-	line "to attack, or if your Active Pokémon"
-	line "can't act due to a Special Condition"
-	line "then you can end your turn by"
-	line "choosing the ”Done” command."
-	line "This will cause your turn to end"
-	line "and your opponent's turn to begin."
-	line "You should choose ”Done” if you're"
-	line "unable to do anything."
+	text "Je beurt eindigt na je Aanval."
+	line "Als je niet genoeg Energie hebt om"
+	line "Aan te Vallen, of als je Actieve"
+	line "Pokémon niets kan doen door"
+	line "een Speciale Toestand, kun je"
+	line "je beurt beëindigen door het"
+	line "commando ”Klaar” te kiezen."
+	line "Hierdoor stopt je beurt en is het"
+	line "je tegenstander's beurt"
+	line "om te spelen. Kies alleen het"
+	line "commando ”Klaar” als je echt"
+	line "niets meer kunt doen."
 	done
 
 Text05dc:
-	text "Generally, the win or loss of a"
-	line "duel is decided by Prizes."
-	line "Prizes are cards that you may"
-	line "draw when you Knock Out one of"
-	line "your opponent's Pokémon. You win"
-	line "if you Knock Out as many of your"
-	line "opponent's Pokémon as there are"
-	line "Prizes to be drawn. You'll lose"
-	line "the duel if you have no cards in"
-	line "your deck at the start of your turn"
-	line "or if there are no Pokémon in your"
-	line "play area, so be careful!"
+	text "Over het algemeen wordt bepaald wie"
+	line "het Duel wint of verliest door"
+	line "Prijskaarten. Prijskaarten zijn"
+	line "kaarten die je mag pakken wanneer"
+	line "je een van je tegenstander's"
+	line "Pokémon Uitschakelt."
+	line "Je wint als je evenveel van je"
+	line "tegenstander's Pokémon Uitschakelt"
+	line "als er Prijskaarten zijn die je"
+	line "kunt pakken. Je verliest ook"
+	line "het Duel als je geen kaarten meer"
+	line "in je deck hebt aan het begin van"
+	line "je beurt of als er geen Pokémon"
+	line "meer aan jouw kant van het"
+	line "Speelveld zijn, dus pas goed op!"
 	done
 
 Text05dd:
-	text "Gathering information is important"
-	line "if you wish to inherit the Legendary"
-	line "Pokémon Cards! Listen to what people"
-	line "have to say and read the books on"
-	line "the bookshelves. If I have any"
-	line "information, I'll send you an"
-	line "e-mail, so check the PC every"
-	line "so often to read your mail!"
+	text "Informatie verzamelen is belangrijk"
+	line "als je de Legendarische Pokémon-"
+	line "kaarten wilt overnemen! Luister"
+	line "naar wat mensen te zeggen hebben"
+	line "en lees de boeken in de boeken-"
+	line "kasten. Als ik nieuwe informatie"
+	line "heb, zal ik je een e-mail sturen,"
+	line "dus kijk geregeld op de PC of"
+	line "je nieuwe e-mails hebt ontvangen!"
 	done
 
 Text05de:
@@ -953,62 +972,66 @@ Text05e2:
 	done
 
 Text05e3:
-	text "Oh! Why the rush, <RAMNAME>?"
-	line "What?"
-	line "You want to learn how to play"
-	line "the Pokémon Trading Card Game?"
-	line "So you, too, finally want to"
-	line "start playing the card game."
-	line "Well, dueling is more fun than"
-	line "just collecting cards!"
-	line "First, you should try playing"
-	line "with a practice deck."
-	line "Here, I'll give you this deck."
-	line "And now you need an opponent..."
+	text "Oh! Waarom zo'n"
+	line "haast, <RAMNAME>?"
+	line "Wat?"
+	line "Je wilt leren hoe je het"
+	line "Pokémon Ruilkaartspel speelt?"
+	line "Dus, ook jij wilt beginnen"
+	line "met het kaartspel spelen!"
+	line "Nou, dueleren is veel leuker"
+	line "dan alleen kaarten verzamelen!"
+	line "Probeer eerst eens te spelen"
+	line "met een oefendeck."
+	line "Hier, neem dit deck van mij maar."
+	line "En nu een tegenstander..."
 	line "Hey, Sam!"
-	line "Play with him for a while!"
+	line "Speel eens een potje met hem!"
 	done
 
+
 Text05e4:
-	text "Yes, Dr. Mason."
-	line "Hello, <RAMNAME>."
+	text "Oké, Dr. Mason."
+	line "Hallo, <RAMNAME>."
 	done
 
 Text05e5:
-	text "OK!"
-	line "Let's give it a try!"
+	text "Oké!"
+	line "Laten we het eens proberen!"
 	done
 
 Text05e6:
 	text "Hey! <RAMNAME>!"
-	line "Hurry and come here!"
+	line "Kom snel hier!"
 	done
 
 Text05e7:
-	text "First, ask Sam about the basics"
-	line "of the game."
+	text "Vraag de basisprincipen van"
+	line "het spel maar aan Sam."
 	done
 
 Text05e8:
-	text "OK, <RAMNAME>."
-	line "What do you want to ask about?"
+	text "Oké, <RAMNAME>."
+	line "Waar wil je iets over weten?"
 	done
 
 Text05e9:
-	text "Is that all?"
+	text "Is dat alles?"
 	done
 
 Text05ea:
-	text "They say that actions speak louder"
-	line "than words, so let's play a game."
-	line "Since this is your first time,"
-	line "just try to learn the basic steps."
-	line "I'll be coaching you, so try to"
-	line "follow my advice. If you don't do"
-	line "as I say, then we won't be able to"
-	line "proceed. It might be easier if you"
-	line "read the Pokémon Trading Card Game"
-	line "Instruction Booklet while we play."
-	line "OK then, let's start your"
-	line "practice game!"
+	text "”Geen woorden maar daden”, klinkt"
+	line "het gezegde, dus laten we een spel"
+	line "spelen. Omdat dit je eerste keer"
+	line "is, probeer je eerst maar eens"
+	line "gewoon de basisstappen te leren."
+	line "Ik zal je hierin begeleiden,"
+	line "dus volg mijn advies op."
+	line "Als je niet doet wat ik zeg,"
+	line "kunnen we niet doorgaan."
+	line "Misschien is het makkelijker als"
+	line "je het Pokémon Ruilkaartspel"
+	line "instructieboekje leest terwijl we"
+	line "spelen. Oké dan, laten we "
+	line "je oefenspel beginnen!"
 	done

@@ -55,9 +55,9 @@ PlayerGenderSelection:
 	ld [hl], a
 .refresh_menu
 	or a
-	ld a, 3 ; "Boy" cursor x
+	ld a, 2 ; "Boy" cursor x
 	jr z, .got_cursor_x
-	ld a, 13 ; "Girl" cursor x
+	ld a, 12 ; "Girl" cursor x
 .got_cursor_x
 	ld [wMenuCursorXOffset], a
 	xor a
@@ -77,6 +77,6 @@ PlayerGenderSelection:
 	ret
 
 .TextItems:
-	textitem  4, 2, BoyText
-	textitem 14, 2, GirlText
+	textitem  3, 2, BoyText
+	textitem 13, 2, GirlText
 	db $ff

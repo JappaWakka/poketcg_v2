@@ -883,33 +883,33 @@ GlossaryFWText:
 ;	done
 
 GlossaryMenuPage1LeftText:
-	text "Actief & Bank"
-	line "Prijzen"
-	line "Het Deck"
-	line "Weggooistapel"
-	line "De Hand"
+	text "Actief & Bank   "
+	line "Prijzen         "
+	line "Het Deck        "
+	line "Weggooistapel   "
+	line "De Hand         "
 	done
 
 GlossaryMenuPage1RightText:
-	text "Basis-Pokémon"
-	line "Evolutiekaarten"
-	line "Trainerkaarten"
-	line "Energiekaarten"
+	text "Basis-Pokémon   "
+	line "Evolutiekaarten "
+	line "Trainerkaarten  "
+	line "Energiekaarten  "
 	done
 
 GlossaryMenuPage2LeftText:
-	text "Aanvallen"
-	line "Schadetellers"
-	line "Evolueren"
+	text "Aanvallen       "
+	line "Schadetellers   "
+	line "Evolueren       "
 	line "Pokémon-Krachten"
-	line "Terugtrekken"
+	line "Terugtrekken    "
 	done
 
 GlossaryMenuPage2RightText:
-	text "Zwakte"
-	line "Weerstand"
-	line "S. Toestanden 1"
-	line "S. Toestanden 2"
+	text "Zwakte          "
+	line "Weerstand       "
+	line "S. Toestanden 1 "
+	line "S. Toestanden 2 "
 	done
 
 ChooseWordAndPressAButtonText:
@@ -1132,12 +1132,12 @@ EnergyCardsDescriptionText:
 	line " Pokémon. Je kunt elke beurt maar 1"
 	line " Energiekaart uit je Hand spelen."
 	line ""
-	line "Er zijn 6 types Basis-Energie:"
+	line " Er zijn 6 types Basis-Energie:"
 	line "  <GRASS> Gras         <FIRE> Vuur"
 	line "  <WATER> Water        <LIGHTNING> Bliksem"
 	line "  <PSYCHIC> Psychisch    <FIGHTING> Vecht"
-	line " Elk type Energie kan worden gebruikt"
-	line " voor <COLORLESS> Kleurloos."
+	line " Elk type Energie kan worden"
+	line " gebruikt voor <COLORLESS> Kleurloos."
 	line ""
 	done
 
@@ -1248,8 +1248,8 @@ ResistanceDescriptionText:
 	line " wanneer hij wordt Aangevallen"
 	line " door een Pokémon van dat type."
 	line ""
-	line " Schade aan Pokémon op de Bank wordt"
-	line " meestal niet beïnvloed door"
+	line " Schade aan Pokémon op de Bank"
+	line " wordt meestal niet beïnvloed door"
 	line " Weerstand."
 
 SpecialConditions1DescriptionText:
@@ -1260,9 +1260,9 @@ SpecialConditions1DescriptionText:
 	line ""
 	line " Een Actieve Pokémon kan In Slaap"
 	line " zijn, Verward of Verlamd. Elke"
-	line " nieuwe Conditie vervangt de vorige."
+	line " nieuwe Toestand vervangt de vorige."
 	line ""
-	line " <ASLEEP> Een Pokémon die In Slaap is,"
+	line "<ASLEEP> Een Pokémon die In Slaap is,"
 	line "   kan niet Aanvallen of zich Terug-"
 	line "   trekken. Gooi tussen beurten een"
 	line "   munt op. Als het kop is, is de"
@@ -1270,18 +1270,18 @@ SpecialConditions1DescriptionText:
 	done
 
 SpecialConditions2DescriptionText:
-	text " <CONFUSED> Gooi een munt op voordat"
+	text "<CONFUSED> Gooi een munt op voordat"
 	line "   een Pokémon die Verward is kan"
 	line "   Aanvallen of zich Terug kan"
 	line "   Trekken (nadat je eventuele"
 	line "   kosten hebt betaald). Munt: de"
 	line "   Aanval/Terugtrekking mislukt & 20"
 	line "   schade aan jezelf als je Aanvalt."
-	line " <PARALYZED> Een Pokémon die Verlamd is, kan"
+	line "<PARALYZED> Een Pokémon die Verlamd is, kan"
 	line "   niet Aanvallen of zich Terug-"
 	line "   trekken. Hij herstelt na één"
 	line "   beurt."
-	line " <POISONED> Plaats tussen beurten een"
+	line "<POISONED> Plaats tussen beurten een"
 	line "   Schadeteller op elke Vergiftigde"
 	line "   Pokémon."
 	done

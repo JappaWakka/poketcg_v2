@@ -187,7 +187,7 @@ OpenGlossaryScreen:
 	jp PlaySFXConfirmOrCancel_Bank6
 
 GlossaryTextData:
-	textitem 6, 0, GlossaryFWText
+	textitem 4, 0, GlossaryFWText
 	textitem 0, 1, HorizontalLineSeparatorText
 	textitem 10, 1, IntersectingLines1Text
 	textitem 10, 2, VerticalLinesX5Text
@@ -207,22 +207,22 @@ ENDM
 
 GlossaryData1:
 	glossary_entry 3, AboutActivePokemonAndBenchText, ActivePokemonAndBenchDescriptionText
-	glossary_entry 7, AboutPrizesText, PrizesDescriptionText
+	glossary_entry 6, AboutPrizesText, PrizesDescriptionText
 	glossary_entry 6, AboutTheDeckText, TheDeckDescriptionText
-	glossary_entry 2, AboutTheDiscardPileText, TheDiscardPileDescriptionText
+	glossary_entry 3, AboutTheDiscardPileText, TheDiscardPileDescriptionText
 	glossary_entry 6, AboutTheHandText, TheHandDescriptionText
 	glossary_entry 3, AboutBasicPokemonText, BasicPokemonDescriptionText
-	glossary_entry 3, AboutEvolutionCardsText, EvolutionCardsDescriptionText
+	glossary_entry 2, AboutEvolutionCardsText, EvolutionCardsDescriptionText
 	glossary_entry 3, AboutTrainerCardsText, TrainerCardsDescriptionText
-	glossary_entry 4, AboutEnergyCardsText, EnergyCardsDescriptionText
+	glossary_entry 3, AboutEnergyCardsText, EnergyCardsDescriptionText
 
 GlossaryData2:
 	glossary_entry 5, AboutAttackingText, AttackingDescriptionText
-	glossary_entry 2, AboutDamageCountersText, DamageCountersDescriptionText
-	glossary_entry 6, AboutEvolvingText, EvolvingDescriptionText
-	glossary_entry 3, AboutPokemonPowersText, PokemonPowersDescriptionText
-	glossary_entry 5, AboutRetreatingText, RetreatingDescriptionText
-	glossary_entry 6, AboutWeaknessText, WeaknessDescriptionText
+	glossary_entry 3, AboutDamageCountersText, DamageCountersDescriptionText
+	glossary_entry 5, AboutEvolvingText, EvolvingDescriptionText
+	glossary_entry 2, AboutPokemonPowersText, PokemonPowersDescriptionText
+	glossary_entry 3, AboutRetreatingText, RetreatingDescriptionText
+	glossary_entry 7, AboutWeaknessText, WeaknessDescriptionText
 	glossary_entry 5, AboutResistanceText, ResistanceDescriptionText
 	glossary_entry 1, AboutSpecialConditions1Text, SpecialConditions1DescriptionText
 	glossary_entry 1, AboutSpecialConditions2Text, SpecialConditions2DescriptionText
