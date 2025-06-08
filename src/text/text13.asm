@@ -571,11 +571,10 @@ ThunderstormDescriptionCont:
 	done
 
 ZapdosLv40Description:
-	text "Een legendarische dondervogel-"
-	line "Pokémon waarvan gezegd wordt dat"
-	line "zijn woede stormen veroorzaakt."
-	line "Ze zeggen ook dat hij al duizenden"
-	line "jaren boven de wolken leeft."
+	text "Een legendarische dondervogel-Poké-"
+	line "mon waarvan men zegt dat zijn woede"
+	line "stormen veroorzaakt. Men zegt ook"
+	line "dat hij al eeuwig in de lucht leeft."
 	done
 
 ZapdosThunderDescription:
@@ -596,9 +595,8 @@ ThunderboltDescription:
 ZapdosLv64Description:
 	text "Een legendarische vogel-Pokémon"
 	line "waarvan wordt gezegd dat hij uit de"
-	line "wolken tevoorschijn komt en tege-"
-	line "lijkertijd enorme bliksemschichten"
-	line "rondslingert."
+	line "wolken verschijnt en tegelijkertijd"
+	line "enorme bliksemschichten rondgooit."
 	done
 
 PealOfThunderName:
@@ -851,8 +849,7 @@ MachampDescription:
 	text "Met behulp van zijn ontzagwekkende"
 	line "spieren, geeft hij duizelingwekkende"
 	line "stompen die zijn slachtoffers hele-"
-	line "maal over de horizon kunnen doen"
-	line "verdwijnen."
+	line "maal over de horizon kunnen werpen."
 	done
 
 GeodudeName:

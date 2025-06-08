@@ -725,13 +725,12 @@ WinOrLossOfAMatchVol3BookName:
 	done
 
 WinOrLossOfAMatchVol3BookText:
-	text "Je kan ook winnen als je"
-	line "tegenstander geen Pokémon meer"
-	line "over heeft op de Bank nadat"
-	line "je zijn of haar Actieve Pokémon"
-	line "hebt Uitgeschakeld. Zorg ervoor"
-	line "dat je genoeg Pokémon op je"
-	line "Bank hebt."
+	text "Je kan ook winnen als je tegen-"
+	line "stander geen Pokémon meer over"
+	line "heeft op de Bank nadat je zijn of"
+	line "haar Actieve Pokémon hebt Uitge-"
+	line "schakeld. Zorg ervoor dat je"
+	line "genoeg Pokémon op je Bank hebt."
 	done
 
 CombosBookName:

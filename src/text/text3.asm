@@ -191,7 +191,7 @@ SaveADeckText:
 	done
 
 DeleteADeckText:
-	text "Verwijder een Deck"
+	text "Verwijder Deck"
 	done
 
 BuildADeckText:
@@ -573,15 +573,15 @@ FireChargeText:
 	done
 
 CharmanderAndFriendsText:
-	text "Charmander & Vrienden"
+	text "Charmander-Vrienden"
 	done
 
 SquirtleAndFriendsText:
-	text "Squirtle & Vrienden"
+	text "Squirtle-Vrienden"
 	done
 
 BulbasaurAndFriendsText:
-	text "Bulbasaur & Vrienden"
+	text "Bulbasaur-Vrienden"
 	done
 
 PsychicMachampText:
@@ -823,8 +823,8 @@ SquirtleAndFriendsDescriptionText:
 	done
 
 BulbasaurAndFriendsDescriptionText:
-	text "Een Gras-, Bliksem- en Psychisch-Deck:"
-	line "Bulbasaur, Pikachu en Abra"
+	text "Een Gras-, Bliksem- en Psychisch-"
+	line "Deck: Bulbasaur, Pikachu en Abra"
 	done
 
 PsychicMachampDescriptionText:

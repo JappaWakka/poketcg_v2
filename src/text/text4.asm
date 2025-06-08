@@ -99,7 +99,7 @@ ContinueFromDiarySummaryText:
 	half2full
 	textfw "/"
 	text ""
-	line "  Tijd gespeeld         "
+	line " Tijd gespeeld          "
 	half2full
 	textfw "꞉"
 	text ""
@@ -727,15 +727,15 @@ SelectDeckToDuelText:
 	done
 
 CharmanderAndFriendsDeckChoiceText:
-	text "Charmander & Vrienden Deck"
+	text "Charmander-Vrienden Deck"
 	done
 
 SquirtleAndFriendsDeckChoiceText:
-	text "Squirtle & Vrienden Deck"
+	text "Squirtle-Vrienden Deck"
 	done
 
 BulbasaurAndFriendsDeckChoiceText:
-	text "Bulbasaur & Vrienden Deck"
+	text "Bulbasaur-Vrienden Deck"
 	done
 
 SelectDeckToTakeText:

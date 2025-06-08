@@ -1085,8 +1085,8 @@ Turn2DrMason1PracticeDuelText:
 	line "keld, dus laten we hem Evolueren!"
 	line "Kies Seaking uit je Hand en hecht"
 	line "hem aan Goldeen om hem te Evolueren."
-	line "Zijn IP neemt dan toe"
-	line "van 40 naar 70."
+	line "Zijn IP neemt dan toe van 40 naar"
+	line "70."
 	done
 
 Turn2DrMason2PracticeDuelText:
@@ -1269,7 +1269,7 @@ SamsPracticeDeckName:
 	done
 
 CharmanderAndFriendsDeckName:
-	text "Charmander & Vrienden"
+	text "Charmander-Vrienden"
 	done
 
 CharmanderExtraDeckName:
@@ -1277,7 +1277,7 @@ CharmanderExtraDeckName:
 	done
 
 SquirtleAndFriendsDeckName:
-	text "Squirtle & Vrienden"
+	text "Squirtle-Vrienden"
 	done
 
 SquirtleExtraDeckName:
@@ -1285,7 +1285,7 @@ SquirtleExtraDeckName:
 	done
 
 BulbasaurAndFriendsDeckName:
-	text "Bulbasaur & Vrienden"
+	text "Bulbasaur-Vrienden"
 	done
 
 BulbasaurExtraDeckName:
@@ -1305,7 +1305,7 @@ GoGoRainDanceDeckName:
 	done
 
 ZappingSelfdestructDeckName:
-	text "Flitsende Zelfvernietiging"
+	text "Zap-Zelfvernietiging"
 	done
 
 FlowerPowerDeckName:
@@ -1313,11 +1313,11 @@ FlowerPowerDeckName:
 	done
 
 StrangePsyshockDeckName:
-	text "Vreemde Psychische Schok"
+	text "Vreemde Breingolf"
 	done
 
 WondersofScienceDeckName:
-	text "Wonderen van Wetenschap"
+	text "Wetenschapswonderen"
 	done
 
 FireChargeDeckName:
@@ -1325,19 +1325,19 @@ FireChargeDeckName:
 	done
 
 LegendaryMoltresDeckName:
-	text "Legendarische Moltres"
+	text "Moltres's Legende"
 	done
 
 LegendaryZapdosDeckName:
-	text "Legendarische Zapdos"
+	text "Zapdos's Legende"
 	done
 
 LegendaryArticunoDeckName:
-	text "Legendarische Articuno"
+	text "Articuno's Legende"
 	done
 
 LegendaryDragoniteDeckName:
-	text "Legendarische Dragonite"
+	text "Dragonite's Legende"
 	done
 
 ImRonaldDeckName:
@@ -1405,7 +1405,7 @@ KaleidoscopeDeckName:
 	done
 
 MusclesforBrainsDeckName:
-	text "Kracht Boven Denkvermogen"
+	text "Kracht Boven Brein"
 	done
 
 HeatedBattleDeckName:
@@ -1421,7 +1421,7 @@ PikachuDeckName:
 	done
 
 BoomBoomSelfdestructDeckName:
-	text "Boem Boem Zelfvernietiging"
+	text "Boem! Zelf Ontploft!"
 	done
 
 PowerGeneratorDeckName:
