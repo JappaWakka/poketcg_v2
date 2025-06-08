@@ -635,11 +635,11 @@ WhatIsADeckBookName:
 	done
 
 WhatIsADeckBookText:
-	text "Een Deck is de stapel Pokémonkaarten"
+	text "Een deck is de stapel Pokémonkaarten"
 	line "die gebruikt wordt bij Duellen."
-	line "Een Deck bestaat uit 60 kaarten."
+	line "Een deck bestaat uit 60 kaarten."
 	line "Er mogen maar 4 kaarten met dezelfde"
-	line "naam in een Deck. Maak je eigen Deck"
+	line "naam in een deck. Maak je eigen deck"
 	line "om het spel te spelen."
 	line "Dit zijn de basisregels van het"
 	line "Pokémon Ruilkaartspel."
@@ -670,7 +670,7 @@ CardsVol2BookText:
 	text "Hecht Energiekaarten aan je Pokémon"
 	line "om ze de kracht te geven die ze"
 	line "nodig hebben om Aan te Vallen. Kies"
-	line "een Energiekaart uit je Hand en"
+	line "een Energiekaart uit je hand en"
 	line "hecht hem aan een Pokémon. je mag"
 	line "maar 1 Energiekaart per"
 	line "beurt hechten."
@@ -698,11 +698,11 @@ WinOrLossOfAMatchVol1BookText:
 	line "verliest, is de Pokémon"
 	line "Uitgeschakeld. Leg de Pokémon"
 	line "en alle eraan gehechte Energie-"
-	line "kaarten op de Weggooistapel."
+	line "kaarten op de weggooistapel."
 	line "Elke keer als je 1 van je"
 	line "tegenstander's Pokémon Uitschakelt,"
 	line "mag je 1 van je Prijskaarten pakken"
-	line "en hem in je Hand nemen."
+	line "en hem in je hand nemen."
 	line "Als je alle Prijskaarten hebt"
 	line "gepakt, win je het spel."
 	done
@@ -714,7 +714,7 @@ WinOrLossOfAMatchVol2BookName:
 WinOrLossOfAMatchVol2BookText:
 	text "Je kan ook winnen als er geen"
 	line "kaarten meer zitten in je"
-	line "tegenstander's Deck aan het"
+	line "tegenstander's deck aan het"
 	line "begin van je tegenstander's"
 	line "beurt. Pas op dat je niet"
 	line "zonder kaarten komt te zitten!"

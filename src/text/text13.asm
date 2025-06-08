@@ -9,7 +9,7 @@ ClairvoyanceName:
 ClairvoyanceDescription:
 	text "Je tegenstander speelt met de"
 	line "afbeeldingen van de kaarten in"
-	line "zijn of haar Hand zichtbaar."
+	line "zijn of haar hand zichtbaar."
 	line "Deze kracht stopt met werken als"
 	line "Omanyte In Slaap, Verward, of"
 	line "Verlamd is."
@@ -419,9 +419,9 @@ EnergySpikeName:
 	done
 
 EnergySpikeDescription:
-	text "Zoek in je Deck naar een Basis-"
+	text "Zoek in je deck naar een Basis-"
 	line "Energiekaart en hecht hem aan 1 van"
-	line "je Pokémon. Schud hierna je Deck."
+	line "je Pokémon. Schud hierna je deck."
 	done
 
 ElectrodeLv35Description:
@@ -727,7 +727,7 @@ PeekDescription:
 	text "Eenmaal tijdens je beurt (vóór je"
 	line "Aanval) mag je naar één van de"
 	line "volgende kijken: de bovenste kaart"
-	line "van het Deck van een speler, een"
+	line "van het deck van een speler, een"
 	line "willekeurige kaart in de hand van je"
 	line "tegenstander, of één van de Prijs-"
 	line "kaarten van een speler."
@@ -1016,9 +1016,9 @@ CallforFriendName:
 	done
 
 CallforFriendDescription:
-	text "Zoek in je Deck naar een <FIGHTING> Basis-"
+	text "Zoek in je deck naar een <FIGHTING> Basis-"
 	line "Pokémonkaart en plaats hem op je"
-	line "Bank. Schud hierna je Deck. (Je"
+	line "Bank. Schud hierna je deck. (Je"
 	line "kunt deze Aanval niet gebruiken"
 	line "als je Bank vol is.)"
 	done
@@ -1053,10 +1053,10 @@ WailName:
 WailDescription:
 	text "Elke speler vult zijn of haar Bank"
 	line "met Basis-Pokémon die op willekeu-"
-	line "rige wijze uit zijn of haar Deck"
+	line "rige wijze uit zijn of haar deck"
 	line "worden gekozen. Als een speler min-"
 	line "der Basis-Pokémon heeft dan dat in"
-	line "zijn of haar Deck, kiest hij of zij"
+	line "zijn of haar deck, kiest hij of zij"
 	line "ze allemaal."
 	done
 

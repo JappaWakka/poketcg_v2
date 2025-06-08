@@ -57,7 +57,7 @@ UnableToUseTrainerDueToHeadacheText:
 
 CannotUsePokemonFluteText:
 	text "Er zitten geen Basis-Pokémon in de"
-	line "Weggooistapel van je tegenstander."
+	line "weggooistapel van je tegenstander."
 	done
 
 UnableToAttackThatPokemonText:
@@ -179,7 +179,7 @@ DrawCardsFromTheDeckText:
 
 CannotDrawCardBecauseNoCardsInDeckText:
 	text "Kan geen kaart pakken omdat er geen"
-	line "kaarten meer in het Deck zitten."
+	line "kaarten meer in het deck zitten."
 	done
 
 ChoosePkmnInTheBenchToGiveDamageText:
@@ -194,7 +194,7 @@ ChooseUpTo3PkmnOnBenchToGiveDamageText:
 
 Choose1BasicEnergyCardFromDeckText:
 	text "Kies een Basis-Energiekaart"
-	line "uit je Deck."
+	line "uit je deck."
 	done
 
 ChoosePokemonToAttachEnergyCardText:
@@ -211,7 +211,7 @@ ChooseAndDiscard2FireEnergyCardsText:
 	done
 
 DiscardOppDeckAsManyFireEnergyCardsText:
-	text "Gooi zoveel kaarten van het Deck"
+	text "Gooi zoveel kaarten van het deck"
 	line "van de tegenstander weg als dat er"
 	line "<FIRE> Energiekaarten weggegooid zijn."
 	done
@@ -222,7 +222,7 @@ ChooseAndDiscard2EnergyCardsText:
 
 ChooseAKrabbyFromDeckText:
 	text "Kies een Krabby"
-	line "uit je Deck."
+	line "uit je deck."
 	done
 
 ChooseDiscardEnergyCardFromOpponentText:
@@ -239,12 +239,12 @@ ChooseAttackOpponentWillNotBeAbleToUseText:
 
 ChooseBasicFightingPokemonFromDeckText:
 	text "Kies een Basis-<FIGHTING>-Pokémon"
-	line "uit je Deck."
+	line "uit je deck."
 	done
 
 ChooseAnOddishFromDeckText:
 	text "Kies een Oddish"
-	line "uit je Deck."
+	line "uit je deck."
 	done
 
 ChooseAnOddishText:
@@ -262,7 +262,7 @@ ChooseBasicEnergyCardText:
 
 ChooseNidoranFromDeckText:
 	text "Kies een Nidoran♀ of een Nidoran♂"
-	line "uit je Deck."
+	line "uit je deck."
 	done
 
 ChooseNidoranText:
@@ -292,7 +292,7 @@ ProcedureForEnergyTransferText:
 
 ChooseABellsproutFromDeckText:
 	text "Kies een Bellsprout"
-	line "uit je Deck."
+	line "uit je deck."
 	done
 
 ChooseABellsproutText:
@@ -320,7 +320,7 @@ ProcedureForCurseText:
 
 Choose2EnergyCardsFromDiscardPileText:
 	text "Kies 2 Energiekaarten uit je"
-	line "Weggooistapel."
+	line "weggooistapel."
 	done
 
 ChooseAnEnergyCardText:
@@ -331,8 +331,8 @@ ChooseAnEnergyCardText:
 ProcedureForProphecyText:
 	text "Hoe je Voorspelling gebruikt:"
 	line ""
-	line "1. Selecteer jouw Deck óf het"
-	line "   Deck van je tegenstander."
+	line "1. Selecteer jouw deck óf het"
+	line "   deck van je tegenstander."
 	line ""
 	line "2. Kies de kaarten die je"
 	line "   bovenop wilt leggen en"
@@ -405,15 +405,15 @@ ChooseOppAttackToBeUsedWithMetronomeText:
 
 ThereIsNoInTheDeckText:
 	text "Er zit geen <RAMTEXT>"
-	line "in het Deck."
+	line "in het deck."
 	done
 
 WouldYouLikeToCheckTheDeckText:
-	text "Wil je het Deck bekijken?"
+	text "Wil je het deck bekijken?"
 	done
 
 PleaseSelectTheDeckText:
-	text "Kies het gewenste Deck:"
+	text "Kies het gewenste deck:"
 	line "            Jouw    Tegenstander's"
 	done
 
@@ -452,7 +452,7 @@ BasicEnergyCardText:
 
 PeekWasUsedToLookInYourHandText:
 	text "Kijkje is gebruikt om te kijken"
-	line "naar <RAMTEXT> in je Hand."
+	line "naar <RAMTEXT> in je hand."
 	done
 
 CardPeekWasUsedOnText:
@@ -462,7 +462,7 @@ CardPeekWasUsedOnText:
 PokemonAndAllAttachedCardsReturnedToHandText:
 	text "<RAMTEXT> en alle eraan"
 	line "gehechte kaarten zijn terug in"
-	line "de Hand genomen."
+	line "de hand genomen."
 	done
 
 WasChosenForTheEffectOfAmnesiaText:
@@ -493,12 +493,12 @@ TheEnergyCardFromPlayAreaWasMovedText:
 
 DrewFireEnergyFromTheHandText:
 	text "<RAMNAME> nam <RAMNUM> <FIRE> Energie"
-	line "uit hun Deck in de hand."
+	line "uit hun deck in de hand."
 	done
 
 ThePkmnCardsInHandAndDeckWereShuffledText:
 	text "De Pokémonkaarten in <RAMNAME>'s"
-	line "Hand en Deck zijn door elkaar"
+	line "hand en deck zijn door elkaar"
 	line "heen geschud."
 	done
 
@@ -513,7 +513,7 @@ ChoosePokemonToHealText:
 
 ChooseCardToDiscardFromHandText:
 	text "Kies de kaart om weg te gooien"
-	line "uit de Hand."
+	line "uit de hand."
 	done
 
 ChoosePokemonToRemoveEnergyFromText:
@@ -523,7 +523,7 @@ ChoosePokemonToRemoveEnergyFromText:
 
 Choose2BasicEnergyCardsFromDiscardPileText:
 	text "Kies 2 Basis-Energiekaarten"
-	line "uit de Weggooistapel."
+	line "uit de weggooistapel."
 	done
 
 UnusedText0154: ; Unused
@@ -531,18 +531,18 @@ UnusedText0154: ; Unused
 	done
 
 Choose2CardsFromHandToDiscardText:
-	text "Kies 2 kaarten uit je Hand"
+	text "Kies 2 kaarten uit je hand"
 	line "om weg te gooien."
 	done
 
 Choose2HandCardsFromHandToReturnToDeckText:
-	text "Kies 2 kaarten uit je Hand om"
-	line "terug in het Deck te stoppen."
+	text "Kies 2 kaarten uit je hand om"
+	line "terug in het deck te stoppen."
 	done
 
 ChooseCardToPlaceInHandText:
 	text "Kies een kaart om"
-	line "in je Hand te nemen."
+	line "in je hand te nemen."
 	done
 
 ChoosePokemonToAttachDefenderToText:
@@ -557,7 +557,7 @@ UnusedText0159: ; Unused
 
 ChoosePokemonToReturnToTheDeckText:
 	text "Kies een Pokémon om terug"
-	line "in het Deck te stoppen."
+	line "in het deck te stoppen."
 	done
 
 ChoosePokemonToPlaceInPlayText:
@@ -576,7 +576,7 @@ ChoosePokemonToScoopUpText:
 	done
 
 ChoosePokemonFromYourHandText:
-	text "Kies een Pokémon uit je Hand."
+	text "Kies een Pokémon uit je hand."
 	done
 
 UnusedText015f: ; Unused
@@ -584,7 +584,7 @@ UnusedText015f: ; Unused
 	done
 
 ChoosePokemonFromDeckText:
-	text "Kies een Pokémon uit het Deck."
+	text "Kies een Pokémon uit het deck."
 	done
 
 ChoosePokemonCardText:
@@ -593,11 +593,11 @@ ChoosePokemonCardText:
 
 RearrangeThe5CardsAtTopOfDeckText:
 	text "Herschik de 5 kaarten"
-	line "bovenop het Deck."
+	line "bovenop het deck."
 	done
 
 PleaseCheckTheOpponentsHandText:
-	text "Bekijk de tegenstander's Hand."
+	text "Bekijk de tegenstander's hand."
 	done
 
 UnusedText0164: ; Unused
@@ -625,7 +625,7 @@ ChoosePokemonInYourAreaThenPokemonInYourOppText:
 
 ChooseUpTo4FromDiscardPileText:
 	text "Kies ten hoogste 4 Basis-Energie-"
-	line "kaarten uit je Weggooistapel."
+	line "kaarten uit je weggooistapel."
 	done
 
 UnusedText016a: ; Unused
@@ -634,11 +634,11 @@ UnusedText016a: ; Unused
 
 PokemonAndAllAttachedCardsWereReturnedToDeckText:
 	text "<RAMTEXT> en alle eraan gehechte"
-	line "kaarten zijn in het Deck gestopt."
+	line "kaarten zijn in het deck gestopt."
 	done
 
 PokemonWasReturnedToHandText:
-	text "<RAMTEXT> is terug in de Hand"
+	text "<RAMTEXT> is terug in de hand"
 	line "genomen."
 	done
 
@@ -648,11 +648,11 @@ UnusedText016d: ; Unused
 
 PokemonWasReturnedToDeckText:
 	text "<RAMTEXT> is terug in het"
-	line "Deck gestopt."
+	line "deck gestopt."
 	done
 
 WasPlacedInTheHandText:
-	text "<RAMTEXT> is in de Hand"
+	text "<RAMTEXT> is in de hand"
 	line "geplaatst."
 	done
 
@@ -676,12 +676,12 @@ ChooseTheCardToDiscardText:
 
 DiscardedCardsFromDeckText:
 	text "<RAMNUM> kaarten weggegooid"
-	line "van <RAMNAME>'s Deck."
+	line "van <RAMNAME>'s deck."
 	done
 
 UnusedText0175: ; Unused
 	text "Gooide <RAMTEXT>"
-	line "weg uit de Hand."
+	line "weg uit de hand."
 	done
 
 UnusedText0176: ; Unused
@@ -694,7 +694,7 @@ UnusedText0177: ; Unused
 
 DuelistHasNoCardsInHandText:
 	text "<RAMNAME> heeft"
-	line "geen kaarten in de Hand!"
+	line "geen kaarten in de hand!"
 	done
 
 PokemonHealedDamageText:
@@ -709,7 +709,7 @@ PokemonDevolvedToText:
 
 ThereWasNoFireEnergyText:
 	text "Er zat geen <FIRE> Energie"
-	line "in je Deck."
+	line "in je deck."
 	done
 
 YouCanSelectMoreCardsQuitText:
@@ -751,7 +751,7 @@ ThereWasNoEffectFromPoisonConfusionText:
 	done
 
 RearrangedCardsInDuelistsDeckText:
-	text "<RAMNAME>'s Deck was herschikt."
+	text "<RAMNAME>'s deck was herschikt."
 	done
 UnusedText0185: ; Unused
 
@@ -921,7 +921,7 @@ PutPokemonOnBenchPracticeDuelText:
 	line "Pokémon."
 	line "Nogmaals, je kunt alleen Basis-"
 	line "Pokémon op de Bank plaatsen."
-	line "Kies Staryu uit je Hand en"
+	line "Kies Staryu uit je hand en"
 	line "leg hem daar neer."
 	done
 
@@ -982,7 +982,7 @@ Turn3Instr3PracticeDuelText:
 	done
 
 Turn4Instr1PracticeDuelText:
-	text "1. Neem Drowzee uit je Hand"
+	text "1. Neem Drowzee uit je hand"
 	line "   en plaats hem op je Bank."
 	done
 
@@ -998,7 +998,7 @@ Turn4Instr3PracticeDuelText:
 
 Turn5Instr1PracticeDuelText:
 	text "1. Kies een Water Energiekaart uit"
-	line "   je Hand en hecht hem aan"
+	line "   je hand en hecht hem aan"
 	line "   Staryu."
 	done
 
@@ -1009,7 +1009,7 @@ Turn5Instr2PracticeDuelText:
 
 Turn6Instr1PracticeDuelText:
 	text "1. Kies de Trainerkaart Drankje"
-	line "   uit je Hand om Staryu's IP"
+	line "   uit je hand om Staryu's IP"
 	line "   te herstellen."
 	done
 
@@ -1083,7 +1083,7 @@ Turn1DrMason3PracticeDuelText:
 Turn2DrMason1PracticeDuelText:
 	text "Je Goldeen wordt straks Uitgescha-"
 	line "keld, dus laten we hem Evolueren!"
-	line "Kies Seaking uit je Hand en hecht"
+	line "Kies Seaking uit je hand en hecht"
 	line "hem aan Goldeen om hem te Evolueren."
 	line "Zijn IP neemt dan toe van 40 naar"
 	line "70."
@@ -1158,7 +1158,7 @@ Turn5DrMason1PracticeDuelText:
 	line "Starmie's Aanval te gebruiken"
 	line "als hij in Starmie evolueert."
 	line "Kies de Water Energiekaart uit"
-	line "je Hand en hecht hem aan Staryu."
+	line "je hand en hecht hem aan Staryu."
 	done
 
 Turn5DrMason2PracticeDuelText:
@@ -1169,7 +1169,7 @@ Turn5DrMason2PracticeDuelText:
 Turn6DrMason1PracticeDuelText:
 	text "Herstel nu Staryu's IP met een"
 	line "Trainerkaart."
-	line "Kies Drankje uit je Hand."
+	line "Kies Drankje uit je hand."
 	done
 
 Turn6DrMason2PracticeDuelText:
@@ -1187,7 +1187,7 @@ Turn6DrMason3PracticeDuelText:
 Turn7DrMason1PracticeDuelText:
 	text "Je hebt eindelijk een Starmie-"
 	line "kaart gepakt!"
-	line "Kies Starmie uit je Hand en"
+	line "Kies Starmie uit je hand en"
 	line "gebruik hem om Staryu te Evolueren."
 	done
 
@@ -1261,11 +1261,11 @@ UnusedText01dd: ; Unused
 	done
 
 PracticePlayerDeckName:
-	text "Speler's Oefen-"
+	text "Speler's Oefen"
 	done
 
 SamsPracticeDeckName:
-	text "Sam's Oefen-"
+	text "Sam's Oefen"
 	done
 
 CharmanderAndFriendsDeckName:
@@ -1605,7 +1605,7 @@ NewDeckText:
 	done
 
 PleaseSelectDeckText:
-	text "Kies een Deck."
+	text "Kies een deck."
 	done
 
 ModifyDeckText:
@@ -1630,7 +1630,7 @@ NoDeckText:
 
 ChosenAsDuelingDeckText:
 	text "<RAMTEXT> is gekozen"
-	line "als het dueleer-Deck!"
+	line "als het dueleerdeck!"
 	done
 
 Deck1Text:
@@ -1650,7 +1650,7 @@ Deck4Text:
 	done
 
 ThereIsNoDeckHereText:
-	text "Er is hier geen Deck!"
+	text "Er is hier geen deck!"
 	done
 
 ConfirmText:

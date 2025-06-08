@@ -132,7 +132,7 @@ ScavengeDescription:
 	text "Gooi 1 aan Slowpoke gehechte <PSYCHIC>"
 	line "Energiekaart weg om deze Aanval te"
 	line "kunnen gebruiken. Neem een Trainerkaart"
-	line "uit je Weggooistapel in je hand."
+	line "uit je weggooistapel in je hand."
 	done
 
 SlowbroName:
@@ -214,7 +214,7 @@ EnergyConversionName:
 
 EnergyConversionDescription:
 	text "Neem ten hoogste 2 Energiekaarten"
-	line "uit je Weggooistapel in je hand."
+	line "uit je weggooistapel in je hand."
 	line "Gastly doet 10 schade aan zichzelf."
 	done
 
@@ -465,7 +465,7 @@ EnergyAbsorptionName:
 
 EnergyAbsorptionDescription:
 	text "Kies ten hoogste 2 Energiekaarten"
-	line "uit je Weggooistapel en hecht ze"
+	line "uit je weggooistapel en hecht ze"
 	line "aan Mewtwo."
 	done
 
@@ -859,7 +859,7 @@ FriendshipSongName:
 FriendshipSongDescription:
 	text "Gooi een munt op. Als het kop is,"
 	line "plaats een Pokémon-kaart op wille-"
-	line "keurige wijze gekozen uit je Deck"
+	line "keurige wijze gekozen uit je deck"
 	line "op je Bank. Je kunt deze Aanval"
 	line "niet gebruiken als je Bank vol is.)"
 	done
@@ -1192,7 +1192,7 @@ MorphDescription:
 	line "Ditto. Vervang Ditto voor de rest"
 	line "van het spel met een kopie van een"
 	line "op willekeurige wijze gekozen"
-	line "Basis-Pokémon uit je Deck"
+	line "Basis-Pokémon uit je deck"
 	line "(anders dan Ditto)."
 	done
 

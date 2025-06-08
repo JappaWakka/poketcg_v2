@@ -267,7 +267,7 @@ UnableToRetreatText:
 
 MayOnlyAttachOneEnergyCardText:
 	text "Je mag maar 1 Energiekaart"
-	line "hechten uit je Hand per beurt."
+	line "hechten uit je hand per beurt."
 	done
 
 UseThisPokemonPowerText:
@@ -275,8 +275,8 @@ UseThisPokemonPowerText:
 	done
 
 PokemonPowerSelectNotRequiredText:
-	text "You do not need to select the"
-	line "Pokémon Power to use it."
+	text "Je hoeft deze Pokémon-Kracht niet"
+	line "te selecteren om hem te gebruiken."
 	done
 
 DiscardDescription:
@@ -441,16 +441,16 @@ PlacedInTheArenaText:
 	done
 
 ShufflesTheDeckText:
-	text "<RAMNAME> schudt het Deck."
+	text "<RAMNAME> schudt het deck."
 	done
 
 ThisIsJustPracticeDoNotShuffleText:
 	text "Omdat we alleen maar oefenen,"
-	line "hoef je niet je Deck te schudden."
+	line "hoef je niet je deck te schudden."
 	done
 
 EachPlayerShuffleOpponentsDeckText:
-	text "Elke speler schudt het Deck"
+	text "Elke speler schudt het deck"
 	line "van de tegenstander."
 	done
 
@@ -464,7 +464,7 @@ Drew7CardsText:
 	done
 
 DeckHasXCardsText:
-	text "<RAMNAME>'s Deck heeft <RAMNUM> kaarten."
+	text "<RAMNAME>'s deck heeft <RAMNUM> kaarten."
 	done
 
 ChooseBasicPkmnToPlaceInArenaText:
@@ -474,16 +474,16 @@ ChooseBasicPkmnToPlaceInArenaText:
 
 ThereAreNoBasicPokemonInHand:
 	text "Er zitten geen Basis-Pokémon"
-	line "in <RAMNAME>'s Hand."
+	line "in <RAMNAME>'s hand."
 	done
 
 NeitherPlayerHasBasicPkmnText:
 	text "Geen van beide spelers heeft Basis-"
-	line "Pokémon in zijn of haar Hand."
+	line "Pokémon in zijn of haar hand."
 	done
 
 ReturnCardsToDeckAndDrawAgainText:
-	text "Schud je kaarten door je Deck"
+	text "Schud je kaarten door je deck"
 	line "heen en pak opnieuw 7 kaarten."
 	done
 
@@ -681,7 +681,7 @@ UnusedText0096: ; Unused
 	line "Gezond"
 	line "Gifgas"
 	line "Tegenstander's Hand"
-	line "Gooi weg uit Hand"
+	line "Gooi Weg uit Hand"
 	line "Kies Deck"
 	line "Kies Weggooistapel"
 	line "Van Hand naar Deck"
@@ -779,12 +779,12 @@ YourDataWasDestroyedSomehowText:
 	done
 
 NoCardsInHandText:
-	text "Geen kaarten in Hand."
+	text "Geen kaarten in de hand."
 	done
 
 TheDiscardPileHasNoCardsText:
 	text "Er zitten geen kaarten"
-	line "in de Weggooistapel."
+	line "in de weggooistapel."
 	done
 
 UnusedText00a6: ; Unused
@@ -828,17 +828,17 @@ NoEnergyAttachedToOpponentsActiveText:
 
 NoEnergyCardsInDiscardPileText:
 	text "Er zitten geen Energiekaarten"
-	line "in je Weggooistapel."
+	line "in je weggooistapel."
 	done
 
 NoBasicEnergyCardsInDiscardPileText:
 	text "Er zitten geen Basis-Energiekaarten"
-	line "in je Weggooistapel."
+	line "in je weggooistapel."
 	done
 
 NoCardsLeftInTheDeckText:
 	text "Er zitten geen kaarten meer in"
-	line "het Deck."
+	line "het deck."
 	done
 
 NoSpaceOnTheBenchText:
@@ -863,7 +863,7 @@ NotAffectedBySpecialConditionsText:
 
 NotEnoughCardsInHandText:
 	text "Je hebt niet genoeg kaarten"
-	line "in je Hand."
+	line "in je hand."
 	done
 
 YouNoBenchedPokemonText:
@@ -872,7 +872,7 @@ YouNoBenchedPokemonText:
 
 NoBasicPokemonInYourDiscardPileText:
 	text "Er zitten geen Basis-Pokémon"
-	line "in je Weggooistapel."
+	line "in je weggooistapel."
 	done
 
 ConditionsForEvolvingToStage2NotFulfilledText:
@@ -886,7 +886,7 @@ NoPokemonInHandText:
 
 NoCardsInTheDiscardPileText:
 	text "Er zitten geen kaarten in de"
-	line "Weggooistapel."
+	line "weggooistapel."
 	done
 
 NoEvolvedPokemonText:
@@ -931,7 +931,7 @@ NoAttackMayBeChosenText:
 	
 NoTrainerCardsInDiscardPileText:
 	text "Er zitten geen Trainerkaarten"
-	line "in je Weggooistapel."
+	line "in je weggooistapel."
 	done
 
 NoAttackMayBeChoosenText:
@@ -1097,7 +1097,7 @@ UnusedText00e6: ; Unused
 
 IfHeadsDraw1CardFromDeckText:
 	text "Als het kop is,"
-	line "pak 1 kaart van het Deck!"
+	line "pak 1 kaart van het deck!"
 	done
 
 FlipUntilFailAppears10DamageForEachHeadsText:

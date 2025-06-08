@@ -332,18 +332,18 @@ MixUpName:
 MixUpDescription:
 	text "Als je tegenstander Basis-Pokémon"
 	line "of Evolutiekaarten in zijn of haar"
-	line "Hand heeft, schudt je tegenstander"
-	line "die kaarten door zijn of haar Deck"
+	line "hand heeft, schudt je tegenstander"
+	line "die kaarten door zijn of haar deck"
 	line "heen. Daarna neemt je tegenstander"
 	line "een gelijk aantal Basis-Pokémon"
 	line "en/of Evolutiekaarten uit zijn"
 	done
 
 MixUpDescriptionCont:
-	line "of haar Deck in zijn of haar Hand,"
+	line "of haar deck in zijn of haar hand,"
 	line "op willekeurige wijze gekozen."
 	line "Hierna schudt je tegenstander"
-	line "opnieuw zijn of haar Deck."
+	line "opnieuw zijn of haar deck."
 	done
 
 DancingEmbersName:
@@ -598,7 +598,7 @@ WildfireDescription:
 	line "Energiekaarten weggooien als je"
 	line "wilt. Als je dit doet, gooi dan net"
 	line "zoveel kaarten weg van de bovenkant"
-	line "van je tegenstander's Deck."
+	line "van je tegenstander's deck."
 	done
 
 DiveBombName:
@@ -622,8 +622,8 @@ FiregiverDescription:
 	line "tijdens het opzetten van het spel),"
 	line "neem je 1 tot 4 (op willekeurige"
 	line "wijze gekozen) <FIRE> Energiekaarten"
-	line "uit je Deck in je Hand. Schud hierna"
-	line "je Deck."
+	line "uit je deck in je hand. Schud hierna"
+	line "je deck."
 	done
 
 MoltresLv37Description:
@@ -877,7 +877,7 @@ CowardiceName:
 CowardiceDescription:
 	text "Op welk moment dan ook tijdens je"
 	line "beurt (vóór je Aanval) mag je"
-	line "Tentacool weer terug in je Hand"
+	line "Tentacool weer terug in je hand"
 	line "nemen. (Gooi alle aan Tentacool"
 	line "gehechte kaarten weg.) Deze kracht"
 	line "kan niet worden gebruikt tijdens de"
@@ -1013,10 +1013,10 @@ KrabbyName:
 	done
 
 KrabbysCallForFamilyDescription:
-	text "Zoek in je Deck naar een Basis-"
+	text "Zoek in je deck naar een Basis-"
 	line "Pokémon met de naam Krabby"
 	line "en plaats deze op je Bank. Schud"
-	line "hierna je Deck. (Je kunt deze"
+	line "hierna je deck. (Je kunt deze"
 	line "Aanval niet gebruiken als je"
 	line "Bank vol is.)"
 	done

@@ -1,25 +1,25 @@
 ThereIsOnly1DeckSoCannotBeDismantledText:
-	text "Er is maar 1 Deck, dus dit Deck"
+	text "Er is maar 1 deck, dus dit deck"
 	line "kan niet ontmanteld worden."
 	done
 
 ThereAreNoBasicPokemonInThisDeckText:
 	text "Er zitten geen Basis-Pokémon"
-	line "in dit Deck!"
+	line "in dit deck!"
 	done
 
 YouMustIncludeABasicPokemonInTheDeckText:
 	text "Je moet altijd een Basis-Pokémon"
-	line "in je Deck stoppen!"
+	line "in je deck stoppen!"
 	done
 
 ThisIsntA60CardDeckText:
-	text "Dit is geen Deck van 60 kaarten!"
+	text "Dit is geen deck van 60 kaarten!"
 	done
 
 TheDeckMustInclude60CardsText:
 	text "Er moeten altijd 60 kaarten in je"
-	line "Deck zitten!"
+	line "deck zitten!"
 	done
 
 ReturnToOriginalConfigurationText:
@@ -27,15 +27,15 @@ ReturnToOriginalConfigurationText:
 	done
 
 SaveThisDeckText:
-	text "Dit Deck opslaan?"
+	text "Dit deck opslaan?"
 	done
 
 QuitModifyingTheDeckText:
-	text "Stoppen met het Deck aanpassen?"
+	text "Stoppen met het deck aanpassen?"
 	done
 
 DismantleThisDeckText:
-	text "Dit Deck ontmantelen?"
+	text "Dit deck ontmantelen?"
 	done
 
 NoCardsChosenText: ; Unused
@@ -187,19 +187,19 @@ DeckSaveMachineText:
 	done
 
 SaveADeckText:
-	text "Sla een Deck op"
+	text "Sla een deck op"
 	done
 
 DeleteADeckText:
-	text "Verwijder Deck"
+	text "Verwijder deck"
 	done
 
 BuildADeckText:
-	text "Bouw een Deck"
+	text "Bouw een deck"
 	done
 
 ChooseADeckToSaveText:
-	text "Kies een Deck om op te slaan."
+	text "Kies een deck om op te slaan."
 	done
 
 SavedTheConfigurationForText:
@@ -209,7 +209,7 @@ SavedTheConfigurationForText:
 	done
 
 NoDeckIsSavedText:
-	text "Er is geen Deck opgeslagen."
+	text "Er is geen deck opgeslagen."
 	done
 
 DoYouReallyWishToDeleteText:
@@ -223,11 +223,11 @@ DeletedTheConfigurationForText:
 	done
 
 YouMayOnlyCarry4DecksText:
-	text "Je mag maar 4 Decks hebben!"
+	text "Je mag maar 4 decks hebben!"
 	done
 
 ChooseADeckToDismantleText:
-	text "Kies Deck om te ontmantelen."
+	text "Kies deck om te ontmantelen."
 	done
 
 DismantledDeckText:
@@ -237,13 +237,13 @@ DismantledDeckText:
 	done
 
 ThisDeckCanOnlyBeBuiltIfYouDismantleText:
-	text "Je kunt dit Deck alleen bouwen"
-	line "als je een ander Deck ontmantelt."
+	text "Je kunt dit deck alleen bouwen"
+	line "als je een ander deck ontmantelt."
 	done
 
 YouDoNotOwnAllCardsNeededToBuildThisDeckText:
 	text "Je hebt niet alle kaarten die"
-	line "je nodig hebt voor dit Deck."
+	line "je nodig hebt voor dit deck."
 	done
 
 BuiltDeckText:
@@ -253,15 +253,15 @@ BuiltDeckText:
 
 TheseCardsAreNeededToBuildThisDeckText:
 	text "Deze kaarten zijn nodig"
-	line "voor dit Deck:"
+	line "voor dit deck:"
 	done
 
 DismantleTheseDecksText:
-	text "Deze Decks ontmantelen?"
+	text "Deze decks ontmantelen?"
 	done
 
 DismantledTheDeckText:
-	text "Het Deck ontmanteld."
+	text "Het deck ontmanteld."
 	done
 
 OKIfFileDeletedText:
@@ -283,7 +283,7 @@ PleaseChooseDeckConfigurationToPrintText:
 	done
 
 PrintThisDeckText:
-	text "Dit Deck printen?"
+	text "Dit deck printen?"
 	done
 
 PrintTheCardListText:
@@ -613,32 +613,32 @@ MysteriousPokemonText:
 	done
 
 AllFightingPokemonDescriptionText:
-	text "Een Deck met Vecht-Pokémon:"
+	text "Een deck met Vecht-Pokémon:"
 	line "Voel hun Vecht-kracht!"
 	done
 
 BenchAttackDescriptionText:
-	text "Een Deck met Pokémon die de"
+	text "Een deck met Pokémon die de"
 	line "Bank Aan kunnen Vallen."
 	done
 
 BattleContestDescriptionText:
-	text "Een Deck dat Vecht-technieken"
+	text "Een deck dat Vecht-technieken"
 	line "gebruikt zoals Hak en Slag."
 	done
 
 HeatedBattleDescriptionText:
-	text "Een sterk Deck met zowel"
+	text "Een sterk deck met zowel"
 	line "Vuur- als Vecht-Pokémon."
 	done
 
 FirstStrikeDescriptionText:
-	text "Een Deck voor snelle en"
+	text "Een deck voor snelle en"
 	line "furieuze Aanvallen."
 	done
 
 SqueakingMouseDescriptionText:
-	text "Een Deck gebouwd met Muis-Pokémon."
+	text "Een deck gebouwd met Muis-Pokémon."
 	line "Versterk ze met Pluskracht!"
 	done
 
@@ -648,27 +648,27 @@ GreatQuakeDescriptionText:
 	done
 
 BoneAttackDescriptionText:
-	text "Een Deck met Cubone en Marowak -"
+	text "Een deck met Cubone en Marowak -"
 	line "Een roep om hulp."
 	done
 
 ExcavationDescriptionText:
-	text "Een Deck die Pokémon maakt door"
+	text "Een deck die Pokémon maakt door"
 	line "Mysterieuze Fossielen te Evolueren."
 	done
 
 RockCrusherDescriptionText:
-	text "Een Deck met Steen-Pokémon. Het"
+	text "Een deck met Steen-Pokémon. Het"
 	line "is sterk tegen Bliksem-Pokémon."
 	done
 
 BlueWaterDescriptionText:
-	text "Een Deck met Water-Pokémon: Hun"
+	text "Een deck met Water-Pokémon: Hun"
 	line "Blauwe Gruwel overspoelt vijanden."
 	done
 
 OnTheBeachDescriptionText:
-	text "Een goed gebalanceerd Deck"
+	text "Een goed gebalanceerd deck"
 	line "met Sandshrew en Water-Pokémon!"
 	done
 
@@ -688,7 +688,7 @@ RainDancerDescriptionText:
 	done
 
 CutePokemonDescriptionText:
-	text "Een Deck met schattige Pokémon"
+	text "Een deck met schattige Pokémon"
 	line "zoals Pikachu en Eevee."
 	done
 
@@ -703,7 +703,7 @@ YellowFlashDescriptionText:
 	done
 
 ElectricShockDescriptionText:
-	text "Een Deck dat vijanden Schokt en"
+	text "Een deck dat vijanden Schokt en"
 	line "Verlamt met zijn Aanvallen."
 	done
 
@@ -713,17 +713,17 @@ ZappingSelfdestructDescriptionText:
 	done
 
 InsectCollectionDescriptionText:
-	text "Een Deck vol met Insect-Pokémon"
+	text "Een deck vol met Insect-Pokémon"
 	line "Doe je best, Insectenkracht!"
 	done
 
 JungleDescriptionText:
-	text "Een Deck met Gras-Pokémon: Er"
+	text "Een deck met Gras-Pokémon: Er"
 	line "hult veel gevaar in het oerwoud."
 	done
 
 FlowerGardenDescriptionText:
-	text "Een Deck met Bloem-Pokémon:"
+	text "Een deck met Bloem-Pokémon:"
 	line "Beeldschoon maar Gevaarlijk"
 	done
 
@@ -749,7 +749,7 @@ DreamEaterHaunterDescriptionText:
 
 ScavengingSlowbroDescriptionText:
 	text "Pak de hele tijd Trainerkaarten"
-	line "van de Weggooistapel!"
+	line "van de weggooistapel!"
 	done
 
 StrangePowerDescriptionText:
@@ -778,7 +778,7 @@ FlyinPokemonDescriptionText:
 	done
 
 PoisonDescriptionText:
-	text "Een Deck dat Vergif gebruikt om"
+	text "Een deck dat Vergif gebruikt om"
 	line "vijanden langzaam Uit te Schakelen."
 	done
 
@@ -788,7 +788,7 @@ WondersOfScienceDescriptionText:
 	done
 
 ReplaceEmAllDescriptionText:
-	text "Een Deck dat de tegenstander's"
+	text "Een deck dat de tegenstander's"
 	line "kaarten door elkaar schudt."
 	done
 
@@ -813,18 +813,18 @@ FireChargeDescriptionText:
 	done
 
 CharmanderAndFriendsDescriptionText:
-	text "Een Vuur-, Gras- en Water-Deck:"
+	text "Een Vuur-, Gras- en Water-deck:"
 	line "Charmander, Pinsir en Seel"
 	done
 
 SquirtleAndFriendsDescriptionText:
-	text "Een Water-, Vuur-, and Bliksem-Deck:"
+	text "Een Water-, Vuur-, and Bliksem-deck:"
 	line "Squirtle, Charmander en Pikachu"
 	done
 
 BulbasaurAndFriendsDescriptionText:
 	text "Een Gras-, Bliksem- en Psychisch-"
-	line "Deck: Bulbasaur, Pikachu en Abra"
+	line "deck: Bulbasaur, Pikachu en Abra"
 	done
 
 PsychicMachampDescriptionText:
@@ -833,7 +833,7 @@ PsychicMachampDescriptionText:
 	done
 
 WaterBeetleDescriptionText:
-	text "Een Evolutie-Deck met Weedle,"
+	text "Een Evolutiedeck met Weedle,"
 	line "Nidoran♂ en Bellsprout."
 	done
 
@@ -858,7 +858,7 @@ LegendaryDragoniteDescriptionText:
 	done
 
 MysteriousPokemonDescriptionText:
-	text "Een erg speciaal Deck met zeer"
+	text "Een erg speciaal deck met zeer"
 	line "zeldzame Pokémonkaarten!"
 	done
 
@@ -1010,7 +1010,7 @@ ActivePokemonAndBenchDescriptionText:
 
 PrizesDescriptionText:
 	text " Prijzen zijn willekeurige kaarten"
-	line " uit je Deck die aan het begin van"
+	line " uit je deck die aan het begin van"
 	line " het spel met de beeldzijde naar"
 	line " beneden worden gelegd. Telkens"
 	line " wanneer een Pokémon van je"
@@ -1026,36 +1026,36 @@ PrizesDescriptionText:
 	done
 
 TheDeckDescriptionText:
-	text " Het Deck van een speler bestaat"
+	text " Het deck van een speler bestaat"
 	line " uit een combinatie van Pokémon-,"
 	line " Trainer- en Energiekaarten."
-	line " Elk Deck moet precies 60 kaarten"
+	line " Elk deck moet precies 60 kaarten"
 	line " bevatten. Zodra een wedstrijd"
 	line " begint, kan niemand de kaarten in"
-	line " het Deck van een speler bekijken of"
+	line " het deck van een speler bekijken of"
 	line " herschikken, tenzij dit wordt"
 	line " aangegeven door een kaarteffect."
 	line " Spelers beginnen elke beurt met het"
-	line " trekken van een kaart uit hun Deck."
+	line " trekken van een kaart uit hun deck."
 	line " Als een speler dit niet kan doen"
-	line " omdat zijn Deck leeg is, verliest"
+	line " omdat zijn deck leeg is, verliest"
 	line " die speler het spel."
 	done
 
 TheDiscardPileDescriptionText:
 	text " Weggegooide kaarten gaan naar"
-	line " de Weggooistapel van de eigenaar,"
+	line " de weggooistapel van de eigenaar,"
 	line " en als een Pokémon wordt Uitge-"
 	line " schakeld, gaat hij samen met de"
 	line " bijbehorende kaarten naar de"
-	line " Weggooistapel. Kaarten op de"
-	line " Weggooistapel worden niet als in"
+	line " weggooistapel. Kaarten op de"
+	line " weggooistapel worden niet als in"
 	line " het spel beschouwd."
 	line ""
 	line "   Druk op B+Links om je eigen"
-	line "   Weggooistapel te bekijken."
+	line "   weggooistapel te bekijken."
 	line "   Druk op B+Rechts om de"
-	line "   Weggooistapel van je tegen-"
+	line "   weggooistapel van je tegen-"
 	line "   stander te bekijken."
 	done
 
@@ -1066,7 +1066,7 @@ TheHandDescriptionText:
 	line " worden."
 	line ""
 	line " Er is geen limiet aan het aantal"
-	line " kaarten in de Hand van een speler."
+	line " kaarten in de hand van een speler."
 	line " Je kunt niet naar de hand van je"
 	line " tegenstander kijken, tenzij een"
 	line " kaart zegt dat je dat moet doen."
@@ -1084,10 +1084,10 @@ BasicPokemonDescriptionText:
 	line " zijn voorbeelden van Basis-Pokémon."
 	line ""
 	line " Basis-Pokémon kunnen rechtstreeks"
-	line " vanuit je Hand in het spel worden"
+	line " vanuit je hand in het spel worden"
 	line " gebracht."
 	line ""
-	line " Elk Deck moet minstens 1 Basis-"
+	line " Elk deck moet minstens 1 Basis-"
 	line " Pokémon bevatten."
 	done
 
@@ -1130,7 +1130,7 @@ EnergyCardsDescriptionText:
 	line " te vallen. Als je een Energiekaart"
 	line " speelt, hecht je deze aan 1 van je"
 	line " Pokémon. Je kunt elke beurt maar 1"
-	line " Energiekaart uit je Hand spelen."
+	line " Energiekaart uit je hand spelen."
 	line ""
 	line " Er zijn 6 types Basis-Energie:"
 	line "  <GRASS> Gras         <FIRE> Vuur"
@@ -1359,7 +1359,7 @@ UnusedText0321: ; Unused
 	done
 
 UnusedText0322: ; Unused
-	text "Eerste Slag-Deck"
+	text "Eerste Slag Deck"
 	line ""
 	done
 

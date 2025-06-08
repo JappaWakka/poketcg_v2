@@ -48,7 +48,7 @@ Text05f1:
 Text05f2:
 	text "Hmm... laat me wat van mijn kaarten"
 	line "aan die van jou toevoegen!"
-	line "Oké, <RAMNAME>, wat voor Deck"
+	line "Oké, <RAMNAME>, wat voor deck"
 	line "zou je willen?"
 	done
 
@@ -76,7 +76,7 @@ Text05f6:
 	line "Er zitten altijd heel veel"
 	line "mensen te spelen in die clubs."
 	line "Verzamel nieuwe kaarten en"
-	line "probeer een nieuw Deck te bouwen!"
+	line "probeer een nieuw deck te bouwen!"
 	done
 
 Text05f7:

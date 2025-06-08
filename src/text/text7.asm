@@ -616,14 +616,14 @@ ItsTheChallengeMachineText:
 Tech1MasterMedalExplanationText:
 	text "De 8 Clubmeesters hebben elk een"
 	line "Meestermedaille in hun bezit."
-	line "Het geheim van de Decks van elke"
+	line "Het geheim van de decks van elke"
 	line "Club staat gegraveerd in hun"
 	line "Meestermedaille. Wanneer je een"
 	line "Medaille wint, ga naar de"
 	line "computerkamer hiernaast."
 	line "Je kan de Meestermedailles in de"
-	line "Auto-Deck-Machines plaatsen om"
-	line "andere Decks te bouwen!"
+	line "Auto-Deckmachines plaatsen om"
+	line "andere decks te bouwen!"
 	done
 
 Tech1AutoDeckMachineExplanationText:

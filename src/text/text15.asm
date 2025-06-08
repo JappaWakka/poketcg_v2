@@ -76,7 +76,7 @@ ProfessorOakName:
 	done
 
 ProfessorOakDescription:
-	text "Gooi je Hand weg en pak dan"
+	text "Gooi je hand weg en pak dan"
 	line "7 kaarten."
 	done
 
@@ -86,7 +86,7 @@ ImposterProfessorOakName:
 
 ImposterProfessorOakDescription:
 	text "Je tegenstander schudt zijn of haar"
-	line "Hand door zijn of haar Deck en"
+	line "hand door zijn of haar deck en"
 	line "pakt vervolgens 7 kaarten."
 	done
 
@@ -105,7 +105,7 @@ MrFujiName:
 MrFujiDescription:
 	text "Kies een van je Pokémon op de Bank."
 	line "Schud die kaart en alle kaarten die"
-	line "eraan gehecht zijn door je Deck"
+	line "eraan gehecht zijn door je deck"
 	line "heen."
 	done
 
@@ -117,7 +117,7 @@ LassDescription:
 	text "Jij en je tegenstander laten elkaar"
 	line "jullie hand zien, en schudden dan"
 	line "alle Trainerkaarten in jullie hand"
-	line "door jullie Deck heen."
+	line "door jullie deck heen."
 	done
 
 ImakuniName:
@@ -146,9 +146,9 @@ PokemonTraderDescription:
 	text "Ruil 1 van de Basis-Pokémon- of"
 	line "Evolutiekaarten in je hand met 1 van"
 	line "de Basis-Pokémon- of Evolutiekaarten"
-	line "uit je Deck. Laat beide kaarten aan"
+	line "uit je deck. Laat beide kaarten aan"
 	line "je tegenstander zien. Schud hierna"
-	line "je Deck."
+	line "je deck."
 	done
 
 PokemonBreederName:
@@ -218,7 +218,7 @@ EnergyRetrievalName:
 EnergyRetrievalDescription:
 	text "Ruil 1 van de andere kaarten in"
 	line "je hand met ten hoogste 2 Basis-"
-	line "Energiekaarten uit je Weggooistapel."
+	line "Energiekaarten uit je weggooistapel."
 	done
 
 SuperEnergyRetrievalName:
@@ -228,7 +228,7 @@ SuperEnergyRetrievalName:
 SuperEnergyRetrievalDescription:
 	text "Ruil 2 van de andere kaarten in"
 	line "je hand met ten hoogste 4 Basis-"
-	line "Energiekaarten uit je Weggooistapel."
+	line "Energiekaarten uit je weggooistapel."
 	done
 
 EnergySearchName:
@@ -236,9 +236,9 @@ EnergySearchName:
 	done
 
 EnergySearchDescription:
-	text "Zoek in je Deck naar een Basis-"
+	text "Zoek in je deck naar een Basis-"
 	line "Energiekaart en neem hem in je hand."
-	line "Schud hierna je Deck."
+	line "Schud hierna je deck."
 	done
 
 EnergyRemovalName:
@@ -293,7 +293,7 @@ PokeBallDescription:
 	line "zoek dan in je deck naar een"
 	line "Basis-Pokémon of een Evolutiekaart."
 	line "Laat die kaart aan je tegenstander"
-	line "zien en neem hem daarna in je Hand."
+	line "zien en neem hem daarna in je hand."
 	line "Schud hierna je deck."
 	done
 
@@ -305,7 +305,7 @@ ScoopUpDescription:
 	text "Kies 1 van je eigen Pokémon in"
 	line "het spel en neem de bijbehorende"
 	line "Basis-Pokémonkaart terug in je"
-	line "Hand. (Gooi alle kaarten die aan"
+	line "hand. (Gooi alle kaarten die aan"
 	line "die kaart gehecht zijn weg.)"
 	done
 
@@ -314,11 +314,11 @@ ComputerSearchName:
 	done
 
 ComputerSearchDescription:
-	text "Gooi 2 andere kaarten uit je Hand"
+	text "Gooi 2 andere kaarten uit je hand"
 	line "weg om welke kaart dan ook in je"
-	line "Deck te kunnen zoeken, en deze"
-	line "in je Hand te nemen. Schud hierna"
-	line "je Deck."
+	line "deck te kunnen zoeken, en deze"
+	line "in je hand te nemen. Schud hierna"
+	line "je deck."
 	done
 
 PokedexName:
@@ -327,7 +327,7 @@ PokedexName:
 
 PokedexDescription:
 	text "Bekijk ten hoogste 5 kaarten van"
-	line "de bovenkant van je Deck en leg"
+	line "de bovenkant van je deck en leg"
 	line "ze in de volgorde die jij wilt."
 	done
 
@@ -365,8 +365,8 @@ ItemFinderName:
 
 ItemFinderDescription:
 	text "Gooi 2 andere kaarten uit je"
-	line "Hand weg om een Trainerkaart"
-	line "uit je Weggooistapel in je Hand"
+	line "hand weg om een Trainerkaart"
+	line "uit je weggooistapel in je hand"
 	line "te kunnen nemen."
 	done
 
@@ -440,7 +440,7 @@ ReviveName:
 
 ReviveDescription:
 	text "Leg 1 Basis-Pokémonkaart uit je"
-	line "Weggooistapel op je Bank. Leg op die"
+	line "weggooistapel op je Bank. Leg op die"
 	line "Pokémon schadetellers ter waarde"
 	line "van de helft van zijn IP (naar"
 	line "beneden afgerond naar de dichtst-"
@@ -454,7 +454,7 @@ MaintenanceName:
 
 MaintenanceDescription:
 	text "Schud 2 van de andere kaarten uit je"
-	line "hand door je Deck heen om een kaart"
+	line "hand door je deck heen om een kaart"
 	line "te mogen pakken."
 	done
 
@@ -464,7 +464,7 @@ PokemonFluteName:
 
 PokemonFluteDescription:
 	text "Kies 1 Basis-Pokémonkaart uit je"
-	line "tegenstander's Weggooistapel en leg"
+	line "tegenstander's weggooistapel en leg"
 	line "deze op zijn of haar Bank. (Je kunt"
 	line "Pokémon-Fluit niet spelen als je"
 	line "tegenstander's Bank vol is.)"
@@ -475,7 +475,7 @@ GamblerName:
 	done
 
 GamblerDescription:
-	text "Schud je hand door je Deck heen."
+	text "Schud je hand door je deck heen."
 	line "Gooi hierna een munt op. Als het kop"
 	line "is, pak dan 8 kaarten; als het munt"
 	line "is, pak dan 1 kaart."
@@ -488,7 +488,7 @@ RecycleName:
 RecycleDescription:
 	text "Gooi een munt op. Als het kop is,"
 	line "leg dan een kaart uit je Weggooi-"
-	line "stapel bovenop je Deck."
+	line "stapel bovenop je deck."
 	done
 
 AreYouBoyOrGirlText:
@@ -535,7 +535,7 @@ ChooseBasicPokemonText:
 
 ChooseBasicPokemonFromDeckText:
 	text "Kies een Basis-Pokémon uit"
-	line "je Deck."
+	line "je deck."
 	done
 
 ChooseEvolutionCardText:
@@ -545,7 +545,7 @@ ChooseEvolutionCardText:
 
 ChooseEvolutionCardFromDeckText:
 	text "Kies een Evolutiekaart uit"
-	line "je Deck."
+	line "je deck."
 	done
 
 ChooseTrainerCardText:
@@ -555,7 +555,7 @@ ChooseTrainerCardText:
 
 ChooseTrainerCardFromDeckText:
 	text "Kies een Trainerkaart uit"
-	line "je Deck."
+	line "je deck."
 	done
 
 Draw2CardsText:
