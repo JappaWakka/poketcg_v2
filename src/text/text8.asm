@@ -70,7 +70,7 @@ Text05f5:
 	done
 
 Text05f6:
-	text "Ga erop uit en Dueleer met veel"
+	text "Ga erop uit en duelleer met veel"
 	line "verschillende mensen. Waarom ga je"
 	line "niet naar een van de Kaartclubs?"
 	line "Er zitten altijd heel veel"
@@ -140,7 +140,7 @@ Text05fd:
 	done
 
 Text05fe:
-	text "Wil je Dueleren met Aaron?"
+	text "Wil je duelleren met Aaron?"
 	done
 
 Text05ff:
@@ -318,7 +318,7 @@ Text061b:
 	done
 
 Text061c:
-	text "Wil je Dueleren met Jennifer?"
+	text "Wil je duelleren met Jennifer?"
 	done
 
 Text061d:
@@ -353,7 +353,7 @@ Text0622:
 	done
 
 Text0623:
-	text "Wil je Dueleren met Nicholas?"
+	text "Wil je duelleren met Nicholas?"
 	done
 
 Text0624:
@@ -400,7 +400,7 @@ Text062b:
 	done
 
 Text062c:
-	text "Wil je Dueleren met Brandon?"
+	text "Wil je duelleren met Brandon?"
 	done
 
 Text062d:
@@ -451,7 +451,7 @@ Text0634:
 	done
 
 Text0635:
-	text "Wil je Dueleren met Isaac?"
+	text "Wil je duelleren met Isaac?"
 	done
 
 Text0636:
@@ -669,11 +669,11 @@ Text0654:
 	line "It doesn't have any weaknesses,"
 	line "and it's difficult for opponents'"
 	line "attacks to cause damage!"
-	line "Wil je Dueleren met me?"
+	line "Wil je met mij duelleren?"
 	done
 
 Text0655:
-	text "Wil je Dueleren met Robert?"
+	text "Wil je duelleren met Robert?"
 	done
 
 Text0656:
@@ -834,7 +834,7 @@ Text066c:
 	done
 
 Text066d:
-	text "Wil je Dueleren met Daniel?"
+	text "Wil je duelleren met Daniel?"
 	done
 
 Text066e:
@@ -878,7 +878,7 @@ Text0674:
 	done
 
 Text0675:
-	text "Wil je Dueleren met Stephanie?"
+	text "Wil je duelleren met Stephanie?"
 	done
 
 Text0676:
@@ -935,7 +935,7 @@ Text067e:
 	done
 
 Text067f:
-	text "Wil je Dueleren met Murray?"
+	text "Wil je duelleren met Murray?"
 	done
 
 Text0680:

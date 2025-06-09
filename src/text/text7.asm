@@ -757,7 +757,7 @@ Text05ce:
 	done
 
 Text05cf:
-	text "Wil je Dueleren met Sam?"
+	text "Wil je duelleren met Sam?"
 	done
 
 Text05d0:
@@ -979,7 +979,7 @@ Text05e3:
 	line "Pokémon Ruilkaartspel speelt?"
 	line "Dus, ook jij wilt beginnen"
 	line "met het kaartspel spelen!"
-	line "Nou, dueleren is veel leuker"
+	line "Nou, duelleren is veel leuker"
 	line "dan alleen kaarten verzamelen!"
 	line "Probeer eerst eens te spelen"
 	line "met een oefendeck."

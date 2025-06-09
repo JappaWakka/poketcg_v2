@@ -1,5 +1,5 @@
 Text06a6:
-	text "Wil je Dueleren met John?"
+	text "Wil je duelleren met John?"
 	done
 
 Text06a7:
@@ -37,7 +37,7 @@ Text06ac:
 	done
 
 Text06ad:
-	text "Wil je Dueleren met Adam?"
+	text "Wil je duelleren met Adam?"
 	done
 
 Text06ae:
@@ -74,7 +74,7 @@ Text06b3:
 	done
 
 Text06b4:
-	text "Wil je Dueleren met Jonathan?"
+	text "Wil je duelleren met Jonathan?"
 	done
 
 Text06b5:
@@ -138,7 +138,7 @@ Text06bd:
 	done
 
 Text06be:
-	text "Wil je Dueleren met Ken?"
+	text "Wil je duelleren met Ken?"
 	done
 
 Text06bf:
@@ -195,9 +195,9 @@ Text06c7:
 	done
 
 Text06c8:
-	text "Greetings."
-	line "Welcome to the Battle Center!"
-	line "Wil je Dueleren met a friend?"
+	text "Goedendag."
+	line "Welkom bij het Gevechtscentrum!"
+	line "Wil je duelleren met een vriend?"
 	done
 
 Text06c9:
@@ -367,7 +367,7 @@ Text06e1:
 	done
 
 Text06e2:
-	text "Wil je Dueleren met Brittany?"
+	text "Wil je duelleren met Brittany?"
 	done
 
 Text06e3:
@@ -427,7 +427,7 @@ Text06ec:
 	done
 
 Text06ed:
-	text "Would you like to trade?"
+	text "Wil je ruilen?"
 	done
 
 Text06ee:

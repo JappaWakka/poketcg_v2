@@ -24,7 +24,7 @@ Text0705:
 	done
 
 Text0706:
-	text "Wil je Dueleren met Kristin?"
+	text "Wil je duelleren met Kristin?"
 	done
 
 Text0707:
@@ -81,7 +81,7 @@ Text070e:
 	done
 
 Text070f:
-	text "Wil je Dueleren met Heather?"
+	text "Wil je duelleren met Heather?"
 	done
 
 Text0710:
@@ -139,7 +139,7 @@ Text0719:
 	done
 
 Text071a:
-	text "Wil je Dueleren met Nikki?"
+	text "Wil je duelleren met Nikki?"
 	done
 
 Text071b:
@@ -447,7 +447,7 @@ Text0740:
 	done
 
 Text0741:
-	text "Wil je Dueleren met Ronald?"
+	text "Wil je duelleren met Ronald?"
 	done
 
 Text0742:
@@ -560,7 +560,7 @@ Text0750:
 	done
 
 Text0751:
-	text "Wil je Dueleren met David?"
+	text "Wil je duelleren met David?"
 	done
 
 Text0752:
@@ -592,12 +592,12 @@ Text0757:
 	line "at the Science Club, especially"
 	line "Science Pokémon cards! Science"
 	line "Pokémon are exceedingly strong."
-	line "Wil je Dueleren met against"
+	line "Wil je duelleren met against"
 	line "my Science Pokémon deck?"
 	done
 
 Text0758:
-	text "Wil je Dueleren met Erik?"
+	text "Wil je duelleren met Erik?"
 	done
 
 Text0759:
@@ -634,7 +634,7 @@ Text075e:
 	done
 
 Text075f:
-	text "Wil je Dueleren met Rick?"
+	text "Wil je duelleren met Rick?"
 	done
 
 Text0760:
@@ -712,7 +712,7 @@ Text076c:
 	done
 
 Text076d:
-	text "Wil je Dueleren met Joseph?"
+	text "Wil je duelleren met Joseph?"
 	done
 
 Text076e:
@@ -826,25 +826,25 @@ Text0781:
 	line "The Legendary Cards"
 	line "will belong to me!"
 	line "How about it?"
-	line "Wil je Dueleren met me?"
+	line "Wil je duelleren met me?"
 	done
 
 Text0782:
 	text "Hi, <RAMNAME>."
-	line "Wil je Dueleren met?"
+	line "Wil je duelleren met?"
 	line "The Legendary Cards will eventually"
 	line "belong to me!"
 	line "How about it?"
-	line "Wil je Dueleren met me?"
+	line "Wil je duelleren met me?"
 	done
 
 Text0783:
 	text "Hi, <RAMNAME>."
-	line "Wil je Dueleren met?"
+	line "Wil je duelleren met?"
 	done
 
 Text0784:
-	text "Wil je Dueleren met Matthew?"
+	text "Wil je duelleren met Matthew?"
 	done
 
 Text0785:
@@ -972,7 +972,7 @@ Text0795:
 	done
 
 Text0796:
-	text "Wil je Dueleren met Ryan?"
+	text "Wil je duelleren met Ryan?"
 	done
 
 Text0797:
@@ -1012,7 +1012,7 @@ Text079c:
 	done
 
 Text079d:
-	text "Wil je Dueleren met Andrew?"
+	text "Wil je duelleren met Andrew?"
 	done
 
 Text079e:
@@ -1053,7 +1053,7 @@ Text07a3:
 	done
 
 Text07a4:
-	text "Wil je Dueleren met Gene?"
+	text "Wil je duelleren met Gene?"
 	done
 
 Text07a5:

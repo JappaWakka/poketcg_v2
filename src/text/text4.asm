@@ -169,7 +169,7 @@ IsCrazyAboutPokemonAndPokemonCardCollectingText:
 	line "  naar iemand die het waard is"
 	line "  om de legende over te nemen!”"
 	line "Ervan dromend om de Legendarische"
-	line "Pokémonkaarten over te nemen,"
+	line "Pokémonkaarten te mogen overnemen,"
 	line "bezocht <RAMNAME> de Pokémon-"
 	line "kaartenonderzoeker, Dr. Mason..."
 	done
@@ -723,7 +723,7 @@ GrassAndPsychicDeckChoiceText:
 
 SelectDeckToDuelText:
 	text "Kies het deck waar je"
-	line "tegen wilt Dueleren."
+	line "tegen wilt duelleren."
 	done
 
 CharmanderAndFriendsDeckChoiceText:
@@ -773,7 +773,7 @@ Mail1Part1Text:
 	line "Ik heb wat informatie voor je"
 	line "over Booster-Pakjes: Als je"
 	line "dezelfde soorten kaarten wilt"
-	line "verzamelen, Dueleer dan vaak met"
+	line "verzamelen, duelleer dan vaak met"
 	line "dezelfde persoon om een specifiek"
 	line "Booster-Pakje te krijgen! Op deze"
 	line "manier krijg je sneller dezelfde"
@@ -812,7 +812,7 @@ Mail2Part1Text:
 	line "Eerste Klap deck is gebouwd voor een"
 	line "snelle Aanval, maar het is zwak"
 	line "tegen Psychische Pokémon! Ik stel"
-	line "voor dat je met hem Duelleert met"
+	line "voor dat je met hem duelleert met"
 	line "een deck uit de Deckmachine van de"
 	line "Psychische Medaille. Hier is een"
 	line "Booster-Pakje voor je..."
@@ -860,9 +860,9 @@ Mail4Part1Text:
 	line "Water-Pokémon om ze sterker te"
 	line "maken. Maar haar deck is zwak"
 	line "tegen Bliksem Pokémon!"
-	line "Ik stel voor dat je met haar"
-	line "Duelleert een deck uit de Deck-"
-	line "machine van de Bliksem-Medaille."
+	line "Ik stel voor dat je haar uitdaagt"
+	line "met een deck uit de Deckmachine"
+	line "van de Bliksem-Medaille."
 	line "Hier is een Booster-Pakje voor je."
 	done
 
@@ -1057,86 +1057,88 @@ Mail11Part1Text:
 
 Mail12Part1Text:
 	text "<RAMNAME>,"
-	line "It's me, Dr. Mason."
-	line "You're finally going to be dueling"
-	line "a Grand Master..."
-	line "Grand Master Courtney uses the"
-	line "Legendary Moltres, so her deck"
-	line "should be made up of Fire Pokémon."
-	line "Be sure to add some Water Pokémon"
-	line "to your deck. Other than that,"
-	line "just watch how your opponent plays,"
-	line "and choose your strategy"
-	line "accordingly."
-	line "Mason Laboratory"
-	line "      Dr. Mason ;)"
-	line "P.S. You're almost there."
-	line "     Keep up the good work!"
+	line "Ik ben het, Dokter Mason."
+	line "Je neemt het eindelijk op tegen een"
+	line "Grootmeester..."
+	line "Grootmeester Courtney gebruikt de"
+	line "Legendarische Moltres, dus haar"
+	line "deck zal voornamelijk bestaan uit"
+	line "Vuur-Pokémon. Zorg er dus voor dat"
+	line "je wat Water-Pokémon aan je deck"
+	line "toevoegt. Voor de rest moet je"
+	line "gewoon goed kijken hoe je tegen-"
+	line "stander speelt en je strategie"
+	line "erop aanpassen."
+	line "Mason Onderzoekslab"
+	line "      Dokter Mason  ;)"
+	line "P.S. Je bent er bijna."
+	line "     Hou vol en doe je best!"
 	done
 
 Mail13Part1Text:
 	text "<RAMNAME>,"
-	line "It's me, Dr. Mason!"
-	line "Grand Master Steve uses"
-	line "the Legendary Zapdos."
-	line "Its Peal of Thunder and Big Thunder"
-	line "randomly choose a target,"
-	line "so you never know which Pokémon"
-	line "will receive damage."
-	line "Be sure to look after not only"
-	line "your Active Pokémon, but also"
-	line "the Pokémon on your Bench."
-	line "His deck should be made up mostly"
-	line "of Lightning Pokémon, so duel him"
-	line "using your Fighting Pokémon."
-	line "Defeat the Grand Masters,"
+	line "Ik ben het, Dokter Mason!"
+	line "Grootmeester Steve gebruikt de"
+	line "Legendarische Zapdos."
+	line "Zijn Donderpiek en Grote donder"
+	line "kiezen een willekeurig doelwit,"
+	line "dus je weet nooit welke Pokémon"
+	line "schade zal ontvangen."
+	line "Let niet alleen op je Actieve"
+	line "Pokémon, maar hou ook de Pokémon"
+	line "op je Bank in de gaten. Zijn deck"
+	line "zou grotendeels uit Bliksem-Pokémon"
+	line "moeten bestaan, dus duelleer met hem"
+	line "met je Vecht-Pokémon."
+	line "Ga je Grootmeesters verslaan,"
 	line "<RAMNAME>!!!"
-	line "Mason Laboratory"
-	line "      Dr. Mason  ;)"
-	line "P.S."
-	line "3 more to go!"
+	line "Mason Onderzoekslab"
+	line "      Dokter Mason  ;)"
+	line "P.S. Nog 3 te gaan!"
 	done
 
 Mail14Part1Text:
-	text "It's me, Dr. Mason!"
-	line "2 more Grand Masters to go!"
-	line "Grand Master Jack uses"
-	line "the Legendary Articuno."
-	line "He will use its QuickFreeze to"
-	line "paralyze your Active Pokémon."
-	line "You should also be wary of his"
-	line "other Articuno's Freeze Dry."
-	line "His deck should contain mostly"
-	line "Water Pokémon, so it might be"
-	line "a good idea to include some"
-	line "Lightning Pokémon in your deck."
-	line "Go get 'em, <RAMNAME>!"
-	line "You're almost there!"
-	line "Mason Laboratory"
-	line "      Dr. Mason  ;)"
+	line "Ik ben het, Dokter Mason!"
+	line "Nog 2 Grootmeesters te gaan!"
+	line "Grootmeester Jack gebruikt de"
+	line "Legendarische Articuno. Hij zal"
+	line "zijn Snelvriezen inzetten om jouw"
+	line "Actieve Pokémon te Verlammen."
+	line "Je moet ook oppassen voor zijn"
+	line "andere Articuno's Vriesdrogen."
+	line "Zijn deck bevat vast voornamelijk"
+	line "Water-Pokémon, dus het kan misschien"
+	line "een goed idee zijn om wat Bliksem-"
+	line "Pokémon aan je deck toe te voegen."
+	line "Zet hem op, <RAMNAME>!"
+	line "Het einde is in zicht!"
+	line "Mason Onderzoekslab"
+	line "      Dokter Mason  ;)"
 	done
 
 Mail15Part1Text:
-	text "It's me, Dr. Mason!"
-	line "The final duel is here!"
-	line "I have some information on Rod,"
-	line "the leader of the Grand Masters."
-	line "Rod uses the Legendary Dragonite."
-	line "The longer the duel takes, the"
-	line "greater the advantages for his"
-	line "deck. His workhorse will be his"
-	line "Evolution Pokémon, so defeat them"
-	line "while they are still in their"
-	line "Basic stage! Follow the simple"
-	line "strategy of striking early."
-	line "This is the final test in inheriting"
-	line "the Legendary Pokémon Cards!"
-	line "Go, <RAMNAME>!"
-	line "Be a part of the legend!"
-	line "Mason Laboratory"
-	line "      Dr. Mason  ;)"
-	line "P.S."
-	line "This is my final gift for you."
+	line "Ik ben het, Dokter Mason!"
+	line "Het is tijd voor het laatste duel!"
+	line "Ik heb wat informatie over Rod,"
+	line "de leider van de Grootmeesters."
+	line "Rod gebruikt de Legendarische"
+	line "Dragonite."
+	line "Hoe langer het duel duurt, hoe"
+	line "groter de voordelen zullen zijn"
+	line "voor zijn deck. Zijn werkpaarden"
+	line "zullen zijn Evolutie-Pokémon zijn,"
+	line "dus versla ze als ze nog in hun"
+	line "Basis-Fase zitten! Volg de eenvoudi-"
+	line "ge strategie van het vroeg toeslaan."
+	line "Dit is de laatste proef om de Legen-"
+	line "darische Pokémonkaarten over te"
+	line "mogen nemen!"
+	line "Ga erop af, <RAMNAME>!"
+	line "Wordt deel van de legende!"
+	line "Mason Onderzoekslab"
+	line "      Dokter Mason  ;)"
+	line "P.S. Dit is mijn laatste cadeau"
+	line "     voor jou."
 	done
 
 MailBoosterPackAlreadyOpenedText:
@@ -1149,36 +1151,37 @@ PokemonTradingCards101Text:
 	done
 
 PlaceholderMessageText:
-	text "This message is not in yet!"
+	text "Dit bericht zit er nog niet in!"
 	done
 
 Clerk3Text:
-	text "Hello!"
-	line "Welcome to the Water Club!"
-	line "This is a Club devoted to"
-	line "Water Pokémon."
-	line "There are many different types"
-	line "of Water Pokémon, so it's fun"
-	line "just to collect them."
+	text "Hallo!"
+	line "Welkom bij de Water-Club!"
+	line "Dit is een Club die gewijd is"
+	line "aan Water-Pokémon."
+	line "Er zijn zo veel verschillende"
+	line "soorten Water-Pokémon, dat het heel"
+	line "leuk is om ze te verzamelen."
 	done
 
 Gal1WantToTrade1Text:
-	text "We don't use Fire Pokémon cards"
-	line "here at the Water Club."
-	line "I have this rare Arcanine, but"
-	line "I prefer Lapras."
-	line "If you own a Lapras, would you"
-	line "mind trading it for my Arcanine?"
+	text "We gebruiken geen Vuur-Pokémon-"
+	line "kaarten hier bij de Water-Club."
+	line "Ik heb deze zeldzame Arcanine,"
+	line "maar ik wil liever een Lapras."
+	line "Als je een Lapras hebt, wil je"
+	line "hem ruilen voor mijn Arcanine?"
 	done
 
 Gal1WantToTrade2Text:
-	text "Hi! We meet again!"
-	line "Have you decided to trade your"
-	line "Lapras for my rare Arcanine?"
+	text "Hé! Daar ben je weer!"
+	line "Heb je al besloten of je jouw"
+	line "Lapras wilt ruilen voor mijn"
+	line "zeldzame Arcanine?"
 	done
 
 Gal1WouldYouLikeToTradeText:
-	text "Would you like to trade?"
+	text "Wil je ruilen?"
 	done
 
 Gal1DeclinedTradeText:
@@ -1276,7 +1279,7 @@ SaraWantsToDuelText:
 	done
 
 SaraWouldYouLikeToDuelText:
-	text "Wil je Dueleren met Sara?"
+	text "Wil je duelleren met Sara?"
 	done
 
 SaraDeclinedDuelText:
@@ -1316,7 +1319,7 @@ AmandaWantsToDuelText:
 	done
 
 AmandaWouldYouLikeToDuelText:
-	text "Wil je Dueleren met Amanda?"
+	text "Wil je duelleren met Amanda?"
 	done
 
 AmandaDeclinedDuelText:

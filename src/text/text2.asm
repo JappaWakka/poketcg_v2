@@ -1609,11 +1609,11 @@ PleaseSelectDeckText:
 	done
 
 ModifyDeckText:
-	text "Deck aanpassen"
+	text "Deck Aanpassen"
 	done
 
 ChangeNameText:
-	text "Naam aanpassen"
+	text "Naam Aanpassen"
 	done
 
 SelectDeckText:
@@ -1629,8 +1629,8 @@ NoDeckText:
 	done
 
 ChosenAsDuelingDeckText:
-	text "<RAMTEXT> is gekozen"
-	line "als het dueleerdeck!"
+	text "<RAMTEXT> is nu je"
+	line "je actieve deck!"
 	done
 
 Deck1Text:
@@ -1658,7 +1658,7 @@ ConfirmText:
 	done
 
 NewDeckStatisticsText:
-	text "Nieuw Deck-gegevens"
+	text "Nieuwe Deck-gegevens"
 	done
 
 ;DeckBuildingMenuOptionsText:

@@ -593,19 +593,19 @@ WaterBeetleText:
 	done
 
 LegendaryMoltresText:
-	text "Legendarische Moltres"
+	text "Moltres's Legende"
 	done
 
 LegendaryZapdosText:
-	text "Legendarische Zapdos"
+	text "Zapdos's Legende"
 	done
 
 LegendaryArticunoText:
-	text "Legendarische Articuno"
+	text "Articuno's Legende"
 	done
 
 LegendaryDragoniteText:
-	text "Legendarische Dragonite"
+	text "Dragonite's Legende"
 	done
 
 MysteriousPokemonText:

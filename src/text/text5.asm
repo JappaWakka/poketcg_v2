@@ -34,7 +34,7 @@ JoshuaWantsToDuelRepeatText:
 	done
 
 JoshuaWouldYouLikeToDuelText:
-	text "Wil je Dueleren met Joshua?"
+	text "Wil je duelleren met Joshua?"
 	done
 
 JoshuaDeclinedDuelInitialText:
@@ -133,7 +133,7 @@ AmyWantsToDuelInitialText:
 	done
 
 AmyWouldYouLikeToDuelText:
-	text "Wil je Dueleren met Amy?"
+	text "Wil je duelleren met Amy?"
 	done
 
 AmyDeclinedDuelInitialText:
@@ -310,7 +310,7 @@ ImakuniWouldLikeToDuelRepeatText:
 	done
 
 ImakuniWouldYouLikeToDuelText:
-	text "Wil je Dueleren met Imakuni??"
+	text "Wil je duelleren met Imakuni??"
 	done
 
 ImakuniDeclinedDuelText:
@@ -442,7 +442,7 @@ MitchWouldLikeToDuelInitialText:
 	done
 
 MitchWouldYouLikeToDuelText:
-	text "Wil je Dueleren met Mitch?"
+	text "Wil je duelleren met Mitch?"
 	done
 
 MitchDeclinedInitialText:
@@ -530,7 +530,7 @@ ChrisFightingClubWantsToDuelRepeatText:
 	done
 
 ChrisWouldYouLikeToDuelText:
-	text "Wil je Dueleren met Chris?"
+	text "Wil je duelleren met Chris?"
 	done
 
 ChrisFightingClubDeclinedDuelText:
@@ -566,7 +566,7 @@ MichaelFightingClubWantsToDuelText:
 	done
 
 MichaelWouldYouLikeToDuelText:
-	text "Wil je Dueleren met Michael?"
+	text "Wil je duelleren met Michael?"
 	done
 
 MichaelFightingClubDeclinedDuelText:
@@ -601,7 +601,7 @@ JessicaFightingClubWantsToDuelText:
 	done
 
 JessicaWouldYouLikeToDuelText:
-	text "Wil je Dueleren met Jessica?"
+	text "Wil je duelleren met Jessica?"
 	done
 
 JessicaFightingClubDeclinedDuelText:
