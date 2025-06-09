@@ -122,7 +122,7 @@ EmptyLineText:
 	done
 
 PokemonTCGSetsText:
-	textfw "Pokémon Ruilkaartspel Sets"
+	textfw "Uitbreidingssets"
 	done
 
 Item1ColosseumText:
