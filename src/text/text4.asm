@@ -1185,97 +1185,101 @@ Gal1WouldYouLikeToTradeText:
 	done
 
 Gal1DeclinedTradeText:
-	text "Aw, you're not going to"
-	line "trade with me?"
-	line "Well, that's too bad..."
-	line "But if you change your mind,"
-	line "come and find me."
+	text "Aw, je bent niet van plan met"
+	line "me te ruilen?"
+	line "Ach, dat is jammer..."
+	line "Maar als je van gedachten verandert,"
+	line "dan kom je me maar opzoeken."
 	done
 
 Gal1DontOwnCardText:
-	text "Hey! What are you trying to pull?"
-	line "You don't have a Lapras!?!"
-	line "Come see me when you get a Lapras."
+	text "Hé! Probeer je een grapje met me"
+	line "uit te halen?"
+	line "Je hebt helemaal geen Lapras!?!"
+	line "Zoek me op als je een Lapras hebt."
 	done
 
 Gal1CardInDeckText:
-	text "OK! Let's trade your Lapras"
-	line "for my Arcanine..."
-	line "Oh! I see your Lapras"
-	line "is included in your deck."
-	line "I'd feel guilty taking a card"
-	line "from your deck. Maybe next time."
-	line ""
+	text "Oké! Laten we jouw Lapras ruilen"
+	line "voor mijn Arcanine..."
+	line "Oh! Ik zie dat jouw Lapras nog"
+	line "in een van je decks zit."
+	line "Ik zou me schuldig voelen om een"
+	line "kaart uit je deck te moeten nemen."
+	line "Misschien een andere keer."
 	done
 
 Gal1LetsTradeText:
-	text "OK then, let's trade your"
-	line "Lapras for my Arcanine."
+	text "Oké dan, laten we jouw Lapras"
+	line "ruilen voor mijn Arcanine."
 	done
 
 Gal1TradeCompleteText:
-	text "<RAMNAME> traded a Lapras"
-	line "for an Arcanine!"
+	text "<RAMNAME> ruilde een Lapras"
+	line "voor een Arcanine!"
 	done
 
 Gal1ThanksText:
-	text "Thanks, <RAMNAME>!"
-	line "I'll take good care"
-	line "of this Lapras."
+	text "Dankjewel, <RAMNAME>!"
+	line ""
+	line "Ik zal goed voor deze"
+	line "Lapras zorgen."
 	done
 
 Gal1AfterTradeText:
-	text "Hey! You're the one who"
-	line "gave me your Lapras!"
-	line "I'm taking good care of"
-	line "your Lapras."
+	text "Hé! Jij bent degene die me"
+	line "die Lapras heeft gegeven!"
+	line "Ik zorg goed voor jouw Lapras."
 	done
 
 Lass1NormalText:
-	text "Do you know Imakuni??"
-	line "He's a suspicious-looking guy"
-	line "dressed all in black!"
-	line "You'll find him dancing away"
-	line "in the lounge at one of the Clubs!"
-	line "He stands out, so it shouldn't be"
-	line "too hard to identify him. But"
-	line "maybe you shouldn't go near him!"
+	text "Ken je Imakuni??"
+	line "Hij is een verdacht uitziende gozer,"
+	line "helemaal in het zwart gekleed!"
+	line "Je kan hem soms vinden terwijl hij"
+	line "aan het dansen is in de lounge van"
+	line "een van de Clubs!"
+	line "Hij valt erg op, dus het zou niet"
+	line "moeilijk moeten zijn om hem te"
+	line "herkennen. Maar misschien moet"
+	line "je niet bij hem in de buurt komen!"
 	done
 
 Lass1ImakuniHereText:
-	text "Look! That's Imakuni? over there!"
-	line "Doesn't he look strange?"
-	line "You'll find him even stranger"
-	line "when you talk to him."
+	text "Kijk! Dat is Imakuni? daar!"
+	line "Ziet hij er niet vreemd uit?"
+	line "Je vindt hem vast nog vreemder"
+	line "als je met hem praat."
 	done
 
 Lass1ImakuniLeftText:
-	text "What a strange guy Imakuni? is!"
-	line "Have you found him yet?"
-	line "It's rumored that he has really"
-	line "rare cards!"
-	line "He's really strange, but you"
-	line "might want to duel him."
+	text "Imakuni? is zo'n rare gast!"
+	line "Heb je hem al gevonden?"
+	line "Het gerucht gaat dat hij hele"
+	line "zeldzame kaarten bezit!"
+	line "Hij is heel vreemd, maar je zou"
+	line "hem eens kunnen duelleren."
 	done
 
 Man2Text:
-	text "All Amy, the Master of this Club,"
-	line "does lately is sleep."
-	line "She's bored because she doesn't"
-	line "have anybody to duel."
+	text "Het enige wat Amy, de Meester van"
+	line "deze Club, de laatste tijd doet is"
+	line "slapen. Ze verveelt zich omdat ze"
+	line "niemand heeft om mee te duelleren."
 	done
 
 Pappy2Text:
-	text "Sara and Amanda of the Water Club"
-	line "are twins."
-	line "No wonder they look so much alike!"
+	text "Sara en Amanda van de Water-Club"
+	line "zijn tweelingen."
+	line "Geen wonder dat ze zo lijken op"
+	line "elkaar!"
 	done
 
 SaraWantsToDuelText:
-	text "It feels so good to swim"
-	line "in the pool!"
-	line "Do you want to take a swim?"
-	line "Or would you rather duel?"
+	text "Het voelt goed om te zwemmen in"
+	line "het zwembad!"
+	line "Heb je zin om wat te zwemmen?"
+	line "Of wil je liever duelleren?"
 	done
 
 SaraWouldYouLikeToDuelText:
@@ -1283,39 +1287,43 @@ SaraWouldYouLikeToDuelText:
 	done
 
 SaraDeclinedDuelText:
-	text "No?"
-	line "Then maybe I'll go for a dip."
+	text "Nee?"
+	line "Nou misschien neem ik dan wel"
+	line "een duik."
 	done
 
 SaraStartDuelText:
-	text "There will be 2 Prizes."
-	line "The duel will be 1 match."
-	line "OK, let's start!"
+	text "Er zullen 2 Prijzen zijn."
+	line "Het duel zal uit 1 wedstrijd"
+	line "bestaan!"
+	line "Oké, laten we beginnen!"
 	done
 
 SaraPlayerWon1Text:
-	text "Uh-oh! I guess I lost..."
-	line "Maybe I shouldn't have been"
-	line "swimming so much."
+	text "Oh-oh! Ik heb verloren..."
+	line "Misschien had ik niet zoveel"
+	line "moeten zwemmen."
 	done
 
 SaraPlayerWon2Text:
-	text "I guess I have to practice more"
-	line "to improve my Pokémon card game."
+	text "Ik denk dat ik gewoon meer zal"
+	line "moeten oefenen om mijn Pokémon"
+	line "kaartspelvaardigheden te verbeteren."
 	done
 
 SaraPlayerLostText:
-	text "It might look like all I can"
-	line "do is swim, but I play a"
-	line "pretty mean game of Pokémon!"
-	line "Do you want to join the Water Club?"
+	text "Ik zie er misschien uit alsof het"
+	line "enige wat ik kan doen zwemmen is,"
+	line "maar ik kan ook een pittig potje"
+	line "Pokémon spelen!"
+	line "Wil je lid worden van de Water-Club?"
 	done
 
 AmandaWantsToDuelText:
-	text "Doesn't it feel good to relax"
-	line "by the pool?"
-	line "Isn't it wonderful to duel"
-	line "in a place like this?"
+	text "Voelt het niet goed om te om te"
+	line "ontspannen bij het zwembad?"
+	line "En is het niet geweldig om op een"
+	line "plek als dit te duelleren?"
 	done
 
 AmandaWouldYouLikeToDuelText:
@@ -1323,26 +1331,28 @@ AmandaWouldYouLikeToDuelText:
 	done
 
 AmandaDeclinedDuelText:
-	text "Why..."
-	line "How boring!"
+	text "Waarom..."
+	line "Wat saai!"
 	done
 
 AmandaDuelStartText:
-	text "OK, we'll play with 3 Prizes."
-	line "It'll be a 1-match duel!"
+	text "Oké, we zullen spelen met 3"
+	line "Prijzen."
+	line "Het duel zal uit 1 wedstrijd"
+	line "bestaan!"
 	done
 
 AmandaPlayerWon1Text:
-	text "Oops, I lost!"
-	line "Now I'm in trouble!"
+	text "Oeps, ik verloor!"
+	line "Nu zit ik in de problemen!"
 	done
 
 AmandaPlayerWon2Text:
-	text "Losing kind of destroys the"
-	line "atmosphere of the place."
+	text "Verliezen verpest zegmaar een beetje"
+	line "de atmosfeer van deze plek."
 	done
 
 AmandaPlayerLostText:
-	text "Winning in such nice surroundings"
-	line "makes it all the more pleasurable!"
+	text "Winnen in zo'n mooie omgeving maakt"
+	line "het des te meer plezierig!"
 	done
