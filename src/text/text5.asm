@@ -1,36 +1,38 @@
 JoshuaAmyIsRestingText:
-	text "Hey! Stop!"
-	line "This is a restricted area!"
-	line "Amy, the Club Master,"
-	line "is resting!"
+	text "Hé! Stop!"
+	line "Dit is een verboden gebied!"
+	line "Amy, de Clubmeester, is aan"
+	line "het rusten!"
 	done
 
 JoshuaGoDefeatSaraAndAmandaText:
-	text "The person resting over there"
-	line "is Amy, the Club Master."
-	line "If you wish to duel Amy,"
-	line "go defeat Sara and Amanda first."
-	line "Then I will test your skill,"
-	line "and if by chance you should win,"
-	line "I will introduce you to Amy,"
-	line "the Club Master!"
+	text "De persoon die daar ligt te rusten"
+	line "is Amy, de Clubmeester."
+	line "Als je met Amy wilt duelleren,"
+	line "versla dan eerst Sara en Amanda."
+	line "Dan zal ik je vaardigheden op de"
+	line "proef stellen, en mocht je bij"
+	line "toeval toch winnen, dan zal ik"
+	line "je voorstellen aan Amy,"
+	line "de Club-Meester!"
 	done
 
 JoshuaSaraAndAmandaDefeatedText:
-	text "What?"
-	line "You defeated Sara and Amanda?"
+	text "Wat?"
+	line "Je hebt Sara en Amanda verslagen?"
 	done
 
 JoshuaWantsToDuelInitialText:
-	text "You must be pretty good if you"
-	line "defeated Sara and Amanda..."
-	line "As promised, I'll test your skills."
-	line "If you win, I will introduce you"
-	line "to Amy..."
+	text "Je moet dan wel erg goed zijn als"
+	line "je Sara en Amanda kon verslaan..."
+	line "Zoals ik beloofd heb, zal ik je"
+	line "vaardigheden op de proef stellen."
+	line "Als je wint, zal ik je aan Amy"
+	line "voorstellen..."
 	done
 
 JoshuaWantsToDuelRepeatText:
-	text "You wish to duel against me?"
+	text "Wil je met mij het duel aangaan?"
 	done
 
 JoshuaWouldYouLikeToDuelText:
@@ -38,98 +40,104 @@ JoshuaWouldYouLikeToDuelText:
 	done
 
 JoshuaDeclinedDuelInitialText:
-	text "You don't want to duel?"
-	line "Are you afraid you won't be able"
-	line "to defeat me?"
-	line "The only way you will be able to"
-	line "meet Amy is by going through me!"
+	text "Wil je niet duelleren?"
+	line "Ben je bang dat je me niet kan"
+	line "verslaan? De enige weg om Amy"
+	line "te ontmoeten is langs mij!"
 	done
 
 JoshuaDeclinedDuelRepeatText:
-	text "You don't want to duel?"
+	text "Wil je niet duelleren?"
 	line ""
-	line "Are you afraid you won't be able"
-	line "to defeat me?"
-	line "That's understandable since I'm"
-	line "very good!"
+	line "Ben je bang dat je me niet kan"
+	line "verslaan?"
+	line "Dat is begrijpelijk, ik ben heel"
+	line "erg goed namelijk!"
 	done
 
 JoshuaDuelStartText:
-	text "OK, this will be a 1-match duel"
-	line "with 4 Prizes!"
+	text "Oké, dit zal een 1 wedstrijd durend"
+	line "duel zijn met 4 Prijzen!"
 	done
 
 JoshuaPlayerLostInitialText:
-	text "How's that! I win!"
-	line "I'm sorry, but unless you defeat me,"
-	line "I can't let you meet Amy."
+	text "Wat dacht je daarvan? Ik win!"
+	line "Het spijt me, maar tenzij je me"
+	line "verslaat kan ik je Amy niet laten"
+	line "ontmoeten."
 	done
 
 JoshuaPlayerLostRepeatText:
-	text "How's that! I win!"
-	line "Too bad for you, but"
-	line "I'm the second best player"
-	line "after Amy!"
+	text "Wat dacht je daarvan? Ik win!"
+	line ""
+	line "Jammer voor jou, maar ik ben de op"
+	line "één na beste speler, na Amy."
 	done
 
 JoshuaPlayerWonInitial1Text:
-	text "What!?!"
-	line "How could I lose?"
+	text "Wat!?!"
+	line "Hoe kon ik nou verliezen?"
 	done
 
 JoshuaPlayerWonRepeat1Text:
-	text "What!?!"
-	line "How could I lose again?"
+	text "Wat!?!"
+	line "Hoe kon ik nou wéér verliezen?"
 	done
 
 JoshuaPlayerWonInitial2Text:
-	text "Well, since I promised..."
-	line "I'll introduce you to Amy."
+	text "Nou, sinds ik het heb beloofd..."
+	line "Ik zal je voorstellen aan Amy."
 	done
 
 JoshuaPlayerWonRepeat2Text:
-	text "How could this be?"
-	line "It must be luck!"
-	line "Yeah, that's what it was!"
+	text "Hoe kan dit nou?"
+	line "Je had gewoon geluk!"
+	line "Ja, dat is wat het was!"
 	done
 
 JoshuaWakesAmy1Text:
-	text "Don't think you're that good"
-	line "just because you defeated me."
-	line "We still have Amy here"
-	line "at the Water Club."
+	text "Denk maar niet dat je zo goed bent"
+	line "alleen maar omdat je mij versloeg."
+	line "We hebben nog steeds Amy hier bij"
+	line "de Water-Club."
 	done
 
 JoshuaWakesAmy2Text:
 	text "Amy!"
-	line "Please wake up!!"
+	line "Word wakker!!"
 	done
 
 AmyMeetsPlayer1Text:
-	text "Huh? What's going on?"
-	line "I was enjoying my little nap..."
+	text "Huh? Wat is er aan de hand?"
+	line ""
+	line "Ik was aan het genieten van een"
+	line "klein dutje..."
 	done
 
 JoshuaWakesAmy3Text:
-	text "Well, um..."
+	text "Nou, ehm..."
 	line "(psst, psst, psst)"
 	done
 
 AmyMeetsPlayer2Text:
-	text "What? You lost?"
-	line "How could you!?!"
+	text "Wat? Je verloor?"
+	line "Hoe kon je!?!"
 	done
 
 AmyMeetsPlayer3Text:
-	text "Was it <RAMNAME>?"
-	line "I will be your next opponent."
-	line "I'm Amy, the Master of the"
-	line "Water Club!"
+	text "<RAMNAME>, toch?"
+	line ""
+	line "Ik zal je volgende tegenstander"
+	line "zijn."
+	line "Ik ben Amy, de Meester van de"
+	line "Water-Club!"
 	done
 
 AmyWantsToDuelInitialText:
-	text "Aren't you <RAMNAME>?"
-	line "So you decided you want to duel me?"
+	text "Ben jij niet <RAMNAME>?"
+	line ""
+	line "Dus je hebt besloten om met me te"
+	line "duelleren?"
 	done
 
 AmyWouldYouLikeToDuelText:
@@ -137,176 +145,185 @@ AmyWouldYouLikeToDuelText:
 	done
 
 AmyDeclinedDuelInitialText:
-	text "No? How boring! I was looking"
-	line "forward to a game of Pokémon."
-	line "Well, come see me again!"
+	text "Nee? Wat saai! Ik keek net zo uit"
+	line "naar een spelletje Pokémon."
+	line "Nou, kom me dan later maar eens"
+	line "opzoeken!"
 	done
 
 AmyDuelStartInitialText:
-	text "OK! A 1-Match Duel with 6 Prizes!"
-	line "Let's do it!"
+	text "Oké! Een duel van 1 wedstrijd met"
+	line "6 Prijzen!"
+	line "Laten we beginnen!"
 	done
 
 AmyPlayerWon1Text:
-	text "Oh, no! I lost!?!"
+	text "Oh, nee! Ik verloor!?!"
 	done
 
 AmyGivesMedal1Text:
-	text "Well, since I lost, you can have"
-	line "this Water Medal."
-	line "This should get you a step closer"
-	line "to inheriting the Legendary Cards!"
+	text "Nou, aangezien ik verloren heb,"
+	line "mag je deze Water-Medaille hebben."
+	line "Dit zou je een stapje dichter moeten"
+	line "brengen bij het overnemen van de"
+	line "Legendarische Kaarten!"
 	done
 
 AmyGivesMedal2Text:
-	text "Here, you can also have these!"
-	line "They should come in handy!"
+	text "Hier, je mag ook deze hebben!"
+	line "Die komen vast van pas!"
 	done
 
 AmyPlayerWon2Text:
-	text "Come see me again! I'd like"
-	line "to duel you again sometime!"
+	text "Kom me later weer opzoeken! Ik zou"
+	line "graag nog eens met je duelleren!"
 	done
 
 AmyPlayerLostText:
-	text "Hah! I'm the best!"
-	line "Come see me again sometime!"
-	line "I'd like another duel!"
+	text "Hah! Ik ben de beste!"
+	line "Kom later weer eens terug!"
+	line "Ik zou graag nog een duel willen!"
 	done
 
 AmyWantsToDuelRepeatText:
-	text "Hi, <RAMNAME>."
-	line "Nice to see you again!!!"
-	line "Did you come to play the"
-	line "Pokémon Trading Card Game?"
+	text "Hoi, <RAMNAME>."
+	line "Leuk om je weer te zien!!!"
+	line "Kwam je om het Pokémon Ruilkaart-"
+	line "spel te spelen?"
 	done
 
 AmyDuelStartRepeatText:
-	text "OK, same rules as before!"
-	line "A 1-match duel with 6 Prizes!"
+	text "Oké, dezelfde regels als de"
+	line "vorige keer!"
+	line "Een duel van 1 wedstrijd en 6"
+	line "Prijzen!"
 	done
 
 Clerk1Text:
-	text "Hello."
-	line "Welcome to the Fighting Club!"
-	line "Here at this Club, we duel using"
-	line "Fighting Pokémon."
-	line "No dirty dueling is allowed!"
-	line "Only nice, clean duels are allowed"
-	line "in this Club."
+	text "Hallo."
+	line "Welkom bij de Vecht-Club!"
+	line "Hier bij deze Club duelleren we"
+	line "met Vecht-Pokémon."
+	line "Valsspelen is niet toegestaan!"
+	line "Alleen duellen in goede eer mogen"
+	line "plaatsvinden in deze Club."
 	done
 
 Man1FirstRequestCardText:
-	text "I see you play the Pokémon Trading"
-	line "Card Game. I'm not into dueling."
-	line "I prefer collecting the cards."
-	line "By the way, would you happen to have"
+	text "Ik zie dat je het Pokémon Ruilkaart-"
+	line "spel speelt. Ik ben zelf niet van het"
+	line "duelleren. Ik vind het leuker om de"
+	line "kaarten alleen te verzamelen."
+	line "Trouwens, heb jij toevallig een"
 	line "<RAMTEXT>?"
-	line "If you do, I was wondering if you"
-	line "might want to give it to me?"
-	line "How about it?"
+	line "Als je er een hebt, zou je hem dan"
+	line "aan mij willen geven?"
+	line "Wat denk je ervan?"
 	done
 
 Man1WaitingForCardText:
-	text "Hi! It's you!"
-	line "What's up?"
-	line "Did you decide to give me your"
-	line "<RAMTEXT>?"
+	text "Hé! Jij bent het!"
+	line "Hoe gaatie?"
+	line "Heb je al besloten of je me je"
+	line "<RAMTEXT> wil geven?"
 	done
 
 Man1NewRequestCardText:
-	text "Hi! I see you're playing with"
-	line "the cards again."
-	line "By the way, I'm looking for"
-	line "<RAMTEXT> this time."
-	line "If you should happen to have one,"
-	line "would you mind giving it to me?"
+	text "Hoi! Ik zie dat je weer met"
+	line "de kaarten zit te spelen."
+	line "Trouwens, ik ben op zoek naar een"
+	line "<RAMTEXT> deze keer."
+	line "Als je er een hebt, zou je hem dan"
+	line "aan mij willen geven?"
 	done
 
 Man1GiveAwayCardText:
-	text "Give him your <RAMTEXT>?"
+	text "Geef hem je <RAMTEXT>?"
 	done
 
 Man1DeclineText:
-	text "OK. I understand."
-	line "But if you should change your"
-	line "mind, please come see me."
+	text "Oké. Ik begrijp het."
+	line "Maar als je van gedachten verandert,"
+	line "zoek me dan maar op."
 	done
 
 Man1DontHaveText:
-	text "But you don't have <RAMTEXT>!"
-	line "I appreciate your generosity, but"
-	line "you can't give me what you don't"
-	line "have. Come see me again after"
-	line "you get <RAMTEXT>."
+	text "Maar je hebt geen <RAMTEXT>!"
+	line "Ik waardeer je gulheid, maar je"
+	line "je kunt me niet geven wat je niet"
+	line "hebt. Kom me later opzoeken als je"
+	line "een <RAMTEXT> hebt."
 	done
 
 Man1CardInDeckText:
-	text "You're going to give it to me?"
-	line "Thank you!"
-	line "But your <RAMTEXT>"
-	line "is in your deck."
-	line "I can't take a card that you're"
-	line "playing with!"
+	text "Je wil hem aan me geven?"
+	line "Dankjewel!"
+	line "Maar jouw <RAMTEXT>"
+	line "zit nog in je deck."
+	line "Ik kan geen kaart aannemen waar je"
+	line "nog mee speelt!"
 	done
 
 Man1GiveCardText:
-	text "You're going to give it to me?"
-	line "I'll put it in my collection"
-	line "right away. I'll take good care of"
-	line "this card. Thank you! Thank you!!!"
+	text "Je wil hem aan me geven?"
+	line "Ik zal hem meteen in mijn"
+	line "verzameling stoppen. Ik zal goed"
+	line "voor deze kaart zorgen."
+	line "Dankje! Dankje!!!"
 	done
 
 Man1PlayerReceivePikachuAltLv16Text:
-	text "Since you've been so kind and given"
-	line "me so many cards,"
-	line "please accept this card as a gift"
-	line "from me to you."
-	line "It's a <Lv>16 Pikachu."
-	line "Please take good care of it!"
+	text "Omdat je zo aardig bent geweest en"
+	line "me zoveel kaarten hebt gegeven, neem"
+	line "dit cadeau alsjeblieft van me als"
+	line "bedankje van mij aan jou."
+	line "Het is een <Lv>16 Pikachu."
+	line "Zorg er goed voor!"
 	done
 
 Man1ThankYouText:
-	text "Thank you for being so kind and"
-	line "giving me all these cards!"
+	text "Bedankt dat je zo aardig bent en"
+	line "me al deze kaarten hebt gegeven!"
 	done
 
 Man1GaveCardText:
-	text "Hi!"
-	line "Thanks for being so kind!"
-	line "I'm taking good care"
-	line "of all the cards you gave me!"
+	text "Hoi!"
+	line "Bedankt dat je zo aardig bent!"
+	line "Ik zorg goed voor alle kaarten"
+	line "die je me hebt gegeven!"
 	done
 
 Man1GaveAllCardsText:
-	text "Hi! Is the card I gave you"
-	line "coming in handy?"
-	line "Thanks again for being so kind!"
+	text "Hoi! Komt de kaart die ik je heb"
+	line "gegeven goed van pas?"
+	line "Nogmaals bedankt dat je zo aardig"
+	line "bent!"
 	done
 
 ImakuniWouldLikeToDuelInitialText:
-	text "Huh? W..Who are you?"
-	line "Who? Me? You don't know who I am?"
-	line "I am the super musical star,"
+	text "Huh? W..Wie ben jij?"
+	line "Wie? Ik? Weet je niet wie ik ben?"
+	line "Ik ben de super muzikale ster,"
 	line "Imakuni?!"
-	line "I'll sing the PokéRap - You dance!"
+	line "Ik zal de PokéRap zingen - Jij"
+	line "danst!"
 	line ""
 	half2full
 	textfw "♪"
 	text "La di da la di da"
 	line "  La di da la di da..."
-	line "Hey!"
-	line "Move those feet!"
-	line "What? Cards?"
-	line "You want to duel me?"
-	line "OK, but if I win, you dance!"
+	line "Hé!"
+	line "Dansen met die voeten!"
+	line "Wat? Kaarten?"
+	line "Je wilt met me duelleren?"
+	line "Oké, maar als ik win, dans jij!"
 	done
 
 ImakuniWouldLikeToDuelRepeatText:
-	text "What? You're still here?"
-	line "OK, sit over there."
-	line "What? You're already sitting?"
-	line "OK, OK! Then let's get started!"
+	text "Wat? Je bent hier nog steeds?"
+	line "Oké, ga daar maar zitten."
+	line "Wat? Je zit al?"
+	line "Oké, oké! Laten we dan beginnen!"
 	done
 
 ImakuniWouldYouLikeToDuelText:
@@ -314,54 +331,56 @@ ImakuniWouldYouLikeToDuelText:
 	done
 
 ImakuniDeclinedDuelText:
-	text "Come on, don't be cruel!"
-	line "You're going to make me cry!"
+	text "Kom op, doe niet zo wreed!"
+	line "Je maakt me aan het huilen!"
 	done
 
 ImakuniDuelStartText:
-	text "OK, a 1-match duel with 6 Prizes!"
-	line "...Whatever that means..."
+	text "Oké, een duel van 1 wedstrijd met"
+	line "6 Prijzen!"
+	line "...Wat dat ook betekent..."
 	done
 
 ImakuniPlayerWonNormalText:
-	text "Hey! You're pretty good!"
-	line "I'll give you this booster pack,"
-	line "so don't tell anyone I lost, OK?"
+	text "Hé! Je bent best wel goed!"
+	line "Ik geef je wel dit Booster-Pakje,"
+	line "dus zeg niemand dat ik verloor, Oké?"
 	done
 
 ImakuniPlayerWonThreeWinsText:
-	text "You won 3 times against me!"
-	line "Does that make you happy? Does it?"
+	text "Je won al 3 keer van me!"
+	line "Maakt dat je blij? Nou?"
 	done
 
 ImakuniPlayerWonSixWinsText:
-	text "I can't believe I lost 6 times!"
-	line "...Seriously!"
+	text "Ik kan niet geloven dat ik 6 keer"
+	line "heb verloren!"
+	line "...Serieus!"
 	done
 
 ImakuniGivesImakuniText:
-	text "I don't really want to give you"
-	line "this, but here. Take care of it."
+	text "Ik wil je dit eigenlijk niet geven,"
+	line "maar hier. Zorg er goed voor."
 	done
 
 ImakuniPlayerWonEndText:
-	text "In both cards and dance,"
-	line "soul and rhythm are the secret."
-	line "Hey, that sounds pretty cool!"
-	line "Maybe I'll become a poet!"
+	text "In zowel kaarten als dans, is ziel"
+	line "en ritme het geheim."
+	line "Hé, dat klinkt best wel cool!"
+	line "Misschien word ik wel dichter!"
 	done
 
 ImakuniPlayerLostText:
-	text "Hmm...I win."
-	line "You weren't too bad, but since"
-	line "I won...Let's see you shake it!"
-	line "Come on, shake it!!!"
+	text "Hmm...Ik win."
+	line "Je was niet slecht, maar aangezien"
+	line "ik won... Laat me die dansmoves van"
+	line "jou eens zien! Kom op, swingen!!!"
 	line ""
 	half2full
 	textfw "♪"
 	text "La di da la di da"
 	line "  La di da la di da..."
-	line "... You dance weird!"
+	line "... jij danst raar!"
 	done
 
 Specs1NormalText:
