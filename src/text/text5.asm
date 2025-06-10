@@ -384,64 +384,69 @@ ImakuniPlayerLostText:
 	done
 
 Specs1NormalText:
-	text "I was just saying which"
-	line "Grand Master is the best."
-	line "I think Steve is the best player."
+	text "Ik zei net welke Grootmeester de"
+	line "beste is."
+	line "Ik denk dat Steve de beste"
+	line "speler is."
 	done
 
 Specs1PlayerIsChampionText:
-	text "I can't believe Steve the Grand"
-	line "Master could lose!"
-	line "Who could have defeated Steve?"
+	text "Ik kan niet geloven dat Steve de"
+	line "Grootmeester kon verliezen!"
+	line "Wie zou Steve kunnen hebben"
+	line "verslagen?"
 	done
 
 ButchNormalText:
-	text "The best player among the Grand"
-	line "Masters is Rod, since he's the"
-	line "leader of the Grand Masters."
+	text "De beste speler van de Grootmeesters"
+	line "is Rod, aangezien hij de leider van"
+	line "de Grootmeesters is."
 	done
 
 ButchPlayerIsChampionText:
-	text "I can't believe Rod, the leader of"
-	line "the Grand Masters, was defeated!?!"
-	line "Could this mean the Legendary"
-	line "Pokémon Cards have been passed on?"
+	text "Ik kan niet geloven dat Rod, de"
+	line "leider van de Grootmeesters, is"
+	line "verslagen!?! Zou dit betekenen"
+	line "dat de Legendarische Pokémon-"
+	line "kaarten doorgegeven zijn?"
 	done
 
 Granny1Text:
-	text "If I were just a few years younger,"
-	line "I'd be dueling with you kids, too."
+	text "Als ik maar een paar jaar jonger"
+	line "was, dan zou ik ook met alle"
+	line "kinderen aan het duelleren zijn."
 	done
 
 MitchFirstInteractionText:
-	text "I am Mitch, Master of the"
-	line "Fighting Club!"
-	line "I have to warn you that you will"
-	line "be unable to defeat me!"
-	line "If you wish to duel with me,"
-	line "you must defeat my pupils first!"
-	line "My pupils are training at"
-	line "other Clubs!"
-	line "Go see if you can defeat all"
-	line "3 of my pupils!"
+	text "Ik ben Mitch, Meester van de"
+	line "Vecht-Club!"
+	line "Ik moet je waarschuwen dat je niet"
+	line "in staat zult zijn mij te verslaan!"
+	line "Als je met mij wilt duelleren, moet"
+	line "je eerst mijn leerlingen verslaan!"
+	line "Mijn leerlingen zijn aan het"
+	line "trainen bij andere Clubs!"
+	line "Kijk eerst maar of je alle 3 van"
+	line "mijn leerlingen kan verslaan!"
 	done
 
 Mitch3PupilsRemainingText:
-	text "If you wish to duel me, you"
-	line "must defeat my pupils first!"
-	line "My pupils are training at the"
-	line "other Clubs!"
-	line "Go and see if you can defeat all"
-	line "3 of my pupils!"
+	text "Als je met mij wilt duelleren, moet"
+	line "je eerst mijn leerlingen verslaan!"
+	line "Mijn leerlingen zijn aan het"
+	line "trainen bij andere Clubs!"
+	line "Kijk eerst maar of je alle 3 van"
+	line "mijn leerlingen kan verslaan!"
 	done
 
 Mitch2PupilsRemainingText:
-	text "So, you've defeated 1 of my pupils."
-	line "You must be a pretty good player."
-	line "But you're not good enough!"
-	line "If you wish to duel me,"
-	line "you must defeat my"
-	line "2 remaining pupils!"
+	text "Dus, je hebt 1 van mijn leerlingen"
+	line "verslagen. Je moet vast een goede"
+	line "speler zijn."
+	line "Maar je bent niet goed genoeg!"
+	line "Als je met mij wilt duelleren, moet"
+	line "je eerst mijn 2 overgebleven"
+	line "leerlingen verslaan!"
 	done
 
 Mitch1PupilRemainingText:
