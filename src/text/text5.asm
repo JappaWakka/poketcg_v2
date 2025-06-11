@@ -450,19 +450,21 @@ Mitch2PupilsRemainingText:
 	done
 
 Mitch1PupilRemainingText:
-	text "So, you've defeated 2 of my pupils!"
-	line "You are pretty good."
-	line "But there's still the last one..."
-	line "Can you defeat my last pupil?"
+	text "Dus, je hebt 2 van mijn leer-"
+	line "lingen verslagen!"
+	line "Je bent best wel goed."
+	line "Maar er is er nog eentje over..."
+	line "Kan je mijn laatste leerling"
+	line "verslaan?"
 	done
 
 MitchWouldLikeToDuelInitialText:
-	text "So, you have defeated"
-	line "all of my pupils!"
-	line "Let's see if you have"
-	line "what it takes to inherit"
-	line "the Legendary Pokémon Cards!"
-	line "OK! Are you ready?"
+	text "Ah, je hebt al mijn leerlingen"
+	line "verslagen! Laten we eens kijken"
+	line "of je over de vaardigheden beschikt"
+	line "om de Legendarische Pokémonkaarten"
+	line "over te kunnen nemen!"
+	line "Oké! Ben je er klaar voor?"
 	done
 
 MitchWouldYouLikeToDuelText:
@@ -470,41 +472,43 @@ MitchWouldYouLikeToDuelText:
 	done
 
 MitchDeclinedInitialText:
-	text "What?"
-	line "Are you getting cold feet?"
-	line "Come see me again when you"
-	line "finally work up enough nerves!"
+	text "Wat?"
+	line "Heb je last van koudwatervrees?"
+	line "Kom maar naar me terug wanneer je"
+	line "eindelijk de moed hebt verzameld!"
 	done
 
 MitchDuelStartInitialText:
-	text "Come on! Show me what you've got!"
-	line "We'll play with 6 Prizes!"
+	text "Kom op! Laat me zien wat je in"
+	line "je hebt!"
+	line "We spelen met 6 Prijzen!"
 	done
 
 MitchPlayerWonInitial1Text:
-	text "Wonderful! Great Match!"
-	line "You're very good."
-	line "Here, take this."
-	line "It's the Fighting Medal!"
-	line "You'll find the secret to the decks"
-	line "of this Club encrypted in it."
+	text "Fantastisch! Wat een wedstrijd!"
+	line "Je bent heel erg goed."
+	line "Hier, neem dit."
+	line "Het is de Vecht-Medaille!"
+	line "Je zult er het geheim van de decks"
+	line "van deze Club in versleuteld vinden."
 	done
 
 MitchPlayerWonInitial2Text:
-	text "Here, take this, too. It's a"
-	line "Laboratory booster pack."
+	text "Neem dit er ook bij. Het is een"
+	line "Chemie Booster-Pakje."
 	done
 
 MitchPlayerWonInitial3Text:
-	text "I hope to duel someone"
-	line "like you again someday!"
+	text "Ik hoop in de toekomst opnieuw tegen"
+	line "iemand zoals jij te mogen duelleren!"
 	done
 
 MitchPlayerLostInitialText:
-	text "You may have been able to defeat"
-	line "my pupils, but you still are not"
-	line "experienced enough to defeat me!"
-	line "Come back after you've trained more!"
+	text "Je was misschien in staat om mijn"
+	line "leerlingen te verslaan, maar je bent"
+	line "nog steeds niet ervaren genoeg om"
+	line "mij te verslaan!"
+	line "Kom terug als je meer geoefend hebt!"
 	done
 
 MitchWouldLikeToDuelRepeatText:
