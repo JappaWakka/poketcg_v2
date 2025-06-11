@@ -162,7 +162,7 @@ CardPointers::
 	dw JynxCard
 	dw MewtwoLv53Card
 	dw MewtwoLv60Card
-	dw MewtwoAltLV60Card
+	dw MewtwoAltLv60Card
 	dw MewLv8Card
 	dw MewLv15Card
 	dw MewLv23Card
@@ -7785,9 +7785,9 @@ MewtwoLv60Card:
 	tx MewtwoLv60Description ; description
 	db 0 ; pokemon flags
 
-MewtwoAltLV60Card:
+MewtwoAltLv60Card:
 	db TYPE_PKMN_PSYCHIC ; type
-	gfx MewtwoAltLV60CardGfx ; gfx
+	gfx MewtwoAltLv60CardGfx ; gfx
 	tx MewtwoName ; name
 	db PROMOSTAR ; rarity
 	db PROMOTIONAL | PRO ; sets

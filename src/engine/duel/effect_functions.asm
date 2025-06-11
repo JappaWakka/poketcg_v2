@@ -2610,6 +2610,7 @@ HandleColorChangeScreen:
 	call EmptyScreen
 	call ZeroObjectPositions
 	call LoadDuelCardSymbolTiles
+	bank1call SetDefaultConsolePalettes
 
 ; load card data
 	pop af
@@ -2621,20 +2622,15 @@ HandleColorChangeScreen:
 
 ; draw card gfx
 	ld de, v0Tiles1 + $20 tiles ; destination offset of loaded gfx
-	ld hl, wLoadedCard1Gfx
-	ld a, [hli]
-	ld h, [hl]
-	ld l, a
-	lb bc, $30, TILE_SIZE
-	call LoadCardGfx
-	bank1call SetBGP6OrSGB3ToCardPalette
-	bank1call FlushAllPalettesOrSendPal23Packet
+	call LoadLoaded1CardGfx
+	bank1call SetBGP5ToCardPalette
+	bank1call FlushAllPalettes
 	ld a, $a0
 	lb hl, 6, 1
 	lb de, 9, 2
 	lb bc, 8, 6
 	call FillRectangle
-	bank1call ApplyBGP6OrSGB3ToCardImage
+	bank1call ApplyCardCGBAttributes
 
 ; print card name and level at the top
 	ld a, 16
@@ -2728,12 +2724,12 @@ ShiftMenuData:
 
 ColorTileAndBGP:
 	; tile, cgb palette
-	db ICON_TILE_GRASS,     $02
-	db ICON_TILE_FIRE,      $01
-	db ICON_TILE_WATER,     $02
-	db ICON_TILE_LIGHTNING, $01
-	db ICON_TILE_FIGHTING,  $03
-	db ICON_TILE_PSYCHIC,   $03
+	db ICON_TILE_GRASS,     $3
+	db ICON_TILE_FIRE,      $2
+	db ICON_TILE_WATER,     $3
+	db ICON_TILE_LIGHTNING, $2
+	db ICON_TILE_FIGHTING,  $4
+	db ICON_TILE_PSYCHIC,   $4
 
 
 ; loads wTxRam2 and wTxRam2_b:

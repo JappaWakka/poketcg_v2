@@ -208,9 +208,6 @@ wIE:: ; cab7
 wVBlankCounter:: ; cab8
 	ds $1
 
-; Unused wram byte?
-	ds $1
-
 ; bit0: is in vblank interrupt?
 ; bit1: is in timer interrupt?
 wReentrancyFlag:: ; caba
@@ -336,8 +333,6 @@ wBackgroundPalettesCGB:: ; caf0
 wObjectPalettesCGB:: ; cb30
 	ds NUM_OBJECT_PALETTES palettes ; ds $40
 
-; Unused wram bytes?
-	ds $2
 
 ; stores a pointer to a temporary list of elements (e.g. pointer to wDuelTempList)
 ; to be read or written sequentially
@@ -400,9 +395,6 @@ wSerialRecvBuf:: ; cba5
 wSerialEnd:: ; cbc5
 
 SECTION "WRAM0 Duels 2", WRAM0
-
-; Unused wram byte?
-	ds $1
 
 ; In a duel, the main menu current or last selected menu item
 ; From 0 to 5: Hand, Attack, Check, Pkmn Power, Retreat, Done
@@ -553,16 +545,10 @@ wNumCardsTryingToDraw:: ; cbe8
 wNumCardsBeingDrawn:: ; cbe9
 	ds $1
 
-; Unused wram bytes?
-	ds $3
-
 ; temporarily stores 8 bytes for serial send/recv.
 ; used by SerialSend8Bytes and SerialRecv8Bytes
 wTempSerialBuf:: ; cbed
 	ds $8
-
-; Unused wram bytes?
-	ds $2
 
 ; return address for when the Link Opponent has
 ; made a decision on his turn, so that the duel continues
@@ -906,9 +892,6 @@ wTextMaxLength:: ; cd0c
 wUppercaseHalfWidthLetters:: ; cd0d
 	ds $1
 
-; Unused wram byte?
-	ds $1
-
 ; handles timing of (horizontal or vertical) arrow blinking while waiting for user input.
 wCursorBlinkCounter:: ; cd0f
 	ds $1
@@ -960,7 +943,7 @@ wListFunctionPointer:: ; cd1d
 	ds $2
 
 ; Unused wram bytes?
-	ds $77
+	ds $48
 
 ; indicates that an alternate format should be used when displaying a card list.
 ; currently only used when opening a booster pack (if = USE_BOOSTER_PACK_DISPLAY).
@@ -1004,9 +987,6 @@ wCoinTossDuelistType:: ; cd9e
 ; holds the number of coins that have already been tossed
 wCoinTossNumTossed:: ; cd9f
 	ds $1
-
-; Unused wram bytes?
-	ds $5
 
 wAIDuelVars::
 ; saves the Prize cards that the AI has already selected with the Peek Pokemon Power
@@ -1096,9 +1076,6 @@ wTempCardID:: ; cdb9
 wTempCardType:: ; cdba
 	ds $1
 
-; Unused wram bytes?
-	ds $3
-
 ; used for AI to score decisions for actions
 wAIScore:: ; cdbe
 	ds $1
@@ -1116,9 +1093,6 @@ wFirstAttackAIScore:: ; cdbf
 	ds $1
 
 ENDU
-
-; Unused wram bytes?
-	ds $4
 
 ; information about the Defending Pokémon and
 ; the Prize card count on both sides for AI:
@@ -1233,9 +1207,6 @@ wTempAIPokemonCard:: ; cdf3
 wCurCardCanKO:: ; cdf4
 	ds $1
 
-; Unused wram bytes?
-	ds $4
-
 wSamePokemonCardID:: ; cdf9
 	ds $1
 
@@ -1340,9 +1311,12 @@ wCurrentAIFlags:: ; ce21
 wEffectFunctionsBank:: ; ce22
 	ds $1
 
-; LoadCardGfx loads the card's palette here
+; LoadLoaded1CardGfx loads the card's palette here
 wCardPalette:: ; ce23
 	ds CGB_PAL_SIZE ; ds $8
+	ds 3 palettes
+wCardAttrMap::
+	ds $30
 
 ; information about the text being currently processed, including font width,
 ; the rom bank, and the memory address of the next character to be printed.
@@ -1538,9 +1512,6 @@ wBackupPlayerAreaHP:: ; ce76
 wTempPokemonID_ce7c:: ; ce7c
 	ds $1
 
-; Unused wram byte?
-	ds $1
-
 wce7e:: ; ce7e
 	ds $1
 
@@ -1590,9 +1561,6 @@ wCurDeckTrainerCardCount:: ; ce94
 	ds $1
 
 wCurDeckEnergyCardCount:: ; ce95
-	ds $1
-
-; Unused wram byte
 	ds $1
 
 NEXTU
@@ -1654,9 +1622,6 @@ wCardPopCardObtainSong:: ; cea0
 ; first index in the current card list that is visible
 ; used to calculate which element to get based on the cursor position
 wCardListVisibleOffset:: ; cea1
-	ds $1
-
-; Unused wram byte?
 	ds $1
 
 ; it's used when the player enters the check menu or one of its sub-menus.
@@ -1723,9 +1688,6 @@ wCurDeck:: ; ceb1
 ; uses deck flags, each flag represents whether the given deck built by the player is valid
 wValidDecks:: ; ceb2
 	ds $1
-
-; Unused wram bytes
-	ds $3
 
 ; holds symbols for representing a number in decimal
 ; goes up in magnitude (first byte is ones place,
@@ -2342,9 +2304,6 @@ wOverworldMapPlayerMovementPtr:: ; d33f
 wOverworldMapPlayerMovementCounter:: ; d341
 	ds $1
 
-; Unused wram byte?
-	ds $1
-
 ; during setup, this holds a signed 16-bit integer
 ; representing the total horizontal distance between
 ; the current point and the next point
@@ -2407,9 +2366,6 @@ wNPCAnimFlags:: ; d3b2
 ; sprite ID of the NPC to load
 wNPCSpriteID:: ; d3b3
 	ds $1
-
-; Unused wram bytes?
-	ds $2
 
 ; ID of the NPC being interacted with in Script
 wScriptNPC:: ; d3b6
@@ -2626,9 +2582,6 @@ wd4bf:: ; d4bf
 wd4c0:: ; d4c0
 	ds $1
 
-; Unused wram byte?
-	ds $1
-
 ; pointer to address in VRAM
 wVRAMPointer:: ; d4c2
 	ds $2
@@ -2661,9 +2614,6 @@ wd4ca:: ; d4ca
 ; $0 = VRAM0, $1 = VRAM1
 wd4cb:: ; d4cb
 	ds $1
-
-; Unused wram bytes?
-	ds $3
 
 ; used as an index to manipulate a sprite from wSpriteAnimBuffer
 wWhichSprite:: ; d4cf
@@ -2795,9 +2745,6 @@ wStartMenuChoice:: ; d628
 wTitleScreenSprites:: ; d629
 	ds $7
 
-; Unused wram byte?
-	ds $1
-
 ; pointer to commands used by opening and credits sequence
 ; (see IntroSequence and CreditsSequence)
 wSequenceCmdPtr:: ; d631
@@ -2909,9 +2856,6 @@ wBoosterTempTypeChancesTable:: ; d67a
 wBoosterCurrentCardType:: ; d683
 	ds $1
 
-; Unused wram bytes
-	ds $2
-
 ; data of the booster pack copied from the corresponding BoosterPack_* structure.
 ; wBoosterData_TypeChances is updated after each card is drawn, to re-balance the type chances.
 wBoosterData_Set:: ; d686
@@ -2977,9 +2921,6 @@ wMusicDuty1:: ; dd86
 wMusicDuty2:: ; dd87
 	ds $1
 
-; Unused wram bytes?
-	ds $2
-
 wMusicWave:: ; dd8a
 	ds $1
 
@@ -3026,9 +2967,6 @@ wddab:: ; ddab
 
 wddac:: ; ddac
 	ds $1
-
-; Unused wram bytes?
-	ds $2
 
 wMusicOctave:: ; ddaf
 	ds $4

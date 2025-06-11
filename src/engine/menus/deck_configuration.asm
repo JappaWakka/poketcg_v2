@@ -410,7 +410,7 @@ DrawDeckBoxTileAtDE:
 	ld a, [wConsole]
 	cp CONSOLE_CGB
 	ret nz
-	ld a, $04 ; CGB Background Palette 4 (orange/red)
+	ld a, $01 ; CGB Background Palette 1 (orange/red)
 	lb bc, 2, 2
 	lb hl, 0, 0
 	call BankswitchVRAM1
@@ -1207,7 +1207,7 @@ FillBGMapLineWithA::
 	ld a, [wConsole]
 	cp CONSOLE_CGB
 	ret nz ; return if not CGB
-	ld a, $04 ; CGB Background Palette 4 (orange/red)
+	ld a, $01 ; CGB Background Palette 1 (orange/red)
 	ld b, SCREEN_WIDTH
 	call BankswitchVRAM1
 	call FillDEWithA
