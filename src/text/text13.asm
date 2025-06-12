@@ -20,7 +20,7 @@ OmanytesWaterGunDescription:
 	line "schade voor elke aan Omanyte"
 	line "gehechte <WATER> Energie die niet"
 	line "wordt gebruikt om de Energiekosten"
-	line "van deze Aanval te betalen."
+	line "van deze aanval te betalen."
 	line "Je kunt op deze manier niet"
 	line "meer dan 20 schade toevoegen."
 	done
@@ -45,7 +45,7 @@ OmastarsWaterGunDescription:
 	line "schade voor elke aan Omastar"
 	line "gehechte <WATER> Energie die niet wordt"
 	line "gebruikt om de Energiekosten van"
-	line "deze Aanval te betalen. Je kunt op"
+	line "deze aanval te betalen. Je kunt op"
 	line "deze manier niet meer dan 20 schade"
 	line "toevoegen."
 	done
@@ -71,10 +71,10 @@ BlizzardName:
 
 BlizzardDescription:
 	text "Gooi een munt op. Als het kop is,"
-	line "doet deze Aanval 10 schade aan elk"
+	line "doet deze aanval 10 schade aan elk"
 	line "van je tegenstander's Pokémon op de"
 	line "Bank; als het munt is, doet deze"
-	line "Aanval 10 schade aan elk van je"
+	line "aanval 10 schade aan elk van je"
 	line "Pokémon op de Bank."
 	done
 
@@ -115,7 +115,7 @@ IceBreathDescription:
 	text "Doet 40 schade aan 1 van je tegen-"
 	line "stander's Pokémon, op willekeurige"
 	line "wijze gekozen. Pas geen Zwakte of"
-	line "Weerstand toe voor deze Aanval."
+	line "Weerstand toe voor deze aanval."
 	line "(Alle andere gevolgen die na het"
 	line "toepassen van Zwakte en Weerstand"
 	line "zouden gebeuren blijven gewoon"
@@ -165,7 +165,7 @@ SparkName:
 SparkDescription:
 	text "Als je tegenstander Pokémon op de"
 	line "Bank heeft, kies er daar dan 1 van"
-	line "en deze Aanval doet er 10 schade"
+	line "en deze aanval doet er 10 schade"
 	line "aan. (Pas geen Zwakte en Weerstand"
 	line "toe op de Pokémon op de Bank.)"
 	done
@@ -183,9 +183,9 @@ GrowlName:
 
 GrowlDescription:
 	text "Als de Verdedigende Pokémon Pikachu"
-	line "Aanvalt tijdens je tegenstander's"
+	line "aanvalt tijdens je tegenstander's"
 	line "volgende beurt, wordt alle schade"
-	line "die door de Aanval wordt gedaan"
+	line "die door de aanval wordt gedaan"
 	line "verminderd met 10 (na het toepassen"
 	line "van Zwakte en Weerstand)."
 	done
@@ -218,13 +218,13 @@ FlyDescription:
 	text "Gooi een munt op. Als het kop is,"
 	line "voorkom dan tijdens je tegen-"
 	line "stander's volgende beurt alle"
-	line "gevolgen van Aanvallen, inclusief"
+	line "gevolgen van aanvallen, inclusief"
 	line "schade, toegebracht aan Vliegende"
 	line "Pikachu;"
 	done
 
 FlyDescriptionCont:
-	text "als het munt is, doet deze Aanval"
+	text "als het munt is, doet deze aanval"
 	line "niets (zelfs geen schade)."
 	done
 
@@ -256,7 +256,7 @@ RaichusAgilityDescription:
 	text "Gooi een munt op. Als het kop is,"
 	line "voorkom dan tijdens je"
 	line "tegenstander's volgende beurt alle"
-	line "gevolgen van Aanvallen, inclusief"
+	line "gevolgen van aanvallen, inclusief"
 	line "schade, die aan Raichu worden"
 	line "toegebracht."
 	done
@@ -283,7 +283,7 @@ GigashockName:
 
 GigashockDescription:
 	text "Kies 3 van je tegenstander's Pokémon"
-	line "op de Bank en deze Aanval doet aan"
+	line "op de Bank en deze aanval doet aan"
 	line "elk van hen 10 schade. (Pas geen"
 	line "Zwakte en Weerstand toe op de Poké-"
 	line "mon op de Bank.) Als je tegenstan-"
@@ -373,7 +373,7 @@ SonicboomName:
 
 SonicboomDescription:
 	text "Pas geen Zwakte of Weerstand toe"
-	line "voor deze Aanval. (Alle andere"
+	line "voor deze aanval. (Alle andere"
 	line "gevolgen die na het toepassen van"
 	line "Zwakte en Weerstand zouden"
 	line "gebeuren blijven gewoon geldig.)"
@@ -436,7 +436,7 @@ ChainLightningName:
 
 ChainLightningDescription:
 	text "Als de Verdedigende Pokémon niet"
-	line "Kleurloos is, doet deze Aanval 10"
+	line "Kleurloos is, doet deze aanval 10"
 	line "schade aan elke Pokémon op de Bank"
 	line "van hetzelfde type als de Verdedi-"
 	line "gende Pokémon (inclusief die van"
@@ -458,7 +458,7 @@ LightScreenName:
 	done
 
 LightScreenDescription:
-	text "Wanneer een Aanval schade doet aan"
+	text "Wanneer een aanval schade doet aan"
 	line "Electabuzz tijdens je tegenstander's"
 	line "volgende beurt (na het toepassen van"
 	line "Zwakte en Weerstand), doet die Aan-"
@@ -468,15 +468,15 @@ LightScreenDescription:
 	done
 
 LightScreenDescriptionCont:
-	text "(Alle andere gevolgen van Aanvallen"
+	text "(Alle andere gevolgen van aanvallen"
 	line "blijven gewoon geldig.)"
 	done
 
 ElectabuzzsQuickAttackDescription:
 	text "Gooi een munt op. Als het kop is,"
-	line "doet deze Aanval 10 schade plus nog"
+	line "doet deze aanval 10 schade plus nog"
 	line "eens 20 schade. Als het munt is,"
-	line "doet deze Aanval 10 schade."
+	line "doet deze aanval 10 schade."
 	done
 
 ElectricName:
@@ -496,9 +496,9 @@ ThunderpunchName:
 
 ThunderpunchDescription:
 	text "Gooi een munt op. Als het kop is,"
-	line "doet deze Aanval 30 schade plus nog"
+	line "doet deze aanval 30 schade plus nog"
 	line "eens 10 schade; als het munt is,"
-	line "doet deze Aanval 30 schade en doet"
+	line "doet deze aanval 30 schade en doet"
 	line "Electabuzz 10 schade aan zichzelf."
 	done
 
@@ -514,7 +514,7 @@ JolteonName:
 	done
 
 DoubleAttackX20Description:
-	text "Gooi 2 munten op. Deze Aanval doet"
+	text "Gooi 2 munten op. Deze aanval doet"
 	line "20 schade maal het aantal keren kop."
 	done
 
@@ -538,7 +538,7 @@ PinMissileName:
 	done
 
 QuadrupleAttackX20Description:
-	text "Gooi 4 munten op. Deze Aanval doet"
+	text "Gooi 4 munten op. Deze aanval doet"
 	line "20 schade maal het aantal keren kop."
 	done
 
@@ -559,7 +559,7 @@ ThunderstormName:
 ThunderstormDescription:
 	text "Gooi voor elk van je tegenstander's"
 	line "Pokémon op de Bank een munt op. Als"
-	line "het kop is, doet deze Aanval 20"
+	line "het kop is, doet deze aanval 20"
 	line "schade aan die Pokémon. (Pas geen"
 	line "Zwakte en Weerstand toe voor Pokémon"
 	line "op de Bank.)"
@@ -587,7 +587,7 @@ ThunderboltName:
 	done
 
 ThunderboltDescription:
-	text "Om deze Aanval te kunnen gebruiken,"
+	text "Om deze aanval te kunnen gebruiken,"
 	line "moet je alle aan Zapdos gehechte"
 	line "Energiekaarten weggooien."
 	done
@@ -619,10 +619,10 @@ BigThunderName:
 
 BigThunderDescription:
 	text "Kies op willekeurig wijze een andere"
-	line "Pokémon dan Zapdos. Deze Aanval doet"
+	line "Pokémon dan Zapdos. Deze aanval doet"
 	line "70 schade aan die Pokémon. Pas geen"
 	line "Zwakte en Weerstand toe voor deze"
-	line "Aanval. (Alle andere gevolgen die na"
+	line "aanval. (Alle andere gevolgen die na"
 	line "het toepassen van Zwakte en"
 	done
 
@@ -658,7 +658,7 @@ SandslashName:
 	done
 
 TripleAttackX20Description:
-	text "Gooi 3 munten op. Deze Aanval doet"
+	text "Gooi 3 munten op. Deze aanval doet"
 	line "20 schade maal het aantal keren kop."
 	done
 
@@ -666,7 +666,7 @@ SandslashDescription:
 	text "Rolt zich op tot een stekelige bal"
 	line "wanneer hij bedreigd wordt. Terwijl"
 	line "hij opgerold is kan hij zich voort-"
-	line "rollen om Aan te Vallen of te"
+	line "rollen om aan te vallen of te"
 	line "ontsnappen."
 	done
 
@@ -725,7 +725,7 @@ PeekName:
 
 PeekDescription:
 	text "Eenmaal tijdens je beurt (vóór je"
-	line "Aanval) mag je naar één van de"
+	line "aanval) mag je naar één van de"
 	line "volgende kijken: de bovenste kaart"
 	line "van het deck van een speler, een"
 	line "willekeurige kaart in de hand van je"
@@ -799,7 +799,7 @@ KarateChopName:
 
 KarateChopDescription:
 	text "Doet 50 schade min 10 schade voor"
-	line "elke Schadeteller op Machoke."
+	line "elke schadeteller op Machoke."
 	done
 
 SubmissionName:
@@ -826,11 +826,11 @@ StrikesBackName:
 	done
 
 StrikesBackDescription:
-	text "Telkens wanneer een Aanval van je"
+	text "Telkens wanneer een aanval van je"
 	line "tegenstander schade doet aan Machamp"
 	line "(zelfs als Machamp wordt Uitgescha-"
 	line "keld), doet deze kracht 10 schade"
-	line "aan de Aanvallende Pokémon. (Pas"
+	line "aan de aanvallende Pokémon. (Pas"
 	line "geen Zwakte en Weerstand toe.)"
 	done
 
@@ -838,7 +838,7 @@ StrikesBackDescriptionCont:
 	text "Deze kracht kan niet worden gebruikt"
 	line "als Machamp al In Slaap, Verward, of"
 	line "Verlamd is op het moment dat je"
-	line "tegenstander Aanvalt."
+	line "tegenstander aanvalt."
 	done
 
 SeismicTossName:
@@ -862,7 +862,7 @@ StoneBarrageName:
 
 StoneBarrageDescription:
 	text "Gooi een munt op totdat je munt"
-	line "gooit. Deze Aanval doet 10 schade"
+	line "gooit. Deze aanval doet 10 schade"
 	line "maal het aantal keren kop."
 	done
 
@@ -890,12 +890,12 @@ GravelersHardenDescription:
 	line "schade wordt gedaan aan Graveler"
 	line "tijdens je tegenstander's volgende"
 	line "beurt (na het toepassen van Zwakte"
-	line "en Weerstand), voorkomt deze Aanval"
+	line "en Weerstand), voorkomt deze aanval"
 	line "die schade."
 	done
 
 GravelersHardenDescriptionCont:
-	text "(Alle andere gevolgen van Aanvallen"
+	text "(Alle andere gevolgen van aanvallen"
 	line "blijven gewoon geldig.)"
 	done
 	
@@ -919,7 +919,7 @@ AvalancheName:
 	done
 
 GolemsSelfdestructDescription:
-	text "Deze Aanval doet 20 schade aan elke"
+	text "Deze aanval doet 20 schade aan elke"
 	line "Pokémon op de Bank van elke speler."
 	line "(Pas geen Zwakte en Weerstand toe"
 	line "voor Pokémon op de Bank.) Golem doet"
@@ -947,9 +947,9 @@ OnixsHardenDescription:
 	line "schade wordt gedaan aan Onix tijdens"
 	line "je tegenstander's volgende beurt (na"
 	line "het toepassen van Zwakte en Weer-"
-	line "stand), voorkomt deze Aanval die"
+	line "stand), voorkomt deze aanval die"
 	line "schade. (Alle andere gevolgen van"
-	line "Aanvallen blijven gewoon geldig.)"
+	line "aanvallen blijven gewoon geldig.)"
 	done
 
 RockSnakeName:
@@ -973,9 +973,9 @@ SnivelName:
 
 SnivelDescription:
 	text "Als de Verdedigende Pokémon Cubone"
-	line "Aanvalt tijdens je tegenstander's"
+	line "aanvalt tijdens je tegenstander's"
 	line "volgende beurt, dan wordt alle"
-	line "schade die de Aanval doet vermin-"
+	line "schade die de aanval doet vermin-"
 	line "derd met 20 (na het toepassen van"
 	line "Zwakte en Weerstand)."
 	done
@@ -987,7 +987,7 @@ SnivelDescriptionCont:
 	done
 
 CubonesRageDescription:
-	text "Deze Aanval doet 10 schade plus nog"
+	text "Deze aanval doet 10 schade plus nog"
 	line "eens 10 schade voor elke Schade-"
 	line "teller op Cubone."
 	done
@@ -1019,7 +1019,7 @@ CallforFriendDescription:
 	text "Zoek in je deck naar een <FIGHTING> Basis-"
 	line "Pokémonkaart en plaats hem op je"
 	line "Bank. Schud hierna je deck. (Je"
-	line "kunt deze Aanval niet gebruiken"
+	line "kunt deze aanval niet gebruiken"
 	line "als je Bank vol is.)"
 	done
 
@@ -1042,7 +1042,7 @@ BoneAttackName:
 BoneAttackDescription:
 	text "Gooi een munt op. Als het kop is,"
 	line "kan de Verdedigende Pokémon niet"
-	line "Aanvallen tijdens je tegenstander's"
+	line "aanvallen tijdens je tegenstander's"
 	line "volgende beurt."
 	done
 
@@ -1083,7 +1083,7 @@ StretchKickName:
 StretchKickDescription:
 	text "Als je tegenstander Pokémon op de"
 	line "Bank heeft, kies er dan 1 van en"
-	line "deze Aanval doet 20 schade aan die"
+	line "deze aanval doet 20 schade aan die"
 	line "Pokémon. (Pas geen Zwakte en Weer-"
 	line "stand toe voor Pokémon op de Bank.)"
 	done
@@ -1137,7 +1137,7 @@ LeerName:
 LeerDescription:
 	text "Gooi een munt op. Als het kop is,"
 	line "kan de Verdedigende Pokémon Rhyhorn"
-	line "niet Aanvallen tijdens je tegenstan-"
+	line "niet aanvallen tijdens je tegenstan-"
 	line "der's volgende beurt. (Het op de"
 	line "Bank plaatsen van een van beide"
 	line "Pokémon beëindigt dit effect.)"
@@ -1191,17 +1191,17 @@ KabutoArmorName:
 	done
 
 KabutoArmorDescription:
-	text "Telkens wanneer een Aanval (zelfs"
+	text "Telkens wanneer een aanval (zelfs"
 	line "die van jezelf) schade doet aan"
 	line "Kabuto (na het toepassen van Zwakte"
-	line "en Weerstand), doet die Aanval"
+	line "en Weerstand), doet die aanval"
 	line "slechts de helft van de schade aan"
 	line "Kabuto (naar beneden afgerond naar"
 	line "de dichtstbijzijnde 10)."
 	done
 
 KabutoArmorDescriptionCont:
-	text "(Alle andere effecten van Aanvallen"
+	text "(Alle andere effecten van aanvallen"
 	line "blijven gewoon geldig.) Deze kracht"
 	line "stopt met werken als Kabuto In"
 	line "Slaap, Verward, of Verlamd is."
@@ -1227,7 +1227,7 @@ AbsorbName:
 	done
 
 AbsorbDescription:
-	text "Verwijder een aantal Schadetellers"
+	text "Verwijder een aantal schadetellers"
 	line "van Kabutops gelijk aan de helft van"
 	line "de schade die gedaan is aan de Ver-"
 	line "dedigende Pokémon (na het toepassen"
@@ -1237,7 +1237,7 @@ AbsorbDescription:
 	done
 
 AbsorbDescriptionCont:
-	text "Als Kabutops minder Schadetellers"
+	text "Als Kabutops minder schadetellers"
 	line "heeft dan dat, verwijder ze dan"
 	line "allemaal."
 	done

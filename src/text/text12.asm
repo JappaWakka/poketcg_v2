@@ -8,7 +8,7 @@ HypnosisName:
 
 ExeggcutesLeechSeedDescription:
 	text "Tenzij alle schade van deze"
-	line "Aanval wordt voorkomen, mag je"
+	line "aanval wordt voorkomen, mag je"
 	line "1 schadeteller van Exeggcute"
 	line "verwijderen."
 	done
@@ -43,7 +43,7 @@ BigEggsplosionName:
 BigEggsplosionDescription:
 	text "Gooi een aantal munten op gelijk aan"
 	line "het aantal aan Exeggutor gehechte"
-	line "Energie. Deze Aanval doet 20 schade"
+	line "Energie. Deze aanval doet 20 schade"
 	line "maal het aantal keren kop."
 	done
 
@@ -153,7 +153,7 @@ SwordsDanceName:
 SwordsDanceDescription:
 	text "Tijdens je volgende beurt is de"
 	line "basisschade van Scyther's"
-	line "Hak-Aanval 60 in plaats van 30."
+	line "Hak-aanval 60 in plaats van 30."
 	done
 
 MantisName:
@@ -199,7 +199,7 @@ EmberName:
 	done
 
 EmberDescription:
-	text "Om deze Aanval te kunnen gebruiken"
+	text "Om deze aanval te kunnen gebruiken"
 	line "moet je 1 aan Charmander gehechte"
 	line "<FIRE> Energiekaart weggooien."
 	done
@@ -224,7 +224,7 @@ FlamethrowerName:
 	done
 
 CharmeleonsFlamethrowerDescription:
-	text "Om deze Aanval te kunnen gebruiken"
+	text "Om deze aanval te kunnen gebruiken"
 	line "moet je 1 aan Charmeleon gehechte"
 	line "<FIRE> Energiekaart weggooien."
 	done
@@ -249,7 +249,7 @@ EnergyBurnName:
 
 EnergyBurnDescription:
 	text "Je mag zo vaak als je wilt tijdens"
-	line "je beurt (vóór je Aanval) alle aan"
+	line "je beurt (vóór je aanval) alle aan"
 	line "Charizard gehechte Energie omzetten"
 	line "naar <FIRE> Energie voor de rest van"
 	line "je beurt. Deze kracht kan niet"
@@ -262,7 +262,7 @@ FireSpinName:
 	done
 
 FireSpinDescription:
-	text "Om deze Aanval te kunnen gebruiken,"
+	text "Om deze aanval te kunnen gebruiken,"
 	line "moet je 2 aan Charizard gehechte"
 	line "Energiekaarten weggooien."
 	done
@@ -313,7 +313,7 @@ FireBlastName:
 	done
 
 FireBlastDescription:
-	text "Om deze Aanval te kunnen gebruiken"
+	text "Om deze aanval te kunnen gebruiken"
 	line "moet je 1 aan Ninetales gehechte"
 	line "<FIRE> Energiekaart weggooien."
 	done
@@ -351,7 +351,7 @@ DancingEmbersName:
 	done
 
 DancingEmbersDescription:
-	text "Gooi 8 munten op. Deze Aanval doet"
+	text "Gooi 8 munten op. Deze aanval doet"
 	line "10 schade maal het aantal keren kop."
 	done
 
@@ -385,14 +385,14 @@ ArcanineName:
 	done
 
 QuickAttackName:
-	text "Snelle Aanval"
+	text "Snelle aanval"
 	done
 
 QuickAttackDescription:
 	text "Gooi een munt op. Als het kop"
-	line "is, doet deze Aanval 10 schade"
+	line "is, doet deze aanval 10 schade"
 	line "plus nog eens 20 schade; als"
-	line "het munt is, doet deze Aanval"
+	line "het munt is, doet deze aanval"
 	line "10 schade."
 	done
 
@@ -401,12 +401,12 @@ FlamesOfRageName:
 	done
 
 FlamesOfRageDescription:
-	text "Om deze Aanval te kunnen gebruiken,"
+	text "Om deze aanval te kunnen gebruiken,"
 	line "moet je 2 aan Arcanine gehechte <FIRE>"
 	line "Energiekaarten weggooien. Deze"
-	line "Aanval doet 40 schade plus nog"
+	line "aanval doet 40 schade plus nog"
 	line "eens 10 schade voor elke"
-	line "Schadeteller op Arcanine."
+	line "schadeteller op Arcanine."
 	done
 
 LegendaryName:
@@ -421,7 +421,7 @@ ArcanineLv34Description:
 	done
 
 ArcaninesFlamethrowerDescription:
-	text "Om deze Aanval te kunnen gebruiken,"
+	text "Om deze aanval te kunnen gebruiken,"
 	line "moet je 1 aan Arcanine gehechte <FIRE>"
 	line "Energiekaart weggooien."
 	done
@@ -474,9 +474,9 @@ StompName:
 
 StompDescription:
 	text "Gooi een munt op. Als het kop is,"
-	line "doet deze Aanval 20 schade plus"
+	line "doet deze aanval 20 schade plus"
 	line "nog eens 10 schade; als het munt"
-	line "is, doet deze Aanval 20 schade."
+	line "is, doet deze aanval 20 schade."
 	done
 
 AgilityName:
@@ -487,7 +487,7 @@ RapidashsAgilityDescription:
 	text "Gooi een munt op. Als het kop is,"
 	line "voorkom dan tijdens je tegen-"
 	line "stander's volgende beurt alle"
-	line "gevolgen van Aanvallen, inclusief"
+	line "gevolgen van aanvallen, inclusief"
 	line "schade, toegebracht aan Rapidash."
 	done
 
@@ -507,7 +507,7 @@ FirePunchName:
 	done
 
 FirePunchDescription:
-	text "Om deze Aanval te kunnen gebruiken,"
+	text "Om deze aanval te kunnen gebruiken,"
 	line "moet je 1 aan Magmar gehechte <FIRE>"
 	line "Energiekaart weggooien."
 	done
@@ -530,9 +530,9 @@ SmokescreenName:
 MagmarsSmokescreenDescription:
 	text "Als de Verdedigende Pokémon tijdens"
 	line "je tegenstander's volgende beurt"
-	line "probeert Aan te Vallen, gooit je"
+	line "probeert aan te vallen, gooit je"
 	line "tegenstander een munt op. Als het"
-	line "munt is, doet die Aanval niets."
+	line "munt is, doet die aanval niets."
 	done
 
 MagmarLv31Description:
@@ -560,7 +560,7 @@ RageName:
 
 FlareonsRageDescription:
 	text "Doet 10 schade plus nog eens 10"
-	line "schade voor elke Schadeteller"
+	line "schade voor elke schadeteller"
 	line "op Flareon."
 	done
 
@@ -572,7 +572,7 @@ FlareonLv22Description:
 	done
 
 FlareonsFlamethrowerDescription:
-	text "Om deze Aanval te kunnen gebruiken,"
+	text "Om deze aanval te kunnen gebruiken,"
 	line "moet je 1 aan Flareon gehechte <FIRE>"
 	line "Energiekaart weggooien."
 	done
@@ -593,7 +593,7 @@ WildfireName:
 	done
 
 WildfireDescription:
-	text "Als je deze Aanval gebruikt mag je"
+	text "Als je deze aanval gebruikt mag je"
 	line "zoveel aan Moltres gehechte <FIRE>"
 	line "Energiekaarten weggooien als je"
 	line "wilt. Als je dit doet, gooi dan net"
@@ -646,11 +646,11 @@ WithdrawName:
 
 SquirtlesWithdrawDescription:
 	text "Gooi een munt op. Als het kop is,"
-	line "voorkomt deze Aanval alle schade"
+	line "voorkomt deze aanval alle schade"
 	line "die aan Squirtle wordt gedaan"
 	line "tijdens je tegenstander's volgende"
 	line "beurt. (Alle andere gevolgen van"
-	line "Aanvallen blijven gewoon geldig.)"
+	line "aanvallen blijven gewoon geldig.)"
 	done
 
 TinyTurtleName:
@@ -670,11 +670,11 @@ WartortleName:
 
 WartortlesWithdrawDescription:
 	text "Gooi een munt op. Als het kop is,"
-	line "voorkomt deze Aanval alle schade"
+	line "voorkomt deze aanval alle schade"
 	line "die aan Wartortle wordt gedaan"
 	line "tijdens je tegenstander's volgende"
 	line "beurt. (Alle andere gevolgen van"
-	line "Aanvallen blijven gewoon geldig.)"
+	line "aanvallen blijven gewoon geldig.)"
 	done
 
 TurtleName:
@@ -698,7 +698,7 @@ RainDanceName:
 
 RainDanceDescription:
 	text "Je mag zo vaak als je wilt tijdens"
-	line "je beurt (vóór je Aanval) 1 <WATER>"
+	line "je beurt (vóór je aanval) 1 <WATER>"
 	line "Energiekaart aan 1 van je <WATER> Pokémon"
 	line "hechten. (Hiermee wordt de "
 	line "aanhechting van 1 Energiekaart"
@@ -720,7 +720,7 @@ HydroPumpDescription:
 	line "schade voor elke <WATER> Energie die"
 	line "aan Blastoise gehecht is maar niet"
 	line "wordt gebruikt om de Energiekosten"
-	line "van deze Aanval te betalen. Je kunt"
+	line "van deze aanval te betalen. Je kunt"
 	line "op deze manier niet meer dan 20"
 	line "schade toevoegen."
 	done
@@ -799,7 +799,7 @@ PoliwagsWaterGunDescription:
 	line "schade voor elke aan Poliwag"
 	line "gehechte <WATER> Energie die niet wordt"
 	line "gebruikt om de Energiekosten van"
-	line "deze Aanval te betalen. Je kunt op"
+	line "deze aanval te betalen. Je kunt op"
 	line "deze manier niet meer dan 20 schade"
 	line "toevoegen."
 	done
@@ -824,10 +824,10 @@ AmnesiaName:
 	done
 
 PoliwhirlsAmnesiaDescription:
-	text "Kies 1 van de Aanvallen van de"
+	text "Kies 1 van de aanvallen van de"
 	line "Verdedigende Pokémon. Gedurende"
 	line "je tegenstander's volgende beurt"
-	line "kan die Pokémon die Aanval niet"
+	line "kan die Pokémon die aanval niet"
 	line "gebruiken."
 	done
 
@@ -850,7 +850,7 @@ PoliwrathsWaterGunDescription:
 	line "schade voor elke aan Poliwrath"
 	line "gehechte <WATER> Energie die niet wordt"
 	line "gebruikt om de Energiekosten van"
-	line "deze Aanval te betalen. Je kunt op"
+	line "deze aanval te betalen. Je kunt op"
 	line "deze manier niet meer dan 20 schade"
 	line "toevoegen."
 	done
@@ -876,7 +876,7 @@ CowardiceName:
 
 CowardiceDescription:
 	text "Op welk moment dan ook tijdens je"
-	line "beurt (vóór je Aanval) mag je"
+	line "beurt (vóór je aanval) mag je"
 	line "Tentacool weer terug in je hand"
 	line "nemen. (Gooi alle aan Tentacool"
 	line "gehechte kaarten weg.) Deze kracht"
@@ -963,11 +963,11 @@ HideInShellName:
 
 HideInShellDescription:
 	text "Gooi een munt op. Als het kop is,"
-	line "voorkomt deze Aanval alle schade"
+	line "voorkomt deze aanval alle schade"
 	line "die aan Shellder wordt gedaan"
 	line "tijdens je tegenstander's volgende"
 	line "beurt. (Alle andere gevolgen van"
-	line "Aanvallen blijven gewoon geldig.)"
+	line "aanvallen blijven gewoon geldig.)"
 	done
 
 BivalveName:
@@ -993,7 +993,7 @@ ClampDescription:
 	text "Gooi een munt op. Als het kop"
 	line "is, is de Verdedigende Pokémon"
 	line "nu Verlamd. Als het munt is,"
-	line "doet deze Aanval niets (zelfs"
+	line "doet deze aanval niets (zelfs"
 	line "geen schade)."
 	done
 
@@ -1017,7 +1017,7 @@ KrabbysCallForFamilyDescription:
 	line "Pokémon met de naam Krabby"
 	line "en plaats deze op je Bank. Schud"
 	line "hierna je deck. (Je kunt deze"
-	line "Aanval niet gebruiken als je"
+	line "aanval niet gebruiken als je"
 	line "Bank vol is.)"
 	done
 
@@ -1042,7 +1042,7 @@ FlailName:
 
 KinglersFlailDescription:
 	text "Doet 10 schade maal het aantal"
-	line "Schadetellers op Kingler."
+	line "schadetellers op Kingler."
 	done
 
 CrabhammerName:
@@ -1066,10 +1066,10 @@ HorseaName:
 
 OpponentAttackMayDoNothingDescription:
 	text "Als de Verdedigende Pokémon probeert"
-	line "Aan te Vallen tijdens je tegen-"
+	line "aan te vallen tijdens je tegen-"
 	line "stander's volgende beurt, gooit"
 	line "je tegenstander een munt op. Als"
-	line "het munt is, doet die Aanval niets."
+	line "het munt is, doet die aanval niets."
 	done
 
 DragonName:
@@ -1092,7 +1092,7 @@ SeadrasWaterGunDescription:
 	text "Doet 20 schade plus nog eens 10"
 	line "schade voor elke aan Seadra gehechte"
 	line "<WATER> Energie die niet wordt gebruikt"
-	line "om de Energiekosten van deze Aanval"
+	line "om de Energiekosten van deze aanval"
 	line "te betalen. Je kunt op deze manier"
 	line "niet meer dan 20 schade toevoegen."
 	done
@@ -1101,7 +1101,7 @@ SeadrasAgilityDescription:
 	text "Gooi een munt op. Als het kop is,"
 	line "voorkom dan tijdens je tegen-"
 	line "stander's volgende beurt alle"
-	line "gevolgen van Aanvallen, inclusief"
+	line "gevolgen van aanvallen, inclusief"
 	line "schade, toegebracht aan Seadra."
 	done
 
@@ -1174,10 +1174,10 @@ RecoverName:
 	done
 
 StarmiesRecoverDescription:
-	text "Om deze Aanval te kunnen gebruiken"
+	text "Om deze aanval te kunnen gebruiken"
 	line "moet je 1 aan Starmie gehechte"
 	line "<WATER> Energiekaart weggooien."
-	line "Verwijder alle Schadetellers"
+	line "Verwijder alle schadetellers"
 	line "van Starmie."
 	done
 
@@ -1251,7 +1251,7 @@ LaprasWaterGunDescription:
 	text "Doet 10 schade plus nog eens 10"
 	line "schade voor elke aan Lapras gehechte"
 	line "<WATER> Energie die niet wordt gebruikt"
-	line "om de Energiekosten van deze Aanval"
+	line "om de Energiekosten van deze aanval"
 	line "te betalen. Je kunt op deze manier"
 	line "niet meer dan 20 schade toevoegen."
 	done
@@ -1277,7 +1277,7 @@ FocusEnergyName:
 FocusEnergyDescription:
 	text "Tijdens je volgende beurt is de"
 	line "basisschade van Vaporeon's Beet-"
-	line "Aanval 60 in plaats van 30."
+	line "aanval 60 in plaats van 30."
 	done
 
 BubbleJetName:
@@ -1295,7 +1295,7 @@ VaporeonsWaterGunDescription:
 	line "schade voor elke aan Vaporeon"
 	line "gehechte <WATER> Energie die niet"
 	line "wordt gebruikt om de Energiekosten"
-	line "van deze Aanval te betalen. Je"
+	line "van deze aanval te betalen. Je"
 	line "kunt op deze manier niet meer"
 	line "dan 20 schade toevoegen."
 	done

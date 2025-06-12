@@ -619,7 +619,7 @@ AllFightingPokemonDescriptionText:
 
 BenchAttackDescriptionText:
 	text "Een deck met Pokémon die de"
-	line "Bank Aan kunnen Vallen."
+	line "Bank aan kunnen vallen."
 	done
 
 BattleContestDescriptionText:
@@ -634,7 +634,7 @@ HeatedBattleDescriptionText:
 
 FirstStrikeDescriptionText:
 	text "Een deck voor snelle en"
-	line "furieuze Aanvallen."
+	line "furieuze aanvallen."
 	done
 
 SqueakingMouseDescriptionText:
@@ -684,7 +684,7 @@ EnergyRemovalDescriptionText:
 
 RainDancerDescriptionText:
 	text "Gebruikt Regendans om Water-Energie"
-	line "te verzamelen voor sterke Aanvallen!"
+	line "te verzamelen voor sterke aanvallen!"
 	done
 
 CutePokemonDescriptionText:
@@ -704,7 +704,7 @@ YellowFlashDescriptionText:
 
 ElectricShockDescriptionText:
 	text "Een deck dat vijanden Schokt en"
-	line "Verlamt met zijn Aanvallen."
+	line "Verlamt met zijn aanvallen."
 	done
 
 ZappingSelfdestructDescriptionText:
@@ -739,7 +739,7 @@ FlowerPowerDescriptionText:
 
 PsychicPowerDescriptionText:
 	text "Gebruik de Psychische kracht van"
-	line "Psychische Pokémon om Aan te Vallen!"
+	line "Psychische Pokémon om aan te vallen!"
 	done
 
 DreamEaterHaunterDescriptionText:
@@ -759,7 +759,7 @@ StrangePowerDescriptionText:
 
 StrangePsyshockDescriptionText:
 	text "Met Alakazam's Schadeverwisseling"
-	line "verplaats je Schadetellers!"
+	line "verplaats je schadetellers!"
 	done
 
 LovelyNidoranDescriptionText:
@@ -784,7 +784,7 @@ PoisonDescriptionText:
 
 WondersOfScienceDescriptionText:
 	text "Blokkeer Pokémon-Krachten met"
-	line "Muk en Val Aan met Mewtwo!"
+	line "Muk en val aan met Mewtwo!"
 	done
 
 ReplaceEmAllDescriptionText:
@@ -793,12 +793,12 @@ ReplaceEmAllDescriptionText:
 	done
 
 ChariSaurDescriptionText:
-	text "Val Aan met Charizard - met slechts"
+	text "Val aan met Charizard - met slechts"
 	line "een paar Vuur-Energiekaarten!"
 	done
 
 TrafficLightDescriptionText:
-	text "Pokémon die kunnen Aanvallen met"
+	text "Pokémon die kunnen aanvallen met"
 	line "Vuur, Water of Bliksem-Energie!"
 	done
 
@@ -808,7 +808,7 @@ FirePokemonDescriptionText:
 	done
 
 FireChargeDescriptionText:
-	text "Wanhopige Aanvallen doen schade"
+	text "Wanhopige aanvallen doen schade"
 	line "aan jou en je tegenstander!"
 	done
 
@@ -993,7 +993,7 @@ AboutSpecialConditions2Text:
 
 ActivePokemonAndBenchDescriptionText:
 	text " Je Actieve Pokémon is de enige"
-	line " Pokémon die kan Aanvallen."
+	line " Pokémon die kan aanvallen."
 	line " Pokémon die in het spel worden"
 	line " gebracht maar niet actief vechten,"
 	line " worden op de Bank geplaatst. Elke"
@@ -1022,7 +1022,7 @@ PrizesDescriptionText:
 	line " tegenstander aan het begin van"
 	line " zijn beurt geen Pokémon meer in"
 	line " het spel heeft of geen kaarten"
-	line " meer kan trekken."
+	line " meer kan pakken."
 	done
 
 TheDeckDescriptionText:
@@ -1146,23 +1146,23 @@ AttackingDescriptionText:
 	line " Actieve Pokémon te laten vechten"
 	line " tegen de Pokémon van de tegenstan-"
 	line " der. Volg de instructies achter de"
-	line " naam van de Aanval en doe schade"
+	line " naam van de aanval en doe schade"
 	line " aan de Verdedigende Pokémon gelijk"
-	line " aan het getal dat naast de Aanval"
+	line " aan het getal dat naast de aanval"
 	line " staat (rekening houdende met Zwakte"
 	line " en Weerstand). Voordat je een Aan-"
 	line " val kunt selecteren, moet je Ener-"
 	line " giekaarten aan je Actieve Pokémon"
 	line " hechten. De hoeveelheid is afhan-"
-	line " kelijk van de kosten van de Aanval."
-	line " Je beurt eindigt na het Aanvallen."
+	line " kelijk van de kosten van de aanval."
+	line " Je beurt eindigt na het aanvallen."
 	done
 
 DamageCountersDescriptionText:
 	text ""
 	line " Schadetellers worden gebruikt om"
 	line " aan te geven dat een Pokémon schade"
-	line " heeft opgelopen. Elke Schadeteller"
+	line " heeft opgelopen. Elke schadeteller"
 	line " staat voor 10 IP aan schade."
 	line ""
 	line " Een Pokémon is Uitgeschakeld als"
@@ -1180,7 +1180,7 @@ EvolvingDescriptionText:
 	line " Devolueert, behoudt hij alle aan"
 	line " hem gehechte kaarten en Schade-"
 	line " tellers die op hem liggen."
-	line " Alle effecten van Aanvallen of"
+	line " Alle effecten van aanvallen of"
 	line " Speciale Toestanden die van invloed"
 	line " waren op de vorige Fase, worden"
 	line " echter verwijderd."
@@ -1195,7 +1195,7 @@ PokemonPowersDescriptionText:
 	text " Sommige Pokémon hebben speciale"
 	line " vaardigheden die Pokémon-Krachten"
 	line " worden genoemd. In tegenstelling"
-	line " tot Aanvallen kunnen Pokémon-"
+	line " tot aanvallen kunnen Pokémon-"
 	line " Krachten worden gebruikt door"
 	line " Pokémon op de Bank en beëindigen"
 	line " ze niet automatisch de beurt van"
@@ -1263,7 +1263,7 @@ SpecialConditions1DescriptionText:
 	line " nieuwe Toestand vervangt de vorige."
 	line ""
 	line "<ASLEEP> Een Pokémon die In Slaap is,"
-	line "   kan niet Aanvallen of zich Terug-"
+	line "   kan niet aanvallen of zich Terug-"
 	line "   trekken. Gooi tussen beurten een"
 	line "   munt op. Als het kop is, is de"
 	line "   Pokémon niet langer In Slaap."
@@ -1272,17 +1272,17 @@ SpecialConditions1DescriptionText:
 SpecialConditions2DescriptionText:
 	text "<CONFUSED> Gooi een munt op voordat"
 	line "   een Pokémon die Verward is kan"
-	line "   Aanvallen of zich Terug kan"
+	line "   aanvallen of zich Terug kan"
 	line "   Trekken (nadat je eventuele"
 	line "   kosten hebt betaald). Munt: de"
-	line "   Aanval/Terugtrekking mislukt & 20"
-	line "   schade aan jezelf als je Aanvalt."
+	line "   aanval/Terugtrekking mislukt & 20"
+	line "   schade aan jezelf als je aanvalt."
 	line "<PARALYZED> Een Pokémon die Verlamd is, kan"
-	line "   niet Aanvallen of zich Terug-"
+	line "   niet aanvallen of zich Terug-"
 	line "   trekken. Hij herstelt na één"
 	line "   beurt."
 	line "<POISONED> Plaats tussen beurten een"
-	line "   Schadeteller op elke Vergiftigde"
+	line "   schadeteller op elke Vergiftigde"
 	line "   Pokémon."
 	done
 

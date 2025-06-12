@@ -44,10 +44,10 @@ KadabraName:
 	done
 
 KadabrasRecoverDescription:
-	text "Om deze Aanval te kunnen gebruiken,"
+	text "Om deze aanval te kunnen gebruiken,"
 	line "moet je 1 aan Kadabra gehechte <PSYCHIC>"
 	line "Energiekaart weggooien. Verwijder"
-	line "alle Schadetellers van Kadabra."
+	line "alle schadetellers van Kadabra."
 	done
 
 SuperPsiName:
@@ -71,7 +71,7 @@ DamageSwapName:
 
 DamageSwapDescription:
 	text "Je mag zo vaak als je wilt tijdens"
-	line "je beurt (vóór je Aanval) 1 Schade-"
+	line "je beurt (vóór je aanval) 1 Schade-"
 	line "teller van een van je Pokémon naar"
 	line "een van je andere verplaatsen, zo-"
 	line "lang je die Pokémon maar niet Uit-"
@@ -95,10 +95,10 @@ SlowpokeName:
 	done
 
 SlowpokesAmnesiaDescription:
-	text "Kies 1 van de Aanvallen van de"
+	text "Kies 1 van de aanvallen van de"
 	line "Verdedigende Pokémon. Gedurende"
 	line "je tegenstander's volgende beurt"
-	line "kan die Pokémon die Aanval niet"
+	line "kan die Pokémon die aanval niet"
 	line "gebruiken."
 	done
 
@@ -118,8 +118,8 @@ SpacingOutName:
 
 SpacingOutDescription:
 	text "Gooi een munt op. Als het kop is,"
-	line "verwijder dan een Schadeteller van"
-	line "Slowpoke. Deze Aanval kan niet wor-"
+	line "verwijder dan een schadeteller van"
+	line "Slowpoke. Deze aanval kan niet wor-"
 	line "den gebruikt als er geen Schadetel-"
 	line "lers op Slowpoke liggen."
 	done
@@ -130,7 +130,7 @@ ScavengeName:
 
 ScavengeDescription:
 	text "Gooi 1 aan Slowpoke gehechte <PSYCHIC>"
-	line "Energiekaart weg om deze Aanval te"
+	line "Energiekaart weg om deze aanval te"
 	line "kunnen gebruiken. Neem een Trainerkaart"
 	line "uit je weggooistapel in je hand."
 	done
@@ -145,7 +145,7 @@ StrangeBehaviorName:
 
 StrangeBehaviorDescription:
 	text "Je mag zo vaak als je wilt tijdens"
-	line "je beurt (vóór je Aanval) 1 Schade-"
+	line "je beurt (vóór je aanval) 1 Schade-"
 	line "teller van een van je Pokémon naar"
 	line "Slowbro verplaatsen, zolang je"
 	line "Slowbro maar niet Uitschakelt."
@@ -186,7 +186,7 @@ DestinyBondName:
 	done
 
 DestinyBondDescription:
-	text "Om deze Aanval te kunnen gebruiken,"
+	text "Om deze aanval te kunnen gebruiken,"
 	line "moet je 1 aan Gastly gehechte <PSYCHIC>"
 	line "Energiekaart weggooien. Als een"
 	line "Pokémon Gastly Uitschakelt tijdens"
@@ -234,10 +234,10 @@ TransparencyName:
 	done
 
 TransparencyDescription:
-	text "Gooi telkens als een Aanval iets met"
+	text "Gooi telkens als een aanval iets met"
 	line "Haunter doet een munt op. Als het"
 	line "kop is, voorkomt deze kracht alle"
-	line "gevolgen van die Aanval, inclusief"
+	line "gevolgen van die aanval, inclusief"
 	line "schade, toegebracht aan Haunter."
 	done
 
@@ -266,7 +266,7 @@ DreamEaterName:
 	done
 
 DreamEaterDescription:
-	text "Deze Aanval kun je alleen"
+	text "Deze aanval kun je alleen"
 	line "gebruiken als de Verdedigende"
 	line "Pokémon In Slaap is."
 	done
@@ -281,7 +281,7 @@ CurseName:
 
 CurseDescription:
 	text "Eenmaal tijdens je beurt (voor je"
-	line "Aanval), mag je 1 Schadeteller"
+	line "aanval), mag je 1 schadeteller"
 	line "van 1 van je tegenstander's Pokémon"
 	line "naar een andere verplaatsen (zelfs"
 	line "als het de andere Pokémon zou"
@@ -297,7 +297,7 @@ DarkMindName:
 DarkMindDescription:
 	text "Als je tegenstander Pokémon op de"
 	line "Bank heeft, kies er dan 1 van en"
-	line "deze Aanval doet hem 10 schade."
+	line "deze aanval doet hem 10 schade."
 	line "(Pas geen Zwakte en Weerstand"
 	line "toe op de Pokémon op de Bank.)"
 	done
@@ -359,12 +359,12 @@ InvisibleWallName:
 	done
 
 InvisibleWallDescription:
-	text "Telkens wanneer een Aanval (inclu-"
+	text "Telkens wanneer een aanval (inclu-"
 	line "sief die van jezelf) 30 of meer"
 	line "schade doet aan Mr. Mime (na het"
 	line "toepassen van Zwakte en Weerstand),"
 	line "voorkomt deze kracht die schade."
-	line "(Alle andere gevolgen van Aanvallen"
+	line "(Alle andere gevolgen van aanvallen"
 	line "blijven gewoon geldig.)"
 	done
 
@@ -380,7 +380,7 @@ MeditateName:
 
 MrMimesMeditateDescription:
 	text "Doet 10 schade plus nog eens 10"
-	line "schade voor elke Schadeteller"
+	line "schade voor elke schadeteller"
 	line "op de Verdedigende Pokémon."
 	done
 
@@ -403,13 +403,13 @@ JynxName:
 	done
 
 DoubleAttackX10Description:
-	text "Gooi 2 munten op. Deze Aanval doet"
+	text "Gooi 2 munten op. Deze aanval doet"
 	line "10 schade maal het aantal keren kop."
 	done
 
 JynxsMeditateDescription:
 	text "Doet 20 schade plus nog eens 10"
-	line "schade voor elke Schadeteller"
+	line "schade voor elke schadeteller"
 	line "op de Verdedigende Pokémon."
 	done
 
@@ -439,12 +439,12 @@ PsychicDescription:
 	done
 
 BarrierDescription:
-	text "Om deze Aanval te kunnen gebruiken"
+	text "Om deze aanval te kunnen gebruiken"
 	line "moet je 1 aan Mewtwo gehechte <PSYCHIC>"
 	line "Energiekaart weggooien. Tijdens je"
 	line "tegenstander's volgende beurt voor-"
-	line "komt deze Aanval alle gevolgen van"
-	line "Aanvallen, inclusief schade, die aan"
+	line "komt deze aanval alle gevolgen van"
+	line "aanvallen, inclusief schade, die aan"
 	line "Mewtwo worden toegebracht."
 	done
 
@@ -489,7 +489,7 @@ NeutralizingShieldName:
 	done
 
 NeutralizingShieldDescription:
-	text "Voorkom alle gevolgen van Aanvallen,"
+	text "Voorkom alle gevolgen van aanvallen,"
 	line "inclusief schade, toegebracht aan"
 	line "Mew door Geëvolueerde Pokémon"
 	line "(exclusief die van jezelf)."
@@ -552,7 +552,7 @@ DevolutionBeamDescription:
 	done
 
 DevolutionBeamDescriptionCont:
-	text "wat het gevolg van een Aanval zou"
+	text "wat het gevolg van een aanval zou"
 	line "kunnen zijn (precies zoals wanneer"
 	line "je hem zou hebben Geëvolueerd)."
 	done
@@ -584,7 +584,7 @@ PidgeottosMirrorMoveDescription:
 	text "Als Pidgeotto tijdens je tegenstan-"
 	line "der's laatste beurt is aangevallen,"
 	line "breng dan het uiteindelijke resul-"
-	line "taat van die Aanval op Pidgeotto toe"
+	line "taat van die aanval op Pidgeotto toe"
 	line "aan de Verdedigende Pokémon."
 	done
 
@@ -610,7 +610,7 @@ SlicingWildDescription:
 	text "Doet 30 schade aan 1 van je tegen-"
 	line "stander's Pokémon, op willekeurige"
 	line "manier gekozen. Pas geen Zwakte en"
-	line "Weerstand toe op deze Aanval (Alle"
+	line "Weerstand toe op deze aanval (Alle"
 	line "andere gevolgen die na het toepas-"
 	line "sen van Zwakte en Weerstand zouden"
 	line "gebeuren blijven gewoon geldig.)"
@@ -645,7 +645,7 @@ HurricaneName:
 	done
 
 HurricaneDescription:
-	text "Tenzij deze Aanval de Verdedigende"
+	text "Tenzij deze aanval de Verdedigende"
 	line "Pokémon Uitschakelt, neemt je tegen-"
 	line "stander de Verdedigende Pokémon en"
 	line "alle kaarten die eraan gehecht zijn"
@@ -682,7 +682,7 @@ SuperFangName:
 	done
 
 SuperFangDescription:
-	text "De schade die deze Aanval doet aan"
+	text "De schade die deze aanval doet aan"
 	line "de Verdedigende Pokémon is gelijk"
 	line "aan de helft van de resterende IP"
 	line "van de Verdedigende Pokémon (naar"
@@ -708,7 +708,7 @@ SpearowsMirrorMoveDescription:
 	text "Als Spearow tijdens je tegenstan-"
 	line "der's laatste beurt is aangevallen,"
 	line "breng dan het uiteindelijke resul-"
-	line "taat van die Aanval op Spearow toe"
+	line "taat van die aanval op Spearow toe"
 	line "aan de Verdedigende Pokémon."
 	done
 
@@ -725,8 +725,8 @@ FearowName:
 
 FearowsAgilityDescription:
 	text "Gooi een munt op. Als het kop is,"
-	line "voorkomt deze Aanval alle gevolgen"
-	line "van Aanvallen, inclusief schade, die"
+	line "voorkomt deze aanval alle gevolgen"
+	line "van aanvallen, inclusief schade, die"
 	line "aan Fearow worden toegebracht tij-"
 	line "dens je tegenstander's volgende"
 	line "beurt."
@@ -760,12 +760,12 @@ MetronomeName:
 	done
 
 ClefairysMetronomeDescription:
-	text "Kies 1 van de Aanvallen van de Ver-"
+	text "Kies 1 van de aanvallen van de Ver-"
 	line "dedigende Pokémon. Metronoom doet"
-	line "die Aanval precies na, behalve wat"
+	line "die aanval precies na, behalve wat"
 	line "betreft de Energiekosten en al het"
 	line "andere wat ervoor nodig is om die"
-	line "Aanval te gebruiken zoals het weg-"
+	line "aanval te gebruiken zoals het weg-"
 	line "gooien van Energiekaarten."
 	done
 
@@ -791,12 +791,12 @@ ClefableName:
 	done
 
 ClefablesMetronomeDescription:
-	text "Kies 1 van de Aanvallen van de Ver-"
+	text "Kies 1 van de aanvallen van de Ver-"
 	line "dedigende Pokémon. Metronoom doet"
-	line "die Aanval precies na, behalve wat"
+	line "die aanval precies na, behalve wat"
 	line "betreft de Energiekosten en al het"
 	line "andere wat ervoor nodig is om die"
-	line "Aanval te gebruiken zoals het weg-"
+	line "aanval te gebruiken zoals het weg-"
 	line "gooien van Energiekaarten."
 	done
 	
@@ -806,7 +806,7 @@ ClefablesMetronomeDescriptionCont:
 	line "type de Verdedigende Pokémon is.)"
 
 ClefablesMinimizeDescription:
-	text "Alle schade die door Aanvallen aan"
+	text "Alle schade die door aanvallen aan"
 	line "Clefable wordt gedaan tijdens je"
 	line "tegenstander's volgende beurt wordt"
 	line "verminderd met 20 (na het toepassen"
@@ -828,7 +828,7 @@ FirstAidName:
 	done
 
 FirstAidDescription:
-	text "Verwijder 1 Schadeteller van"
+	text "Verwijder 1 schadeteller van"
 	line "Jigglypuff."
 	done
 
@@ -860,7 +860,7 @@ FriendshipSongDescription:
 	text "Gooi een munt op. Als het kop is,"
 	line "plaats een Pokémon-kaart op wille-"
 	line "keurige wijze gekozen uit je deck"
-	line "op je Bank. Je kunt deze Aanval"
+	line "op je Bank. Je kunt deze aanval"
 	line "niet gebruiken als je Bank vol is.)"
 	done
 
@@ -929,7 +929,7 @@ CatPunchDescription:
 	text "Doet 20 schade aan 1 van je tegen-"
 	line "stander's op willekeurige wijze ge-"
 	line "kozen Pokémon. Pas geen Zwakte en"
-	line "Weerstand toe op deze Aanval (Alle"
+	line "Weerstand toe op deze aanval (Alle"
 	line "andere gevolgen die na het toepas-"
 	line "sen van Zwakte en Weerstand zouden"
 	line "gebeuren blijven gewoon geldig.)"
@@ -972,9 +972,9 @@ PounceName:
 
 PounceDescription:
 	text "Als de Verdedigende Pokémon Persian"
-	line "Aanvalt tijdens je tegenstander's"
+	line "aanvalt tijdens je tegenstander's"
 	line "volgende beurt, dan wordt alle"
-	line "schade die de Aanval doet verminderd"
+	line "schade die de aanval doet verminderd"
 	line "met 10 (na het toepassen van Zwakte"
 	line "en Weerstand)."
 	done
@@ -1005,8 +1005,8 @@ LeekSlapName:
 
 LeekSlapDescription:
 	text "Gooi een munt op. Als het munt is,"
-	line "doet deze Aanval niets. Hoe dan ook"
-	line "kun je deze Aanval niet meer gebrui-"
+	line "doet deze aanval niets. Hoe dan ook"
+	line "kun je deze aanval niet meer gebrui-"
 	line "ken zolang Farfetch'd in het spel"
 	line "blijft (zelfs als je Farfetch'd op"
 	line "de Bank zet, kun je hem niet meer"
@@ -1063,7 +1063,7 @@ RetreatAidDescription:
 
 DodriosRageDescription:
 	text "Doet 10 schade plus nog eens 10"
-	line "schade voor elke Schadeteller op"
+	line "schade voor elke schadeteller op"
 	line "Dodrio."
 	done
 
@@ -1107,10 +1107,10 @@ ScrunchName:
 
 ScrunchDescription:
 	text "Gooi een munt op. Als het kop is,"
-	line "voorkomt deze Aanval alle schade die"
+	line "voorkomt deze aanval alle schade die"
 	line "aan Chansey wordt gedaan tijdens je"
 	line "tegenstander's volgende beurt. (Alle"
-	line "andere gevolgen van Aanvallen blij-"
+	line "andere gevolgen van aanvallen blij-"
 	line "ven gewoon geldig.)"
 	done
 
@@ -1161,7 +1161,7 @@ RampageName:
 	done
 
 RampageDescription:
-	text "Deze Aanval doet 20 schade plus nog"
+	text "Deze aanval doet 20 schade plus nog"
 	line "eens 10 schade voor elke Schadetel-"
 	line "ler op Tauros. Gooi een munt op."
 	line "Als het munt is, is Tauros nu"
@@ -1188,7 +1188,7 @@ MorphName:
 	done
 
 MorphDescription:
-	text "Verwijder alle Schadetellers van"
+	text "Verwijder alle schadetellers van"
 	line "Ditto. Vervang Ditto voor de rest"
 	line "van het spel met een kopie van een"
 	line "op willekeurige wijze gekozen"
@@ -1223,7 +1223,7 @@ TailWagName:
 TailWagDescription:
 	text "Gooi een munt op. Als het kop is,"
 	line "kan de Verdedigende Pokémon Eevee"
-	line "niet Aanvallen tijdens je tegen-"
+	line "niet aanvallen tijdens je tegen-"
 	line "stander's volgende beurt. (Het op"
 	line "de Bank plaatsen of evolueren van"
 	line "een van beide Pokémon beëindigt"

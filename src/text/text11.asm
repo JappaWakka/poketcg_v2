@@ -531,9 +531,9 @@ LeechSeedName:
 	done
 
 BulbasaursLeechSeedDescription:
-	text "Tenzij alle schade van deze Aanval"
+	text "Tenzij alle schade van deze aanval"
 	line "wordt voorkomen, mag je 1"
-	line "Schadeteller van Bulbasaur"
+	line "schadeteller van Bulbasaur"
 	line "verwijderen."
 	done
 
@@ -582,7 +582,7 @@ SolarPowerName:
 
 SolarPowerDescription:
 	text "Eenmaal tijdens je beurt (vóór je"
-	line "Aanval), mag je deze kracht"
+	line "aanval), mag je deze kracht"
 	line "gebruiken. Je Actieve Pokémon en"
 	line "de Verdedigende Pokémon zijn niet"
 	line "langer In Slaap, Verward, Verlamd,"
@@ -600,7 +600,7 @@ MegaDrainName:
 	done
 
 VenusaursMegaDrainDescription:
-	text "Verwijder een aantal Schadetellers"
+	text "Verwijder een aantal schadetellers"
 	line "van Venusaur gelijk aan de helft"
 	line "van de schade die gedaan is aan"
 	line "de Verdedigende Pokémon (na het"
@@ -610,7 +610,7 @@ VenusaursMegaDrainDescription:
 	done
 
 VenusaursMegaDrainDescriptionCont:
-	text "Als Venusaur minder Schadetellers"
+	text "Als Venusaur minder schadetellers"
 	line "heeft dan dat, verwijder ze dan"
 	line "allemaal."
 	done
@@ -628,7 +628,7 @@ EnergyTransName:
 
 EnergyTransDescription:
 	text "Je mag zo vaak als je wilt tijdens"
-	line "je beurt (vóór je Aanval) 1 <GRASS>"
+	line "je beurt (vóór je aanval) 1 <GRASS>"
 	line "Energiekaart pakken die gehecht"
 	line "is aan 1 van je Pokémon en hem"
 	line "aan een andere Pokémon hechten."
@@ -684,10 +684,10 @@ StiffenName:
 
 MetapodsStiffenDescription:
 	text "Gooi een munt op. Als het kop is,"
-	line "voorkomt deze Aanval alle schade"
+	line "voorkomt deze aanval alle schade"
 	line "die aan Metapod wordt gedaan tijdens"
 	line "je tegenstander's volgende beurt."
-	line "(Alle andere gevolgen van Aanvallen"
+	line "(Alle andere gevolgen van aanvallen"
 	line "blijven gewoon geldig.)"
 	done
 
@@ -724,7 +724,7 @@ WhirlwindDescription:
 	done
 
 ButterfreesMegaDrainDescription:
-	text "Verwijder een aantal Schadetellers"
+	text "Verwijder een aantal schadetellers"
 	line "van Butterfree gelijk aan de helft"
 	line "van de schade die gedaan is aan de"
 	line "Verdedigende Pokémon (na het toe-"
@@ -734,7 +734,7 @@ ButterfreesMegaDrainDescription:
 	done
 
 ButterfreesMegaDrainDescriptionCont:
-	text "Als Butterfree minder Schadetellers"
+	text "Als Butterfree minder schadetellers"
 	line "heeft dan dat, verwijder ze dan"
 	line "allemaal."
 	done
@@ -780,10 +780,10 @@ KakunaName:
 
 KakunasStiffenDescription:
 	text "Gooi een munt op. Als het kop is,"
-	line "voorkomt deze Aanval alle schade"
+	line "voorkomt deze aanval alle schade"
 	line "die aan Kakuna wordt gedaan tijdens"
 	line "je Tegenstander's volgende beurt."
-	line "(Alle andere gevolgen van Aanvallen"
+	line "(Alle andere gevolgen van aanvallen"
 	line "blijven gewoon geldig.)"
 	done
 
@@ -803,7 +803,7 @@ TwineedleName:
 	done
 
 DoubleAttackX30Description:
-	text "Gooi 2 munten op. Deze Aanval doet"
+	text "Gooi 2 munten op. Deze aanval doet"
 	line "30 schade maal het aantal keren kop."
 	done
 
@@ -880,7 +880,7 @@ FurySwipesName:
 	done
 
 TripleAttackX10Description:
-	text "Gooi 3 munten op. Deze Aanval doet"
+	text "Gooi 3 munten op. Deze aanval doet"
 	line "10 schade maal het aantal keren kop."
 	done
 
@@ -893,7 +893,7 @@ NidoranFsCallForFamilyDescription:
 	line "Pokémon met de naam Nidoran♀ of"
 	line "Nidoran♂ en plaats deze op je Bank."
 	line "Schud hierna je deck. (Je kunt"
-	line "deze Aanval niet gebruiken als"
+	line "deze aanval niet gebruiken als"
 	line "je Bank vol is.)"
 	done
 
@@ -971,7 +971,7 @@ HornHazardName:
 
 MayDoNothingDescription:
 	text "Gooi een munt op. Als het munt"
-	line "is, doet deze Aanval niets."
+	line "is, doet deze aanval niets."
 	done
 
 NidoranMDescription:
@@ -1004,9 +1004,9 @@ ThrashName:
 
 ThrashDescription:
 	text "Gooi een munt op. Als het kop is,"
-	line "doet deze Aanval 30 schade plus nog"
+	line "doet deze aanval 30 schade plus nog"
 	line "eens 10 schade; als het munt is,"
-	line "doet deze Aanval 30 schade en doet"
+	line "doet deze aanval 30 schade en doet"
 	line "Nidoking 10 schade aan zichzelf."
 	done
 
@@ -1038,12 +1038,12 @@ LeechLifeName:
 	done
 
 ZubatsLeechLifeDescription:
-	text "Verwijder een aantal Schadetellers"
+	text "Verwijder een aantal schadetellers"
 	line "van Zubat gelijk aan de schade die"
 	line "gedaan is aan de Verdedigende"
 	line "Pokémon (na het toepassen van"
 	line "Zwakte en Weerstand). Als Zubat"
-	line "minder Schadetellers heeft dan"
+	line "minder schadetellers heeft dan"
 	line "dat, verwijder ze dan allemaal."
 	done
 
@@ -1067,12 +1067,12 @@ WingAttackName:
 	done
 
 GolbatsLeechLifeDescription:
-	text "Verwijder een aantal Schadetellers"
+	text "Verwijder een aantal schadetellers"
 	line "van Golbat gelijk aan de schade die"
 	line "gedaan is aan de Verdedigende"
 	line "Pokémon (na het toepassen van"
 	line "Zwakte en Weerstand). Als Golbat"
-	line "minder Schadetellers heeft dan"
+	line "minder schadetellers heeft dan"
 	line "dat, verwijder ze dan allemaal."
 	done
 
@@ -1095,7 +1095,7 @@ SproutDescription:
 	text "Zoek in je deck naar een Basis-"
 	line "Pokémon met Oddish in zijn naam en"
 	line "plaats hem op je Bank. Schud hierna"
-	line "je deck. (Je kunt deze Aanval niet"
+	line "je deck. (Je kunt deze aanval niet"
 	line "gebruiken als je Bank vol is.)"
 	done
 
@@ -1141,7 +1141,7 @@ HealName:
 
 HealDescription:
 	text "Eenmaal tijdens je beurt (vóór je"
-	line "Aanval) mag je een munt op gooien."
+	line "aanval) mag je een munt op gooien."
 	line "Als het kop is, verwijder dan 1"
 	line "schadeteller van 1 van je Pokémon."
 	line "Deze kracht kan niet worden gebruikt"
@@ -1154,7 +1154,7 @@ PetalDanceName:
 	done
 
 PetalDanceDescription:
-	text "Gooi 3 munten op. Deze Aanval doet"
+	text "Gooi 3 munten op. Deze aanval doet"
 	line "40 schade maal het aantal keren kop."
 	line "Vileplume is nu Verward (nadat de"
 	line "schade is gedaan)."
@@ -1219,12 +1219,12 @@ VenonatName:
 	done
 
 VenonatLeechLifeDescription:
-	text "Verwijder een aantal Schadetellers"
+	text "Verwijder een aantal schadetellers"
 	line "van Venonat gelijk aan de schade"
 	line "die gedaan is aan de Verdedigende"
 	line "Pokémon (na het toepassen van"
 	line "Zwakte en Weerstand). Als Venonat"
-	line "minder Schadetellers heeft dan"
+	line "minder schadetellers heeft dan"
 	line "verwijder ze dan allemaal."
 	done
 
@@ -1248,7 +1248,7 @@ ShiftName:
 
 ShiftDescription:
 	text "Je mag één keer tijdens je beurt"
-	line "(vóór je Aanval) het type van"
+	line "(vóór je aanval) het type van"
 	line "Venomoth veranderen naar het type"
 	line "van een andere Pokémon in het spel"
 	line "die niet <COLORLESS> is. Deze kracht kan"
@@ -1286,7 +1286,7 @@ BellsproutsCallForFamilyDescription:
 	line "Pokémon met de naam Bellsprout"
 	line "en plaats deze op je Bank. Schud"
 	line "hierna je deck. (Je kunt deze"
-	line "Aanval niet gebruiken als je"
+	line "aanval niet gebruiken als je"
 	line "Bank vol is.)"
 	done
 

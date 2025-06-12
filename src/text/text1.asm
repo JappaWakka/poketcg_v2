@@ -147,12 +147,12 @@ NoPokemonOnTheBenchText:
 
 UnableDueToSleepText:
 	text "Je Actieve Pokémon is In Slaap."
-	line "Kan niet Aanvallen of Terugtrekken."
+	line "Kan niet aanvallen of Terugtrekken."
 	done
 
 UnableDueToParalysisText:
 	text "Je Actieve Pokémon is Verlamd."
-	line "Kan niet Aanvallen of Terugtrekken."
+	line "Kan niet aanvallen of Terugtrekken."
 	done
 
 Received10DamageDueToPoisonText:
@@ -258,7 +258,7 @@ NoDamageText:
 	done
 	
 NoSelectableAttackText:
-	text "Geen selecteerbare Aanval"
+	text "Geen selecteerbare aanval"
 	done
 
 UnableToRetreatText:
@@ -399,12 +399,12 @@ SelectingBenchPokemonHandExamineBackText:
 
 RetreatedToTheBenchText:
 	text "<RAMTEXT> is"
-	line "Teruggetrokken naar de Bank."
+	line "teruggetrokken naar de Bank."
 	done
 
 RetreatWasUnsuccessfulText:
 	text "<RAMTEXT> kon"
-	line "niet Terugtrekken."
+	line "niet terugtrekken."
 	done
 
 WillUseThePokemonPowerText:
@@ -414,7 +414,7 @@ WillUseThePokemonPowerText:
 
 FinishedTurnWithoutAttackingText:
 	text "De beurt is doorgegeven"
-	line "zonder Aan te Vallen."
+	line "zonder aan te vallen."
 	done
 DuelistTurnText:
 	text "<RAMNAME>'s beurt."
@@ -814,11 +814,11 @@ PleaseSelectCardText:
 
 NoPokemonWithDamageCountersText:
 	text "Er zijn geen Pokémon"
-	line "met Schadetellers erop."
+	line "met schadetellers erop."
 	done
 
 NoDamageCountersText:
-	text "Er zijn geen Schadetellers."
+	text "Er zijn geen schadetellers."
 	done
 
 NoEnergyAttachedToOpponentsActiveText:
@@ -925,7 +925,7 @@ NotEnoughWaterEnergyText:
 	done
 
 NoAttackMayBeChosenText:
-	text "Er mogen geen Aanvallen worden"
+	text "Er mogen geen aanvallen worden"
 	line "gekozen."
 	done
 	
@@ -935,7 +935,7 @@ NoTrainerCardsInDiscardPileText:
 	done
 
 NoAttackMayBeChoosenText:
-	text "Er mogen geen Aanvallen"
+	text "Er mogen geen aanvallen"
 	line "gekozen worden."
 	done
 
@@ -945,7 +945,7 @@ YouDidNotReceiveAnAttackToMirrorMoveText:
 	done
 
 ThisAttackCannotBeUsedTwiceText:
-	text "Deze Aanval kan niet"
+	text "Deze aanval kan niet"
 	line "twee keer gebruikt worden."
 	done
 
@@ -1058,7 +1058,7 @@ UnusedText00de: ; Unused
 
 SmokescreenCheckText:
 	text "Nauwkeurigheids-check: Als het"
-	line "munt is, is de Aanval onsuccesvol."
+	line "munt is, is de aanval onsuccesvol."
 	done
 
 ParalysisCheckText:
@@ -1132,7 +1132,7 @@ IfTailsDamageToYourselfTooText:
 
 AttackSuccessCheckText:
 	text "Succes-check: Als het munt is"
-	line "doet deze Aanval niets."
+	line "doet deze aanval niets."
 	done
 
 TrainerCardSuccessCheckText:
@@ -1157,10 +1157,10 @@ UnusedText00f2: ; Unused
 
 DamageCheckIfHeadsPlusDamageText:
 	text "Schade-check! Als het kop is, doet,"
-	line "de Aanval <RAMNUM> schade extra!"
+	line "de aanval <RAMNUM> schade extra!"
 	done
 
 DamageCheckIfHeadsXDamageText:
-	text "Schade-check! De Aanval doet <RAMNUM>"
+	text "Schade-check! De aanval doet <RAMNUM>"
 	line "schade maal het aantal keren kop!"
 	done

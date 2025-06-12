@@ -604,7 +604,7 @@ MichaelWouldYouLikeToDuelText:
 
 MichaelFightingClubDeclinedDuelText:
 	text "Oké. Maar duelleer binnenkort wel"
-	line "weer opnieuw met me."
+	line "weer eens met me."
 	done
 
 MichaelFightingClubDuelStartText:
@@ -707,7 +707,7 @@ CardsVol2BookName:
 CardsVol2BookText:
 	text "Hecht Energiekaarten aan je Pokémon"
 	line "om ze de kracht te geven die ze"
-	line "nodig hebben om Aan te Vallen. Kies"
+	line "nodig hebben om aan te vallen. Kies"
 	line "een Energiekaart uit je hand en"
 	line "hecht hem aan een Pokémon. Je mag"
 	line "maar 1 Energiekaart per beurt"
@@ -807,7 +807,7 @@ ToxicGasBookName:
 	done
 
 ToxicGasBookText:
-	text "Muk's Gifgas is erg sterk!"
+	text "Muk's Gifgas is erg krachtig!"
 	line ""
 	line "Het kan alle Pokémon-Krachten"
 	line "blokkeren! Maar wees voorzichtig"
@@ -816,59 +816,64 @@ ToxicGasBookText:
 	done
 
 RainDanceBookName:
-	text "Rain Dance"
+	text "Regendans"
 	done
 
 RainDanceBookText:
-	text "Blastoise's Pokémon Power, Rain"
-	line "Dance, is a great boon for your"
-	line "Water Pokémon! You can attach"
-	line "as many Water Energy cards as"
-	line "you like to your Water Pokémon."
-	line "Power up your Pokémon and attack!"
+	text "Blastoise's Pokémon-Kracht, Regen-"
+	line "dans, is een grote zegen voor je"
+	line "Water-Pokémon! Je kunt zoveel Water-"
+	line "Energiekaarten aan je Water-Pokémon"
+	line "hechten als je wilt."
+	line "Maak je Pokémon sterker en val aan!"
 	done
 
 SelfdestructBookName:
-	text "Selfdestruct"
+	text "Zelfvernietiging"
 	done
 
 SelfdestructBookText:
-	text "It's a good idea to use Defender"
-	line "when attacking with Selfdestruct."
-	line "That way, you'll be able to give"
-	line "major damage to your opponent's"
-	line "Active and Benched Pokémon without"
-	line "your Pokémon getting Knocked Out."
+	text "Het is een goed idee om een"
+	line "Verdediger te gebruiken als je"
+	line "aanvalt met Zelfvernietiging."
+	line "Op die manier zul je veel meer"
+	line "schade aan je tegenstander's"
+	line "Actieve Pokémon en Pokémon op de"
+	line "Bank kunnen doen zonder dat jouw"
+	line "eigen Pokémon Uitgeschakeld worden."
 	done
 
 DamageSwapBookName:
-	text "Damage Swap"
+	text "Schadeverwisseling"
 	done
 
 DamageSwapBookText:
-	text "You can use Alakazam's Damage Swap"
-	line "to move damage counters off of a"
-	line "Pokémon that is almost Knocked Out,"
-	line "or you can create a combo by"
-	line "combining it with Chansey and"
-	line "Scoop Up. Keep moving damage"
-	line "counters to Chansey and use Scoop Up"
-	line "to return Chansey to your hand."
-	line "Then put the Chansey back into play."
-	line "You'll have lost all of the damage!"
+	text "Je kan Alakazam's Schadeverwisseling"
+	line "gebruiken om schadetellers te ver-"
+	line "plaatsen van een Pokémon die bijna"
+	line "Uitgeschakeld is, of je kunt een"
+	line "combo creëren door hem te combineren"
+	line "met Chansey en Haal Binnen. Blijf"
+	line "schadetellers naar Chansey verplaat-"
+	line "sen en gebruik Haal Binnen om"
+	line "Chansey terug in je hand te nemen."
+	line "Als je Chansey dan weer terug in het"
+	line "spel brengt, ben je al die schade"
+	line "kwijtgeraakt!"
 	done
 
 HyperBeamBookName:
-	text "Hyper Beam"
+	text "Hydrostraal"
 	done
 
 HyperBeamBookText:
-	text "Hyper Beam is extremely powerful!"
-	line "You can remove the Energy cards"
-	line "that are attached to the Defending"
-	line "Pokémon, and without any Energy,"
-	line "your opponent's Pokémon won't"
-	line "be able to attack or retreat!"
+	text "Hydrostraal is ontzettend sterk!"
+	line "Je kunt er Energiekaarten mee"
+	line "weggooien die gehecht zijn aan de"
+	line "Verdedigende Pokémon, en zonder"
+	line "Energie kan jouw tegenstander's"
+	line "Pokémon niet aanvallen of zich"
+	line "Terugtrekken!"
 	done
 
 PrehistoricPowerBookName:
@@ -876,12 +881,13 @@ PrehistoricPowerBookName:
 	done
 
 PrehistoricPowerBookText:
-	text "Use Aerodactyl's Prehistoric Power"
-	line "to block your opponent's Pokémon"
-	line "from evolving. Your own Pokémon"
-	line "can't evolve? In that case, use"
-	line "Devolution Spray on Aerodactyl"
-	line "and turn it back into a"
-	line "Mysterious Fossil. Then you'll"
-	line "be able to evolve your Pokémon!"
+	text "Gebruik Aerodactyl's Prehistorische"
+	line "kracht om te voorkomen dat je tegen-"
+	line "stander's Pokémon kunnen Evolueren."
+	line "Kunnen je eigen Pokémon niet"
+	line "Evolueren? Gebruik in dat geval"
+	line "Devolutiespray op Aerodactyl"
+	line "en verander hem terug in een"
+	line "Mysterieus Fossiel. Dan kan je"
+	line "je Pokémon weer Evolueren!"
 	done

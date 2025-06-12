@@ -54,13 +54,13 @@ StepInName:
 
 StepInDescription:
 	text "Eenmaal tijdens je beurt (vóór je"
-	line "Aanval), als Dragonite op jouw Bank"
+	line "aanval), als Dragonite op jouw Bank"
 	line "zit, mag je hem verwisselen met je"
 	line "Actieve Pokémon."
 	done
 
 DoubleAttackX40Description:
-	text "Gooi 2 munten op. Deze Aanval doet"
+	text "Gooi 2 munten op. Deze aanval doet"
 	line "40 schade maal het aantal keren kop."
 	done
 
@@ -173,7 +173,7 @@ ClefairyDollDescription:
 	line "spel is, telt Clefairy-Pop als een"
 	line "Pokémon (in plaats van een Trainer-"
 	line "kaart). Clefairy-Pop heeft geen"
-	line "Aanvallen, kan niet Terugtrekken,"
+	line "aanvallen, kan niet Terugtrekken,"
 	line "en kan niet In Slaap, Verward,"
 	done
 
@@ -183,7 +183,7 @@ ClefairyDollDescriptionCont:
 	line "telt hij niet als een Uitgeschakel-"
 	line "de Pokémon (gooi hem toch weg). Je"
 	line "mag Clefairy-Pop op elk moment tij-"
-	line "dens je beurt vóór je Aanval weg-"
+	line "dens je beurt vóór je aanval weg-"
 	line "gooien (in het ”PKMN-Kracht” menu)."
 	done
 
@@ -197,7 +197,7 @@ MysteriousFossilDescription:
 	line "het spel is, telt hij als een Poké-"
 	line "mon (in plaats van een Trainer"
 	line "kaart). Mysterieus Fossiel heeft"
-	line "geen Aanvallen, kan niet Terugtrek-"
+	line "geen aanvallen, kan niet Terugtrek-"
 	line "ken, en kan niet In Slaap, Verward,"
 	done
 
@@ -207,7 +207,7 @@ MysteriousFossilDescriptionCont:
 	line "niet als een Uitgeschakelde Poké-"
 	line "mon (gooi hem toch weg). Je mag"
 	line "Mysterieus Fossiel op elk moment"
-	line "tijdens je beurt vóór je Aanval weg-"
+	line "tijdens je beurt vóór je aanval weg-"
 	line "gooien. (in het ”PKMN-Kracht” menu)."
 	done
 
@@ -278,8 +278,8 @@ PokemonCenterName:
 	done
 
 PokemonCenterDescription:
-	text "Verwijder alle Schadetellers van je"
-	line "eigen Pokémon met Schadetellers"
+	text "Verwijder alle schadetellers van je"
+	line "eigen Pokémon met schadetellers"
 	line "erop; gooi vervolgens alle aan die"
 	line "Pokémon gehechte Energiekaarten weg."
 	done
@@ -341,7 +341,7 @@ PlusPowerDescription:
 	line "weg. Als je Pokémon schade doet aan"
 	line "de Verdedigende Pokémon (na het"
 	line "toepassen van Zwakte en Weerstand),"
-	line "doet de Aanval nog eens 10 schade"
+	line "doet de aanval nog eens 10 schade"
 	line "aan de Verdedigende Pokémon."
 	done
 
@@ -353,7 +353,7 @@ DefenderDescription:
 	text "Hecht Verdediger aan 1 van je Poké-"
 	line "mon. Gooi Verdediger aan het einde"
 	line "van je tegenstander's volgende beurt"
-	line "weg. De schade die door Aanvallen"
+	line "weg. De schade die door aanvallen"
 	line "aan deze Pokémon wordt gedaan wordt"
 	line "verminderd met 20 (nadat Zwakte en"
 	line "Weerstand zijn toegepast)."
@@ -396,7 +396,7 @@ DevolutionSprayDescriptionCont:
 	text "Deze Pokémon is niet langer In"
 	line "Slaap, Verward, Verlamd, of Vergif-"
 	line "tigd, of iets anders wat het gevolg"
-	line "van een Aanval zou kunnen zijn"
+	line "van een aanval zou kunnen zijn"
 	line "(precies zoals wanneer je hem zou"
 	line "hebben Geëvolueerd)."
 	done
@@ -407,8 +407,8 @@ PotionName:
 
 PotionDescription:
 	text "Verwijder ten hoogste 2"
-	line "Schadetellers van 1 van je Pokémon."
-	line "als die Pokémon minder Schadetellers"
+	line "schadetellers van 1 van je Pokémon."
+	line "als die Pokémon minder schadetellers"
 	line "heeft dan dat, verwijder ze dan"
 	line "allemaal."
 	done
@@ -420,7 +420,7 @@ SuperPotionName:
 SuperPotionDescription:
 	text "Gooi 1 Energiekaart weg die gehecht"
 	line "is aan 1 van je Pokémon om ten hoog-"
-	line "ste 4 Schadetellers van die Pokémon"
+	line "ste 4 schadetellers van die Pokémon"
 	line "te kunnen verwijderen."
 	done
 

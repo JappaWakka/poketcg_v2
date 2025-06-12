@@ -800,7 +800,7 @@ Text05d6:
 	line "Als er geen Energiekaarten aan"
 	line "gehecht zijn, zou de Pokémon"
 	line "geen mogelijkheid kunnen hebben"
-	line "om Aan te Vallen of zich Terug"
+	line "om aan te vallen of zich Terug"
 	line "te Trekken. Er zijn 7 typen"
 	line "Energie: <GRASS>, <FIRE>, <WATER>, <LIGHTNING>, <PSYCHIC>, <FIGHTING>,"
 	line "en <COLORLESS>. Het benodigde type Energie"
@@ -811,8 +811,8 @@ Text05d6:
 
 Text05d7:
 	text "Pokémon kunnen schade doen aan"
-	line "Verdedigende Pokémon door Aan"
-	line "te Vallen. Pokémon hebben daarvoor"
+	line "Verdedigende Pokémon door aan"
+	line "te vallen. Pokémon hebben daarvoor"
 	line "Energie-kaarten nodig."
 	line "Bijvoorbeeld, de Energie die nodig"
 	line "is voor Seaking's Waterval is <WATER><COLORLESS>."
@@ -821,7 +821,7 @@ Text05d7:
 	line "Energiekaart van welk type dan ook."
 	line ""
 	line "De benodigde Energie verschilt"
-	line "per Aanval."
+	line "per aanval."
 	done
 
 Text05d8:
@@ -872,9 +872,9 @@ Text05da:
 	done
 	
 Text05db:
-	text "Je beurt eindigt na je Aanval."
+	text "Je beurt eindigt na je aanval."
 	line "Als je niet genoeg Energie hebt om"
-	line "Aan te Vallen, of als je Actieve"
+	line "aan te vallen, of als je Actieve"
 	line "Pokémon niets kan doen door"
 	line "een Speciale Toestand, kun je"
 	line "je beurt beëindigen door het"

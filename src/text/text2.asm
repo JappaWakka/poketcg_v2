@@ -6,7 +6,7 @@ AcidCheckText:
 
 TransparencyCheckText:
 	text "Als het kop is, voorkom dan alle"
-	line "gevolgen van de Aanval aan Haunter!"
+	line "gevolgen van de aanval aan Haunter!"
 	done
 
 ConfusionCheckDamageText:
@@ -31,13 +31,13 @@ PoisonedIfHeadsConfusedIfTailsText:
 
 IfHeadsDoNotReceiveDamageOrEffectText:
 	text "Als het kop is, voorkom alle schade"
-	line "en gevolgen van Aanvallen tijdens"
+	line "en gevolgen van aanvallen tijdens"
 	line "de volgende beurt."
 	done
 
 IfHeadsOpponentCannotAttackText:
 	text "Als het kop is, kan de Verdedigende"
-	line "Pokémon niet Aanvallen tijdens de"
+	line "Pokémon niet aanvallen tijdens de"
 	line "volgende beurt!"
 	done
 
@@ -61,17 +61,17 @@ CannotUsePokemonFluteText:
 	done
 
 UnableToAttackThatPokemonText:
-	text "Je kunt die Pokémon niet Aanvallen"
+	text "Je kunt die Pokémon niet aanvallen"
 	line "tot je volgende beurt."
 	done
 
 UnableToAttackText:
-	text "Deze Pokémon kan niet Aanvallen"
+	text "Deze Pokémon kan niet aanvallen"
 	line "tot je volgende beurt."
 	done
 
 UnableToUseAttackDueToAmnesiaText:
-	text "Kan deze Aanval niet gebruiken"
+	text "Kan deze aanval niet gebruiken"
 	line "door de gevolgen van Amnesie."
 	done
 
@@ -99,23 +99,23 @@ UnusedText0108: ; Unused
 	done
 
 NoDamageOrEffectDueToAttackText:
-	text "De Aanval had geen effect op de"
+	text "De aanval had geen effect op de"
 	line "Verdedigende Pokémon."
 	done
 
 UnableToUseAttackDueToNShieldText:
-	text "Kan deze Aanval niet gebruiken door"
+	text "Kan deze aanval niet gebruiken door"
 	line "Mew's Neutraliserend Schild."
 	done
 
 NoDamageOrEffectDueToNShieldText:
 	text "De Kracht Neutraliserend Schild"
-	line "beschermde Mew tegen de Aanval."
+	line "beschermde Mew tegen de aanval."
 	done
 
 NoDamageOrEffectDueToTransparencyText:
 	text "De Kracht Transparantie beschermde"
-	line "Haunter tegen de Aanval."
+	line "Haunter tegen de aanval."
 	done
 
 MetamorphsToText:
@@ -232,7 +232,7 @@ ChooseDiscardEnergyCardFromOpponentText:
 	done
 
 ChooseAttackOpponentWillNotBeAbleToUseText:
-	text "Kies de Aanval die de tegenstander"
+	text "Kies de aanval die de tegenstander"
 	line "niet zal kunnen gebruiken tijdens"
 	line "zijn of haar volgende beurt."
 	done
@@ -301,14 +301,14 @@ ChooseABellsproutText:
 
 ChoosePkmnToRemoveDamageCounterText:
 	text "Kies een Pokémon om de"
-	line "Schadeteller van te verwijderen."
+	line "schadeteller van te verwijderen."
 	done
 
 ProcedureForCurseText:
 	text "Hoe je Vervloeken gebruikt:"
 	line ""
 	line "1. Kies een Pokémon om de"
-	line "   Schadeteller van te ver-"
+	line "   schadeteller van te ver-"
 	line "   plaatsen en druk op de A-knop."
 	line ""
 	line "2. Kies een Pokémon om de Schade-"
@@ -353,14 +353,14 @@ ProcedureForDamageSwapText:
 	text "Hoe je Schadeverwisseling"
 	line "gebruikt:"
 	line "1. Kies een Pokémon waar je"
-	line "   een Schadeteller van wilt"
+	line "   een schadeteller van wilt"
 	line "   verplaatsen en druk op de"
 	line "   A-knop."
 	line "2. Kies een Pokémon om de schade-"
 	line "   teller naartoe te verplaatsen"
 	line "   en druk op de A-knop."
 	line "   (Je mag een Pokémon geen"
-	line "   Schadeteller geven als dat"
+	line "   schadeteller geven als dat"
 	line "   die Pokémon zou Uitschakelen.)"
 	line ""
 	line "3. Herhaal stap 1 en 2."
@@ -390,8 +390,8 @@ ProcedureForStrangeBehaviorText:
 	line "   wilt verplaatsen en druk op"
 	line "   de A-knop."
 	line "2. Herhaal stap 1 zo vaak als je de"
-	line "   Schadetellers wilt verplaatsen."
-	line "   (Je mag geen Schadeteller"
+	line "   schadetellers wilt verplaatsen."
+	line "   (Je mag geen schadeteller"
 	line "   verplaatsen als dat Slowbro"
 	line "   zou Uitschakelen.)"
 	line ""
@@ -399,7 +399,7 @@ ProcedureForStrangeBehaviorText:
 	done
 
 ChooseOppAttackToBeUsedWithMetronomeText:
-	text "Kies de tegenstander's Aanval"
+	text "Kies de tegenstander's aanval"
 	line "om met Metronoom te kopiëren."
 	done
 
@@ -964,7 +964,7 @@ Turn2Instr2PracticeDuelText:
 Turn2Instr3PracticeDuelText:
 	text "3. Kies ”Val Aan” in het Menu"
 	line "   en dan Waterval om je"
-	line "   tegenstander Aan te Vallen."
+	line "   tegenstander aan te vallen."
 	done
 
 Turn3Instr1PracticeDuelText:
@@ -974,7 +974,7 @@ Turn3Instr1PracticeDuelText:
 
 Turn3Instr2PracticeDuelText:
 	text "2. Kies ”Val Aan” in het Menu en"
-	line "   en Val je tegenstander Aan"
+	line "   en val je tegenstander aan"
 	line "   met Hoornaanval."
 	done
 
@@ -992,7 +992,7 @@ Turn4Instr2PracticeDuelText:
 	done
 
 Turn4Instr3PracticeDuelText:
-	text "3. Selecteer Seaking en Val je"
+	text "3. Selecteer Seaking en val je"
 	line "   tegenstander Aan met Waterval."
 	done
 
@@ -1003,7 +1003,7 @@ Turn5Instr1PracticeDuelText:
 	done
 
 Turn5Instr2PracticeDuelText:
-	text "2. Selecteer Staryu en Val je"
+	text "2. Selecteer Staryu en val je"
 	line "   tegenstander Aan met Klap."
 	done
 
@@ -1019,8 +1019,8 @@ Turn6Instr2PracticeDuelText:
 	done
 
 Turn6Instr3PracticeDuelText:
-	text "3. Selecteer Staryu en Val je"
-	line "   tegenstander Aan met Klap."
+	text "3. Selecteer Staryu en val je"
+	line "   tegenstander aan met Klap."
 	done
 
 Turn7Instr1PracticeDuelText:
@@ -1030,13 +1030,13 @@ Turn7Instr1PracticeDuelText:
 
 Turn7Instr2PracticeDuelText:
 	text "2. Selecteer de Geëvolueerde Starmie"
-	line "   en Val je tegenstander Aan met"
+	line "   en val je tegenstander aan met"
 	line "   Sterbevriezing."
 	done
 
 Turn8Instr1PracticeDuelText:
-	text "1. Selecteer Starmie en Val je"
-	line "   tegenstander Aan met"
+	text "1. Selecteer Starmie en val je"
+	line "   tegenstander aan met"
 	line "   Sterbevriezing."
 	line "   "
 	done
@@ -1074,7 +1074,7 @@ Turn1DrMason2PracticeDuelText:
 	done
 
 Turn1DrMason3PracticeDuelText:
-	text "Tot slot Val je je tegenstander Aan"
+	text "Tot slot val je je tegenstander aan"
 	line "door het commando ”Val Aan” te"
 	line "selecteren. Kies ”Val Aan” in het"
 	line "Menu, en selecteer Hoornaanval."
@@ -1102,7 +1102,7 @@ Turn2DrMason2PracticeDuelText:
 
 Turn2DrMason3PracticeDuelText:
 	text "Nou, laten we je tegenstander"
-	line "Aanvallen met Seaking's Waterval!"
+	line "aanvallen met Seaking's Waterval!"
 	done
 
 Turn3DrMason1PracticeDuelText:
@@ -1144,18 +1144,18 @@ Turn4DrMason1PracticeDuelText:
 Turn4DrMason2PracticeDuelText:
 	text "Hecht een Water Energiekaart aan"
 	line "Drowzee om hem klaar te maken om"
-	line "Aan te Vallen."
+	line "aan te vallen."
 	done
 
 Turn4DrMason3PracticeDuelText:
-	text "Kies je Actieve Seaking en Val je"
-	line "tegenstander Aan met Waterval."
+	text "Kies je Actieve Seaking en val je"
+	line "tegenstander aan met Waterval."
 	done
 
 Turn5DrMason1PracticeDuelText:
 	text "Staryu evolueert in Starmie!"
 	line "Laten we Staryu klaar maken om"
-	line "Starmie's Aanval te gebruiken"
+	line "Starmie's aanval te gebruiken"
 	line "als hij in Starmie evolueert."
 	line "Kies de Water Energiekaart uit"
 	line "je hand en hecht hem aan Staryu."
