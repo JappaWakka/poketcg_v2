@@ -33,9 +33,9 @@ tcg: $(rom)
 clean: tidy
 	find src/gfx \
 	     \( -iname '*.1bpp' \
-	        -o -iname '*.2bpp' \
 	        -o -iname '*.pal' \
-	        -o -iname '*.attrmap' \) \
+	        -o -iname '*.attrmap' \
+	        -o -iname '*.2bpp' \) \
 	     -delete
 
 	find src/data \
@@ -144,12 +144,12 @@ src/gfx/titlescreen/title_screen_cgb.2bpp: rgbgfx += -x 12
 
 %.png: ;
 
+%.pal: ;
+
 %.attrmap: %.png
 	$(RGBGFX) $(rgbgfx) -Z -P -A $<
 	tools/pal_fix $(tools/pal_fix) $*.pal
 	tools/attr_fix $(tools/attr_fix) $@
-
-%.pal: ;
 
 %.2bpp: %.png
 	$(RGBGFX) $(rgbgfx) -o $@ $<
