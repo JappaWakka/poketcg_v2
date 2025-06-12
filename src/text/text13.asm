@@ -666,7 +666,7 @@ SandslashDescription:
 	text "Rolt zich op tot een stekelige bal"
 	line "wanneer hij bedreigd wordt. Terwijl"
 	line "hij opgerold is kan hij zich voort-"
-	line "rollen om aan te vallen of te"
+	line "rollen om Aan te Vallen of te"
 	line "ontsnappen."
 	done
 

@@ -967,7 +967,7 @@ Mail8Part1Text:
 	line "Pokémon-Krachten gebruiken! Vermijd"
 	line "het gebruiken van decks die afhanke-"
 	line "lijk zijn van Pokémon-Krachten om"
-	line "aan te vallen. De zwakte van zijn"
+	line "Aan te Vallen. De zwakte van zijn"
 	line "deck is Psychische Pokémon! Verzamel"
 	line "veel Psychische Pokémon voordat je"
 	line "Rick uitdaagt! Ik stel voor dat je"
@@ -1123,7 +1123,7 @@ Mail15Part1Text:
 	line "de leider van de Grootmeesters."
 	line "Rod gebruikt de Legendarische"
 	line "Dragonite."
-	line "Hoe langer het duel duurt, hoe"
+	line "Hoe langer het Duel duurt, hoe"
 	line "groter de voordelen zullen zijn"
 	line "voor zijn deck. Zijn werkpaarden"
 	line "zullen zijn Evolutie-Pokémon zijn,"
@@ -1294,7 +1294,7 @@ SaraDeclinedDuelText:
 
 SaraStartDuelText:
 	text "Er zullen 2 Prijzen zijn."
-	line "Het duel zal uit 1 wedstrijd"
+	line "Het Duel zal uit 1 wedstrijd"
 	line "bestaan!"
 	line "Oké, laten we beginnen!"
 	done
@@ -1338,7 +1338,7 @@ AmandaDeclinedDuelText:
 AmandaDuelStartText:
 	text "Oké, we zullen spelen met 3"
 	line "Prijzen."
-	line "Het duel zal uit 1 wedstrijd"
+	line "Het Duel zal uit 1 wedstrijd"
 	line "bestaan!"
 	done
 

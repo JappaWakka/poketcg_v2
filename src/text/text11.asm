@@ -332,7 +332,7 @@ IfYouQuitTheDuelText:
 	done
 
 WouldYouLikeToQuitTheDuelText:
-	text "Wil je het duel verlaten?"
+	text "Wil je het Duel verlaten?"
 	done
 
 PlayTheChallengeMachineText:

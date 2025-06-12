@@ -32,7 +32,7 @@ JoshuaWantsToDuelInitialText:
 	done
 
 JoshuaWantsToDuelRepeatText:
-	text "Wil je met mij het duel aangaan?"
+	text "Wil je met mij het Duel aangaan?"
 	done
 
 JoshuaWouldYouLikeToDuelText:
@@ -57,7 +57,7 @@ JoshuaDeclinedDuelRepeatText:
 
 JoshuaDuelStartText:
 	text "Oké, dit zal een 1 wedstrijd durend"
-	line "duel zijn met 4 Prijzen!"
+	line "Duel zijn met 4 Prijzen!"
 	done
 
 JoshuaPlayerLostInitialText:
@@ -152,7 +152,7 @@ AmyDeclinedDuelInitialText:
 	done
 
 AmyDuelStartInitialText:
-	text "Oké! Een duel van 1 wedstrijd met"
+	text "Oké! Een Duel van 1 wedstrijd met"
 	line "6 Prijzen!"
 	line "Laten we beginnen!"
 	done
@@ -182,7 +182,7 @@ AmyPlayerWon2Text:
 AmyPlayerLostText:
 	text "Hah! Ik ben de beste!"
 	line "Kom later weer eens terug!"
-	line "Ik zou graag nog een duel willen!"
+	line "Ik zou graag nog een Duel willen!"
 	done
 
 AmyWantsToDuelRepeatText:
@@ -195,7 +195,7 @@ AmyWantsToDuelRepeatText:
 AmyDuelStartRepeatText:
 	text "Oké, dezelfde regels als de"
 	line "vorige keer!"
-	line "Een duel van 1 wedstrijd en 6"
+	line "Een Duel van 1 wedstrijd en 6"
 	line "Prijzen!"
 	done
 
@@ -205,7 +205,7 @@ Clerk1Text:
 	line "Hier bij deze Club duelleren we"
 	line "met Vecht-Pokémon."
 	line "Valsspelen is niet toegestaan!"
-	line "Alleen duellen in goede eer mogen"
+	line "Alleen Duellen in goede eer mogen"
 	line "plaatsvinden in deze Club."
 	done
 
@@ -336,7 +336,7 @@ ImakuniDeclinedDuelText:
 	done
 
 ImakuniDuelStartText:
-	text "Oké, een duel van 1 wedstrijd met"
+	text "Oké, een Duel van 1 wedstrijd met"
 	line "6 Prijzen!"
 	line "...Wat dat ook betekent..."
 	done
@@ -450,8 +450,8 @@ Mitch2PupilsRemainingText:
 	done
 
 Mitch1PupilRemainingText:
-	text "Dus, je hebt 2 van mijn leer-"
-	line "lingen verslagen!"
+	text "Dus, je hebt 2 van mijn"
+	line "leerlingen verslagen!"
 	line "Je bent best wel goed."
 	line "Maar er is er nog eentje over..."
 	line "Kan je mijn laatste leerling"
@@ -512,49 +512,50 @@ MitchPlayerLostInitialText:
 	done
 
 MitchWouldLikeToDuelRepeatText:
-	text "You wish to duel the"
-	line "Fighting Club Master again?"
+	text "Wil je opnieuw dueleren met de"
+	line "Vecht-Clubmeester?"
 	done
 
 MitchDeclinedDuelRepeatText:
-	text "Oh, OK."
-	line "I'd like to duel again, though."
+	text "Oh, oké."
+	line "Maar ik wil het nog wel een keer."
 	done
 
 MitchDuelStartRepeatText:
-	text "As before, we'll play with 6 Prizes."
-	line "Come show me what you've got!"
+	text "Zoals voorheen, spelen we met 6"
+	line "Prijzen."
+	line "Laat me zien wat je in je mars hebt!"
 	done
 
 MitchPlayerWonRepeat1Text:
-	text "Another utter defeat!"
-	line "Here, take this!"
+	text "Nog een totale nederlaag!"
+	line "Hier, neem dit!"
 	done
 
 MitchPlayerWonRepeat2Text:
-	text "I'd like to duel someone"
-	line "like you again!"
+	text "Ik zou wel opnieuw tegen iemand"
+	line "zoals jij willen duelleren!"
 	done
 
 MitchPlayerLostRepeatText:
-	text "You must train harder!"
-	line "I'll be waiting!"
+	text "Je moet harder trainen!"
+	line "Ik wacht wel!"
 	done
 
 ChrisFightingClubWantsToDuelInitialText:
-	text "I lost to you before at the"
-	line "Rock Club, but not this time!"
-	line "I'm going to train to become"
-	line "an even better player!"
-	line "But before I can start my training"
-	line "again, I must defeat you first!"
+	text "Ik heb van je verloren toen bij de"
+	line "Rots-Club, maar vanaf nu niet meer!"
+	line "Ik ga trainen om een nog betere"
+	line "speler te worden! Maar voordat ik"
+	line "mijn training kan voortzetten"
+	line "moet ik eerst jou verslaan!"
 	done
 
 ChrisFightingClubWantsToDuelRepeatText:
-	text "I'm going to train to become"
-	line "an even better player!"
-	line "But before I can start my training"
-	line "again, I must defeat you first!"
+	text "Ik ga trainen om een nog betere"
+	line "speler te worden! Maar voordat ik"
+	line "mijn training kan voortzetten"
+	line "moet ik eerst jou verslaan!"
 	done
 
 ChrisWouldYouLikeToDuelText:
@@ -562,35 +563,39 @@ ChrisWouldYouLikeToDuelText:
 	done
 
 ChrisFightingClubDeclinedDuelText:
-	text "You're just going to turn"
-	line "and run!?! You chicken!"
+	text "Je gaat je gewoon omdraaien en"
+	line "wegrennen? Bang kippetje!"
 	done
 
 ChrisFightingClubDuelStartText:
-	text "A 1-match duel with 4 prizes!"
-	line "Let's do it!"
+	text "Een Duel van 1 wedstrijd met 4"
+	line "Prijzen!"
+	line "We gaan ervoor!"
 	done
 
 ChrisFightingClubPlayerWon1Text:
-	text "No! I lost again!"
-	line "I can't start training yet!"
+	text "Nee! Alweer verloren!"
+	line ""
+	line "Ik kan nog niet beginnen met"
+	line "trainen!"
 	done
 
 ChrisFightingClubPlayerWon2Text:
-	text "Shoot! I'm going to"
-	line "become a better player!"
+	text "Verdorie! Ik moet een betere"
+	line "speler worden!"
 	done
 
 ChrisFightingClubPlayerLostText:
-	text "Yeah! I won!"
-	line "I've gotten pretty good, haven't I?"
-	line "I think I'll start training again."
+	text "Joepie! Ik won! Ik ben best"
+	line "wel goed geworden, of niet soms?"
+	line "Ik denk dat ik weer met trainen"
+	line "kan gaan beginnen."
 	done
 
 MichaelFightingClubWantsToDuelText:
-	text "I've been training since I lost"
-	line "to you at the Grass Club."
-	line "How about a rematch?"
+	text "Ik ben aan het trainen geweest sinds"
+	line "ik van jou verloor bij de Gras-Club."
+	line "Wat dacht je van een rematch?"
 	done
 
 MichaelWouldYouLikeToDuelText:
@@ -598,34 +603,38 @@ MichaelWouldYouLikeToDuelText:
 	done
 
 MichaelFightingClubDeclinedDuelText:
-	text "OK. But do duel me"
-	line "again sometime."
+	text "Oké. Maar duelleer binnenkort wel"
+	line "weer opnieuw met me."
 	done
 
 MichaelFightingClubDuelStartText:
-	text "OK, a 1-match duel with 4 prizes!"
-	line "Let's do it!"
+	text "Een Duel van 1 wedstrijd met 4"
+	line "Prijzen!"
+	line "We gaan ervoor!"
 	done
 
 MichaelFightingClubPlayerWon1Text:
-	text "I guess I need to train more..."
+	text "Ik moet meer gaan trainen, geloof"
+	line "ik..."
 	done
 
 MichaelFightingClubPlayerWon2Text:
-	text "Duel me again another time."
-	line "See ya!"
+	text "Duelleer later nog eens met me."
+	line "Tot ziens!"
 	done
 
 MichaelFightingClubPlayerLostText:
-	text "I guess my training has paid off!"
-	line "Duel me again sometime. See ya!"
+	text "Ik geloof dat mijn training heeft"
+	line "geloond!"
+	line "Duelleer later nog eens met me."
+	line "Tot ziens!"
 	done
 
 JessicaFightingClubWantsToDuelText:
-	text "Training is so boring..."
-	line "Why anyone would want to?"
-	line "Hey, it's you!"
-	line "Do you want to duel me again?"
+	text "Trainen is zo saai..."
+	line "Waarom zou iemand dat willen doen?"
+	line "Hé, jij bent het!"
+	line "Wil je weer met me duelleren?"
 	done
 
 JessicaWouldYouLikeToDuelText:
@@ -633,33 +642,34 @@ JessicaWouldYouLikeToDuelText:
 	done
 
 JessicaFightingClubDeclinedDuelText:
-	text "Well, OK."
-	line "I'm busy anyway!"
+	text "Nou, oké dan."
+	line "Ik ben toch al druk!"
 	done
 
 JessicaFightingClubDuelStartText:
-	text "OK! A 1-match duel with 4 prizes!"
-	line "Let's go to it!"
+	text "Oké! Een Duel van 1 wedstrijd met 4"
+	line "Prijzen!"
+	line "Laten we beginnen!"
 	done
 
 JessicaFightingClubPlayerWon1Text:
-	text "Oops! I lost..."
-	line "Here! You can have this!"
+	text "Oeps! Ik verloor..."
+	line "Hier! Dit mag je hebben!"
 	done
 
 JessicaFightingClubPlayerWon2Text:
-	text "Don't talk to me, I'm busy!"
+	text "Praat niet met me, ik ben druk!"
 	done
 
 JessicaFightingClubPlayerLostText:
-	text "Hey, I won!"
-	line "Could this also be due to my"
-	line "natural ability?"
-	line "Well, I hope I see you around!"
+	text "Hé, ik won! Kwam dit door mijn"
+	line "natuurlijke vaardigheid?"
+	line "Nou, hopelijk zie ik je later nog"
+	line "eens!"
 	done
 
 WhatIsADeckBookName:
-	text "Wat is een Deck?"
+	text "Wat is een deck?"
 	done
 
 WhatIsADeckBookText:
@@ -680,14 +690,14 @@ CardsVol1BookName:
 CardsVol1BookText:
 	text "Er zijn 2 soorten Pokémonkaarten"
 	line "in het Pokémon Ruilkaartspel:"
-	line "Basis-Pokémon en Evolutie-Pokémon"
+	line "Basis-Pokémon en Evolutie-Pokémon."
 	line "Alleen Basis-Pokémon mogen meteen"
 	line "op de Bank geplaatst worden."
 	line "Er zijn 2 soorten Evolutie-"
-	line "Pokémon-kaarten: Fase 1 en"
-	line "Fase 2. Leg Fase-1-Pokémon"
-	line "bovenop Basis-Pokémon, en Fase-2-"
-	line "Pokémon bovenop Fase-1-Pokémon."
+	line "Pokémonkaarten: Fase 1 en Fase 2."
+	line "Leg Fase-1-Pokémon bovenop Basis-"
+	line "Pokémon, en Fase-2-Pokémon bovenop"
+	line "Fase-1-Pokémon."
 	done
 
 CardsVol2BookName:
@@ -699,9 +709,9 @@ CardsVol2BookText:
 	line "om ze de kracht te geven die ze"
 	line "nodig hebben om Aan te Vallen. Kies"
 	line "een Energiekaart uit je hand en"
-	line "hecht hem aan een Pokémon. je mag"
-	line "maar 1 Energiekaart per"
-	line "beurt hechten."
+	line "hecht hem aan een Pokémon. Je mag"
+	line "maar 1 Energiekaart per beurt"
+	line "hechten."
 	done
 
 CardsVol3BookName:
@@ -710,11 +720,11 @@ CardsVol3BookName:
 
 CardsVol3BookText:
 	text "Trainerkaarten zijn eenmalig"
-	line "te gebruiken kaarten die"
-	line "meteen in werking gaan en dan"
-	line "weg worden gegooid. Je kan zo veel"
-	line "Trainerkaarten spelen als je wilt"
-	line "tijdens je beurt."
+	line "te gebruiken kaarten die meteen"
+	line "in werking gaan en dan weg worden"
+	line "gegooid. Je kan zo veel Trainer-"
+	line "kaarten spelen als je wilt tijdens"
+	line "je beurt."
 	done
 
 WinOrLossOfAMatchVol1BookName:
@@ -727,10 +737,10 @@ WinOrLossOfAMatchVol1BookText:
 	line "Uitgeschakeld. Leg de Pokémon"
 	line "en alle eraan gehechte Energie-"
 	line "kaarten op de weggooistapel."
-	line "Elke keer als je 1 van je"
-	line "tegenstander's Pokémon Uitschakelt,"
-	line "mag je 1 van je Prijskaarten pakken"
-	line "en hem in je hand nemen."
+	line "Elke keer als je 1 van je tegen-"
+	line "stander's Pokémon Uitschakelt,"
+	line "mag je 1 van je Prijskaarten"
+	line "pakken en hem in je hand nemen."
 	line "Als je alle Prijskaarten hebt"
 	line "gepakt, win je het spel."
 	done
@@ -793,14 +803,16 @@ EnergyTransBookText:
 	done
 
 ToxicGasBookName:
-	text "Toxic Gas"
+	text "Gifgas"
 	done
 
 ToxicGasBookText:
-	text "Muk's Toxic Gas is very powerful!"
-	line "It can block all Pokémon Powers!"
-	line "But be careful because it also"
-	line "blocks your own Pokémon Powers!"
+	text "Muk's Gifgas is erg sterk!"
+	line ""
+	line "Het kan alle Pokémon-Krachten"
+	line "blokkeren! Maar wees voorzichtig"
+	line "want het blokkeert ook je eigen"
+	line "Pokémon-Krachten!"
 	done
 
 RainDanceBookName:

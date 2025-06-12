@@ -905,12 +905,12 @@ DrawSevenCardsPracticeDuelText:
 	line "kiezen als je Actieve Pokémon,"
 	line "dus je kan kiezen tussen"
 	line "Goldeen of Staryu."
-	line "Voor ons oefenduel,"
+	line "Voor ons Oefenduel,"
 	line "kies je Goldeen."
 	done
 
 ChooseGoldeenPracticeDuelText:
-	text "Kies Goldeen voor dit oefenduel,"
+	text "Kies Goldeen voor dit Oefenduel,"
 	line "oké?"
 	done
 
@@ -926,7 +926,7 @@ PutPokemonOnBenchPracticeDuelText:
 	done
 
 ChooseStaryuPracticeDuelText:
-	text "Kies Staryu voor dit oefenduel,"
+	text "Kies Staryu voor dit Oefenduel,"
 	line "oké?"
 	done
 
@@ -1219,7 +1219,7 @@ SamTurn4DrMason1PracticeDuelText:
 	line "Je hebt Drowzee en Staryu"
 	line "op je Bank."
 	line "Kies Staryu als de Actieve Pokémon"
-	line "voor dit oefenduel."
+	line "voor dit Oefenduel."
 	done
 
 SamTurn4DrMason2PracticeDuelText:

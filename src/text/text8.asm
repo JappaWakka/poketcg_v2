@@ -14,7 +14,7 @@ Text05ec:
 
 Text05ed:
 	text "Oké! Dan beginnen we nog een"
-	line "oefenduel!"
+	line "Oefenduel!"
 	done
 
 Text05ee:

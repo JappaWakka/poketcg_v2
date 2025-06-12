@@ -514,7 +514,7 @@ NewIntroText1:
 	done
 
 NewIntroText2:
-	text "Heb je zin in een oefenduel?"
+	text "Heb je zin in een Oefenduel?"
 	line ""
 	done
 
