@@ -852,7 +852,7 @@ DamageSwapBookText:
 	line "gebruiken om schadetellers te ver-"
 	line "plaatsen van een Pokémon die bijna"
 	line "Uitgeschakeld is, of je kunt een"
-	line "combo creëren door hem te combineren"
+	line "combo maken door hem te combineren"
 	line "met Chansey en Haal Binnen. Blijf"
 	line "schadetellers naar Chansey verplaat-"
 	line "sen en gebruik Haal Binnen om"

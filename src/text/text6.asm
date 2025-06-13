@@ -1,131 +1,138 @@
 PhantomCardsBookName:
-	text "Phantom Cards"
+	text "Fantoomkaarten"
 	done
 
 PhantomCardsBookText:
-	text "It is rumored that there is a"
-	line "Phantom Card that can only be"
-	line "gotten by using Card Pop! It is"
-	line "believed there are 2 such cards,"
-	line "but no one knows what kind of cards"
-	line "they are. I'm off to search for"
-	line "someone who can give me these cards!"
+	text "Het gerucht gaat dat er een Fantoom-"
+	line "kaart is die alleen bemachtigd kan"
+	line "worden door Kaart Flits! te"
+	line "gebruiken! Men gelooft dat er 2 van"
+	line "zulke kaarten bestaan, maar niemand"
+	line "weet wat voor soort kaarten het"
+	line "zijn. Ik ga op zoek naar iemand"
+	line "die me deze kaarten kan geven!"
 	line "                        Ishihara"
 	done
 
 WeaknessAndResistanceBookName:
-	text "Weakness and Resistance"
+	text "Zwakte en Weerstand"
 	done
 
 WeaknessAndResistanceBookText:
-	text "If a Pokémon has a Weakness,"
-	line "it takes double damage when attacked"
-	line "by Pokémon of a certain type."
-	line "If a Water Pokémon deals 30 damage"
-	line "to a Fire Pokémon, then that Pokémon"
-	line "will receive 60 damage!"
-	line "If a Pokémon has a Resistance, it"
-	line "takes 30 less damage when attacked"
-	line "by Pokémon of a certain type. If a"
-	line "Fighting Pokémon deals 30 damage to"
-	line "a Pokémon with Fighting Resistance,"
-	line "that Pokémon will receive 0 damage!"
-	line "Pay attention to the Weaknesses"
-	line "and Resistances of your Pokémon!"
+	text "Als een Pokémon een Zwakte heeft,"
+	line "ontvangt het dubbele schade wanneer"
+	line "hij aangevallen wordt door Pokémon"
+	line "van een bepaald type."
+	line "Als een Water-Pokémon 30 schade doet"
+	line "aan een Vuur-Pokémon, dan ontvangt"
+	line "die Pokémon 60 schade!"
+	line "Als een Pokémon een Weerstand heeft,"
+	line "ontvangt het 30 minder schade"
+	line "wanneer hij aangevallen wordt door"
+	line "Pokémon van een bepaald type."
+	line "Als een Vecht-Pokémon 30 schade doet"
+	line "aan een Pokémon met een Vecht-"
+	line "Weerstand, dan ontvangt die Pokémon"
+	line "0 schade! Let goed op de Zwaktes"
+	line "en Weerstanden van je Pokémon!"
 	done
 
 DrawingDesiredCardsBookName:
-	text "Drawing Desired Cards"
+	text "Gewenste Kaarten Pakken"
 	done
 
 DrawingDesiredCardsBookText:
-	text "The Trainer card, Computer Search,"
-	line "is useful when you want to draw a"
-	line "certain card! Item Finder and"
-	line "Poké Ball will also help!"
+	text "De Trainerkaart Zoeken per Computer"
+	line "is handig wanneer je een bepaalde"
+	line "kaart wilt hebben! Detector en"
+	line "PokéBal helpen daar ook bij!"
 	done
 
 RetreatingBookName:
-	text "Retreating"
+	text "Terugtrekken"
 	done
 
 RetreatingBookText:
-	text "Retreating your Active Pokémon to"
-	line "the Bench is a good strategy in"
-	line "certain situations! Retreating a"
-	line "Pokémon requires Energy cards."
-	line "Dodrio's Retreat Aid decreases the"
-	line "amount of Energy that's required to"
-	line "retreat. If you retreat right away,"
-	line "your Pokémon won't get Knocked Out!"
+	text "Je Actieve Pokémon Terugtrekken naar"
+	line "de Bank is een goede strategie in"
+	line "bepaalde situaties! Om een Pokémon"
+	line "Terug te Trekken heb je Energie-"
+	line "kaarten nodig."
+	line "Dodrio's Terugtrekhulp verlaagt de"
+	line "hoeveelheid Energie die nodig is"
+	line "om Terug te Trekken. Als je op tijd"
+	line "Terugtrekt, worden je Pokémon niet"
+	line "Uitgeschakeld!"
 	done
 
 FightingPokemonBookName:
-	text "Fighting Pokémon"
+	text "Vecht-Pokémon"
 	done
 
 FightingPokemonBookText:
-	text "Fighting Pokémon Characteristics:"
-	line " - Need <FIGHTING> Energy to attack"
-	line " - Strong against <LIGHTNING> or <COLORLESS> Pokémon"
-	line " - Weak against <PSYCHIC> Pokémon"
-	line " - Many Pokémon have a Resistance"
-	line "   to Fighting Pokémon"
+	text "Vecht-Pokémon-eigenschappen:"
+	line " - Gebruiken <FIGHTING> Energie voor aanvallen"
+	line " - Sterk tegen <LIGHTNING> of <COLORLESS> Pokémon"
+	line " - Zwak tegen <PSYCHIC> Pokémon"
+	line " - Veel Pokémon hebben een"
+	line "   Weerstand tegen Vecht-Pokémon"
 	done
 
 FightingPokemonAndCombosBookName:
-	text "Fighting Pokémon and Combos"
+	text "Vecht-Pokémon en Combo's"
 	done
 
 FightingPokemonAndCombosBookText:
-	text "It is difficult to create combos"
-	line "with a Fighting Pokémon, since"
-	line "not many Fighting Pokémon have"
-	line "Pokémon Powers. However, their"
-	line "strong attacks make up for this."
+	text "Het is moeilijk om combo's te maken"
+	line "met een Vecht-Pokémon, omdat er niet"
+	line "veel Vecht-Pokémon zijn met Pokémon-"
+	line "Krachten. Maar hun sterke aanvallen"
+	line "compenseren dit."
 	done
 
 DoubleColorlessEnergyBookName:
-	text "Double Colorless Energy"
+	text "Dubbele Kleurloze Energie"
 	done
 
 DoubleColorlessEnergyBookText:
-	text "Double Colorless Energy is a"
-	line "very useful card. By using this"
-	line "single card, you are able to"
-	line "attach 2 Energies at once."
-	line "But be careful because the"
-	line "Energy is <COLORLESS>."
+	text "Dubbele Kleurloze Energie is een"
+	line "erg nuttige kaart. Door maar een"
+	line "enkele kaart te gebruiken kan je"
+	line "2 Energie in één keer toevoegen."
+	line "Maar wees voorzichtig want de"
+	line "Energie is <COLORLESS>."
 	done
 
 RockPokemonBookName:
-	text "Rock Pokémon"
+	text "Steen-Pokémon"
 	done
 
 RockPokemonBookText:
-	text "Rock Pokémon Characteristics:"
-	line " - Need <FIGHTING> Energy to attack"
-	line " - Strong against <LIGHTNING> or <COLORLESS> Pokémon"
-	line " - Weak against <GRASS> Pokémon"
-	line " - Many Pokémon have a Resistance"
-	line "   to Rock Pokémon"
+	text "Steen-Pokémon-eigenschappen:"
+	line " - Gebruiken <FIGHTING> Energie voor aanvallen"
+	line " - Sterk tegen <LIGHTNING> of <COLORLESS> Pokémon"
+	line " - Zwak tegen <GRASS> Pokémon"
+	line " - Veel Pokémon hebben een"
+	line "   Weerstand tegen Steen-Pokémon"
 	done
 
 WinningWithFightingPokemonBookName:
-	text "Winning with Fighting Pokémon"
+	text "Winnen met Vecht-Pokémon"
 	done
 
 WinningWithFightingPokemonBookText:
-	text "Fighting Pokémon will have a hard"
-	line "time against Stage 2 Pokémon,"
-	line "as many Stage 2 Pokémon have a"
-	line "Resistance to Fighting Pokémon."
-	line "Try to Knock Out your opponent's"
-	line "Pokémon before they evolve."
+	text "Vecht-Pokémon zullen het moeilijk"
+	line "krijgen tegen Fase-2-Pokémon,"
+	line "aangezien veel Fase-2-Pokémon een"
+	line "Weerstand hebben tegen Vecht-"
+	line "Pokémon."
+	line "Probeer je tegenstander's Pokémon"
+	line "Uit te Schakelen voordat ze"
+	line "Evolueren."
 	done
 
 BasicPokemonBookName:
-	text "Basic Pokémon"
+	text "Basis-Pokémon"
 	done
 
 BasicPokemonBookText:
@@ -147,9 +154,9 @@ WaterPokemonBookName:
 
 WaterPokemonBookText:
 	text "Water Pokémon Characteristics:"
-	line " - Need <WATER> Energy to attack"
-	line " - Strong against <FIRE> Pokémon"
-	line " - Weak against <LIGHTNING> or <GRASS> Pokémon"
+	line " - Gebruiken <WATER> Energie voor aanvallen"
+	line " - Sterk tegen <FIRE> Pokémon"
+	line " - Zwak tegen <LIGHTNING> of <GRASS> Pokémon"
 	done
 
 WaterPokemonAttacksBookName:
@@ -186,9 +193,9 @@ LightningPokemonBookName:
 
 LightningPokemonBookText:
 	text "Lightning Pokémon Characteristics:"
-	line " - Need <LIGHTNING> Energy to attack"
-	line " - Strong against <WATER> or <COLORLESS> Pokémon"
-	line " - Weak against <FIGHTING> Pokémon"
+	line " - Gebruiken <LIGHTNING> Energie voor aanvallen"
+	line " - Sterk tegen <WATER> of <COLORLESS> Pokémon"
+	line " - Zwak tegen <FIGHTING> Pokémon"
 	done
 
 EnergyCardsBookName:
@@ -227,9 +234,9 @@ GrassPokemonBookName:
 
 GrassPokemonBookText:
 	text "Grass Pokémon Characteristics:"
-	line " - Need <GRASS> Energy to attack"
-	line " - Strong against <FIGHTING> or <WATER> Pokémon"
-	line " - Weak against <FIRE> Pokémon"
+	line " - Gebruiken <GRASS> Energie voor aanvallen"
+	line " - Sterk tegen <FIGHTING> of <WATER> Pokémon"
+	line " - Zwak tegen <FIRE> Pokémon"
 	done
 
 PoisonBookName:
@@ -266,9 +273,9 @@ PsychicPokemonBookName:
 
 PsychicPokemonBookText:
 	text "Psychic Pokémon Characteristics:"
-	line " - Need <PSYCHIC> Energy to attack"
-	line " - Strong against <GRASS>, <PSYCHIC>, and <FIGHTING>"
-	line " - Weak against <PSYCHIC> Pokémon"
+	line " - Gebruiken <PSYCHIC> Energie voor aanvallen"
+	line " - Sterk tegen <GRASS>, <PSYCHIC>, and <FIGHTING>"
+	line " - Zwak tegen <PSYCHIC> Pokémon"
 	line " - Many Colorless Pokémon have a"
 	line "   Resistance to Psychic Pokémon"
 	done
@@ -308,10 +315,10 @@ ScienceClubPokemonBookName:
 ScienceClubPokemonBookText:
 	text "Characteristics of Pokémon used"
 	line "in the Science Club:"
-	line " - Need <GRASS> Energy to attack"
+	line " - Gebruiken <GRASS> Energie voor aanvallen"
 	line " - Make the Defending Pokémon <POISONED>"
-	line " - Strong against <FIGHTING> or <WATER> Pokémon"
-	line " - Weak against <PSYCHIC> Pokémon"
+	line " - Sterk tegen <FIGHTING> of <WATER> Pokémon"
+	line " - Zwak tegen <PSYCHIC> Pokémon"
 	done
 
 ConfusionBookName:
@@ -352,9 +359,9 @@ FirePokemonBookName:
 
 FirePokemonBookText:
 	text "Fire Pokémon Characteristics:"
-	line " - Need <FIRE> Energy to attack"
-	line " - Strong against <GRASS> Pokémon"
-	line " - Weak against <WATER> Pokémon"
+	line " - Gebruiken <FIRE> Energie voor aanvallen"
+	line " - Sterk tegen <GRASS> Pokémon"
+	line " - Zwak tegen <WATER> Pokémon"
 	done
 
 FirePokemonAttacksBookName:

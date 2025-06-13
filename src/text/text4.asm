@@ -1031,7 +1031,7 @@ Mail10Part1Text:
 Mail11Part1Text:
 	text "Heb je geprobeerd om je eigen deck"
 	line "te bouwen? Deze keer zal ik je wat"
-	line "tips geven over de Types en het"
+	line "tips geven over de types en het"
 	line "aantal kaarten die je in je deck"
 	line "moet stoppen. Als je 3 van een"
 	line "Basis-Pokémonkaart hebt, is het"
@@ -1045,7 +1045,7 @@ Mail11Part1Text:
 	line "Pokémon en rond de 20 Energiekaarten"
 	line "in je deck te hebben. Welke Energie-"
 	line "kaarten je nodig hebt hangt af van"
-	line "het Type Pokémon in het deck."
+	line "het type Pokémon in het deck."
 	line "Misschien kun je eens een kijkje"
 	line "nemen in de decks van de Deck-"
 	line "machines voor hints."
