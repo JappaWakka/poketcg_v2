@@ -136,167 +136,178 @@ BasicPokemonBookName:
 	done
 
 BasicPokemonBookText:
-	text "Basic Pokémon are a must in the"
-	line "Pokémon Trading Card Game!"
-	line "Basic Pokémon are the only Pokémon"
-	line "you can put directly into play"
-	line "from your hand. Stage 1 and Stage 2"
-	line "Evolution cards cannot be used"
-	line "without having first put a"
-	line "Basic Pokémon into play."
-	line "Make sure you have enough"
-	line "Basic Pokémon in your deck!"
+	text "Basis-Pokémon zijn onmisbaar in"
+	line "het Pokémon Ruilkaartspel!"
+	line "Basis-Pokémon zijn de enige"
+	line "Pokémon die je direct in het spel"
+	line "kunt brengen uit je hand. Fase-1-"
+	line "en Fase-2-Evolutiekaarten kunnen"
+	line "niet gebruikt worden zonder eerst"
+	line "een Basis-Pokémon in het spel te"
+	line "brengen. Zorg ervoor dat er genoeg"
+	line "Basis-Pokémon in je deck zitten!"
 	done
 
 WaterPokemonBookName:
-	text "Water Pokémon"
+	text "Water-Pokémon"
 	done
 
 WaterPokemonBookText:
-	text "Water Pokémon Characteristics:"
+	text "Water-Pokémon-eigenschappen:"
 	line " - Gebruiken <WATER> Energie voor aanvallen"
 	line " - Sterk tegen <FIRE> Pokémon"
 	line " - Zwak tegen <LIGHTNING> of <GRASS> Pokémon"
 	done
 
 WaterPokemonAttacksBookName:
-	text "Water Pokémon Attacks"
+	text "Water-Pokémon-aanvallen"
 	done
 
 WaterPokemonAttacksBookText:
-	text "Water Gun and Hydro Pump are"
-	line "attacks which have variable damage."
-	line "The more Water Energy you attach,"
-	line "the more powerful the attack will be"
-	line "The attack can do up to 20 more"
-	line "damage in this way."
+	text "Waterpistool en Hydropomp zijn"
+	line "aanvallen met een variabele hoeveel-"
+	line "heid schade. Hoe meer Water-Energie"
+	line "je aanhecht, hoe sterker de aanval"
+	line "zal zijn. De aanval kan ten hoogste"
+	line "20 extra schade doen op deze manier."
 	done
 
 ParalyzeBookName:
-	text "Paralyzed"
+	text "Verlamd"
 	done
 
 ParalyzeBookText:
-	text "If a Pokémon's Paralyzed (<PARALYZED>),"
-	line "it cannot attack, retreat, or use"
-	line "its Pokémon Power; the player may"
-	line "still play cards from their hand."
-	line "This condition lasts until the end"
-	line "of the Paralyzed player's turn."
-	line "Paralyzed Pokemon will also recover"
-	line "with evolution or a Full Heal card."
+	text "Als een Pokémon Verlamd (<PARALYZED>) is,"
+	line "kan hij niet aanvallen, Terugtrekken"
+	line "of zijn Pokémon-Kracht gebruiken; de"
+	line "speler mag nog steeds kaarten uit de"
+	line "hand spelen. Deze Toestand duurt tot"
+	line "het einde van de beurt van de"
+	line "Verlamde Pokémon's eigenaar."
+	line "Verlamde Pokémon herstellen ook door"
+	line "Evolutie of een Volledige Genezing-"
+	line "kaart."
 	done
 
 LightningPokemonBookName:
-	text "Lightning Pokémon"
+	text "Bliksem-Pokémon"
 	done
 
 LightningPokemonBookText:
-	text "Lightning Pokémon Characteristics:"
+	text "Bliksem-Pokémon-eigenschappen:"
 	line " - Gebruiken <LIGHTNING> Energie voor aanvallen"
 	line " - Sterk tegen <WATER> of <COLORLESS> Pokémon"
 	line " - Zwak tegen <FIGHTING> Pokémon"
 	done
 
 EnergyCardsBookName:
-	text "Energy Cards"
+	text "Energiekaarten"
 	done
 
 EnergyCardsBookText:
-	text "There are 6 Basic Energy cards:"
-	line "Grass, Fire, Water, Lightning,"
-	line "Fighting and Psychic! There is also"
-	line "the Double Colorless Energy card."
-	line "You may include as many Energy"
-	line "cards as you like in your deck,"
-	line "but you may only include 4"
-	line "Double Colorless Energy cards."
+	text "Er zijn 6 Basis-Energiekaarten:"
+	line "Gras, Vuur, Water, Bliksem,"
+	line "Vecht en Psychisch! Er is ook de"
+	line "Dubbele Kleurloze Energiekaart."
+	line "Je mag zoveel Energiekaarten in je"
+	line "deck hebben, maar je mag slecht 4"
+	line "Dubbele Kleurloze Energiekaarten"
+	line "toevoegen aan je deck."
 	done
 
 CardPopBookName:
-	text "Card Pop!"
+	text "Kaart Flits!"
 	done
 
 CardPopBookText:
-	text "When you and a friend Card Pop!,"
-	line "you will each receive a new card."
-	line "After you Pop! with a friend, you"
-	line "won't be able to Pop! with the same"
-	line "friend for a while. You always get"
-	line "the same card when you Pop! with"
-	line "the same friend, so Pop! with many"
-	line "friends to get different cards!"
+	text "Wanneer jij en een vriend een Kaart"
+	line "Flits! doen, zullen jullie allebei"
+	line "een nieuwe kaart ontvangen."
+	line "Nadat je een Kaart Flits! gedaan"
+	line "hebt met een vriend, zul je dat niet"
+	line "opnieuw kunnen doen met dezelfde"
+	line "vriend voor een bepaalde tijd. Je"
+	line "krijgt altijd dezelfde kaart als je"
+	line "een Kaart Flits! doet met dezelfde"
+	line "vriend, dus Flits! met veel vrienden"
+	line "om verschillende kaarten te krijgen!"
 	done
 
 GrassPokemonBookName:
-	text "Grass Pokémon"
+	text "Gras-Pokémon"
 	done
 
 GrassPokemonBookText:
-	text "Grass Pokémon Characteristics:"
+	text "Gras-Pokémon-eigenschappen:"
 	line " - Gebruiken <GRASS> Energie voor aanvallen"
 	line " - Sterk tegen <FIGHTING> of <WATER> Pokémon"
 	line " - Zwak tegen <FIRE> Pokémon"
 	done
 
 PoisonBookName:
-	text "Poisoned"
+	text "Vergiftigd"
 	done
 
 PoisonBookText:
-	text "If a Pokémon is Poisoned (<POISONED>),"
-	line "it will continue to lose HP."
-	line "The Poisoned Pokémon will lose"
-	line "10 HP at the end of each turn."
-	line "A Pokémon is no longer Poisoned if"
-	line "it evolves or retreats to the Bench."
-	line "Using a Full Heal card can also"
-	line "remove the condition."
+	text "Als een Pokémon Vergiftigd (<POISONED>) is,"
+	line "zal het steeds IP blijven verliezen."
+	line "De Vergiftigde Pokémon zal 10 IP"
+	line "verliezen aan het eind van elke"
+	line "beurt. Een Pokémon is niet langer"
+	line "Vergiftigd als hij Evolueert of"
+	line "Teruggetrokken wordt naar de Bank."
+	line "Door een Volledige Genezing-kaart"
+	line "te gebruiken van de Toestand ook"
+	line "verwijderd worden."
 	done
 
 GrassPokemonPokemonBreederBookName:
-	text "Grass Pokémon & Pokémon Breeder"
+	text "Gras-Pokémon & Pokémon-Kweker"
 	done
 
 GrassPokemonPokemonBreederBookText:
-	text "Many Grass Pokémon are capable of"
-	line "evolving to a Stage 2 Pokémon."
-	line "Use the Trainer card, Pokémon"
-	line "Breeder, to evolve Pokémon quickly."
-	line "You'll be able to use powerful"
-	line "attacks earlier in the game."
+	text "Veel Gras-Pokémon zijn in staat te"
+	line "Evolueren in een Fase-2-Pokémon."
+	line "Gebruik de Trainerkaart Pokémon-"
+	line "Kweker om Pokémon snel te Evolueren."
+	line "Op die manier kun je krachtige aan-"
+	line "vallen eerder in het spel gebruiken."
 	done
 
 PsychicPokemonBookName:
-	text "Psychic Pokémon"
+	text "Psychische Pokémon"
 	done
 
 PsychicPokemonBookText:
-	text "Psychic Pokémon Characteristics:"
+	text "Psychische Pokémon-eigenschappen:"
 	line " - Gebruiken <PSYCHIC> Energie voor aanvallen"
-	line " - Sterk tegen <GRASS>, <PSYCHIC>, and <FIGHTING>"
+	line " - Sterk tegen <GRASS>, <PSYCHIC>, en <FIGHTING>"
 	line " - Zwak tegen <PSYCHIC> Pokémon"
-	line " - Many Colorless Pokémon have a"
-	line "   Resistance to Psychic Pokémon"
+	line " - Veel Kleurloze Pokémon hebben"
+	line "   een Weerstand tegen Psychische"
+	line "   Pokémon"
 	done
 
 SleepBookName:
-	text "Asleep"
+	text "In Slaap"
 	done
 
 SleepBookText:
-	text "If a Pokémon is Asleep (<ASLEEP>),"
-	line "it cannot attack, retreat, or use"
-	line "its Pokémon Power. Flip a coin for"
-	line "that Pokémon after every turn."
-	line "If heads, the Pokémon will wake up."
-	line "If tails, the Pokémon stays Asleep."
-	line "You can also evolve the Pokémon or"
-	line "use a Full Heal card to wake it up!"
+	text "Als een Pokémon In Slaap (<ASLEEP>) is,"
+	line "kan hij niet aanvallen, Terug-"
+	line "trekken, of zijn Pokémon-Kracht"
+	line "gebruiken. Gooi een munt op voor"
+	line "deze Pokémon aan het eind van elke"
+	line "beurt. Als het kop is, zal de"
+	line "Pokémon wakker worden. Als het munt"
+	line "is, blijft de Pokémon In Slaap."
+	line "Je kunt de Pokémon ook Evolueren"
+	line "of een Volledige Genezing-kaart"
+	line "gebruiken om hem wakker te maken!"
 	done
 
 PokemonPowerBookName:
-	text "Pokémon Powers"
+	text "Pokémon-Krachten"
 	done
 
 PokemonPowerBookText:
@@ -354,11 +365,11 @@ UsefulButtonsBookText:
 	done
 
 FirePokemonBookName:
-	text "Fire Pokémon"
+	text "Vuur-Pokémon"
 	done
 
 FirePokemonBookText:
-	text "Fire Pokémon Characteristics:"
+	text "Vuur-Pokémon-eigenschappen:"
 	line " - Gebruiken <FIRE> Energie voor aanvallen"
 	line " - Sterk tegen <GRASS> Pokémon"
 	line " - Zwak tegen <WATER> Pokémon"
