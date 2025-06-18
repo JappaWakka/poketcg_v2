@@ -311,57 +311,58 @@ PokemonPowerBookName:
 	done
 
 PokemonPowerBookText:
-	text "Some Pokémon have special abilities"
-	line "called Pokémon Powers. They can be"
-	line "used before attacking, even when the"
-	line "Pokémon is on the Bench. There are"
-	line "many different Pokémon Powers,"
-	line "so read your cards carefully!"
+	text "Sommige Pokémon hebben speciale"
+	line "vaardigheden die Pokémon-Krachten"
+	line "heten. Ze kunnen gebruikt worden"
+	line "vóór het aanvallen, zelfs wanneer"
+	line "de Pokémon op de Bank zit. Er zijn"
+	line "veel verschillende Pokémon-Krachten,"
+	line "dus lees je kaarten zorgvuldig!"
 	done
 
 ScienceClubPokemonBookName:
-	text "Science Club Pokémon"
+	text "Wetenschap-Club-Pokémon"
 	done
 
 ScienceClubPokemonBookText:
-	text "Characteristics of Pokémon used"
-	line "in the Science Club:"
+	text "Eigenschappen van Pokémon die ge-"
+	line "bruikt worden in de Wetenschap-Club:"
 	line " - Gebruiken <GRASS> Energie voor aanvallen"
-	line " - Make the Defending Pokémon <POISONED>"
+	line " - Maken de Verdedigende Pokémon <POISONED>"
 	line " - Sterk tegen <FIGHTING> of <WATER> Pokémon"
 	line " - Zwak tegen <PSYCHIC> Pokémon"
 	done
 
 ConfusionBookName:
-	text "Confused"
+	text "Verward"
 	done
 
 ConfusionBookText:
-	text "It's big trouble if your Pokémon"
-	line "becomes Confused (<CONFUSED>). If that"
-	line "Pokémon tries to attack, you must"
-	line "flip a coin! If it's heads, then"
-	line "the attack is successful, but if"
-	line "it's tails, then the attack fails,"
-	line "and the Pokémon will deal 20 damage"
-	line "to itself instead!"
+	text "Je zit flink in de problemen als je"
+	line "Pokémon Verward (<CONFUSED>) worden."
+	line "Als die Pokémon probeert aan te"
+	line "vallen, moet je een munt opgooien!"
+	line "Als het kop is, is de aanval gelukt,"
+	line "maar als het munt is, mislukt de"
+	line "aanval en doet de Pokémon in plaats"
+	line "daarvan 20 schade aan zichzelf!"
 	done
 
 UsefulButtonsBookName:
-	text "Duel Shortcuts"
+	text "Duel-Sneltoetsen"
 	done
 
 UsefulButtonsBookText:
-	text "While pressing the B Button,"
-	line "use the + Control Pad to view"
-	line "your own or your opponent's"
-	line "Play Area or Discard Pile!"
-	line "B + Down = Your Play Area"
-	line "B + Left = Your Discard Pile"
-	line "B + Up = Opponent's Play Area"
-	line "B + Right = Opponent's Discard Pile"
-	line "Try to remember all of these"
-	line "handy shortcuts!"
+	text "Terwijl je de B Knop indrukt, kun je"
+	line "de + Richtingsknoppen gebruiken om"
+	line "je eigen of je tegenstander's Speel-"
+	line "veld of Weggooistapel te bekijken!"
+	line "B + Onder = Jouw Speelveld"
+	line "B + Links = Jouw Weggooistapel"
+	line "B + Boven = Hun Speelveld"
+	line "B + Rechts = Hun Weggooistapel"
+	line "Probeer al deze handige sneltoetsen"
+	line "te onthouden!"
 	done
 
 FirePokemonBookName:
@@ -376,72 +377,75 @@ FirePokemonBookText:
 	done
 
 FirePokemonAttacksBookName:
-	text "Fire Pokémon Attacks"
+	text "Vuur-Pokémon-aanvallen"
 	done
 
 FirePokemonAttacksBookText:
-	text "Many Fire Pokémon attacks require"
-	line "that an Energy card be removed."
-	line "Be sure to include many Energy"
-	line "cards in decks with Fire Pokémon."
-	line "It might be wise to also include"
-	line "Energy Retrieval in your deck."
+	text "Voor veel aanvallen van Vuur-"
+	line "Pokémon moet je een Energiekaart"
+	line "verwijderen. Dus zorg ervoor dat"
+	line "er veel Energiekaarten in decks"
+	line "met Vuur-Pokémon zitten. Het is"
+	line "misschien ook wijs om een Energie"
+	line "Ophalen toe te voegen aan je deck."
 	done
 
 OriginalGameBoyCardsBookName:
-	text "Original Game Boy Cards"
+	text "Originele Game Boy-kaarten"
 	done
 
 OriginalGameBoyCardsBookText:
-	text "The Pokémon Trading Card Game for"
-	line "the Game Boy includes many original"
-	line "cards, like the <Lv>14 Meowth card"
-	line "that uses the Cat Punch attack."
-	line "There are many new cards to"
-	line "discover, so go search them out!"
+	text "Het Pokémon Ruilkaartspel voor de"
+	line "Game Boy bevat veel originele"
+	line "kaarten zoals de <Lv>14 Meowth-kaart"
+	line "die de Kattenmep-aanval gebruikt."
+	line "Er zijn veel nieuwe kaarten om te"
+	line "ontdekken, dus ga naar ze op zoek!"
 	done
 
 ColorlessPokemonBookName:
-	text "Colorless Pokémon"
+	text "Kleurloze Pokémon"
 	done
 
 ColorlessPokemonBookText:
-	text "Colorless Pokémon are very easy"
-	line "to use. They can attack with"
-	line "any type of Energy card, so"
-	line "you can include them in any type"
-	line "of deck. There are many Colorless"
-	line "Pokémon, so check them all out!"
+	text "Kleurloze Pokémon zijn erg makkelijk"
+	line "om te gebruiken. Ze kunnen aanvallen"
+	line "met elk type Energiekaart, dus je"
+	line "kunt ze in elk soort deck stoppen."
+	line "Er zijn veel Kleurloze Pokémon dus"
+	line "ga ze allemaal opzoeken!"
 	done
 
 DragonPokemonBookName:
-	text "Dragon Pokémon"
+	text "Draak-Pokémon"
 	done
 
 DragonPokemonBookText:
-	text "Colorless Dragon Pokémon do not"
-	line "typically have a Weakness, but they"
-	line "do have a Resistance. They can also"
-	line "attack with any type of Energy card."
-	line "All of these characteristics make"
-	line "them worthy of the name ”dragon!”"
+	text "Kleurloze Draak-Pokémon hebben"
+	line "gewoonlijk geen Zwakte, maar ze"
+	line "hebben wel een Weerstand."
+	line "Ze kunnen ook aanvallen met elk"
+	line "type Energiekaart. Door al deze"
+	line "eigenschappen zijn ze het waard"
+	line "om ”draken” genoemd te worden!"
 	done
 
 BirdPokemonBookName:
-	text "Bird Pokémon"
+	text "Vogel-Pokémon"
 	done
 
 BirdPokemonBookText:
-	text "Colorless Bird Pokémon often have a"
-	line "Weakness to <LIGHTNING>, but they"
-	line "also have a Resistance to <FIGHTING>."
-	line "They can attack using any type of"
-	line "Energy. Since Bird Pokémon can fly,"
-	line "they have little to no retreat cost."
+	text "Kleurloze Vogel-Pokémon hebben vaak"
+	line "een Zwakte voor <LIGHTNING>, maar ze"
+	line "hebben ook een Weerstand tegen <FIGHTING>."
+	line "Ze kunnen aanvallen met elk type"
+	line "Energie. Aangezien Vogel-Pokémon"
+	line "kunnen vliegen, hebben ze weinig"
+	line "tot geen Terugtrekkingskosten."
 	done
 
 LegendaryPokemonCardsVol1BookName:
-	text "Legendary Pokémon Cards, Vol. 1"
+	text "Legendarische Pokémonkaarten, Deel 1"
 	done
 
 LegendaryPokemonCardsVol1BookText:

@@ -230,7 +230,7 @@ FlyDescriptionCont:
 
 FlyingPikachuDescription:
 	text "Door te leren hoe hij moest vliegen,"
-	line "overkwam Pikachu zijn zwakte tegen"
+	line "overkwam Pikachu zijn zwakte voor"
 	line "Vecht Pokémon."
 	done
 
