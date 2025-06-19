@@ -555,7 +555,7 @@ MysteriousVoiceDoorName:
 
 Clerk9DefaultText:
 	text "Hallo! Welkom bij de Toernooihal!"
-	line "De Toernooiwedstrijden beginnen"
+	line "Het Uitdagingstoernooi begint"
 	line "binnenkort. Als je het Toernooi"
 	line "wint, ontvang je een Promokaart!"
 	line "We hopen dat je deelneemt aan"
@@ -564,11 +564,11 @@ Clerk9DefaultText:
 
 Clerk9ChallengeCupOverText:
 	text "Hallo! Welkom bij de Toernooihal!"
-	line "Dit is waar de Toernooiwedstrijden"
-	line "worden gehouden. De Toernooi-"
-	line "wedstrijden kunnen op elk gewenst"
-	line "moment beginnen, dus bezoek de"
-	line "Toernooihal vaak."
+	line "Dit is waar het Uitdagingstoernooi"
+	line "wordt gehouden. Het Uitdagings-"
+	line "toernooi kan op elk moment begonnen"
+	line "worden, dus bezoek regelmatig de"
+	line "Toernooihal."
 	done
 
 Clerk9ChallengeCupReadyText:
@@ -590,19 +590,19 @@ Clerk9ChallengeCupLostText:
 Clerk9ChallengeCupWonText:
 	text "Gefeliciteerd, <RAMNAME>!"
 	line "Je ontvangt een kaart!"
-	line "We hopen dat je ook aan ons"
-	line "volgende Toernooi deelneemt."
+	line "We hopen dat je ook aan ons volgende"
+	line "Uitdagingstoernooi deelneemt."
 	done
 
 Pappy3Text:
 	text "Ik zal van geen enkele snotneus"
 	line "verliezen!"
-	line "Ik ga dit Toernooi winnen!"
+	line "Ik ga dit Uitdagingstoernooi winnen!"
 	done
 
 Gal4Text:
-	text "Ik werk bij het Toernooi als"
-	line "gastvrouw."
+	text "Ik werk bij het Uitdagingstoernooi"
+	line "als gastvrouw."
 	line "Ik kan niet wachten om op het"
 	line "podium te staan!"
 	done
@@ -610,8 +610,8 @@ Gal4Text:
 ChampText:
 	text "Het is tijd om te zien of al mijn"
 	line "training heeft geloond!"
-	line "Ik ga het Toernooi winnen en een"
-	line "Grootmeester worden!"
+	line "Ik ga het Uitdagingstoernooi winnen"
+	line "en een Grootmeester worden!"
 	done
 
 Hood2Text:
@@ -623,9 +623,9 @@ Hood2Text:
 
 Lass5Text:
 	text "Ik ben goed genoeg om deel te nemen"
-	line "aan het Toernooi! Meiden zijn net"
-	line "zo goed in het Pokémon Ruilkaartspel"
-	line "als jongens!"
+	line "aan het Uitdagingstoernooi! Meiden"
+	line "zijn net zo goed in het Pokémon"
+	line "Ruilkaartspel als jongens!"
 	done
 
 Chap5Text:
@@ -636,22 +636,22 @@ Chap5Text:
 	done
 
 RonaldChallengeCup1NotStarted1Text:
-	text "Hoi, <RAMNAME>."
-	line "Doe jij ook mee aan het toernooi?"
+	text "Hoi, <RAMNAME>. Doe jij ook"
+	line "mee aan het Uitdagingstoernooi?"
 	done
 
 RonaldChallengeCup1NotStarted2Text:
-	text "Ik ben degene die alle 3 de tegen-"
-	line "standers gaat verslaan!"
+	text "Ik ben degene die alle 3 de"
+	line "tegenstanders gaat verslaan!"
 	line "De kostbare <Lv>60 Mewtwo-kaart"
 	line "is van mij! Wacht maar af en kijk"
-	line "maar hoe ik win! Doei!"
+	line "maar hoe ik win! Tot ziens!"
 	line "Ha ha ha ha ha ha!"
 	done
 
 RonaldChallengeCup1LostActive1Text:
-	text "Hé, het is <RAMNAME> - de"
-	line "verliezer van het Toernooi!"
+	text "Hé, het is <RAMNAME> - de ver-"
+	line "liezer van het Uitdagingstoernooi!"
 	done
 
 RonaldChallengeCup1LostActive2Text:
@@ -661,7 +661,7 @@ RonaldChallengeCup1LostActive2Text:
 	line "Maar het volgende Toernooi zal ik"
 	line "winnen! En ik zal je natuurlijk"
 	line "in de pan hakken!"
-	line "Doei! Ha ha ha ha ha ha!"
+	line "Tot ziens! Ha ha ha ha ha ha!"
 	done
 
 RonaldChallengeCup1LostInactive1Text:
@@ -670,10 +670,10 @@ RonaldChallengeCup1LostInactive1Text:
 	done
 
 RonaldChallengeCup1LostInactive2Text:
-	text "Het Toernooi is voorbij!"
+	text "Het Uitdagingstoernooi is voorbij!"
 	line "Ik versloeg 3 tegenstanders en won"
 	line "de prijs - een <Lv>60 Mewtwo!"
-	line "Doei! Ha ha ha ha ha ha!"
+	line "Tot ziens! Ha ha ha ha ha ha!"
 	done
 
 RonaldChallengeCup1Missed1Text:
@@ -682,13 +682,13 @@ RonaldChallengeCup1Missed1Text:
 	done
 
 RonaldChallengeCup1Missed2Text:
-	text "Het Toernooi is voorbij!"
+	text "Het Uitdagingstoernooi is voorbij!"
 	line "Ik versloeg 3 tegenstanders en won"
 	line "de prijs - een <Lv>60 Mewtwo!"
 	line "Je zou kunnen proberen mee te doen"
 	line "aan het volgende Toernooi, maar je"
 	line "maakt geen kans want die win ik ook!"
-	line "Doei! Ha ha ha ha ha ha!"
+	line "Tot ziens! Ha ha ha ha ha ha!"
 	done
 
 RonaldChallengeCup2NotStarted1Text:
@@ -698,17 +698,17 @@ RonaldChallengeCup2NotStarted1Text:
 
 RonaldChallengeCup2NotStarted2Text:
 	text "Het maakt niet uit wie er meedoet"
-	line "aan het Toernooi, ik zal de winnaar"
-	line "zijn! De prijs van dit Toernooi, de"
-	line "<Lv>8 Mew, zal van mij zijn!"
-	line "Waarom geef je het niet op en ga"
-	line "je naar huis!"
-	line "See ya! Ha ha ha ha ha ha!"
+	line "aan het Uitdagingstoernooi, ik zal"
+	line "de winnaar zijn! De prijs van dit"
+	line "Toernooi, de <Lv>8 Mew, zal van"
+	line "mij zijn! Waarom geef je het niet"
+	line "op en ga je naar huis?!"
+	line "Tot ziens! Ha ha ha ha ha ha!"
 	done
 
 RonaldChallengeCup2LostActive1Text:
-	text "Hé, het is <RAMNAME> - de"
-	line "verliezer van het Toernooi!"
+	text "Hé, het is <RAMNAME> - de ver-"
+	line "liezer van het Uitdagingstoernooi!"
 	done
 
 RonaldChallengeCup2LostActive2Text:
@@ -717,7 +717,7 @@ RonaldChallengeCup2LostActive2Text:
 	line "stander! Maar het volgende Toernooi"
 	line "zal ik winnen! En ik zal je natuur-"
 	line "lijk in de pan hakken!"
-	line "Doei! Ha ha ha ha ha!"
+	line "Tot ziens! Ha ha ha ha ha!"
 	done
 
 RonaldChallengeCup2LostInactive1Text:
@@ -730,8 +730,8 @@ RonaldChallengeCup2LostInactive2Text:
 	line "Wat? Wie heeft er gewonnen?"
 	line "Wie denk je nou zelf!?! Ik,"
 	line "natuurlijk! De prijs is van"
-	line "mij! <Lv>8 Mew! Doei!"
-	line "Ha ha ha ha ha ha!"
+	line "mij! <Lv>8 Mew!"
+	line "Tot ziens! Ha ha ha ha ha ha!"
 	done
 
 RonaldChallengeCup2Missed1Text:
@@ -740,76 +740,80 @@ RonaldChallengeCup2Missed1Text:
 	done
 	
 RonaldChallengeCup2Missed2Text:
-	text "The Challenge Cup is already over!"
-	line "Too bad you couldn't enter!"
-	line "The <Lv>8 Mew prize belongs to me!"
-	line "You really should enter the next"
-	line "Challenge Cup! But then again,"
-	line "why bother, since I'll also win"
-	line "that one, too! See ya!"
-	line "Ha ha ha ha ha ha!"
+	text "Het Uitdagingstoernooi is voorbij!"
+	line "Jammer dat je niet kon deelnemen!"
+	line "De <Lv>8 Mew-prijs is van mij!"
+	line "Je moet echt meedoen aan het"
+	line "volgende Toernooi! Aan de andere"
+	line "kant, waarom zou je ook, aangezien"
+	line "ik die ook zal winnen!"
+	line "Tot ziens! Ha ha ha ha ha ha!"
 	done
 
 Clerk13Text:
-	text "We do not accept entrants at"
-	line "this reception area."
-	line "Please go to the reception area"
-	line "to the left."
+	text "We accepteren geen deelnemers bij"
+	line "deze receptie."
+	line "Je moet bij de receptie aan de"
+	line "linkerkant zijn."
 	done
 
 GuideChallengeCupActiveText:
-	text "You can't go past this point!"
-	line "It's restricted!"
+	text "Je mag niet verder dan hier!"
+	line "De toegang is beperkt!"
 	done
 
 GuideChallengeCupOverText:
-	text "The last Challenge Cup was a blast!"
-	line "The prize was really cool too!"
-	line "Challenge Cups are the best!"
-	line "I wonder when the next one will be?"
+	text "Het laatste Uitdagingstoernooi was"
+	line "een knaller!"
+	line "De prijs was ook heel erg cool!"
+	line "Uitdagingstoernooien zijn de beste!"
+	line "Ik vraag me af wanneer de"
+	line "volgende zal beginnen."
 	done
 
 GuideChallengeCupPreparingText:
-	text "The Challenge Cup is held here,"
-	line "at the Challenge Hall."
-	line "We're still preparing for the"
-	line "next Challenge Cup."
-	line "Please visit us another time."
+	text "Het Uitdagingstoernooi wordt hier"
+	line "gehouden, bij de Toernooihal."
+	line "We zijn nog steeds het volgende"
+	line "Uitdagingstoernooi aan het voor-"
+	line "bereiden. Kom een andere keer"
+	line "weer terug."
 	done
 
 Clerk12ChallengeCupWonText:
-	text "Someone who entered a Challenge"
-	line "Cup once cannot re-enter the"
-	line "same Challenge Cup again. Please"
-	line "wait for the next Challenge Cup."
+	text "Iemand die deelneemt aan het"
+	line "Uitdagingstoernooi kan niet opnieuw"
+	line "aan het zelfde Uitdagingstoernooi"
+	line "deelnemen. Je zult moeten wachten"
+	line "tot het volgende Uitdagingstoernooi."
 	done
 
 Clerk12ChallengeCupLostText:
-	text "Someone who entered a Challenge"
-	line "Cup once cannot re-enter for"
-	line "a while. Please visit us another"
-	line "time."
+	text "Iemand die aan een Uitdagings-"
+	line "toernooi heeft meegedaan kan een"
+	line "tijdje niet opnieuw meedoen."
+	line "Bezoek ons later nog eens."
 	done
 
 Clerk12ChallengeCup1ActiveText:
-	text "The first Challenge Cup is"
-	line "now underway!"
-	line "Defeat 3 opponents to win the"
-	line "wonderful prize, a <Lv>60 Mewtwo!"
+	text "Het eerste Uitdagingstoernooi is"
+	line "van start gegaan! Versla 3"
+	line "tegenstanders om de waanzinnige"
+	line "prijs te winnen, een <Lv>60 Mewtwo!"
 	done
 
 Clerk12ChallengeCup2ActiveText:
-	text "The second Challenge Cup is"
-	line "now under way!"
-	line "Defeat 3 opponents to win the"
-	line "wonderful prize, a <Lv>8 Mew!"
+	text "Het tweede Uitdagingstoernooi is"
+	line "van start gegaan! Versla 3"
+	line "tegenstanders om de waanzinnige"
+	line "prijs te winnen, een <Lv>8 Mew!"
 	done
 
 Clerk12ChallengeCup3ActiveText:
-	text "The Challenge Cup is now"
-	line "underway!"
-	line "Defeat 3 opponents to win a"
-	line "fabulous prize!"
+	text "Het Uitdagingstoernooi is van"
+	line "start gegaan! Versla 3"
+	line "tegenstanders om een geweldige"
+	line "prijs te winnen!"
 	done
 
 Clerk12ChallengeCupInviteText:
