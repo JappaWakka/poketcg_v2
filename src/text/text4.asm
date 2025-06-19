@@ -610,7 +610,7 @@ LassNPCName:
 	done
 
 PappyNPCName:
-	text "Papa"
+	text "Opa"
 	done
 
 LadNPCName:

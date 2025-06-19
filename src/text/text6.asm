@@ -558,7 +558,8 @@ Clerk9DefaultText:
 	line "De Toernooiwedstrijden beginnen"
 	line "binnenkort. Als je het Toernooi"
 	line "wint, ontvang je een Promokaart!"
-	line "Doe je ook mee met deze wedstrijd?"
+	line "We hopen dat je deelneemt aan"
+	line "deze competitie."
 	done
 
 Clerk9ChallengeCupOverText:
@@ -571,167 +572,171 @@ Clerk9ChallengeCupOverText:
 	done
 
 Clerk9ChallengeCupReadyText:
-	text "Greetings! Welcome to the Challenge"
-	line "Hall! Defeat 3 opponents, and you'll"
-	line "be presented with a wonderful gift!"
-	line "Please join in the competition!"
+	text "Hallo! Welkom bij de Toernooihal!"
+	line "Versla 3 tegenstanders, en je krijgt"
+	line "een prachtig cadeau van ons!"
+	line "We hopen dat je deelneemt aan"
+	line "de competitie!"
 	done
 
 Clerk9ChallengeCupLostText:
-	text "Most unfortunate, <RAMNAME>."
-	line "Once you enter, you won't be able"
-	line "to re-enter for some time."
-	line "Please try again another day."
+	text "Helaas, <RAMNAME>."
+	line "Wanneer je deel hebt genomen, kun"
+	line "je niet opnieuw deelnemen voor een"
+	line "bepaalde tijd."
+	line "Probeer het een andere dag nog eens."
 	done
 
 Clerk9ChallengeCupWonText:
-	text "Congratulations, <RAMNAME>!"
-	line "You received a card!"
-	line "Please join us for the next"
-	line "Challenge Cup, too."
+	text "Gefeliciteerd, <RAMNAME>!"
+	line "Je ontvangt een kaart!"
+	line "We hopen dat je ook aan ons"
+	line "volgende Toernooi deelneemt."
 	done
 
 Pappy3Text:
-	text "I won't lose to any"
-	line "whipper-snapper!"
-	line "I'm going to win this"
-	line "Challenge Cup!"
+	text "Ik zal van geen enkele snotneus"
+	line "verliezen!"
+	line "Ik ga dit Toernooi winnen!"
 	done
 
 Gal4Text:
-	text "I work at the Challenge Cup"
-	line "as the host."
-	line "I can't wait to get up on stage!"
+	text "Ik werk bij het Toernooi als"
+	line "gastvrouw."
+	line "Ik kan niet wachten om op het"
+	line "podium te staan!"
 	done
 
 ChampText:
-	text "The time has come to see if all"
-	line "my training has paid off!"
-	line "I'm going to win the Challenge Cup"
-	line "and become a Grand Master!"
+	text "Het is tijd om te zien of al mijn"
+	line "training heeft geloond!"
+	line "Ik ga het Toernooi winnen en een"
+	line "Grootmeester worden!"
 	done
 
 Hood2Text:
-	text "Hey now! It's the Challenge Cup!"
-	line "Hey now! Gonna give it a try!"
-	line "Hey now! Gonna beat 3 people!"
-	line "Hey now! Watch me win the prize!"
+	text "Hé daar! Het Toernooi begint!"
+	line "Hé daar! Ik ga de uitdaging aan!"
+	line "Hé daar! Ik ga 3 mensen verslaan!"
+	line "Hé daar! Kijk hoe ik de prijs win!"
 	done
 
 Lass5Text:
-	text "I'm good enough to compete in"
-	line "the Challenge Cup! Girls are just"
-	line "as good at the Pokémon Trading"
-	line "Card Game as boys!"
+	text "Ik ben goed genoeg om deel te nemen"
+	line "aan het Toernooi! Meiden zijn net"
+	line "zo goed in het Pokémon Ruilkaartspel"
+	line "als jongens!"
 	done
 
 Chap5Text:
-	text "What's that? Oh! The Challenge"
-	line "Cup isn't being held right now."
-	line "Me? I'm waiting for the Challenge"
-	line "Cup to begin."
+	text "Wat is er? Oh! Het Toernooi vindt"
+	line "momenteel nog niet plaats."
+	line "Ik? Ik ben gewoon aan het wachten"
+	line "tot het Toernooi begint."
 	done
 
 RonaldChallengeCup1NotStarted1Text:
-	text "Hi, <RAMNAME>."
-	line "Are you competing, too?"
+	text "Hoi, <RAMNAME>."
+	line "Doe jij ook mee aan het toernooi?"
 	done
 
 RonaldChallengeCup1NotStarted2Text:
-	text "I'm the one who's going to"
-	line "defeat all 3 opponents!"
-	line "The prized <Lv>60 Mewtwo card"
-	line "belongs to me! You just sit tight"
-	line "and watch me win! See Ya!"
+	text "Ik ben degene die alle 3 de tegen-"
+	line "standers gaat verslaan!"
+	line "De kostbare <Lv>60 Mewtwo-kaart"
+	line "is van mij! Wacht maar af en kijk"
+	line "maar hoe ik win! Doei!"
 	line "Ha ha ha ha ha ha!"
 	done
 
 RonaldChallengeCup1LostActive1Text:
-	text "Hey, it's <RAMNAME> - the loser"
-	line "of the Challenge Cup!"
+	text "Hé, het is <RAMNAME> - de"
+	line "verliezer van het Toernooi!"
 	done
 
 RonaldChallengeCup1LostActive2Text:
-	text "What? You're asking if I won?"
-	line "I lost to the third opponent!"
-	line "I just lost my concentration. But"
-	line "I'll win the next Challenge Cup!"
-	line "Of course I'll puverize you!"
-	line "See ya! Ha ha ha ha ha ha!"
+	text "Wat? Vraag je me of ik wel won? Ik"
+	line "verloor van mijn derde tegenstander!"
+	line "Ik verloor gewoon mijn concentratie."
+	line "Maar het volgende Toernooi zal ik"
+	line "winnen! En ik zal je natuurlijk"
+	line "in de pan hakken!"
+	line "Doei! Ha ha ha ha ha ha!"
 	done
 
 RonaldChallengeCup1LostInactive1Text:
-	text "Hey <RAMNAME>, too bad"
-	line "you're too late!"
+	text "Hé <RAMNAME>, jammer dat"
+	line "je te laat bent!"
 	done
 
 RonaldChallengeCup1LostInactive2Text:
-	text "The Challenge Cup is over!"
-	line "I defeated 3 opponents and won"
-	line "the prize - a <Lv>60 Mewtwo!"
-	line "See ya! Ha ha ha ha ha ha!"
+	text "Het Toernooi is voorbij!"
+	line "Ik versloeg 3 tegenstanders en won"
+	line "de prijs - een <Lv>60 Mewtwo!"
+	line "Doei! Ha ha ha ha ha ha!"
 	done
 
 RonaldChallengeCup1Missed1Text:
-	text "Hi, <RAMNAME>."
-	line "What are you doing here?"
+	text "Hoi, <RAMNAME>."
+	line "Wat doe jij hier?"
 	done
 
 RonaldChallengeCup1Missed2Text:
-	text "The Challenge Cup is over!"
-	line "I defeated 3 opponents and won"
-	line "the prize - a <Lv>60 Mewtwo!"
-	line "I guess you could try entering"
-	line "the next Challenge Cup, but"
-	line "you won't have a chance since"
-	line "I'll win that one, too!"
-	line "See ya! Ha ha ha ha ha ha!"
+	text "Het Toernooi is voorbij!"
+	line "Ik versloeg 3 tegenstanders en won"
+	line "de prijs - een <Lv>60 Mewtwo!"
+	line "Je zou kunnen proberen mee te doen"
+	line "aan het volgende Toernooi, maar je"
+	line "maakt geen kans want die win ik ook!"
+	line "Doei! Ha ha ha ha ha ha!"
 	done
 
 RonaldChallengeCup2NotStarted1Text:
-	text "Hey, <RAMNAME>."
-	line "We meet again."
+	text "Hé, <RAMNAME>."
+	line "Daar ben je weer."
 	done
 
 RonaldChallengeCup2NotStarted2Text:
-	text "No matter who enters the Challenge"
-	line "Cup, I'll be the winner!"
-	line "This Cup's prize, the <Lv>8 Mew,"
-	line "will belong to me! Why don't you"
-	line "just give up and go home!"
+	text "Het maakt niet uit wie er meedoet"
+	line "aan het Toernooi, ik zal de winnaar"
+	line "zijn! De prijs van dit Toernooi, de"
+	line "<Lv>8 Mew, zal van mij zijn!"
+	line "Waarom geef je het niet op en ga"
+	line "je naar huis!"
 	line "See ya! Ha ha ha ha ha ha!"
 	done
 
 RonaldChallengeCup2LostActive1Text:
-	text "Hey, it's <RAMNAME> - the"
-	line "loser of the Challenge Cup!"
+	text "Hé, het is <RAMNAME> - de"
+	line "verliezer van het Toernooi!"
 	done
 
 RonaldChallengeCup2LostActive2Text:
-	text "That was a close one for me!"
-	line "I lost to the third opponent!"
-	line "But I'll win the next Challenge Cup!"
-	line "And of course, I'll pulverize you!"
-	line "See ya! Ha ha ha ha ha!"
+	text "Dat scheelde niet veel voor mij!"
+	line "Ik verloor van mijn derde tegen-"
+	line "stander! Maar het volgende Toernooi"
+	line "zal ik winnen! En ik zal je natuur-"
+	line "lijk in de pan hakken!"
+	line "Doei! Ha ha ha ha ha!"
 	done
 
 RonaldChallengeCup2LostInactive1Text:
-	text "Hey, isn't that <RAMNAME>?"
-	line "Late as always!"
+	text "Hé, als dat niet <RAMNAME> is!"
+	line "Te laat, zoals altijd!"
 	done
 
 RonaldChallengeCup2LostInactive2Text:
-	text "The Challenge Cup is already"
-	line "over! What? Who won?"
-	line "Who do you expect!?! Me, of"
-	line "course! The prize belongs to"
-	line "me! <Lv>8 Mew! See ya!"
+	text "Het Toernooi is al voorbij!"
+	line "Wat? Wie heeft er gewonnen?"
+	line "Wie denk je nou zelf!?! Ik,"
+	line "natuurlijk! De prijs is van"
+	line "mij! <Lv>8 Mew! Doei!"
 	line "Ha ha ha ha ha ha!"
 	done
 
 RonaldChallengeCup2Missed1Text:
-	text "Hey, <RAMNAME>!"
-	line "What are you doing here?"
+	text "Hé, <RAMNAME>!"
+	line "Wat doe jij nou weer hier?"
 	done
 	
 RonaldChallengeCup2Missed2Text:
