@@ -449,122 +449,125 @@ LegendaryPokemonCardsVol1BookName:
 	done
 
 LegendaryPokemonCardsVol1BookText:
-	text "The first of the Legendary Pokémon"
-	line "Cards is the <Lv>37 Moltres."
-	line "When played, Firegiver will add Fire"
-	line "Energy cards to the player's hand!"
-	line "It can also attack with Dive Bomb,"
-	line "a powerful, if risky, attack!"
-	line "Grand Master Courtney,"
-	line "the Fire Queen, owns this card!"
+	text "De eerste van de Legendarische"
+	line "Pokémonkaarten is de <Lv>37 Moltres."
+	line "Als die gespeeld wordt, zal die Vuur"
+	line "Energiekaarten aan de speler's hand"
+	line "toevoegen! Hij kan ook aanvallen"
+	line "met Duikbom, een krachtige,"
+	line "maar riskante aanval!"
+	line "Grootmeester Courtney, de"
+	line "Vuurkoningin, bezit deze kaart!"
 	done
 
 LegendaryPokemonCardsVol2BookName:
-	text "Legendary Pokémon Cards, Vol. 2"
+	text "Legendarische Pokémonkaarten, Deel 2"
 	done
 
 LegendaryPokemonCardsVol2BookText:
-	text "The second Legendary Pokémon Card"
-	line "is the <Lv>68 Zapdos."
-	line "With Peal of Thunder, simply putting"
-	line "this card on the Bench will deal"
-	line "damage to another Pokémon, and its"
-	line "Big Thunder attack is even stronger." 
-	line "The Grand Master of Lightning,"
-	line "Thunder Steve, owns this card!"
+	text "De tweede Legendarische Pokémonkaart"
+	line "is de <Lv>68 Zapdos."
+	line "Met Donderpiek wordt er door simpel-"
+	line "weg deze kaart op de Bank te leggen"
+	line "schade gedaan aan een andere"
+	line "Pokémon, en zijn Grote donder-aanval"
+	line "is zelfs nóg sterker!" 
+	line "De Grootmeester van de Bliksem,"
+	line "Donder-Steve, bezit deze kaart!"
 	done
 
 LegendaryPokemonCardsVol3BookName:
-	text "Legendary Pokémon Cards, Vol. 3"
+	text "Legendarische Pokémonkaarten, Deel 3"
 	done
 
 LegendaryPokemonCardsVol3BookText:
-	text "The third Legendary Pokémon Card"
-	line "is the <Lv>37 Articuno."
-	line "Its Quickfreeze can disable the"
-	line "opponent's Pokémon for one turn"
-	line "after the card is put into play!"
-	line "It can also attack with Ice Breath!"
-	line "Grand Master Jack, the Ice Man,"
-	line "owns this card!"
+	text "De derde Legendarische Pokémonkaart"
+	line "is de <Lv>37 Articuno."
+	line "Zijn Snelvriezen kan de tegen-"
+	line "stander's Pokémon voor één beurt"
+	line "onschadelijk maken nadat de kaart"
+	line "in het spel gebracht is!"
+	line "Hij kan ook aanvallen met IJsadem!"
+	line "Grootmeester Jack, de IJsman,"
+	line "bezit deze kaart!"
 	done
 
 LegendaryPokemonCardsVol4BookName:
-	text "Legendary Pokémon Cards, Vol. 4"
+	text "Legendarische Pokémonkaarten, Deel 4"
 	done
 
 LegendaryPokemonCardsVol4BookText:
-	text "The fourth Legendary Pokémon Card"
-	line "is the <Lv>41 Dragonite."
-	line "When played, its Healing Wind power"
-	line "will remove 2 damage counters from"
-	line "each of the player's Pokémon!"
-	line "It can also attack with Slam!"
-	line "Rod, Leader of the Grand Masters,"
-	line "owns this card!"
+	text "De vierde Legendarische Pokémonkaart"
+	line "is de <Lv>41 Dragonite."
+	line "Als die gespeeld wordt, verwijdert"
+	line "zijn Genezende wind-kracht 2 schade-"
+	line "tellers van elk van de speler's"
+	line "Pokémon! Hij kan ook aanvallen"
+	line "met Smijt! Rod, Leider van de"
+	line "Grootmeesters, bezit deze kaart!"
 	done
 
 TheGrandMastersBookName:
-	text "The Grand Masters"
+	text "De Grootmeesters"
 	done
 
 TheGrandMastersBookText:
-	text "Courtney, Steve, Jack, and Rod -"
+	text "Courtney, Steve, Jack, en Rod -"
 	line ""
-	line "the 4 Grand Masters who defend"
-	line "the Legendary Pokémon Cards -"
-	line "are all master players of the"
-	line "Pokémon Trading Card Game!"
+	line "de 4 Grootmeesters die de Legen-"
+	line "darische Pokémonkaarten verdedigen -"
+	line "zijn allen meesterspelers van het"
+	line "Pokémon Ruilkaartspel!"
 	done
 
 MasterMedalsBookName:
-	text "Master Medals"
+	text "Meestermedailles"
 	done
 
 MasterMedalsBookText:
-	text "There are a total of 8 Master Medals"
-	line "owned by the Club Masters. It is"
-	line "said that the secret of their Club's"
-	line "decks are encrypted in the Master"
-	line "Medals. Some say the medals were"
-	line "a gift from the Grand Masters."
+	text "Er zijn in totaal 8 Meestermedailles"
+	line "in bezit van de Clubmeesters."
+	line "Er wordt gezegd dat het geheim van"
+	line "de decks van hun Clubs versleuteld"
+	line "is in de Meestermedailles. Sommigen"
+	line "zeggen dat de medailles een geschenk"
+	line "waren van de Grootmeesters."
 	done
 
 PlateOfLegendsName:
-	text "Plate of Legends"
+	text "Plaat der Legendes"
 	done
 
 PlateOfLegendsText:
-	text "”Those in search of the Legendary"
-	line " Pokémon Cards..."
-	line " Defeat the Masters of the 8 Clubs"
-	line " and attain the 8 Master Medals."
-	line " Once attained, defeat the Grand"
-	line " Master here at Pokémon Dome..."
-	line " Then you shall inherit"
-	line " the Legendary Pokémon Cards.”"
+	text "”Wie op zoek is naar de Legendarische"
+	line " Pokémonkaarten..."
+	line " Versla de Meesters van de 8 Clubs"
+	line " en behaal de 8 Meestermedailles."
+	line " Versla daarna de Grootmeesters"
+	line " hier bij het Pokémon Stadion..."
+	line " Dan zul je de Legendarische"
+	line " Pokémonkaarten over mogen nemen.”"
 	done
 
 MysteriousVoiceDoorName:
-	text "Mysterious Voice"
+	text "Mysterieuze Stem"
 	done
 
 Clerk9DefaultText:
-	text "Greetings! Welcome to the"
-	line "Challenge Hall! The Challenge Cup"
-	line "will begin soon. If you win the"
-	line "Challenge Cup, you will receive"
-	line "a Promotional card! Please join"
-	line "us for this competition."
+	text "Hallo! Welkom bij de Toernooihal!"
+	line "De Toernooiwedstrijden beginnen"
+	line "binnenkort. Als je het Toernooi"
+	line "wint, ontvang je een Promokaart!"
+	line "Doe je ook mee met deze wedstrijd?"
 	done
 
 Clerk9ChallengeCupOverText:
-	text "Greetings! Welcome to the"
-	line "Challenge Hall! This is where"
-	line "the Challenge Cup is held."
-	line "The Challenge Cup may start at"
-	line "any time, so please visit the"
-	line "Challenge Hall often."
+	text "Hallo! Welkom bij de Toernooihal!"
+	line "Dit is waar de Toernooiwedstrijden"
+	line "worden gehouden. De Toernooi-"
+	line "wedstrijden kunnen op elk gewenst"
+	line "moment beginnen, dus bezoek de"
+	line "Toernooihal vaak."
 	done
 
 Clerk9ChallengeCupReadyText:
