@@ -1,3 +1,49 @@
+Text06a1:
+	text "Wow!"
+	line "Thanks!"
+	line "Since you were so nice,"
+	line "I'll tell you a secret!"
+	line "Check the wall 2 tiles"
+	line "left of the bookcase..."
+	line "You'll probably find something"
+	line "really nice!"
+	line "Thanks again."
+	line "Bye!"
+	done
+
+FoundLv9SlowpokeText:
+	text "<RAMNAME>"
+	line "checked the wall!"
+	line ""
+	text "<RAMNAME>"
+	line "found a <Lv>9 Slowpoke!"
+	done
+
+Text06a3:
+	text "I'm burning with Pokémon"
+	line "fever today!"
+	line "One day, I'm going to inherit"
+	line "the Legendary Cards!"
+	done
+
+Text06a4:
+	text "I'm burning with Pokémon"
+	line "fever today!"
+	line "One day, I'm going to inherit"
+	line "the Legendary Cards!"
+	line "What???"
+	line "You already inherited the cards?"
+	line "You..."
+	line "Stop Lying!!!"
+	done
+
+Text06a5:
+	text "This is the Fire Club, where guys"
+	line "with a burning passion for"
+	line "Pokémon cards get together for"
+	line "heated duels! Join the fiery fun!"
+	done
+
 Text06a6:
 	text "Wil je duelleren met John?"
 	done

@@ -1,3 +1,36 @@
+Text0553:
+	text "Hi, <RAMNAME>."
+	line "What are you doing here?"
+	done
+
+Text0554:
+	text "Yes! The Legendary Pokémon Cards"
+	line "will be inherited here at the"
+	line "Pokémon Dome! Of course, I,"
+	line "Ronald, will inherit the cards!"
+	line "Hey, did you collect the medals?"
+	done
+
+Text0555:
+	text "Duh! That's pretty obvious! There's"
+	line "no way you could collect them all!"
+	line "Why don't you just give up?"
+	line "See ya!"
+	done
+
+Text0556:
+	text "Hey, <RAMNAME>!"
+	line "You only have <RAMNUM> medals?!"
+	line "I've already collected <RAMNUM>!"
+	line "Why don't you just give up? See ya!"
+	done
+
+Text0557:
+	text "What!?! You don't have any!?!"
+	line "It's about time you got the hint:"
+	line "Give it up, already! See ya!"
+	done
+
 MysteriousVoiceDoorNotEnoughMedalsText:
 	text "Only those who have won all 8 Master"
 	line "Medals may enter the Grand Hall."
@@ -1013,25 +1046,4 @@ Text05e7:
 Text05e8:
 	text "Oké, <RAMNAME>."
 	line "Waar wil je iets over weten?"
-	done
-
-Text05e9:
-	text "Is dat alles?"
-	done
-
-Text05ea:
-	text "”Geen woorden maar daden”, klinkt"
-	line "het gezegde, dus laten we een spel"
-	line "spelen. Omdat dit je eerste keer"
-	line "is, probeer je eerst maar eens"
-	line "gewoon de basisstappen te leren."
-	line "Ik zal je hierin begeleiden,"
-	line "dus volg mijn advies op."
-	line "Als je niet doet wat ik zeg,"
-	line "kunnen we niet doorgaan."
-	line "Misschien is het makkelijker als"
-	line "je het Pokémon Ruilkaartspel"
-	line "instructieboekje leest terwijl we"
-	line "spelen. Oké dan, laten we "
-	line "je oefenspel beginnen!"
 	done

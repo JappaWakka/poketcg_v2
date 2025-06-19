@@ -1015,36 +1015,3 @@ Clerk12ChallengeCupRound3PlayerWon4Text:
 Clerk12ChallengeCupRound3PlayerWon5Text:
 	text "Congratulations, <RAMNAME>!!!"
 	done
-
-Text0553:
-	text "Hi, <RAMNAME>."
-	line "What are you doing here?"
-	done
-
-Text0554:
-	text "Yes! The Legendary Pokémon Cards"
-	line "will be inherited here at the"
-	line "Pokémon Dome! Of course, I,"
-	line "Ronald, will inherit the cards!"
-	line "Hey, did you collect the medals?"
-	done
-
-Text0555:
-	text "Duh! That's pretty obvious! There's"
-	line "no way you could collect them all!"
-	line "Why don't you just give up?"
-	line "See ya!"
-	done
-
-Text0556:
-	text "Hey, <RAMNAME>!"
-	line "You only have <RAMNUM> medals?!"
-	line "I've already collected <RAMNUM>!"
-	line "Why don't you just give up? See ya!"
-	done
-
-Text0557:
-	text "What!?! You don't have any!?!"
-	line "It's about time you got the hint:"
-	line "Give it up, already! See ya!"
-	done

@@ -1,3 +1,25 @@
+Text05e9:
+	text "Is dat alles?"
+	done
+
+Text05ea:
+	text "”Geen woorden maar daden”, klinkt"
+	line "het gezegde, dus laten we een spel"
+	line "spelen. Omdat dit je eerste keer"
+	line "is, probeer je eerst maar eens"
+	line "gewoon de basisstappen te leren."
+	line "Ik zal je hierin begeleiden,"
+	line "dus volg mijn advies op."
+	line "Als je niet doet wat ik zeg,"
+	line "kunnen we niet doorgaan."
+	line "Misschien is het makkelijker als"
+	line "je het Pokémon Ruilkaartspel"
+	line "instructieboekje leest terwijl we"
+	line "spelen. Oké dan, laten we "
+	line "je oefenspel beginnen!"
+	done
+
+
 Text05eb:
 	text "Over het algemeen is dit hoe je "
 	line "het Pokémon Ruilkaartspel speelt:"
@@ -1152,50 +1174,4 @@ Text069f:
 Text06a0:
 	text "<RAMNAME> lost all of"
 	line "his spare Energy cards!"
-	done
-
-Text06a1:
-	text "Wow!"
-	line "Thanks!"
-	line "Since you were so nice,"
-	line "I'll tell you a secret!"
-	line "Check the wall 2 tiles"
-	line "left of the bookcase..."
-	line "You'll probably find something"
-	line "really nice!"
-	line "Thanks again."
-	line "Bye!"
-	done
-
-FoundLv9SlowpokeText:
-	text "<RAMNAME>"
-	line "checked the wall!"
-	line ""
-	text "<RAMNAME>"
-	line "found a <Lv>9 Slowpoke!"
-	done
-
-Text06a3:
-	text "I'm burning with Pokémon"
-	line "fever today!"
-	line "One day, I'm going to inherit"
-	line "the Legendary Cards!"
-	done
-
-Text06a4:
-	text "I'm burning with Pokémon"
-	line "fever today!"
-	line "One day, I'm going to inherit"
-	line "the Legendary Cards!"
-	line "What???"
-	line "You already inherited the cards?"
-	line "You..."
-	line "Stop Lying!!!"
-	done
-
-Text06a5:
-	text "This is the Fire Club, where guys"
-	line "with a burning passion for"
-	line "Pokémon cards get together for"
-	line "heated duels! Join the fiery fun!"
 	done
