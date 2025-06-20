@@ -399,13 +399,13 @@ Specs1PlayerIsChampionText:
 
 ButchNormalText:
 	text "De beste speler van de Grootmeesters"
-	line "is Rod, aangezien hij de leider van"
+	line "is Rod, aangezien hij de Leider van"
 	line "de Grootmeesters is."
 	done
 
 ButchPlayerIsChampionText:
 	text "Ik kan niet geloven dat Rod, de"
-	line "leider van de Grootmeesters, is"
+	line "Leider van de Grootmeesters, is"
 	line "verslagen!?! Zou dit betekenen"
 	line "dat de Legendarische Pokémon-"
 	line "kaarten doorgegeven zijn?"

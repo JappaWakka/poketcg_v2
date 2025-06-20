@@ -544,7 +544,7 @@ PlateOfLegendsText:
 	line " Versla de Meesters van de 8 Clubs"
 	line " en behaal de 8 Meestermedailles."
 	line " Versla daarna de Grootmeesters"
-	line " hier bij het Pokémon Stadion..."
+	line " hier bij de Pokémon-Koepel..."
 	line " Dan zul je de Legendarische"
 	line " Pokémonkaarten over mogen nemen.”"
 	done

@@ -50,7 +50,7 @@ Text0553:
 
 Text0554:
 	text "Ja! De Legendarische Pokémonkaarten"
-	line "zullen hier bij het Pokémon Stadion"
+	line "zullen hier bij de Pokémon-Koepel"
 	line "worden overgenomen! Natuurlijk zal"
 	line "ik, Ronald, de kaarten over mogen"
 	line "nemen! Hé, heb je de Medailles"
@@ -79,220 +79,235 @@ Text0557:
 	done
 
 MysteriousVoiceDoorNotEnoughMedalsText:
-	text "Only those who have won all 8 Master"
-	line "Medals may enter the Grand Hall."
-	line "You have not won all of the"
-	line "Master Medals. Leave this place!"
+	text "Alleen degenen die alle 8 de"
+	line "Meestermedailles hebben gewonnen,"
+	line "mogen de Grote Zaal binnengaan."
+	line "Je hebt nog niet alle Meester-"
+	line "medailles gewonnen."
+	line "Verlaat deze plek!"
 	done
 
 Text0559:
-	text "Only those who have won all 8 Master"
-	line "Medals may enter the Grand Hall."
-	line "You have won all 8 Master Medals!"
-	line "Enter the Grand Hall!"
+	text "Alleen degenen die alle 8 de"
+	line "Meestermedailles hebben gewonnen,"
+	line "mogen de Grote Zaal binnengaan."
+	line "Je hebt alle 8 Meestermedailles"
+	line "gewonnen!"
+	line "Betreed de Grote Zaal!"
 	done
 
 Text055a:
-	text "Congratulations!"
-	line "My Legendary Card belongs to you!"
-	line "Please take good care of this card!"
+	text "Gefeliciteerd!"
+	line "Mijn Legendarische Kaart is van jou!"
+	line "Zorg alsjeblieft goed voor deze"
+	line "kaart!"
 	done
 
 Text055b:
-	text "You're very good, <RAMNAME>."
-	line "Please take care of my card."
+	text "Je bent erg goed, <RAMNAME>."
+	line ""
+	line "Zorg alsjeblieft goed voor mijn"
+	line "kaart."
 	done
 
 Text055c:
-	text "Congratulations! You're the Champ!"
-	line "My Zapdos card belongs to you!"
+	text "Gefeliciteerd! Je bent de Kampioen!"
+	line "Mijn Zapdos-kaart is van jou!"
 	done
 
 Text055d:
-	text "Congratulations! You're the Champ!"
-	line "Please treasure my Zapdos card!"
+	text "Gefeliciteerd! Je bent de Kampioen!"
+	line "Koester mijn Zapdos-kaart!"
 	done
 
 Text055e:
-	text "Please build a powerful deck"
-	line "around my card!"
+	text "Bouw een supersterk deck met mijn"
+	line "kaart!"
 	done
 
 Text055f:
-	text "You've really improved your game,"
+	text "Je hebt je spel enorm verbeterd,"
 	line "<RAMNAME>."
-	line "Use my card to make it even better!"
+	line "Gebruik mijn kaart om het nóg beter"
+	line "te maken!"
 	done
 
 Text0560:
-	text "You played a wonderful match!"
-	line "The Legendary Cards seem pleased"
-	line "to be passed on to you,"
-	line "<RAMNAME>. Hurry and"
-	line "go through to the Hall of Honor!"
+	text "Je hebt een geweldig spel gespeeld!"
+	line "De Legendarische Kaarten lijken blij"
+	line "om aan jou te worden doorgegeven,"
+	line "<RAMNAME>."
+	line "Haast je en ga door naar de Erezaal!"
 	done
 
 Text0561:
-	text "You played a wonderful match!"
-	line "The Legendary Cards seem pleased"
-	line "to be passed on to you."
+	text "Je hebt een geweldig spel gespeeld!"
+	line "De Legendarische Kaarten lijken blij"
+	line "om aan jou te worden doorgegeven."
 	done
 
 Text0562:
-	text "<RAMNAME>, That is not the way"
-	line "to the Hall of Honor."
-	line "Hurry, <RAMNAME>! Go through to"
-	line "the Hall of Honor!"
+	text "<RAMNAME>, dat is niet de weg"
+	line "naar de Erezaal."
+	line "Haast je, <RAMNAME>! Ga door"
+	line "naar de Erezaal!"
 	done
 
 Text0563:
-	text "<RAMNAME>, if you leave the"
-	line "Grand Hall, you must defeat"
-	line "each of us again to enter"
-	line "the Hall of Honor."
+	text "<RAMNAME>, als je de Grote Zaal"
+	line "verlaat, moet je elk van ons"
+	line "opnieuw verslaan om de Erezaal"
+	line "te mogen betreden."
 	done
 
 Text0564:
-	text "Exit the Grand Hall?"
+	text "De Grote Zaal verlaten?"
 	done
 
 Text0565:
-	text "Possessor of all 8 Master Medals..."
-	line "Enter the Dueling Stage..."
-	line "However, you will be unable to"
-	line "turn back."
+	text "Bezitter van alle 8 Meester-"
+	line "medailles..."
+	line "Betreed het Duelleerpodium..."
+	line "Je zult hier echter niet"
+	line "tussentijds kunnen weggaan."
 	done
 
 Text0566:
-	text "Enter the Dueling Stage?"
+	text "Het Duelleerpodium betreden?"
 	done
 
 Text0567:
-	text "Then leave the Grand Hall!"
+	text "Verlaat dan de Grote Zaal!"
 	done
 
 Text0568:
-	text "In that case..."
-	line "Enter the Dueling Stage."
+	text "In dat geval..."
+	line "Betreed het Duelleerpodium."
 	done
 
 Text0569:
-	text "Welcome to Pokémon Dome!"
+	text "Welkom bij de Pokémon-Koepel!"
 	done
 
 Text056a:
-	text "Welcome back,"
-	line "brave challenger!"
+	text "Welkom terug,"
+	line "dappere uitdager!"
 	done
 
 Text056b:
-	text "I am Rod, Leader of the"
-	line "Grand Masters, and this is"
-	line "Grand Master Courtney,"
-	line "the Fire Queen."
+	text "Ik ben Rod, Leider van de Groot-"
+	line "meesters, en dit is Courtney,"
+	line "de Vuurkoningin."
 	done
 
 Text056c:
-	text "Grand Master of Lightning,"
-	line "Thunder Steve!"
+	text "Grootmeester van de Bliksem,"
+	line "Donder-Steve!"
 	done
 
 Text056d:
-	text "Grand Master of Ice,"
-	line "Gentlemanly Jack."
+	text "Grootmeester van IJs,"
+	line "Edelman Jack."
 	done
 
 Text056e:
-	text "We are the 4 Grand Masters who"
-	line "guard the Legendary Pokémon Cards."
-	line "If you can defeat all of us, then"
-	line "you will have earned the right to"
-	line "inherit the Legendary Pokémon Cards!"
+	text "Wij zijn de 4 Grootmeesters die"
+	line "de Legendarische Pokémonkaarten"
+	line "bewaken. Als je ons allemaal kunt"
+	line "verslaan, dan heb je het recht"
+	line "verdiend om de Legendarische"
+	line "Pokémonkaarten over te nemen!"
 	done
 
 Text056f:
-	text "We are the Grand Masters who guard"
-	line "the Legendary Pokémon Cards!"
-	line "We will accept your challenge as"
-	line "many times as will take for you"
-	line "to inherit all 4 of the"
-	line "Legendary Pokémon Cards!"
+	text "Wij zijn de Grootmeesters die"
+	line "de Legendarische Pokémonkaarten"
+	line "bewaken! We accepteren je uitdaging"
+	line "zo vaak als je nodig hebt om alle 4"
+	line "de Legendarische Pokémonkaarten te"
+	line "bemachtigen!"
 	done
 
 Text0570:
-	text "We are the Grand Masters who guard"
-	line "the Legendary Pokémon Cards!"
-	line "Challenge us as many times as"
-	line "you wish!"
+	text "Wij zijn de Grootmeesters die"
+	line "de Legendarische Pokémonkaarten"
+	line "bewaken! Daag ons zo vaak uit als"
+	line "je wilt!"
 	done
 
 Text0571:
 	text "<RAMNAME>,"
-	line "take your place at the table."
+	line "neem je plaats aan de tafel."
 	done
 
 Text0572:
-	text "Your first opponent shall be"
-	line "Courtney!"
+	text "Jouw eerste tegenstander zal"
+	line "Courtney zijn!"
 	done
 
 Text0573:
-	text "First, you must duel Courtney!"
+	text "Eerst zul je met Courtney moeten"
+	line "duelleren!"
 	done
 
 Text0574:
-	text "Hm-hmmm...I, Courtney, the Fire"
-	line "Queen, shall be your first opponent!"
-	line "Let's see if you can take the heat!"
-	line "We'll have a match with 6 prizes!"
-	line "Hm-hmm-hmm...Let's go to it!"
+	text "Hm-hmmm...Ik, Courtney, de Vuur"
+	line "koningin, zal je eerste tegenstander"
+	line "zijn! Eens kijken of je tegen de"
+	line "hitte kunt!"
+	line "We spelen een spel met 6 Prijzen!"
+	line "Hm-hmm-hmm... Laten we beginnen!"
 	done
 
 Text0575:
-	text "Let's see if you can take the heat!"
-	line "There will be 6 Prizes."
-	line "Hm-hmm-hmm...Let's go to it!"
+	text "Eens kijken of je tegen de hitte"
+	line "kunt!"
+	line "We spelen een spel met 6 Prijzen!"
+	line "Hm-hmm-hmm... Laten we beginnen!"
 	done
 
 Text0576:
-	text "Hm-hmm-hmm...I  W I N ! Come back"
-	line "when you've gotten a little better."
-	line "I can't give a Legendary Pokémon"
-	line "Card to someone who plays like that!"
+	text "Hm-hmm-hmm... Ik  W I N ! Kom later"
+	line "terug als je een beetje beter bent"
+	line "geworden. Ik kan geen Legendarische"
+	line "Pokémonkaart geven aan iemand die"
+	line "zo speelt!"
 	done
 
 Text0577:
-	text "Hm-hmm-hmm...I  W I N !"
-	line "The Legendary Pokémon Cards"
-	line "deserve better than that!"
+	text "Hm-hmm-hmm... Ik  W I N !"
+	line "De Legendarische Pokémonkaarten"
+	line "verdienen beter dan dat!"
 	done
 
 Text0578:
-	text "I'm sorry, but you have to leave."
-	line "Well, take care..."
+	text "Het spijt me, maar je zult deze"
+	line "plek moeten verlaten."
+	line "Nou, pas goed op jezelf..."
 	done
 
 Text0579:
-	text "Hmm-hmm-hmm...I lose. But that's"
-	line "no suprise, seeing as how you've"
-	line "come this far. Your next opponent"
-	line "is waiting for you!"
+	text "Hmm-hmm-hmm... Ik verloor. Maar dat"
+	line "is geen verrassing aangezien je al"
+	line "zo ver bent gekomen. Je volgende"
+	line "tegenstander wacht op je!"
 	done
 
 Text057a:
-	text "Hmm-hmm-hmm...I lose."
-	line "I find you worthy of inheriting"
-	line "the Legendary Pokémon Cards!"
+	text "Hmm-hmm-hmm... Ik verloor."
+	line "Ik vind dat je het waard bent om de"
+	line "Legendarische Pokémonkaarten over"
+	line "te nemen!"
 	done
 
 Text057b:
-	text "Very good, <RAMNAME>!"
-	line "Your second opponent is Steve!"
+	text "Erg goed, <RAMNAME>!"
+	line "Je tweede tegenstander is Steve!"
 	done
 
 Text057c:
-	text "<RAMNAME>! Next, you must duel"
-	line "Steve!"
+	text "<RAMNAME>! Nu zul je met"
+	line "Steve moeten duelleren!"
 	done
 
 Text057d:

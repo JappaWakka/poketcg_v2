@@ -1408,7 +1408,7 @@ OverworldMapChallengeHallText:
 	done
 
 OverworldMapPokemonDomeText:
-	text "   Pokémon Stadion   "
+	text "   Pokémon-Koepel   "
 	done
 
 OverworldMapMysteryHouseText:
@@ -1460,7 +1460,7 @@ ChallengeHallMapName:
 	done
 
 PokemonDomeMapName:
-	text "Pokémon Stadion"
+	text "Pokémon-Koepel"
 	done
 
 UnusedText033c: ; Unused
