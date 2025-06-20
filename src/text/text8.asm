@@ -1,3 +1,58 @@
+Text05de:
+	text "First, learning how to use your"
+	line "deck is very important."
+	line "Duel against many people to check"
+	line "your deck's performance."
+	line "The Auto Deck Machines are handy"
+	line "when you want to rebuild your deck."
+	line "If you have the required cards, it"
+	line "will automatically build a deck"
+	line "for you. Collect new cards to"
+	line "build new decks!"
+	done
+
+Text05df:
+	text "Are you getting the hang of the"
+	line "Pokémon Trading Card Game?"
+	line "How about building a deck yourself?"
+	line ""
+	line "It's a great feeling to win with"
+	line "a deck you built on your own."
+	done
+
+Text05e0:
+	text "So, did you build your own deck?"
+	line "The strength or weakness of your"
+	line "deck depends only on how you play!"
+	line "In other words, it all depends on"
+	line "the skill of the player! You must"
+	line "become a skilled card Master!"
+	done
+
+Text05e1:
+	text "Congratulations, <RAMNAME>!"
+	line "I hear you have inherited the"
+	line "Legendary Pokémon Cards!"
+	line "The strength of a deck does"
+	line "not depend on any single card,"
+	line "but on how skillfully you are able"
+	line "to use that card. The power of"
+	line "the Legendary Pokémon Cards"
+	line "depends on you! You must become a"
+	line "skilled card Master!"
+	done
+
+Text05e2:
+	text "That's right! Did you try the"
+	line "Challenge Machine I built?"
+	line "See how far you can get with a"
+	line "single deck! Computer opponent data"
+	line "is based on the opponents you have"
+	line "already played against."
+	line "I hope you enjoy the product of my"
+	line "scientific genius!"
+	done
+
 Text05e3:
 	text "Oh! Waarom zo'n"
 	line "haast, <RAMNAME>?"
@@ -945,236 +1000,4 @@ Text0674:
 
 Text0675:
 	text "Wil je duelleren met Stephanie?"
-	done
-
-Text0676:
-	text "Yes, I understand."
-	line "Losing is scary, isn't it?"
-	done
-
-Text0677:
-	text "OK, a single match with 4 Prizes!"
-	line "Here we go!"
-	done
-
-Text0678:
-	text "I can't believe my prediction"
-	line "was wrong..."
-	done
-
-Text0679:
-	text "I see a vision..."
-	line "You're dueling me again."
-	done
-
-Text067a:
-	text "I told you that you would lose..."
-	line "I have the ability to foretell"
-	line "the future! I see a vision..."
-	line "You're dueling me again!"
-	done
-
-Text067b:
-	text "Let me see... if this happens..."
-	line "then that... so... ummm..."
-	done
-
-Text067c:
-	text "Club Master Murray doesn't listen"
-	line "to what people are saying!"
-	done
-
-Text067d:
-	text "Hi, I'm Murray, Master of the"
-	line "Psychic Club. You're the one"
-	line "who's visiting the Clubs to win"
-	line "the medals. How do I know this?"
-	line "Because I'm Psychic!"
-	line "OK, let me test my new card"
-	line "strategy... against your deck!"
-	line "Are you ready?"
-	done
-
-Text067e:
-	text "Hi! It's you again."
-	line "Are you ready for a duel?"
-	done
-
-Text067f:
-	text "Wil je duelleren met Murray?"
-	done
-
-Text0680:
-	text "OK. Come back when you're ready."
-	done
-
-Text0681:
-	text "When you duel me, it's for 6 Prizes."
-	line "Shall we start then!?!"
-	done
-
-Text0682:
-	text "Huh!?! I lost!"
-	line "Hmmmm..."
-	line "Well, you must be pretty good if"
-	line "you're trying to inherit"
-	line "the Legendary Pokémon Cards."
-	line "Here, take this Psychic Medal."
-	done
-
-Text0683:
-	text "And here, take this"
-	line "Laboratory booster pack!"
-	done
-
-Text0684:
-	text "I'll think of a new strategy,"
-	line "so come see me again!"
-	line "I'll be waiting!"
-	line "Ha ha ha ha ha......"
-	done
-
-Text0685:
-	text "It seems you weren't really ready."
-	line "If you keep playing like that,"
-	line "You'll only inherit the Legendary"
-	line "Pokémon Cards in your dreams!"
-	done
-
-Text0686:
-	text "Hello, <RAMNAME>!"
-	line "I just came up with a new card"
-	line "strategy and was looking for"
-	line "someone to test it on."
-	line "You'll duel with me, of course,"
-	line "won't you?"
-	done
-
-Text0687:
-	text "Oh. Well, come by when you feel"
-	line "like playing."
-	done
-
-Text0688:
-	text "All right! That's the spirit!"
-	line "You've made me a happy man!"
-	line "We'll play with 6 Prizes!"
-	line "I can't wait! Let's start!"
-	done
-
-Text0689:
-	text "Hmmm..."
-	line "Maybe my deck isn't well-balanced?"
-	line "I must change some of the cards"
-	line "and try again."
-	line "Oh yeah, take this."
-	done
-
-Text068a:
-	text "Come play with me again."
-	done
-
-Text068b:
-	text "It seems you weren't really ready."
-	line "Come back once you're finally ready."
-	done
-
-Text068c:
-	text "Greetings."
-	line "Welcome to the Fire Club!"
-	line "This is a Club for boys with a"
-	line "burning passion for Fire Pokémon."
-	line "Fire Pokémon have the greatest"
-	line "attack power of all Pokémon!"
-	done
-
-Text068d:
-	text "Training's so boring and out of"
-	line "date. Why do I have to do it?"
-	line "Why me?"
-	line "I'm Jessica of the Fighting Club."
-	line "Oh! You must be <RAMNAME>."
-	line "I heard about you from Mitch."
-	line "Defeating you should be more"
-	line "fun than training!"
-	done
-
-Text068e:
-	text "Training's so boring and out of"
-	line "date. Why do I have to do it?"
-	line ""
-	text "<RAMNAME>, it's you again!"
-	line "What a pain."
-	line "But defeating you should be more"
-	line "fun than training."
-	done
-
-UnusedText068f: ; Unused
-	text "????"
-	done
-
-Text0690:
-	text "Oh, OK."
-	line "Well, I'm busy anyway."
-	line "Bye!"
-	line "Training's so boring..."
-	done
-
-Text0691:
-	text "OK! A single match with 4 Prizes."
-	line "Let's go to it!"
-	done
-
-Text0692:
-	text "How could I lose...?"
-	done
-
-Text0693:
-	text "How boring!"
-	line "I'm going home! Bye!"
-	done
-
-Text0694:
-	text "Wow! That was fun!"
-	line "Much better than training!"
-	line "Let's do it again sometime!"
-	line "Bye!"
-	done
-
-Text0695:
-	text "Do you know the empty house on"
-	line "the cape to the northwest?"
-	line "That's Ishihara's house!"
-	line "Isn't it nice to have friends?"
-	done
-
-Text0696:
-	text "My friend, Ishihara, wants to"
-	line "trade cards."
-	line "Why don't you go visit him"
-	line "sometime."
-	done
-
-Text0697:
-	text "My friend, Ishihara, owns"
-	line "really rare cards."
-	line "Why don't you go visit him"
-	line "sometime?"
-	done
-
-Text0698:
-	text "I heard my friend, Ishihara,"
-	line "gave someone a card."
-	line "Why don't you go visit him"
-	line "sometime?"
-	done
-
-Text0699:
-	text "Ishihara's my friend."
-	line "Isn't it nice to have friends?"
-	done
-
-Text069a:
-	text "Ishihara's my friend."
-	line "Isn't it nice to have friends?"
 	done

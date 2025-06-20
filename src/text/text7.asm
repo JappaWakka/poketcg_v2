@@ -1,78 +1,81 @@
 Clerk12ChallengeCupRound3PlayerWon1Text:
-	text "Congratulations!"
-	line "You've defeated 3 opponents!"
+	text "Gefeliciteerd!"
+	line "Je hebt 3 tegenstanders verslagen!"
 	done
 
 Clerk12ChallengeCupRound3PlayerWon2Text:
-	text "Most unfortunate, <RAMTEXT>. Do"
-	line "try again in the next Challenge Cup."
+	text "Ontzettend jammer, <RAMTEXT>."
+	line "Maar probeer het later opnieuw bij"
+	line "het volgende Uitdagingstoernooi."
 	done
 
 RonaldChallengeCup1PlayerWon1Text:
-	text "That was luck!"
-	line "But a loss is a loss..."
+	text "Dat was mazzel!"
+	line "Maar verliezen is verliezen..."
 	done
 
 RonaldChallengeCup2Or3PlayerWon1Text:
-	text "Shoot! I got a bad deal!"
+	text "Verdorie! Ik had een slechte hand!"
 	done
 
 RonaldChallengeCup1PlayerWon2Text:
-	text "<RAMNAME>!"
-	line "I won't lose next time!"
+	text "<RAMNAME>! Ik zal de volgende"
+	line "keer niet verliezen!"
 	done
 
 RonaldChallengeCup2Or3PlayerWon2Text:
 	text "<RAMNAME>!"
-	line "I'll win next time!"
+	line "De volgende keer win ik!"
 	done
 
 Clerk12ChallengeCupRound3PlayerWon3Text:
-	text "The Winner of this Challenge Cup"
-	line "is "
+	text "De winnaar van dit Uitdagings-"
+	line "toernooi is"
 	text "<RAMNAME>!!!"
 	done
 
 Clerk12ChallengeCupRound3PlayerWon4Text:
-	text "<RAMNAME>, your prize"
+	text "<RAMNAME>, je prijs"
 	line "is <RAMTEXT>!"
 	done
 
 Clerk12ChallengeCupRound3PlayerWon5Text:
-	text "Congratulations, <RAMNAME>!!!"
+	text "Gefeliciteerd, <RAMNAME>!!!"
 	done
 	
 Text0553:
-	text "Hi, <RAMNAME>."
-	line "What are you doing here?"
+	text "Hoi, <RAMNAME>."
+	line "Wat doe jij nou hier?"
 	done
 
 Text0554:
-	text "Yes! The Legendary Pokémon Cards"
-	line "will be inherited here at the"
-	line "Pokémon Dome! Of course, I,"
-	line "Ronald, will inherit the cards!"
-	line "Hey, did you collect the medals?"
+	text "Ja! De Legendarische Pokémonkaarten"
+	line "zullen hier bij het Pokémon Stadion"
+	line "worden overgenomen! Natuurlijk zal"
+	line "ik, Ronald, de kaarten over mogen"
+	line "nemen! Hé, heb je de Medailles"
+	line "al verzameld?"
 	done
 
 Text0555:
-	text "Duh! That's pretty obvious! There's"
-	line "no way you could collect them all!"
-	line "Why don't you just give up?"
-	line "See ya!"
+	text "Duh! Dat is vrij duidelijk! Je kunt"
+	line "ze onmogelijk allemaal verzamelen!"
+	line "Waarom geef je niet gewoon op?"
+	line "Tot ziens!"
 	done
 
 Text0556:
-	text "Hey, <RAMNAME>!"
-	line "You only have <RAMNUM> medals?!"
-	line "I've already collected <RAMNUM>!"
-	line "Why don't you just give up? See ya!"
+	text "Hé, <RAMNAME>!"
+	line "Je hebt pas <RAMNUM> Medailles?!"
+	line "Ik heb er al <RAMNUM> verzameld!"
+	line "Waarom geef je niet gewoon op?"
+	line "Tot ziens!"
 	done
 
 Text0557:
-	text "What!?! You don't have any!?!"
-	line "It's about time you got the hint:"
-	line "Give it up, already! See ya!"
+	text "Wat!?! Je hebt er nog geen één!?!"
+	line "Het wordt tijd dat je het een keer"
+	line "door hebt: Geef het op! Tot ziens!"
 	done
 
 MysteriousVoiceDoorNotEnoughMedalsText:
@@ -991,59 +994,4 @@ Text05dd:
 	line "heb, zal ik je een e-mail sturen,"
 	line "dus kijk geregeld op de PC of"
 	line "je nieuwe e-mails hebt ontvangen!"
-	done
-
-Text05de:
-	text "First, learning how to use your"
-	line "deck is very important."
-	line "Duel against many people to check"
-	line "your deck's performance."
-	line "The Auto Deck Machines are handy"
-	line "when you want to rebuild your deck."
-	line "If you have the required cards, it"
-	line "will automatically build a deck"
-	line "for you. Collect new cards to"
-	line "build new decks!"
-	done
-
-Text05df:
-	text "Are you getting the hang of the"
-	line "Pokémon Trading Card Game?"
-	line "How about building a deck yourself?"
-	line ""
-	line "It's a great feeling to win with"
-	line "a deck you built on your own."
-	done
-
-Text05e0:
-	text "So, did you build your own deck?"
-	line "The strength or weakness of your"
-	line "deck depends only on how you play!"
-	line "In other words, it all depends on"
-	line "the skill of the player! You must"
-	line "become a skilled card Master!"
-	done
-
-Text05e1:
-	text "Congratulations, <RAMNAME>!"
-	line "I hear you have inherited the"
-	line "Legendary Pokémon Cards!"
-	line "The strength of a deck does"
-	line "not depend on any single card,"
-	line "but on how skillfully you are able"
-	line "to use that card. The power of"
-	line "the Legendary Pokémon Cards"
-	line "depends on you! You must become a"
-	line "skilled card Master!"
-	done
-
-Text05e2:
-	text "That's right! Did you try the"
-	line "Challenge Machine I built?"
-	line "See how far you can get with a"
-	line "single deck! Computer opponent data"
-	line "is based on the opponents you have"
-	line "already played against."
-	line "I hope you enjoy the product of my"
-	line "scientific genius!"
 	done
