@@ -1,3 +1,44 @@
+Text069b:
+	text "Energy! Energy!"
+	line "Energy cards are very important!"
+	line "Come back and see me when you"
+	line "collect a lot of Energy cards!"
+	line "Then..."
+	line "I'll let you in on a secret!"
+	done
+
+Text069c:
+	text "When you build a lot of decks,"
+	line "you start to run out of Energy"
+	line "cards. Please give me your Energy"
+	line "cards! Give me all the Energy cards"
+	line "that aren't in your deck!!!"
+	line "Gimme, Gimme! Gimme all of 'em!!!"
+	done
+
+Text069d:
+	text "Give away your Energy cards?"
+	done
+
+Text069e:
+	text "You're so mean!"
+	line "It's OK! I'll ask someone else!"
+	line "Bye!"
+	line "Meanie!"
+	done
+
+Text069f:
+	text "All your Energy cards are"
+	line "in your deck..."
+	line "Then I can't ask for them."
+	line "Bye!"
+	done
+
+Text06a0:
+	text "<RAMNAME> lost all of"
+	line "his spare Energy cards!"
+	done
+	
 Text06a1:
 	text "Wow!"
 	line "Thanks!"

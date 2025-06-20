@@ -1,3 +1,47 @@
+Clerk12ChallengeCupRound3PlayerWon1Text:
+	text "Congratulations!"
+	line "You've defeated 3 opponents!"
+	done
+
+Clerk12ChallengeCupRound3PlayerWon2Text:
+	text "Most unfortunate, <RAMTEXT>. Do"
+	line "try again in the next Challenge Cup."
+	done
+
+RonaldChallengeCup1PlayerWon1Text:
+	text "That was luck!"
+	line "But a loss is a loss..."
+	done
+
+RonaldChallengeCup2Or3PlayerWon1Text:
+	text "Shoot! I got a bad deal!"
+	done
+
+RonaldChallengeCup1PlayerWon2Text:
+	text "<RAMNAME>!"
+	line "I won't lose next time!"
+	done
+
+RonaldChallengeCup2Or3PlayerWon2Text:
+	text "<RAMNAME>!"
+	line "I'll win next time!"
+	done
+
+Clerk12ChallengeCupRound3PlayerWon3Text:
+	text "The Winner of this Challenge Cup"
+	line "is "
+	text "<RAMNAME>!!!"
+	done
+
+Clerk12ChallengeCupRound3PlayerWon4Text:
+	text "<RAMNAME>, your prize"
+	line "is <RAMTEXT>!"
+	done
+
+Clerk12ChallengeCupRound3PlayerWon5Text:
+	text "Congratulations, <RAMNAME>!!!"
+	done
+	
 Text0553:
 	text "Hi, <RAMNAME>."
 	line "What are you doing here?"
@@ -1002,48 +1046,4 @@ Text05e2:
 	line "already played against."
 	line "I hope you enjoy the product of my"
 	line "scientific genius!"
-	done
-
-Text05e3:
-	text "Oh! Waarom zo'n"
-	line "haast, <RAMNAME>?"
-	line "Wat?"
-	line "Je wilt leren hoe je het"
-	line "Pokémon Ruilkaartspel speelt?"
-	line "Dus, ook jij wilt beginnen"
-	line "met het kaartspel spelen!"
-	line "Nou, duelleren is veel leuker"
-	line "dan alleen kaarten verzamelen!"
-	line "Probeer eerst eens te spelen"
-	line "met een oefendeck."
-	line "Hier, neem dit deck van mij maar."
-	line "En nu een tegenstander..."
-	line "Hey, Sam!"
-	line "Speel eens een potje met hem!"
-	done
-
-
-Text05e4:
-	text "Oké, Dr. Mason."
-	line "Hallo, <RAMNAME>."
-	done
-
-Text05e5:
-	text "Oké!"
-	line "Laten we het eens proberen!"
-	done
-
-Text05e6:
-	text "Hey! <RAMNAME>!"
-	line "Kom snel hier!"
-	done
-
-Text05e7:
-	text "Vraag de basisprincipen van"
-	line "het spel maar aan Sam."
-	done
-
-Text05e8:
-	text "Oké, <RAMNAME>."
-	line "Waar wil je iets over weten?"
 	done

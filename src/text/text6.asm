@@ -742,7 +742,7 @@ RonaldChallengeCup2Missed1Text:
 RonaldChallengeCup2Missed2Text:
 	text "Het Uitdagingstoernooi is voorbij!"
 	line "Jammer dat je niet kon deelnemen!"
-	line "De <Lv>8 Mew-prijs is van mij!"
+	line "Die <Lv>8 Mew-prijs is van mij!"
 	line "Je moet echt meedoen aan het"
 	line "volgende Toernooi! Aan de andere"
 	line "kant, waarom zou je ook, aangezien"
@@ -817,201 +817,164 @@ Clerk12ChallengeCup3ActiveText:
 	done
 
 Clerk12ChallengeCupInviteText:
-	text "The game will be a 1-match"
-	line "duel with 4 prizes!"
-	line "We are now accepting entrants here."
-	line "Wouldn't you like to enter?"
+	text "Het spel zal bestaan uit een Duel"
+	line "van 1 wedstrijd met 4 Prijzen!"
+	line "We accepteren hier nu deelnemers."
+	line "Wil je hier aan meedoen?"
 	done
 
 Clerk12WillYouEnterText:
-	text "Will you enter?"
+	text "Wil je meedoen?"
 	done
 
 Clerk12DeclinedText:
-	text "Oh, that's too bad."
-	line "Please do visit us again."
+	text "Oh, dat is jammer."
+	line "We zien je graag later weer terug."
 	done
 
 Clerk12AcceptedText:
-	text "Then please proceed to the stage!"
+	text "Loop dan maar door naar het Podium!"
 	done
 
 Clerk12ChallengeCupIntroText:
-	text "Well, things are heating up"
-	line "here at the Challenge Cup!"
+	text "Nou, het gaat er heftig aan toe"
+	line "hier bij het Uitdagingstoernooi!"
 	done
 
 Clerk12ChallengeCupContenderText:
-	text "Presently, <RAMTEXT> is still"
-	line "a contender!"
+	text "Op dit moment maakt <RAMTEXT>"
+	line "nog steeds kans!"
 	done
 
 Clerk12ChallengeCupRound1ChallengerText:
-	text "<RAMNAME> is the new challenger!"
+	text "<RAMNAME> is de nieuwe uitdager!"
 	done
 
 Clerk12ChallengeCupRound1DuelStartText:
-	text "There will be 4 Prizes!"
-	line "OK!! Let the duel begin!"
+	text "Jullie zullen spelen met 4 Prijzen!"
+	line "Oké!! Laat het Duel beginnen!"
 	done
 
 Clerk12ChallengeCupRound2PlayerLostText:
-	text "The winner is <RAMTEXT>!!"
+	text "De winnaar is <RAMTEXT>!!"
 	line ""
-	text "<RAMTEXT> has defeated 2 opponents!"
-	line "Just 1 more opponent to go"
-	line "before winning the prize!"
+	text "<RAMTEXT> heeft 2 tegenstanders"
+	line "verslagen!"
+	line "Nog maar 1 tegenstander te gaan"
+	line "voor het winnen van de prijs!"
 	done
 
 Clerk12ChallengeCupLostContinuedText:
-	text "Too bad, <RAMNAME>."
-	line "Have a safe trip home!"
+	text "Helaas, <RAMNAME>."
+	line "Ik wens je een veilige thuisreis!"
 	done
 
 Clerk12ChallengeCupRound1PlayerLostText:
-	text "The Winner is <RAMTEXT>!!!"
+	text "De winnaar is <RAMTEXT>!!!"
 	line ""
-	text "<RAMTEXT> has defeated 1 opponent!"
-	line "2 more opponents to go"
-	line "before winning the prize!"
+	text "<RAMTEXT> heeft 1 tegenstander"
+	line "verslagen!"
+	line "Nog maar 2 tegenstanders te gaan"
+	line "voor het winnen van de prijs!"
 	done
 
 Clerk12ChallengeCupPlayerLostToRonaldText:
-	text "How unfortunate! You weren't able"
-	line "to defeat the last opponent!"
-	line "It was close, but <RAMNAME> was"
-	line "defeated by the third opponent!"
+	text "Helaas! Je was niet in staat om de"
+	line "laatste tegenstander te verslaan!"
+	line "Het scheelde niet veel, maar"
+	line "<RAMNAME> werd verslagen door"
+	line "de derde tegenstander!"
 	done
 
 RonaldChallengeCup2Or3PlayerLostText:
-	text "You see! I'm the better player?"
-	line "Two more opponents to go"
-	line "before I win the Challenge Cup!!"
+	text "Zie je nou dat ik de betere speler"
+	line "ben? Nog twee tegenstanders te gaan"
+	line "voor ik het Uitdagingstoernooi"
+	line "heb gewonnen!!"
 	done
 
 RonaldChallengeCup1PlayerLostText:
-	text "Ha ha ha! How about that!?!"
-	line "I win!!"
-	line "2 more opponents to go and"
-	line "the <Lv>8 Mew belongs to me!"
+	text "Ha ha ha! Wat dacht je daarvan!?!"
+	line "Ik win!!"
+	line "Nog 2 tegenstanders te gaan en dan"
+	line "is die <Lv>8 Mew van mij!"
 	done
 
 Clerk12ChallengeCupRound1PlayerWonText:
-	text "Congratulations!"
-	line "The Winner is <RAMNAME>!"
+	text "Gefeliciteerd!"
+	line "De winnaar is <RAMNAME>!"
 	line ""
-	text "<RAMNAME> has defeated"
-	line "1 opponent!!!"
+	text "<RAMNAME> heeft 1 tegenstander"
+	line "verslagen!!!"
 	done
 
 Clerk12ChallengeCupRound2PlayerWonText:
-	text "Way to go, <RAMNAME>!"
-	line "That's 2 wins!!!"
-	line "One more opponent to go before"
-	line "winning the Challenge Cup!"
+	text "Goed gedaan, <RAMNAME>!"
+	line ""
+	line "Dat zijn 2 overwinningen!!!"
+	line "Nog maar één tegenstander te gaan"
+	line "voordat je het Uitdagingstoernooi"
+	line "hebt gewonnen!!"
 	done
 
 Clerk12ChallengeCupPlayerWonContinuedText:
-	text "Most unfortunate, <RAMTEXT>."
-	line "Have a safe trip home!"
+	text "Wat onzettend jammer, <RAMTEXT>."
+	line "Ik wens je een veilige thuisreis!"
 	done
 
 Clerk12ChallengeCupNextChallengerText:
-	text "Let's meet our next challenger!"
+	text "Laten we onze volgende uitdager"
+	line "ontmoeten!"
 	done
 
 Clerk12ChallengeCupRound2ChallengerText:
-	text "Our new challenger is..."
+	text "Onze nieuwe uitdager is..."
 	line ""
 	text "<RAMTEXT>!"
 	done
 
 Clerk12ChallengeCupRound3ChallengerText:
-	text "The third opponent is"
+	text "De derde tegenstander is..."
 	line ""
 	text "<RAMTEXT>!"
 	done
 
 RonaldChallengeCup2BeforeDuelText:
-	text "Hey, <RAMNAME>!"
-	line "I'm not gonna lose to you!"
-	line "The <Lv>60 Mewtwo belongs to me!!!"
+	text "Hé, <RAMNAME>!"
+	line "Ik ga niet van jou verliezen!"
+	line "Die <Lv>60 Mewtwo is van mij!!!"
 	done
 
 RonaldChallengeCup1BeforeDuelText:
 	text "<RAMNAME>!"
-	line "I'm going to defeat you!"
-	line "The <Lv>8 Mew belongs to me!!!"
+	line "Ik ga je verslaan!"
+	line "Die <Lv>8 Mew is van mij!!!"
 	done
 
 Clerk12ChallengeCupRound3DuelReadyText:
-	text "With that, let the third match"
-	line "begin!"
+	text "Dan kan nu de derde wedstrijd"
+	line "beginnen!"
 	done
 
 Clerk12AreYourDecksReadyText:
-	text "Are your decks ready?"
+	text "Zijn jullie decks klaar?"
 	done
 
 Clerk12PrepareYourDeckText:
-	text "Prepare your deck?"
+	text "Je deck voorbereiden?"
 	done
 
 Clerk12ChallengeCupRound2DuelStartText:
-	text "Well then, <RAMNAME>!"
-	line "Let the second match begin!"
+	text "Nou, <RAMNAME>!"
+	line "Laat de tweede wedstrijd beginnen!"
 	done
 
 Clerk12ChallengeCupRound3DuelStartText:
-	text "Well, <RAMNAME>, let the third,"
-	line "and final, match begin!"
+	text "Nou, <RAMNAME>, laat de derde en"
+	line "laatste wedstrijd beginnen!"
 	done
 
 Clerk12MakeYourPreparationsText:
-	text "Now then, please make"
-	line "your preparations!"
-	done
-
-Clerk12ChallengeCupRound3PlayerWon1Text:
-	text "Congratulations!"
-	line "You've defeated 3 opponents!"
-	done
-
-Clerk12ChallengeCupRound3PlayerWon2Text:
-	text "Most unfortunate, <RAMTEXT>. Do"
-	line "try again in the next Challenge Cup."
-	done
-
-RonaldChallengeCup1PlayerWon1Text:
-	text "That was luck!"
-	line "But a loss is a loss..."
-	done
-
-RonaldChallengeCup2Or3PlayerWon1Text:
-	text "Shoot! I got a bad deal!"
-	done
-
-RonaldChallengeCup1PlayerWon2Text:
-	text "<RAMNAME>!"
-	line "I won't lose next time!"
-	done
-
-RonaldChallengeCup2Or3PlayerWon2Text:
-	text "<RAMNAME>!"
-	line "I'll win next time!"
-	done
-
-Clerk12ChallengeCupRound3PlayerWon3Text:
-	text "The Winner of this Challenge Cup"
-	line "is "
-	text "<RAMNAME>!!!"
-	done
-
-Clerk12ChallengeCupRound3PlayerWon4Text:
-	text "<RAMNAME>, your prize"
-	line "is <RAMTEXT>!"
-	done
-
-Clerk12ChallengeCupRound3PlayerWon5Text:
-	text "Congratulations, <RAMNAME>!!!"
+	text "Oké, jullie kunnen je nu"
+	line "voorbereiden!"
 	done

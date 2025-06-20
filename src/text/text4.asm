@@ -1293,7 +1293,7 @@ SaraDeclinedDuelText:
 	done
 
 SaraStartDuelText:
-	text "Er zullen 2 Prijzen zijn."
+	text "We zullen spelen met 2 Prijzen."
 	line "Het Duel zal uit 1 wedstrijd"
 	line "bestaan!"
 	line "Oké, laten we beginnen!"
