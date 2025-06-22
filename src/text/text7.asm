@@ -323,7 +323,7 @@ Text057e:
 	done
 
 Text057f:
-	text "Is je deck klaar, <RAMNAME>?"
+	text "Is je deck gereed, <RAMNAME>?"
 	done
 
 PrepareForTheDuelText:
@@ -391,7 +391,7 @@ Text058a:
 
 Text058b:
 	text "<RAMNAME>,"
-	line "heb je je deck klaar?"
+	line "heb je je deck gereed?"
 	done
 
 UnusedText058c: ; Unused
@@ -463,7 +463,7 @@ Text0597:
 	done
 
 Text0598:
-	text "Is je deck klaar, <RAMNAME>?"
+	text "Is je deck gereed, <RAMNAME>?"
 	done
 
 UnusedText0599: ; Unused
@@ -509,65 +509,65 @@ Text059f:
 	done
 
 Text05a0:
-	text "Congratulations, <RAMNAME>!"
-	line "You're a master duelist!!!"
-	line "But..."
+	text "Gefeliciteerd, <RAMNAME>!"
+	line "Je bent een meesterduellist!!!"
+	line "Maar..."
 	done
 
 Text05a1:
-	text "We have a problem..."
-	line "There is another who has"
-	line "defeated us..."
-	line "You must duel him..."
+	text "We hebben een probleem..."
+	line "Er is nog iemand die ons heeft"
+	line "verslagen..."
+	line "Je moet met hem duelleren..."
 	done
 
 Text05a2:
-	text "You must duel Ronald again."
+	text "Je moet weer met Ronald duelleren."
 	done
 
 Text05a3:
-	text "Congratulations, <RAMNAME>!"
-	line "You're a master duelist!"
+	text "Gefeliciteerd, <RAMNAME>!"
+	line "Je bent een meesterduellist!"
 	done
 
 Text05a4:
-	text "Even I, Rod, am no longer any"
-	line "match for you."
-	line "Please, enter the"
-	line "Hall of Honor!"
+	text "Zelfs ik, Rod, ben geen partij meer"
+	line "voor jou."
+	line "Alsjeblieft, betreed de Erezaal!"
 	done
 
 Text05a5:
-	text "Yeah! That's right!"
-	line "It's me!!! Ronald!!!"
-	line "I have already inherited the"
-	line "Legendary Pokémon Cards!"
+	text "Ja! Inderdaad!"
+	line "Ik ben het!!! Ronald!!!"
+	line "Ik heb de Legendarische Pokémon-"
+	line "kaarten al overgenomen!"
 	done
 
 Text05a6:
-	text "No, Ronald! That cannot be"
-	line "allowed! He, too, has earned"
-	line "the right to inherit the"
-	line "Legendary Pokémon Cards!"
+	text "Nee, Ronald! Dat kunnen we niet"
+	line "toestaan! He heeft ook het recht"
+	line "verdiend om de Legendarische"
+	line "Pokémonkaarten over te nemen!"
 	line "Ronald! <RAMNAME>!"
-	line "You two must duel to determine who"
-	line "will inherit the Legendary Pokémon"
-	line "Cards. So say the Rules!"
+	line "Jullie twee moeten duelleren om"
+	line "te bepalen wie de Legendarische"
+	line "Pokémonkaarten zal overnemen."
+	line "Zo staat het in de regels!"
 	done
 
 Text05a7:
-	text "Alright, Rod!"
+	text "Oké dan, Rod!"
 	done
 
 Text05a8:
-	text "Yeah! That's right! It's me!!!"
+	text "Ja! Inderdaad! Ik ben het!!!"
 	line "Ronald!!!"
-	line "I'll take your challenge,"
+	line "Ik neem je uitdaging aan,"
 	line "<RAMNAME>!"
 	done
 
 Text05a9:
-	text "Is your deck ready, <RAMNAME>?"
+	text "Is je deck gereed, <RAMNAME>?"
 	done
 
 UnusedText05aa: ; Unused
@@ -575,85 +575,88 @@ UnusedText05aa: ; Unused
 	done
 
 Text05ab:
-	text "OK, Then let's begin this"
-	line "ultimate duel!"
+	text "Oké, laten we dan dit ultieme duel"
+	line "beginnen!"
 	done
 
 Text05ac:
-	text "I was here first! The Legendary"
-	line "Pokémon Cards belong to me!"
-	line "I'll make it all too clear to you,"
+	text "Ik was hier eerst! De Legendarische"
+	line "Pokémonkaarten zijn van mij!"
+	line "Ik zal het je enorm duidelijk maken,"
 	line "<RAMNAME>!"
 	done
 
 Text05ad:
-	text "It's a 1-match duel with 6-prizes!"
-	line "Let it begin!"
+	text "Het wordt een duel van 1 wedstrijd"
+	line "met 6 Prijzen!"
+	line "Laten we beginnen!"
 	done
 
 Text05ae:
-	text "Now do you know who the better"
-	line "player is!?!"
-	line "The Legendary Pokémon Cards"
-	line "belong to me!"
-	line "If you still won't give up,"
-	line "I'll take you on again..."
-	line "But first, you'll have to defeat"
-	line "all 4 of the Grand Masters again!"
+	text "Zie je nou eindelijk wie de betere"
+	line "speler is!?!"
+	line "De Legendarische Pokémonkaarten"
+	line "zijn van mij!"
+	line "Als je nog steeds niet op wilt"
+	line "geven, zal ik je uitdaging"
+	line "opnieuw aannemen..."
+	line "Maar eerst zul je alle 4 de Groot-"
+	line "meesters opnieuw moeten verslaan!"
 	done
 
 Text05af:
-	text "No!!! How...? How could I lose!?!"
+	text "Nee!!! Hoe...? Hoe kon ik verliezen!?!"
 	done
 
 Text05b0:
-	text "I'm sorry, but the Legendary Pokémon"
-	line "Cards have chosen <RAMNAME>."
+	text "Het spijt me, maar de Legendarische"
+	line "Pokémonkaarten kozen <RAMNAME>."
 	done
 
 Text05b1:
-	text "The Legendary Pokémon Cards"
-	line "vanished from Ronald's deck!"
+	text "De Legendarische Pokémonkaarten"
+	line "verdwenen uit Ronald's deck!"
 	done
 
 Text05b2:
-	text "No! My...My Legendary"
-	line "Pokémon Cards!"
-	line "No...!"
-	line "Noooooo!!!"
+	text "Nee! Mijn... Mijn Legendarische"
+	line "Pokémonkaarten!"
+	line "Nee...!"
+	line "Neeeeee!!!"
 	done
 
 Text05b3:
-	text "Congratulations, <RAMNAME>!"
-	line "You are a card Master"
-	line "worthy of inheriting"
-	line "the Legendary Pokémon Cards!"
+	text "Gefeliciteerd, <RAMNAME>!"
+	line "Je bent een Kaartmeester die het"
+	line "waard is om de Legendarische"
+	line "Pokémonkaarten over te nemen!"
+	line "De Legendarische Pokémonkaarten"
 	line "The Legendary Pokémon Cards"
-	line "recognize you as a true Master!"
+	line "erkennen je als een echte Meester!"
 	done
 
 Text05b4:
-	text "Now go through to the Hall of Honor"
-	line "to receive the Legendary Cards!"
+	text "Ga nu door de Erezaal om de"
+	line "Legendarische Kaarten te ontvangen!"
 	done
 
 Text05b5:
-	text "The Legendary Auto Deck Machine"
-	line "has been turned on!"
+	text "De Legendarische Auto-Deckmachine"
+	line "is aangezet!"
 	done
 
 WouldYouLikeToBuildADeckText:
-	text "Would you like to build a deck?"
+	text "Wil je een deck bouwen?"
 	done
 
 Text05b7:
-	text "The Legendary Auto Deck Machine"
-	line "has been turned off!"
+	text "De Legendarische Auto-Deckmachine"
+	line "is uitgezet!"
 	done
 
 Text05b8:
-	text "The 4 Legendary Pokémon Cards"
-	line "float, glowing in the air!"
+	text "De 4 Legendarische Pokémonkaarten"
+	line "zweven gloeiend in de lucht!"
 	done
 
 Text05b9:

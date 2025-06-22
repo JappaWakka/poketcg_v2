@@ -957,7 +957,7 @@ Clerk12ChallengeCupRound3DuelReadyText:
 	done
 
 Clerk12AreYourDecksReadyText:
-	text "Zijn jullie decks klaar?"
+	text "Zijn jullie decks gereed?"
 	done
 
 Clerk12PrepareYourDeckText:
