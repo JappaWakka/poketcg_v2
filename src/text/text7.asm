@@ -311,86 +311,87 @@ Text057c:
 	done
 
 Text057d:
-	text "I, Thunder Steve, am your next"
-	line "opponent. Hey! Do you want the"
-	line "Legendary Pokémon Cards!?!"
-	line "Then you must defeat me first!"
+	text "Ik, Donder-Steve, ben je volgende"
+	line "tegenstander. Hé! Wil je de"
+	line "Legendarische Pokémonkaarten!?!"
+	line "Dan moet je mij eerst verslaan!"
 	done
 
 Text057e:
-	text "Hey, <RAMNAME>!"
-	line "Come battle Steve!"
+	text "Hé, <RAMNAME>!"
+	line "Kom duelleren met Steve!"
 	done
 
 Text057f:
-	text "Is your deck ready, <RAMNAME>?"
+	text "Is je deck klaar, <RAMNAME>?"
 	done
 
 PrepareForTheDuelText:
-	text "Prepare for the duel?"
+	text "Voorbereiden op het duel?"
 	done
 
 Text0581:
-	text "All right then!"
-	line "Let's begin the duel!"
+	text "Oké dan!"
+	line "Laat het duel beginnen!"
 	done
 
 Text0582:
-	text "6 Prizes!"
-	line "Ready? Set! Go!"
+	text "6 Prijzen!"
+	line "Klaar voor de start?! Af!"
 	done
 
 Text0583:
-	text "You lose! You still have a"
-	line "long way to go,"
-	line "but don't give up!"
-	line "Challenge me again!"
+	text "Je hebt verloren! Je hebt nog een"
+	line "lange weg te gaan, maar geef niet"
+	line "op! Daag me nog een keer uit!"
 	done
 
 Text0584:
-	text "You lose! You still have a"
-	line "long way to go!"
-	line "But don't give up!"
-	line "Challenge me again!"
+	text "Je hebt verloren! Je hebt nog een"
+	line "lange weg te gaan!"
+	line "Maar geef niet op!"
+	line "Daag me nog een keer uit!"
 	done
 
 Text0585:
-	text "You're the winner! You're the"
-	line "greatest! With that skill, I"
-	line "feel we can give you the"
-	line "Legendary Pokémon Cards!"
+	text "Je bent de winnaar! Je bent de"
+	line "beste! Met die vaardigheid heb ik"
+	line "het gevoel dat we je de Legenda-"
+	line "rische Pokémonkaarten kunnen geven!"
 	done
 
 Text0586:
-	text "You're the winner!"
-	line "You're the greatest!"
+	text "Je bent de winnaar!"
+	line "Je bent de beste!"
 	done
 
 Text0587:
-	text "Very good, <RAMNAME>."
-	line "Your next opponent is Jack!"
+	text "Erg goed, <RAMNAME>."
+	line "Je volgende tegenstander is Jack!"
 	done
 
 Text0588:
-	text "That's great, <RAMNAME>!"
-	line "Jack is your next opponent!"
+	text "Dat is geweldig, <RAMNAME>!"
+	line "Jack is je volgende tegenstander!"
 	done
 
 Text0589:
-	text "I, Jack, am your third opponent."
-	line "You shall not be able to defeat"
-	line "my splendid deck!"
-	line "Come! I shall prove it to you!"
+	text "Ik, Jack, ben jouw derde tegen-"
+	line "stander. Ik verzeker je dat je"
+	line "mijn sublieme deck niet zult"
+	line "kunnen verslaan!"
+	line "Kom! Ik zal het je bewijzen!"
 	done
 
 Text058a:
-	text "I shall duel you with my splendid"
-	line "deck! I shan't lose this time!"
+	text "Ik zal met mijn sublieme deck met"
+	line "je duelleren! Maar deze keer zal ik"
+	line "niet verliezen!"
 	done
 
 Text058b:
 	text "<RAMNAME>,"
-	line "have you readied your deck?"
+	line "heb je je deck klaar?"
 	done
 
 UnusedText058c: ; Unused
@@ -398,71 +399,71 @@ UnusedText058c: ; Unused
 	done
 
 Text058d:
-	text "Very well then!"
-	line "Let us begin the duel!"
+	text "Goed dan!"
+	line "Laat het duel beginnen!"
 	done
 
 Text058e:
-	text "Shall we start?"
-	line "There will be 6 Prizes!"
+	text "Zullen we van start gaan? Er zal"
+	line "met 6 Prijzen gespeeld worden!"
 	done
 
 Text058f:
-	text "What did I tell you?"
-	line "There was absolutely no way you"
-	line "could have defeated my"
-	line "splendid deck!"
+	text "Wat heb ik je toch verteld?"
+	line "Er was absoluut geen mogelijkheid"
+	line "voor je om mijn sublieme deck te"
+	line "verslaan!"
 	done
 
 Text0590:
-	text "What did I tell you?"
-	line "There was no way you could have"
-	line "defeated my splendid deck!"
+	text "Wat heb ik je toch verteld?"
+	line "Er was geen mogelijkheid voor je"
+	line "om mijn sublieme deck te verslaan!"
 	done
 
 Text0591:
-	text "I simply can't believe my"
-	line "splendid deck could lose..."
-	line "It is a mortifying thought,"
-	line "but it appears you are better"
-	line "than I. Very well! Now"
-	line "on to your final test..."
+	text "Ik kan simpelweg niet geloven dat"
+	line "mijn sublieme deck kon verliezen..."
+	line "Het is een vernederende gedachte,"
+	line "maar het lijkt erop dat je beter"
+	line "bent dan ik. Prima! Nu op naar je"
+	line "laatste test..."
 	done
 
 Text0592:
-	text "I simply can't believe my"
-	line "splendid deck could lose..."
-	line "It would appear that you are"
-	line "a true Master..."
+	text "Ik kan simpelweg niet geloven dat"
+	line "mijn sublieme deck kon verliezen..."
+	line "Het lijkt erop dat je een ware"
+	line "Meester bent..."
 	done
 
 Text0593:
-	text "Spectacular dueling! I, Rod,"
-	line "will be your next opponent!"
+	text "Spectaculair geduelleerd! Ik, Rod,"
+	line "zal je volgende tegenstander zijn!"
 	done
 
 Text0594:
-	text "Splendid, as usual!"
-	line "I will be your next opponent!"
+	text "Prachtig, zoals altijd! Ik zal"
+	line "je volgende tegenstander zijn!"
 	done
 
 Text0595:
-	text "This is your final duel!"
-	line "Show me what you're made of!"
+	text "Dit is je laatste duel!"
+	line "Laat zien wat je waard bent!"
 	done
 
 Text0596:
-	text "If you win this duel, I will"
-	line "allow you to duel Ronald!"
+	text "Als je dit duel wint, mag je tegen"
+	line "Ronald duelleren!"
 	done
 
 Text0597:
-	text "This is your final duel!"
-	line "Show me what you're made of!"
+	text "Dit is je laatste duel!"
+	line "Laat zien wat je waard bent!"
 	done
 
 Text0598:
-	text "Is your deck ready, <RAMNAME>?"
+	text "Is je deck klaar, <RAMNAME>?"
 	done
 
 UnusedText0599: ; Unused
@@ -470,40 +471,41 @@ UnusedText0599: ; Unused
 	done
 
 Text059a:
-	text "Then let's begin the final duel -"
-	line "a 1-match duel for 6 Prizes!!!"
+	text "Dan beginnen we het laatste duel -"
+	line "1 wedstrijd voor 6 Prijzen!!!"
 	done
 
 Text059b:
-	text "A 1-match duel for 6 prizes!!"
+	text "Een duel van 1 wedstrijd voor 6"
+	line "Prijzen!!"
 	done
 
 Text059c:
-	text "That was close, but you came"
-	line "up a little short."
+	text "Dat scheelde niks, maar je kwam"
+	line "iets te kort."
 	done
 
 Text059d:
-	text "I'm sorry, but I cannot pass the"
-	line "the Legendary Pokémon Cards to you."
-	line "Continue training and try again."
-	line "Until then!"
+	text "Het spijt me, maar ik kan je de"
+	line "Legendarische kaarten niet laten"
+	line "overnemen. Blijf trainen en probeer"
+	line "het later opnieuw. Tot dan!"
 	done
 
 Text059e:
-	text "Continue training and try again."
-	line "Until then!"
+	text "Blijf trainen en probeer het later"
+	line "opnieuw. Tot dan!"
 	done
 
 Text059f:
-	text "Wha-what on earth?  Even"
-	line "I, Rod, have been defeated?!?"
-	line "Wonderful! This is wonderful!!"
-	line "Congratulations, <RAMNAME>."
-	line "You have proven yourself worthy"
-	line "enough to inherit the"
-	line "Legendary Pokémon Cards!!!"
-	line "Except..."
+	text "Wa-wat in vredesnaam? Zelfs ik,"
+	line "Rod, ben verslagen!?!"
+	line "Fantastisch! Dit is Fantastisch!!"
+	line "Gefeliciteerd, <RAMNAME>."
+	line "Je hebt bewezen dat je het waard"
+	line "bent om de Legendarische Pokémon-"
+	line "kaarten over te nemen!!!"
+	line "Maar..."
 	done
 
 Text05a0:

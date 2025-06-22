@@ -775,7 +775,7 @@ Text0652:
 	done
 
 Text0653:
-	text "Huh?!? You're not even half as good"
+	text "Huh!?! You're not even half as good"
 	line "as I am!"
 	line "There's no way you'll be able to"
 	line "inherit the Legendary Pokémon Cards!"
