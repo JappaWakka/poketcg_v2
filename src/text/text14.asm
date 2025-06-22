@@ -804,6 +804,7 @@ ClefablesMetronomeDescriptionCont:
 	text "(Clefable's type is nog steeds"
 	line "Kleurloos, onafhankelijk van welk"
 	line "type de Verdedigende Pokémon is.)"
+	done
 
 ClefablesMinimizeDescription:
 	text "Alle schade die door aanvallen aan"
