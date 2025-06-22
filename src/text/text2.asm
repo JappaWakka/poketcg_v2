@@ -1575,7 +1575,7 @@ UppercaseKeyboardText:
 	linefw "( ) < > = + - • /"
 	linefw "' ” , .   ! ? ꞉ &"
 	text ""
-	line " Kleine l.     Klaar     Accenten "
+	line " Klein         Klaar     Accenten "
 	done
 
 LowercaseKeyboardText:
@@ -1586,7 +1586,7 @@ LowercaseKeyboardText:
 	linefw "( ) < > = + - • /"
 	linefw "' ” , .   ! ? ꞉ &"
 	text ""
-	line " Hoofdl.       Klaar     Accenten "
+	line " Groot         Klaar     Accenten "
 	done
 
 AccentsKeyboardText:
@@ -1597,7 +1597,7 @@ AccentsKeyboardText:
 	linefw "ê ë ì í î ï ñ ò ó"
 	linefw "ô õ ö ù ú û ü ý ÿ"
 	text ""
-	line " Hoofdl.       Klaar     Kleine l."
+	line " Groot         Klaar     Klein    "
 	done
 
 NewDeckText:
