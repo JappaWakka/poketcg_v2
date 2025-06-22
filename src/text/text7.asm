@@ -656,56 +656,60 @@ Text05b7:
 
 Text05b8:
 	text "De 4 Legendarische Pokémonkaarten"
-	line "zweven gloeiend in de lucht!"
+	line "zweven stralend in de lucht!"
 	done
 
 Text05b9:
-	text "The Legendary Pokémon Cards"
-	line "speak to you..."
-	line " ”You who have inherited us..."
-	line "  Great Card Master!"
-	line "  Our owner must not forget:"
-	line "  Inheriting us does not make you"
-	line "  a Pokémon card Master!"
-	line "  A true Pokémon card Master is"
-	line "  one who has the skill to use"
-	line "  the abilities of the different"
-	line "  cards and the courage to duel"
-	line "  powerful opponents. And most"
-	line "  of all, the ability to love the"
-	line "  Pokémon Trading Card Game"
-	line "  no matter what - win or lose!"
-	line "  A new journey has just begun...”"
+	text "De Legendarische Pokémonkaarten"
+	line "spreken tegen je..."
+	line " ”Jij die ons overgenomen hebt..."
+	line "  Grote Kaartmeester!"
+	line "  Onze eigenaar moet niet vergeten:"
+	line "  Ons over mogen nemen maakt je nog"
+	line "  geen Pokémon Kaartmeester!"
+	line "  Een ware Pokémon Kaartmeester is"
+	line "  iemand die de vaardigheden van"
+	line "  de verschillende kaarten kan"
+	line "  gebruiken en de moed heeft om"
+	line "  met sterke tegenstanders te"
+	line "  duelleren. En bovenal de gave"
+	line "  om hoe dan ook van het Pokémon"
+	line "  Ruilkaartspel te houden - of je"
+	line "  nu wint of verliest!"
+	line "  Een nieuwe reis is zojuist"
+	line "  begonnen...”"
 	done
 
 Text05ba:
-	text "One of the Legendary Pokémon Cards"
-	line "floats, glowing in the air!"
+	text "Een van de Legendarische Pokémon-"
+	line "kaarten zweeft stralend in de lucht!"
 	done
 
 Text05bb:
-	text "A Legendary Pokémon Card"
-	line "floats, glowing in the air!"
+	text "Een Legendarische Pokémonkaart"
+	line "zweeft stralend in de lucht!"
 	done
 
 Text05bc:
-	text "The Legendary Pokémon Cards"
-	line "speak to you..."
-	line " ”You who have inherited us..."
-	line "  Great Card Master!"
-	line "  There are no cards left for us"
-	line "  to give you, but do not forget:"
-	line "  Inheriting us does not make you"
-	line "  a Pokémon card Master!"
-	line "  A true Pokémon card Master"
-	line "  is one who has the skill to use"
-	line "  the abilities of the different"
-	line "  cards and the courage to duel"
-	line "  powerful opponents. And above"
-	line "  all, the ability to love the"
-	line "  Pokémon Trading Card Game no"
-	line "  matter what - win or lose!"
-	line "  A new journey has just begun...”"
+	text "De Legendarische Pokémonkaarten"
+	line "spreken tegen je..."
+	line " ”Jij die ons overgenomen hebt..."
+	line "  Grote Kaartmeester!"
+	line "  Er zijn geen kaarten meer over die"
+	line "  we je kunnen geven, maar vergeet"
+	line "  niet: Ons over mogen nemen maakt"
+	line "  je nog geen Pokémon Kaartmeester!"
+	line "  Een ware Pokémon Kaartmeester is"
+	line "  iemand die de vaardigheden van"
+	line "  de verschillende kaarten kan"
+	line "  gebruiken en de moed heeft om"
+	line "  met sterke tegenstanders te"
+	line "  duelleren. En bovenal de gave"
+	line "  om hoe dan ook van het Pokémon"
+	line "  Ruilkaartspel te houden - of je"
+	line "  nu wint of verliest!"
+	line "  Een nieuwe reis is zojuist"
+	line "  begonnen...”"
 	done
 
 ItsTheChallengeMachineText:
@@ -727,14 +731,14 @@ Tech1MasterMedalExplanationText:
 	done
 
 Tech1AutoDeckMachineExplanationText:
-	text "You finally inherited the"
-	line "Legendary Pokémon Cards!"
-	line "Did you see the Legendary Auto"
-	line "Deck Machine?"
-	line "It is rumored that it's in the"
-	line "Hall of Honor at Pokémon Dome."
-	line "It supposedly holds the secret"
-	line "to a very powerful deck!"
+	text "Je mocht eindelijk de Legendarische"
+	line "Pokémonkaarten overnemen!"
+	line "Heb je de Legendarische Auto-Deck-"
+	line "machine gezien?"
+	line "Het gerucht gaat dat hij in de"
+	line "Erezaal in de Pokémon-Koepel staat."
+	line "Het bevat vermoedelijk het geheim"
+	line "van een zeer krachtig deck!"
 	done
 
 Tech1FewEnergyCardsText:
@@ -756,43 +760,47 @@ Tech1GoodbyeText:
 	done
 
 Tech2LegendaryCardsExplanationText:
-	text "Are you also hoping to inherit"
-	line "the Legendary Pokémon Cards?"
-	line "If you want the Legendary Cards,"
-	line "you must defeat the Grand Masters."
-	line "To duel the Grand Masters, you"
-	line "must first get the Master Medals."
-	line "The 8 Masters of the Card Clubs"
-	line "each have a Master Medal. Go to the"
-	line "Pokémon Dome if you want to learn"
-	line "more about the Legendary Cards."
+	text "Hoop jij ook de Legendarische"
+	line "Pokémonkaarten over te mogen nemen?"
+	line "Als je de Legendarische Pokémon-"
+	line "kaarten wilt, moet je de Groot-"
+	line "meesters verslaan. Om te duelleren"
+	line "met de Grootmeesters moet je eerst"
+	line "de Meestermedailles verzamelen."
+	line "De 8 Meesters van de Kaartclubs"
+	line "hebben elk een Meestermedaille."
+	line "Ga naar de Pokémon-Koepel als"
+	line "je meer wilt leren over de"
+	line "Legendarische Kaarten."
 	done
 
 Tech2LegendaryCardsCongratsText:
-	text "You finally inherited the"
-	line "Legendary Pokémon Cards!"
-	line "Amazing!"
-	line "Congratulations, <RAMNAME>!!!"
+	text "Je mocht eindelijk de Legendarische"
+	line "Pokémonkaarten overnemen!"
+	line "Geweldig!"
+	line "Gefeliciteerd, <RAMNAME>!!!"
 	done
 
 Tech3BoosterPackExplanationText:
-	text "When you defeat a club member,"
-	line "you'll receive a booster pack."
-	line "Each booster pack has 10 cards."
-	line "The cards differ depending on"
-	line "the booster pack you receive."
-	line "The type of booster pack differs"
-	line "depending on who you duel,"
-	line "so choose your opponents well."
+	text "Als je een Clublid verslaat, ontvang"
+	line "je een Booster-Pakje. Elk Booster-"
+	line "Pakje bevat 10 kaarten. De kaarten"
+	line "verschillen per Booster-Pakje dat je"
+	line "ontvangt. Het soort Booster-Pakje"
+	line "verschilt per persoon met wie je"
+	line "duelleert, dus kies je tegenstanders"
+	line "verstandig."
 	done
 
 Tech3LegendaryCardsCongratsText:
-	text "Congratulations on inheriting"
-	line "the Legendary Pokémon Cards,"
-	line "<RAMNAME>! Now you should try"
-	line "dueling different people using the"
-	line "cards you inherited. I'm sure"
-	line "you'll have a good time!"
+	text "Gefeliciteerd met het over mogen"
+	line "nemen van de Legendarische Pokémon-"
+	line "kaarten, <RAMNAME>!"
+	line "Ga nou maar eens duelleren tegen"
+	line "verschillende mensen met de kaarten"
+	line "die je overgenomen hebt. Ik weet"
+	line "zeker dat je een leuke tijd zult"
+	line "hebben!"
 	done
 
 Tech4ClubsExplanationText:
@@ -805,11 +813,11 @@ Tech4ClubsExplanationText:
 	done
 
 Tech4DefeatedTheGrandMastersText:
-	text "Amazing! You beat the 8 Club"
-	line "Masters!"
-	line "And you even defeated the"
+	text "Fantastisch! Je hebt alle 8 Club-"
+	line "meesters verslagen! En je hebt"
+	line "zelfs de 4 Grootmeesters verslagen!"
+	line "Geweldig!"
 	done
-	line "4 Grand Masters! Amazing!"
 
 Tech5DiaryAndEmailExplanationText:
 	text "Om je spel op te slaan, druk je op"
@@ -821,17 +829,19 @@ Tech5DiaryAndEmailExplanationText:
 	done
 
 Tech5ChallengeMachineExplanationText:
-	text "This is the Challenge Machine"
-	line "created by Dr. Mason!"
-	line "The Challenge Machine is a"
-	line "Pokémon TCG Dueling Machine."
-	line "The rules of the game are simple:"
-	line "choose 1 deck with which you must"
-	line "use to duel 5 computer opponents!"
-	line "If you can defeat the 5 opponents,"
-	line "you win! You can also play to"
-	line "extend your winning streak!"
-	line "Build a deck and give it a try,"
+	text "Dit is de Uitdagingsmachine die"
+	line "Dr. Mason heeft ontwikkeld!"
+	line "De Uitdagingsmachine is een Pokémon"
+	line "Ruilkaartspel-Duelleermachine."
+	line "De regels van het spel zijn simpel:"
+	line "kies 1 deck waarmee je tegen"
+	line "5 computertegenstanders moet"
+	line "duelleren!"
+	line "Als je de 5 tegenstanders kunt"
+	line "verslaan, win je! Je kunt ook"
+	line "doorspelen om je overwinnings-"
+	line "reeks te verlengen!"
+	line "Bouw een deck en probeer het eens,"
 	line "<RAMNAME>!"
 	done
 
@@ -884,10 +894,10 @@ Text05d3:
 	done
 
 Text05d4:
-	text "So, have you learned how to"
-	line "play the game?"
-	line "I hope you enjoy playing the"
-	line "Pokémon Trading Card Game!"
+	text "Dus, heb je geleerd hoe je het"
+	line "spel moet spelen? Ik hoop dat je"
+	line "het leuk zult vinden om het Pokémon"
+	line "Ruilkaartspel te spelen!"
 	done
 
 Text05d5:
