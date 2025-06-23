@@ -1,56 +1,61 @@
 Text05de:
-	text "First, learning how to use your"
-	line "deck is very important."
-	line "Duel against many people to check"
-	line "your deck's performance."
-	line "The Auto Deck Machines are handy"
-	line "when you want to rebuild your deck."
-	line "If you have the required cards, it"
-	line "will automatically build a deck"
-	line "for you. Collect new cards to"
-	line "build new decks!"
+	text "Ten eerste is het erg belangrijk"
+	line "om te leren hoe je je deck moet"
+	line "gebruiken. Duelleer tegen veel"
+	line "mensen om te kijken hoe goed je"
+	line "deck presteert."
+	line "De Auto-Deckmachines zijn handig"
+	line "als je je deck opnieuw wilt bouwen."
+	line "Als je de kaarten hebt die je nodig"
+	line "hebt, zal het automatisch een deck"
+	line "voor je bouwen. Verzamel nieuwe"
+	line "kaarten om nieuwe decks mee te"
+	line "bouwen!"
 	done
 
 Text05df:
-	text "Are you getting the hang of the"
-	line "Pokémon Trading Card Game?"
-	line "How about building a deck yourself?"
-	line ""
-	line "It's a great feeling to win with"
-	line "a deck you built on your own."
+	text "Krijg je het Pokémon Ruilkaartspel"
+	line "al een beetje onder de knie?"
+	line "Wat dacht je ervan om zelf eens"
+	line "een deck te bouwen? Het is een"
+	line "fijn gevoel om te winnen met een"
+	line "deck dat je zelf hebt gebouwd."
 	done
 
 Text05e0:
-	text "So, did you build your own deck?"
-	line "The strength or weakness of your"
-	line "deck depends only on how you play!"
-	line "In other words, it all depends on"
-	line "the skill of the player! You must"
-	line "become a skilled card Master!"
+	text "Dus, heb je je eigen deck gebouwd?"
+	line "De kracht of zwakte van je dec hangt"
+	line "voornamelijk af van hoe je speelt!"
+	line "In andere woorden, het hangt"
+	line "allemaal af van de vaardigheid van"
+	line "de speler! Je moet een vaardige"
+	line "Kaartmeester worden!"
 	done
 
 Text05e1:
-	text "Congratulations, <RAMNAME>!"
-	line "I hear you have inherited the"
-	line "Legendary Pokémon Cards!"
-	line "The strength of a deck does"
-	line "not depend on any single card,"
-	line "but on how skillfully you are able"
-	line "to use that card. The power of"
-	line "the Legendary Pokémon Cards"
-	line "depends on you! You must become a"
-	line "skilled card Master!"
+	text "Gefeliciteerd, <RAMNAME>!"
+	line "Ik hoorde dat je de Legendarische"
+	line "Pokémonkaarten mocht overnemen!"
+	line "De kracht van een deck hangt niet af"
+	line "van een enkele kaart, maar van hoe"
+	line "goed je in staat bent die kaart te"
+	line "gebruiken. De kracht van de Legen-"
+	line "darische Pokémonkaarten is van jou"
+	line "afhankelijk! Je moet een vaardige"
+	line "Kaartmeester worden!"
 	done
 
 Text05e2:
-	text "That's right! Did you try the"
-	line "Challenge Machine I built?"
-	line "See how far you can get with a"
-	line "single deck! Computer opponent data"
-	line "is based on the opponents you have"
-	line "already played against."
-	line "I hope you enjoy the product of my"
-	line "scientific genius!"
+	text "Juist! Heb je de Uitdagingsmachine"
+	line "al eens uitgeprobeerd die ik heb"
+	line "gebouwd? Kijk maar hoe ver je kunt"
+	line "komen met een enkel deck!"
+	line "Computertegenstander-gegevens zijn"
+	line "gebaseerd op tegenstanders waar je"
+	line "al eens tegen hebt gespeeld."
+	line "Ik hoop dat je geniet van het"
+	line "product van mijn wetenschappelijk"
+	line "genie!"
 	done
 
 Text05e3:
@@ -195,16 +200,16 @@ Text05f6:
 	line "verschillende mensen. Waarom ga je"
 	line "niet naar een van de Kaartclubs?"
 	line "Er zitten altijd heel veel"
-	line "mensen te spelen in die clubs."
+	line "mensen te spelen in die Clubs."
 	line "Verzamel nieuwe kaarten en"
 	line "probeer een nieuw deck te bouwen!"
 	done
 
 Text05f7:
-	text "Isn't the Auto Deck Machine great?"
-	line "As long as you have the necessary"
-	line "cards, this machine will"
-	line "automatically build a deck for you!"
+	text "Is de Auto-Deckmachine niet"
+	line "geweldig? Zo lang je de vereiste"
+	line "kaarten hebt, zal deze machine"
+	line "automatisch een deck voor je bouwen!"
 	done
 
 Text05f8:
