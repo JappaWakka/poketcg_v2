@@ -24,7 +24,7 @@ Text0705:
 	done
 
 Text0706:
-	text "Wil je duelleren met Kristin?"
+	text "Wil je duelleren tegen Kristin?"
 	done
 
 Text0707:
@@ -81,7 +81,7 @@ Text070e:
 	done
 
 Text070f:
-	text "Wil je duelleren met Heather?"
+	text "Wil je duelleren tegen Heather?"
 	done
 
 Text0710:
@@ -139,7 +139,7 @@ Text0719:
 	done
 
 Text071a:
-	text "Wil je duelleren met Nikki?"
+	text "Wil je duelleren tegen Nikki?"
 	done
 
 Text071b:
@@ -447,7 +447,7 @@ Text0740:
 	done
 
 Text0741:
-	text "Wil je duelleren met Ronald?"
+	text "Wil je duelleren tegen Ronald?"
 	done
 
 Text0742:
@@ -560,7 +560,7 @@ Text0750:
 	done
 
 Text0751:
-	text "Wil je duelleren met David?"
+	text "Wil je duelleren tegen David?"
 	done
 
 Text0752:
@@ -588,16 +588,17 @@ Text0756:
 	done
 
 Text0757:
-	text "We research Pokémon cards here"
-	line "at the Science Club, especially"
-	line "Science Pokémon cards! Science"
-	line "Pokémon are exceedingly strong."
-	line "Wil je duelleren met against"
-	line "my Science Pokémon deck?"
+	text "We onderzoeken Pokémonkaarten hier"
+	line "bij de Wetenschap-Club, met name"
+	line "Wetenschap-Pokémonkaarten!"
+	line "Wetenschap-Pokémon zijn ontzettend"
+	line "sterk."
+	line "Wil je duelleren tegen mijn"
+	line "Wetenschap-Pokémondeck?"
 	done
 
 Text0758:
-	text "Wil je duelleren met Erik?"
+	text "Wil je duelleren tegen Erik?"
 	done
 
 Text0759:
@@ -634,7 +635,7 @@ Text075e:
 	done
 
 Text075f:
-	text "Wil je duelleren met Rick?"
+	text "Wil je duelleren tegen Rick?"
 	done
 
 Text0760:
@@ -712,7 +713,7 @@ Text076c:
 	done
 
 Text076d:
-	text "Wil je duelleren met Joseph?"
+	text "Wil je duelleren tegen Joseph?"
 	done
 
 Text076e:
@@ -826,25 +827,25 @@ Text0781:
 	line "The Legendary Cards"
 	line "will belong to me!"
 	line "How about it?"
-	line "Wil je duelleren met me?"
+	line "Wil je duelleren tegen mij?"
 	done
 
 Text0782:
 	text "Hi, <RAMNAME>."
-	line "Wil je duelleren met?"
+	line "Wil je duelleren?"
 	line "The Legendary Cards will eventually"
 	line "belong to me!"
 	line "How about it?"
-	line "Wil je duelleren met me?"
+	line "Wil je duelleren tegen mij?"
 	done
 
 Text0783:
 	text "Hi, <RAMNAME>."
-	line "Wil je duelleren met?"
+	line "Wil je duelleren?"
 	done
 
 Text0784:
-	text "Wil je duelleren met Matthew?"
+	text "Wil je duelleren tegen Matthew?"
 	done
 
 Text0785:
@@ -972,7 +973,7 @@ Text0795:
 	done
 
 Text0796:
-	text "Wil je duelleren met Ryan?"
+	text "Wil je duelleren tegen Ryan?"
 	done
 
 Text0797:
@@ -1012,7 +1013,7 @@ Text079c:
 	done
 
 Text079d:
-	text "Wil je duelleren met Andrew?"
+	text "Wil je duelleren tegen Andrew?"
 	done
 
 Text079e:
@@ -1053,7 +1054,7 @@ Text07a3:
 	done
 
 Text07a4:
-	text "Wil je duelleren met Gene?"
+	text "Wil je duelleren tegen Gene?"
 	done
 
 Text07a5:

@@ -534,17 +534,17 @@ DecisionText:
 	done
 
 DuelWasADrawText:
-	text "Het Duel met <RAMNAME>"
+	text "Het Duel tegen <RAMNAME>"
 	line "was een Gelijk Spel!"
 	done
 
 WonDuelText:
-	text "Jij hebt het Duel met"
+	text "Jij hebt het Duel tegen"
 	line "<RAMNAME> gewonnen!"
 	done
 
 LostDuelText:
-	text "Jij hebt het Duel met"
+	text "Jij hebt het Duel tegen"
 	line "<RAMNAME> verloren!"
 	done
 

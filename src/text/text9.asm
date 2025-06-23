@@ -54,7 +54,7 @@ Text067e:
 	done
 
 Text067f:
-	text "Wil je duelleren met Murray?"
+	text "Wil je duelleren tegen Murray?"
 	done
 
 Text0680:
@@ -320,7 +320,7 @@ Text06a5:
 	done
 
 Text06a6:
-	text "Wil je duelleren met John?"
+	text "Wil je duelleren tegen John?"
 	done
 
 Text06a7:
@@ -358,7 +358,7 @@ Text06ac:
 	done
 
 Text06ad:
-	text "Wil je duelleren met Adam?"
+	text "Wil je duelleren tegen Adam?"
 	done
 
 Text06ae:
@@ -395,7 +395,7 @@ Text06b3:
 	done
 
 Text06b4:
-	text "Wil je duelleren met Jonathan?"
+	text "Wil je duelleren tegen Jonathan?"
 	done
 
 Text06b5:
@@ -459,7 +459,7 @@ Text06bd:
 	done
 
 Text06be:
-	text "Wil je duelleren met Ken?"
+	text "Wil je duelleren tegen Ken?"
 	done
 
 Text06bf:
@@ -518,7 +518,7 @@ Text06c7:
 Text06c8:
 	text "Goedendag."
 	line "Welkom bij het Gevechtscentrum!"
-	line "Wil je duelleren met een vriend?"
+	line "Wil je duelleren tegen een vriend?"
 	done
 
 Text06c9:
@@ -688,7 +688,7 @@ Text06e1:
 	done
 
 Text06e2:
-	text "Wil je duelleren met Brittany?"
+	text "Wil je duelleren tegen Brittany?"
 	done
 
 Text06e3:

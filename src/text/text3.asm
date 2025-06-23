@@ -203,7 +203,7 @@ ChooseADeckToSaveText:
 	done
 
 SavedTheConfigurationForText:
-	text "Configuratie opgeslagen"
+	text "Samenstelling opgeslagen"
 	line ""
 	text "voor <RAMTEXT>!"
 	done
@@ -217,7 +217,7 @@ DoYouReallyWishToDeleteText:
 	done
 
 DeletedTheConfigurationForText:
-	text "Configuratie verwijderd voor"
+	text "Samenstelling verwijderd voor"
 	line ""
 	text "<RAMTEXT>."
 	done
@@ -278,8 +278,8 @@ PrintThisCardYesNoText:
 	done
 
 PleaseChooseDeckConfigurationToPrintText:
-	text "Kies een Deckconfiguratie om te"
-	line "printen."
+	text "Kies een Decksamenstelling om"
+	line "te printen."
 	done
 
 PrintThisDeckText:
@@ -293,7 +293,7 @@ PrintTheCardListText:
 
 PrintMenuItemsText:
 	text "Pokémonkaarten"
-	line "Deckconfiguratie"
+	line "Decksamenstelling"
 	line "Kaartenlijst"
 	line "Printkwaliteit"
 	line "Stop Printen"
@@ -355,7 +355,7 @@ ReceivedTheseCardsFromText:
 	done
 
 PleaseChooseADeckConfigurationToSendText:
-	text "Kies een Deckconfiguratie"
+	text "Kies een Decksamenstelling"
 	line "om te versturen."
 	done
 
@@ -364,11 +364,11 @@ PleaseChooseASaveSlotText:
 	done
 
 UnusedText0286: ; Unused
-	text "Configuratie ontvangen."
+	text "Samenstelling ontvangen."
 	done
 
 ReceivedADeckConfigurationFromText:
-	text "Een Deckconfiguratie ontvangen"
+	text "Een Decksamenstelling ontvangen"
 	line "van <RAMTEXT>!"
 	done
 
@@ -1350,8 +1350,8 @@ SpecialConditions2DescriptionText:
 UnusedText0320: ; Unused
 	text "Stuur een kaart"
 	line "Ontvang een kaart"
-	line "Geef Deckconfiguraties"
-	line "Ontvang Deckconfiguraties"
+	line "Geef Decksamenstellingen"
+	line "Ontvang Decksamenstellingen"
 	done
 
 UnusedText0321: ; Unused
@@ -1424,35 +1424,35 @@ MrIshiharasHouseMapName:
 	done
 
 FightingClubMapName:
-	text "Vecht"
+	text "Vecht-"
 	done
 
 RockClubMapName:
-	text "Steen"
+	text "Steen-"
 	done
 
 WaterClubMapName:
-	text "Water"
+	text "Water-"
 	done
 
 LightningClubMapName:
-	text "Bliksem"
+	text "Bliksem-"
 	done
 
 GrassClubMapName:
-	text "Gras"
+	text "Gras-"
 	done
 
 PsychicClubMapName:
-	text "Psychisch"
+	text "Psychische "
 	done
 
 ScienceClubMapName:
-	text "Wetenschap"
+	text "Wetenschap-"
 	done
 
 FireClubMapName:
-	text "Vuur"
+	text "Vuur-"
 	done
 
 ChallengeHallMapName:
@@ -1589,8 +1589,8 @@ TurnedPCOffText:
 GiftCenterMenuText:
 	text "Stuur Kaart"
 	line "Ontvang Kaart"
-	line "Stuur Deckconfiguratie"
-	line "Ontvang Deckconfiguratie"
+	line "Stuur Decksamenstelling"
+	line "Ontvang Decksamenstelling"
 	line "Stoppen"
 	done
 
@@ -1603,11 +1603,11 @@ ReceiveCardText:
 	done
 
 SendDeckConfigurationText:
-	text "Stuur Deckconfiguratie"
+	text "Stuur Decksamenstelling"
 	done
 
 ReceiveDeckConfigurationText:
-	text "Ontvang Deckconfiguratie"
+	text "Ontvang Decksamenstelling"
 	done
 
 MailText:

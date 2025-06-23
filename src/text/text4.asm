@@ -281,7 +281,7 @@ UnusedText038a: ; Unused
 
 WonTheMedalText:
 	text "<RAMNAME>"
-	line "Won de <RAMTEXT> Medaille!"
+	line "Won de <RAMTEXT>Medaille!"
 	done
 
 VenusaurLv64TradeCardName:
@@ -1088,8 +1088,8 @@ Mail13Part1Text:
 	line "Pokémon, maar hou ook de Pokémon"
 	line "op je Bank in de gaten. Zijn deck"
 	line "zou grotendeels uit Bliksem-Pokémon"
-	line "moeten bestaan, dus duelleer met hem"
-	line "met je Vecht-Pokémon."
+	line "moeten bestaan, dus duelleer tegen"
+	line "hem met je Vecht-Pokémon."
 	line "Ga je Grootmeesters verslaan,"
 	line "<RAMNAME>!!!"
 	line "Mason Onderzoekslab"
@@ -1283,7 +1283,7 @@ SaraWantsToDuelText:
 	done
 
 SaraWouldYouLikeToDuelText:
-	text "Wil je duelleren met Sara?"
+	text "Wil je duelleren tegen Sara?"
 	done
 
 SaraDeclinedDuelText:
@@ -1327,7 +1327,7 @@ AmandaWantsToDuelText:
 	done
 
 AmandaWouldYouLikeToDuelText:
-	text "Wil je duelleren met Amanda?"
+	text "Wil je duelleren tegen Amanda?"
 	done
 
 AmandaDeclinedDuelText:

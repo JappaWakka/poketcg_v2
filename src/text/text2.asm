@@ -784,7 +784,7 @@ AreYouBothReadyToCardPopText:
 	done
 
 ThePopWasntSuccessfulText:
-	text "De Kaart Flits! is niet gelukt."
+	text "De Kaart Flits! is mislukt."
 	line "Probeer het opnieuw."
 	done
 
@@ -864,22 +864,22 @@ ReceivingACardText:
 	done
 
 SendingADeckConfigurationText:
-	text "Deckconfiguratie versturen..."
+	text "Decksamenstelling versturen..."
 	line "Plaats de Game Boys en druk op A."
 	done
 
 ReceivingDeckConfigurationText:
-	text "Deckconfiguratie ontvangen..."
+	text "Decksamenstelling ontvangen..."
 	line "Plaats de Game Boys en druk op A."
 	done
 
 CardTransferWasntSuccessfulText:
-	text "Kaartoverdracht niet gelukt."
+	text "Kaartoverdracht is mislukt."
 	done
 
 DeckConfigurationTransferWasntSuccessfulText:
-	text "Deckconfiguratieoverdracht"
-	line "niet gelukt."
+	text "Decksamenstellingsoverdracht"
+	line "is mislukt."
 	done
 
 UnusedText01a0: ; Unused

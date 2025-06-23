@@ -196,7 +196,7 @@ Text05f5:
 	done
 
 Text05f6:
-	text "Ga erop uit en duelleer met veel"
+	text "Ga erop uit en duelleer tegen veel"
 	line "verschillende mensen. Waarom ga je"
 	line "niet naar een van de Kaartclubs?"
 	line "Er zitten altijd heel veel"
@@ -213,95 +213,98 @@ Text05f7:
 	done
 
 Text05f8:
-	text "Congratulations on inheriting"
-	line "the Legendary Pokémon Cards!"
-	line "But that's not all there is to this"
-	line "game! Were you able to build all"
-	line "the decks stored in this Auto Deck"
-	line "Machine? There are as many duels"
-	line "as there are decks to duel with!"
-	line "Keep dueling with Pokémon cards!"
+	text "Gefeliciteerd met het overnemen van"
+	line "de Legendarische Pokémonkaarten!"
+	line "Maar dat is nog niet alles in dit"
+	line "spel! Kun je alle decks die opge-"
+	line "slagen zijn in deze Auto-Deckmachine"
+	line "al bouwen? Er zijn net zoveel Duels"
+	line "die je kunt houden als er decks zijn"
+	line "om mee te duelleren!"
+	line "Blijf duelleren met Pokémonkaarten!"
 	done
 
 Text05f9:
-	text "This is the Deck Save Machine."
-	line "You can save the configurations of"
-	line "your modified decks in this machine."
-	line "Once you save a deck, this machine"
-	line "can rebuild it for you at any time,"
-	line "as long as you have the right cards."
-	line "When you build a great deck,"
-	line "you should save it here."
+	text "Dit is de Deck-Opslagmachine."
+	line "Je kan de samenstelling van je"
+	line "aangepaste decks opslaan in deze"
+	line "machine. Als je een deck hebt"
+	line "opgeslagen, kan deze machine hem"
+	line "opnieuw bouwen voor je wanneer"
+	line "je maar wilt, zolang je maar de"
+	line "juiste kaarten hebt. Als je een"
+	line "geweldig deck hebt gebouwd, zou"
+	line "je hem hier moeten opslaan."
 	done
 	
 Text05fa:
-	text "Congratulations on inheriting"
-	line "the Legendary Pokémon Cards!!!"
-	line "Please save your deck in this"
-	line "Deck Save Machine -"
-	line "the deck with the Legendary"
-	line "Pokémon Cards!!!"
+	text "Gefeliciteerd met het overnemen van"
+	line "de Legendarische Pokémonkaarten!!!"
+	line "Sla alsjeblieft je deck op in deze"
+	line "Deck-Opslagmachine - het deck met"
+	line "de Legendarische Pokémonkaarten!!!"
 	done
 
 Text05fb:
-	text "You need a medal to activate a"
-	line "deactivated Auto Deck Machine -"
-	line "the Master Medals owned by the"
-	line "Club Masters! Place them here"
-	line "after you win them. Then you'll"
-	line "be able to build new decks!!!"
+	text "Je hebt een medaille nodig om een"
+	line "uitgeschakelde Auto-Deckmachine te"
+	line "activeren - de MeesterMedailles die"
+	line "de Clubmeesters in hun bezit hebben!"
+	line "Plaats ze hier nadat je ze hebt"
+	line "gewonnen."
+	line "Dan zul je nieuwe decks kunnen"
+	line "bouwen!!!"
 	done
 
 Text05fc:
-	text "<RAMNAME>, thanks to you,"
-	line "all of the Auto Deck Machines"
-	line "have been activated!"
+	text "<RAMNAME>, dankzij jou zijn alle"
+	line "Auto-Deckmachines geactiveerd!"
 	done
 
 Text05fd:
-	text "Ho-ho! Won't you duel me to"
-	line "test your deck? If you win,"
-	line "I'll give you a booster pack -"
-	line "but it only contains Energy cards."
+	text "Ho-ho! Wil je tegen mij duelleren"
+	line "om je deck te testen? Als je wint,"
+	line "geef ik je een Booster-Pakje - maar"
+	line "het bevat alleen Energiekaarten."
 	done
 
 Text05fe:
-	text "Wil je duelleren met Aaron?"
+	text "Wil je duelleren tegen Aaron?"
 	done
 
 Text05ff:
-	text "It's important to know how your"
-	line "deck performs."
+	text "Het is belangrijk om te weten hoe"
+	line "je deck presteert."
 	done
 
 Text0600:
-	text "Ho-ho! Please choose the deck"
-	line "you wish to duel against."
+	text "Ho-ho! Kies het deck maar waartegen"
+	line "je wilt duelleren."
 	done
 
 Text0601:
-	text "Is it <RAMTEXT>?"
+	text "<RAMTEXT>, dus?"
 	done
 
 Text0602:
-	text "Ho-ho! OK, let's start a"
-	line "4-prize match!"
+	text "Ho-ho! Oké, we beginnen met een"
+	line "wedstrijd met 4 Prijzen!"
 	done
 
 Text0603:
-	text "Ho-ho! You win!"
-	line "Here you go, as promised!"
+	text "Ho-ho! Jij wint!"
+	line "Alsjeblieft, zoals beloofd!"
 	done
 
 Text0604:
-	text "Ho-ho! How about it? Did you"
-	line "get a feel for your deck?"
-	line "Ho-ho! Come again. I'll be glad"
-	line "to duel you any time."
+	text "Ho-ho! Wat dacht je ervan? Heb je"
+	line "het gevoel dat je je deck doorhebt?"
+	line "Ho-ho! Kom later terug. Ik zal graag"
+	line "nog eens tegen je duelleren."
 	done
 
 Text0605:
-	text "It's an Auto Deck Machine."
+	text "Het is een Auto-Deckmachine."
 	done
 
 UnusedText0606: ; Unused
@@ -309,22 +312,24 @@ UnusedText0606: ; Unused
 	done
 
 Text0607:
-	text "It's a <RAMTEXT> Medal"
-	line "Auto Deck Machine."
+	text "Het is een Auto-Deckmachine van de"
+	line "<RAMTEXT>Medaille."
 	done
 
 Text0608:
-	text "It isn't working since the"
-	line "<RAMTEXT> Medal is not inserted."
+	text "Hij werkt momenteel niet aangezien"
+	line "de <RAMTEXT>Medaille er nog niet"
+	line "in is geplaatst."
 	done
 
 Text0609:
-	text "Insert your <RAMTEXT> Medal?"
+	text "Je <RAMTEXT>Medaille er in"
+	line "plaatsen?"
 	done
 
 Text060a:
-	text "The Auto Deck Machine"
-	line "has been activated!"
+	text "De Auto-Deckmachine is nu"
+	line "geactiveerd!"
 	done
 
 UnusedText060b: ; Unused
@@ -332,181 +337,185 @@ UnusedText060b: ; Unused
 	done
 
 Text060c:
-	text "It's a Deck Save Machine."
+	text "Het is een Deck-Opslagmachine."
 	done
 
 Text060d:
-	text "Use the Deck Save Machine?"
+	text "Wil je de Deck-Opslagmachine"
+	line "gebruiken?"
 	done
 
 Text060e:
-	text "Greetings!"
-	line "Welcome to the Lightning Club!"
-	line "At this club, we use decks made up"
-	line "mostly of Lightning Pokémon."
-	line "Would you like to get charged up"
-	line "with us?"
+	text "Hallo!"
+	line "Welkom bij de Bliksem-Club!"
+	line "Bij deze Club gebruiken we decks"
+	line "die voornamelijk uit Bliksem-"
+	line "Pokémon bestaan. Wil je bij ons"
+	line "opgeladen worden?"
 	done
 
 Text060f:
-	text "Hey! Kid!"
-	line "I've got a <Lv>20 Electabuzz,"
-	line "but what I really want is"
-	line "a <Lv>35 Electabuzz!"
-	line "Hey! Kid! Do you have a"
+	text "Hé! Kleintje!"
+	line "Ik heb een <Lv>20 Electabuzz, maar"
+	line "wat ik echt zou willen hebben is"
+	line "een <Lv>35 Electabuzz!"
+	line "Hé! Kleintje! Heb je een"
 	line "<Lv>35 Electabuzz?"
 	done
 
 Text0610:
-	text "Hey! Kid! We meet again!"
-	line "Do you have a <Lv>35 Electabuzz?"
-	line "Come on! Trade it for my"
+	text "Hé! Kleintje! Daar ben je weer!"
+	line "Heb je een <Lv>35 Electabuzz?"
+	line "Kom op! Ruil hem tegen mijn"
 	line "<Lv>20 Electabuzz!"
 	done
 
 Text0611:
-	text "Trade your <Lv>35 Electabuzz?"
+	text "Wil je jouw <Lv>35 Electabuzz"
+	line "ruilen?"
 	done
 
 Text0612:
-	text "Whoa! Bummer!"
-	line "What a drag!"
-	line "Really uncool, kid!"
-	line "See ya, kid!"
+	text "Wauw! Balen!"
+	line "Wat vervelend!"
+	line "Echt niet cool, kleintje!"
+	line "Tot ziens, kleintje!"
 	done
 
 Text0613:
-	text "Hey, kid, it's not cool to lie!"
-	line "You don't own a <Lv>35 Electabuzz!"
-	line "You could get hurt lying to me, kid!"
+	text "Hé, kleintje, het is niet cool om"
+	line "te liegen! Je hebt helemaal geen"
+	line "<Lv>35 Electabuzz!"
+	line "Je zou nog eens gewond kunnen raken"
+	line "als je tegen me liegt, kleintje!"
 	done
 
 Text0614:
-	text "You're gonna trade me your"
-	
-	line "<Lv>35 Electabuzz?"
-	line "Way cool!...Hey! Wait, kid!"
-	line "That card's in your deck!"
-	line "It isn't cool to take that card!"
-	line "You take good care of it!"
-	line "That's what's best for that"
-	line "Electabuzz!"
+	text "Je gaat je <Lv>35 Electabuzz met"
+	line "me ruilen?"
+	line "Supercool!...Hé! Wacht, kleintje!"
+	line "Die kaart zit nog in je deck!"
+	line "Het is niet cool om die kaart dan"
+	line "te nemen!"
+	line "Zorg jij er maar goed voor! Dat is"
+	line "het beste voor die Electabuzz!"
 	done
 
 Text0615:
-	text "You're gonna trade me your"
-	
-	line "<Lv>35 Electabuzz? Way cool, kid!"
-	line "OK, I'll trade you my"
-	
-	line "<Lv>20 Electabuzz for it!"
+	text "Je gaat je <Lv>35 Electabuzz met"
+	line "me ruilen? Supercool, kleintje!"
+	line "Oké, ik ruil er mijn <Lv>20"
+	line "Electabuzz voor"
 	done
 
 Text0616:
-	text "Whoa! Thanks!"
-	line "You're too cool, kid!"
+	text "Wauw! Bedankt!"
+	line "Je bent te cool, kleintje!"
 	done
 
 Text0617:
-	text "Whoa! Cool, kid! Thanks for"
-	line "that <Lv>35 Electabuzz!"
-	line "My <Lv>20 Electabuzz is a cool card!"
-	line "Charge it up with Electabuzz!"
+	text "Wauw! Cool, kleintje! Bedankt"
+	line "voor die <Lv>35 Electabuzz!"
+	line "Mijn <Lv>20 Electabuzz is een"
+	line "coole kaart!"
+	line "Laad 'm op met Electabuzz!"
 	done
 
 Text0618:
-	text "I wonder if the Legendary Cards"
-	line "are pretty?"
-	line "If they're sparkly, I'll be"
-	line "really happy."
+	text "Ik vraag me af of de Legendarische"
+	line "Kaarten mooi zijn?"
+	line "Als ze glinsteren, ben ik echt blij."
 	done
 
 Text0619:
-	text "Hey! You charged up!?!"
-	line "You playin' the Pokémon"
-	line "Trading Card Game!?!"
-	line "Yeah! Gotta be a Grand Master!"
+	text "Hé! Ben jij opgeladen!?!"
+	line "Speel jij het Pokémon"
+	line "Ruilkaartspel!?!"
+	line "Ja! Word een Grootmeester!"
 	done
 
 Text061a:
-	text "Hey! <RAMNAME>!"
-	line "You beat the Grand Masters?"
-	line "Cool! Got all the Legendary"
-	line "Pokémon Cards? Yeah!"
-	line "Gotta Catch 'Em All!(TM)"
+	text "Hé! <RAMNAME>!"
+	line "Jij versloeg de Grootmeesters toch?"
+	line "Cool! Heb je alle Legendarische"
+	line "Pokémonkaarten?"
+	line "Ja! Vang ze allemaal!(TM)"
 	done
 
 Text061b:
-	text "Isn't Pikachu totally cute? My heart"
-	line "skips a beat whenever I see those"
-	line "cute little eyes! Hey, do you want"	
-	line "to duel my Pikachu deck?"
+	text "Is Pikachu niet superschattig? Mijn"
+	line "hart slaat een slag over wanneer ik"
+	line "die schattige kleine oogjes zie!"
+	line ""
+	line "Hé, wil je tegen mijn Pikachu-deck"
+	line "duelleren?"
 	done
 
 Text061c:
-	text "Wil je duelleren met Jennifer?"
+	text "Wil je duelleren tegen Jennifer?"
 	done
 
 Text061d:
-	text "Awww! Doesn't anyone want to play"
-	line "with my Pikachu deck...?"
+	text "Awww! Wil er nou niemand tegen mijn"
+	line "Pikachu-deck spelen...?"
 	done
 
 Text061e:
-	text "OK then! Let's play with 4 Prizes!"
+	text "Oké dan! We spelen met 4 Prijzen!"
 	done
 
 Text061f:
-	text "Awww! My Pikachu lost!"
+	text "Awww! Mijn Pikachu verloor!"
 	done
 
 Text0620:
-	text "You have to take care of your"
-	line "Pokémon cards!"
+	text "Je moet goed zorgen voor je"
+	line "Pokémonkaarten!"
 	done
 
 Text0621:
-	text "My Pikachu's not only cute"
-	line "but strong, too!"
+	text "Mijn Pikachu is niet alleen schattig"
+	line "maar ook sterk!"
 	done
 
 Text0622:
-	text "Lightning Pokémon can attack"
-	line "the opponent's Bench!"
-	line "Lightning Pokémon are the toughest"
-	line "Pokémon! How about it?"
-	line "You want to duel me?"
+	text "Bliksem-Pokémon kunnen de Bank van"
+	line "de tegenstander aanvallen!"
+	line "Bliksem-Pokémon zijn de sterkste"
+	line "Pokémon! Wat dacht je ervan?"
+	line "Wil je tegen me duelleren?"
 	done
 
 Text0623:
-	text "Wil je duelleren met Nicholas?"
+	text "Wil je duelleren tegen Nicholas?"
 	done
 
 Text0624:
-	text "Tch! I was going to shock you"
-	line "with my Lightning deck!"
+	text "Tch! Ik zou je gaan schokken"
+	line "met mijn Bliksem-deck!"
 	done
 
 Text0625:
-	text "OK! Let's start!"
-	line "1 match with 4 Prizes!"
+	text "Oké! Laten we beginnen!"
+	line "1 wedstrijd met 4 Prijzen!"
 	done
 
 Text0626:
-	text "My Lightning deck lost..."
-	line "I can't believe it..."
+	text "Mijn Bliksem-deck verloor..."
+	line "Ik kan het niet geloven..."
 	done
 
 Text0627:
-	text "I won't lose next time!"
-	line "I'm gonna zap you!"
+	text "Ik zal de volgende keer niet"
+	line "verliezen! Ik ga je schokken!"
 	done
 
 Text0628:
-	text "Did I shock you?"
-	line "My Lightning deck is pretty strong!"
-	line "If you want to be shocked again,"
-	line "come around...I'll be waiting!"
+	text "Heb ik je geschokt?"
+	line "Mijn Bliksem-deck is erg sterk!"
+	line "Als je opnieuw geschokt wilt worden,"
+	line "kom dan later weer terug..."
+	line "Ik zal hier wachten!"
 	done
 
 Text0629:
@@ -526,7 +535,7 @@ Text062b:
 	done
 
 Text062c:
-	text "Wil je duelleren met Brandon?"
+	text "Wil je duelleren tegen Brandon?"
 	done
 
 Text062d:
@@ -577,7 +586,7 @@ Text0634:
 	done
 
 Text0635:
-	text "Wil je duelleren met Isaac?"
+	text "Wil je duelleren tegen Isaac?"
 	done
 
 Text0636:
@@ -795,11 +804,11 @@ Text0654:
 	line "It doesn't have any weaknesses,"
 	line "and it's difficult for opponents'"
 	line "attacks to cause damage!"
-	line "Wil je met mij duelleren?"
+	line "Wil je tegen mij duelleren?"
 	done
 
 Text0655:
-	text "Wil je duelleren met Robert?"
+	text "Wil je duelleren tegen Robert?"
 	done
 
 Text0656:
@@ -960,7 +969,7 @@ Text066c:
 	done
 
 Text066d:
-	text "Wil je duelleren met Daniel?"
+	text "Wil je duelleren tegen Daniel?"
 	done
 
 Text066e:
@@ -1004,5 +1013,5 @@ Text0674:
 	done
 
 Text0675:
-	text "Wil je duelleren met Stephanie?"
+	text "Wil je duelleren tegen Stephanie?"
 	done

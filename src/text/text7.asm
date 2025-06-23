@@ -319,7 +319,7 @@ Text057d:
 
 Text057e:
 	text "Hé, <RAMNAME>!"
-	line "Kom duelleren met Steve!"
+	line "Kom duelleren tegen Steve!"
 	done
 
 Text057f:
@@ -867,7 +867,7 @@ Text05ce:
 	done
 
 Text05cf:
-	text "Wil je duelleren met Sam?"
+	text "Wil je duelleren tegen Sam?"
 	done
 
 Text05d0:
