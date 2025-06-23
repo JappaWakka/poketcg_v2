@@ -246,7 +246,7 @@ Text05fa:
 	done
 
 Text05fb:
-	text "Je hebt een medaille nodig om een"
+	text "Je hebt een Medaille nodig om een"
 	line "uitgeschakelde Auto-Deckmachine te"
 	line "activeren - de MeesterMedailles die"
 	line "de Clubmeesters in hun bezit hebben!"
@@ -323,8 +323,8 @@ Text0608:
 	done
 
 Text0609:
-	text "Je <RAMTEXT>Medaille er in"
-	line "plaatsen?"
+	text "Wil je jouw <RAMTEXT>Medaille"
+	line "erin plaatsen?"
 	done
 
 Text060a:
@@ -519,19 +519,21 @@ Text0628:
 	done
 
 Text0629:
-	text "Isaac's working on the wiring"
-	line "for this stage. It looks cool"	
-	line "with all these lights, but it takes"
-	line "a lot of work to keep 'em lit!"
+	text "Isaac werkt aan de bedrading voor"
+	line "dit podium. Het ziet er cool uit"
+	line "met al die lichtjes, maar het"
+	line "vereist een hoop werk om ze"
+	line "brandend te houden!"
 	done
 
 Text062a:
-	text "I wonder what Isaac's doing...?"
+	text "Ik vraag me af wat Isaac aan het"
+	line "doen is...?"
 	done
 
 Text062b:
-	text "What? a Pokémon card duel?"
-	line "I'll be glad to duel any time!"
+	text "Wat? Een Pokémonkaartduel?"
+	line "Ik wil altijd wel duelleren!"
 	done
 
 Text062c:
@@ -539,50 +541,53 @@ Text062c:
 	done
 
 Text062d:
-	text "Oh, OK."
-	line "I'll duel you any time."
+	text "Oh, oké."
+	line "Ik wil altijd wel duelleren!"
 	done
 
 Text062e:
-	text "OK, 4 Prizes!"
-	line "Ready? Let's do it!"
+	text "Oké, 4 Prijzen!"
+	line "Klaar? We gaan ervoor!"
 	done
 
 Text062f:
-	text "Shoot! I lost! Well, no sense"
-	line "crying over spilled milk!"
+	text "Verdorie! Ik heb verloren!"
+	line ""
+	line "Nou, het heeft geen zin om te"
+	line "treuren over gedane zaken!"
 	done
 
 Text0630:
-	text "I'll duel you any time!"
-	line "Come see me again!"
+	text "Ik wil altijd wel duelleren!"
+	line "Bezoek me later nog eens!"
 	done
 
 Text0631:
-	text "Hey, don't take it so hard!"
-	line "I'm just too good!"
-	line "I'll duel you any time!"
-	line "Come see me again!"
+	text "Hé, trek het je niet zo aan!"
+	line "Ik ben gewoon te goed!"
+	text "Ik wil altijd wel duelleren!"
+	line "Bezoek me later nog eens!"
 	done
 
 Text0632:
-	text "I'm a little busy at the moment!"
-	line "Duel someone else!"
+	text "Ik ben momenteel een beetje druk!"
+	line "Duelleer tegen iemand anders!"
 	done
 
 Text0633:
-	text "Well, that ought to do it. It was"
-	line "hard work, but here's our stage!"
-	line "Got to keep it looking smart!"
-	line "I'm the Lightning Club Master!"
-	line "Sure! I'll duel you!"
+	text "Zo, dat moet genoeg zijn."
+	line "Het was hard werken, maar hier is"
+	line "ons podium! Het moet er netjes uit"
+	line "blijven zien!"
+	line "Ik ben de Bliksem-Clubmeester!"
+	line "Tuurlijk wil ik tegen je duelleren!"
 	done
 
 Text0634:
-	text "My Lightning Pokémon deck"
-	line "is the greatest!"
-	line "How about it?"
-	line "You want to see how good it is?"
+	text "Mijn Bliksem-Pokémondeck is de"
+	line "beste die er is!"
+	line "Wat dacht je ervan?"
+	line "Wil je zien hoe goed hij is?"
 	done
 
 Text0635:
@@ -590,121 +595,132 @@ Text0635:
 	done
 
 Text0636:
-	text "I'm not busy any more,"
-	line "so I'll take you on any time!"
+	text "Ik ben niet meer druk, dus ik kan je"
+	line "uitdaging wanneer dan ook aannemen!"
 	done
 
 Text0637:
-	text "The sparks will fly with"
-	line "6 Prizes!"
-	line "I'll show you what my Lightning"
-	line "Pokémon deck can do!"
+	text "De vonken zullen er vanaf vliegen"
+	line "met 6 Prijzen!"
+	line "Ik zal je laten zien wat mijn"
+	line "Bliksem-Pokémondeck kan doen!"
 	done
 
 Text0638:
-	text "How could my Lightning deck lose!?!"
-	line "How shocking...!"
-	line "Here, take this Lightning Medal"
-	line "as proof of defeating me."
+	text "Hoe kon mijn Bliksem-deck"
+	line "verliezen!?!"
+	line "Schokkend zeg...!"
+	line ""
+	line "Hier, neem deze Bliksem-Medaille als"
+	line "bewijs dat je me verslagen hebt."
 	done
 
 Text0639:
-	text "And here, take this booster pack,"
-	line "too."
+	text "En hier, neem ook dit Booster-Pakje."
 	done
 
 Text063a:
-	text "I'm going to polish my card skills,"
-	line "so come duel again."
+	text "Ik ga mijn kaartvaardigheden"
+	line "oppoetsen, dus kom nog maar"
+	line "eens duelleren."
 	done
 
 Text063b:
-	text "So? How's my deck?"
-	line "Isn't it cool, just like this stage?"
-	line "Come challenge my deck again!"
+	text "En? Hoe is mijn deck? Is hij"
+	line "niet cool, net als dit podium?"
+	line "Kom mijn deck later nog eens"
+	line "uitdagen!"
 	done
 
 Text063c:
-	text "My Lightning deck is the greatest!"
-	line "How about it?"
-	line "You want to see what my deck can do?"
+	text "Mijn Bliksem-Pokémondeck is de"
+	line "beste die er is!"
+	line "Wat dacht je ervan?"
+	line "Wil je zien wat mijn deck kan doen?"
 	done
 
 Text063d:
-	text "I'm not busy right now,"
-	line "so I'll duel you any time!"
+	text "Ik ben niet meer druk, dus ik kan je"
+	line "uitdaging wanneer dan ook aannemen!"
 	done
 
 Text063e:
-	text "Sparks will fly again, this time"
-	line "with 6 Prizes!"
+	text "De vonken zullen er weer vanaf"
+	line "vliegen deze keer met 6 Prijzen!"
 	done
 
 Text063f:
-	text "I lost again!"
-	line "How shocking...!"
+	text "Ik verloor alweer!"
+	line "Wat schokkend...!"
 	done
 
 Text0640:
-	text "I'm going to polish my card skills,"
-	line "so come challenge me again!"
+	text "Ik ga mijn kaartvaardigheden"
+	line "oppoetsen, dus kom nog maar"
+	line "eens duelleren."
 	done
 
 Text0641:
-	text "So? How's my deck?"
-	line "Isn't it cool, just like this stage?"
-	line "Come challenge my deck again!"
+	text "En? Hoe is mijn deck? Is hij"
+	line "niet cool, net als dit podium?"
+	line "Kom mijn deck later nog eens"
+	line "uitdagen!"
 	done
 
 Text0642:
-	text "Greetings."
-	line "Welcome to the Psychic Club!"
-	line "This Club is for people who use"
-	line "Psychic Pokémon."
-	line "Psychic Pokémon are difficult to"
-	line "use, but they're very strong."
+	text "Hallo."
+	line "Welkom bij de Psychische Club!"
+	line "Deze Club is voor mensen die"
+	line "Psychische Pokémon gebruiken."
+	line "Psychische Pokémon zijn moeilijk om"
+	line "te gebruiken maar ze zijn erg sterk."
 	done
 
 Text0643:
-	text "What? You also want the Legendary"
-	line "Pokémon Cards?"
-	line "I want them too, but I'm still"
-	line "not quite good enough."
+	text "Wat? Je wilt ook de Legendarische"
+	line "Pokémonkaarten?"
+	line "Ik zou ze ook wel willen, maar ik"
+	line "ben nog steeds niet goed genoeg."
 	done
 
 Text0644:
-	text "I hear you got the Legendary"
-	line "Pokémon Cards. Wow! That's great!" 
-	line "I'm going to train so I can get"
-	line "them myself!"
+	text "Ik heb gehoord dat je de Legen-"
+	line "darische Pokémonkaarten hebt"
+	line "overgenomen!"
+	line "Wauw! Dat is geweldig!"
+	line "Ik ga trainen zodat ik ze zelf" 
+	line "kan overnemen!"
 	done
 
 Text0645:
-	text "Well, getting the <RAMTEXT> Medal"
-	line "wasn't that hard! If I keep"
-	line "this up, I should be able to get"
-	line "the Legendary Pokémon Cards!"
+	text "Nou, de <RAMTEXT>Medaille winnen" 
+	line "was helemaal niet moeilijk!"
+	line "Als ik dit volhoudt, zal ik zeker" 
+	line "de Legendarische Pokémonkaarten" 
+	line "kunnen overnemen!"
 	done
 
 Text0646:
-	text "What? It's you, <RAMNAME>!"
-	line "What are you doing?"
-	line "Huh? That's a deck!"
-	line "Are you... trying to get the"
-	line "Legendary Pokémon Cards?"
+	text "Wat? Jij bent het, <RAMNAME>!"
+	line "Wat ben je aan het doen?"
+	line "Huh? Dat is een deck!"
+	line "Ben je... aan het proberen om"
+	line "de Legendarische Pokémonkaarten"
+	line "te veroveren?"
 	done
 
 Text0647:
-	text "It's useless trying to hide it!"
-	line "I know you came here for the medal!"
-	line "You're out of your league!"
+	text "Het heeft geen zin om het te"
+	line "verbergen! Ik weet dat je hier"
+	line "bent gekomen voor de Medaille!"
+	line "Je bent kansloos!"
 	done
 
 Text0648:
-	text "What!?! I can't believe it!"
-	line "You? The Legendary Pokémon Cards?"
-	line "Ha ha ha ha ha!"
-	line "Don't make me laugh!!!"
+	text "Wat!?! Ik kan het niet geloven!"
+	line "Jij? De Legendarische Pokémon-"
+	line "kaarten? Ha ha ha ha ha!"
+	line "Laat me niet lachen!!!"
 	done
 
 Text0649:
