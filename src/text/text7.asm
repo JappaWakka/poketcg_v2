@@ -545,8 +545,9 @@ Text05a5:
 
 Text05a6:
 	text "Nee, Ronald! Dat kunnen we niet"
-	line "toestaan! He heeft ook het recht"
-	line "verdiend om de Legendarische"
+	line "toestaan!"
+	line "<RAMNAME> heeft ook het"
+	line "recht verdiend om de Legendarische"
 	line "Pokémonkaarten over te nemen!"
 	line "Ronald! <RAMNAME>!"
 	line "Jullie twee moeten duelleren om"

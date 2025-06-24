@@ -315,11 +315,11 @@ WinsText:
 XConsecutiveWinsNthOpponentIsText:
 	text "<RAMNAME> <RAMNUM> Overwinningen!"
 	line ""
-	text "<RAMNUM> tegenstander is <RAMTEXT>."
+	text "Tegenstander <RAMNUM> is <RAMTEXT>."
 	done
 
 NthOpponentIsText:
-	text "<RAMNUM> tegenstander is <RAMTEXT>."
+	text "Tegenstander <RAMNUM> is <RAMTEXT>."
 	done
 
 WouldYouLikeToBeginTheDuelText:
@@ -340,13 +340,13 @@ PlayTheChallengeMachineText:
 	done
 
 LetUsChooseYourOpponentText:
-	text "Oké."
-	line "Laat ons je tegenstander kiezen."
+	text "Oké, laat ons je tegenstander"
+	line "kiezen."
 	done
 
 LostToTheNthOpponentText:
-	text "Je hebt verloren van de <RAMNUM>"
-	line "tegenstander, <RAMTEXT>!"
+	text "Je hebt verloren van tegenstander"
+	line "<RAMNUM>, <RAMTEXT>!"
 	done
 
 ConsecutiveWinsEndedAtText:

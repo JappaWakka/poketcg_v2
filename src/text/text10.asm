@@ -115,6 +115,7 @@ Text0715:
 
 Text0716:
 	text "Well, that wasn't much of a duel!"
+	line ""
 	line "I'll be glad to duel you"
 	line "any time you like."
 	done
@@ -183,8 +184,7 @@ Text0720:
 	done
 
 Text0721:
-	text "Please"
-	line "take this, too."
+	text "Please take this, too."
 	done
 
 Text0722:
@@ -208,7 +208,7 @@ Text0723:
 Text0724:
 	text "Thank you very much, Ishihara."
 	line "Your books were very helpful!"
-	line "You are indeed the Number 1"
+	line "You are indeed the number one"
 	line "Pokémon card collector."
 	done
 
@@ -530,7 +530,7 @@ Text074c:
 
 Text074d:
 	text "If I use <RAMTEXT> now,"
-	line "This will happen..."
+	line "this will happen..."
 	done
 
 Text074e:
@@ -657,7 +657,7 @@ Text0762:
 
 Text0763:
 	text "And let me give you this."
-	line "Please add this to your collection."
+	line "Please add these to your collection."
 	done
 
 Text0764:
@@ -676,7 +676,7 @@ Text0765:
 
 Text0766:
 	text "Hello! It's you again!"
-	line "Do you wish to duel me!"
+	line "Do you wish to duel me?"
 	done
 
 Text0767:
@@ -1114,7 +1114,7 @@ Text07ad:
 	done
 
 Text07ae:
-	text "Yes! You are an worthy opponent!"
+	text "Yes! You are a worthy opponent!"
 	line "Here, take this booster pack."
 	done
 

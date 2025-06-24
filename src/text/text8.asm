@@ -167,7 +167,7 @@ Text05f0:
 	done
 
 Text05f1:
-	text "<RAMNAME> gaf de kaarten aan"
+	text "Jij gaf al je kaarten aan"
 	line "Dr. Mason."
 	done
 
@@ -724,102 +724,107 @@ Text0648:
 	done
 
 Text0649:
-	text "Alright! Listen up!"
-	line "I'll teach you what it's about!"
-	line "To inherit the Legendary Pokémon"
-	line "Cards, you must defeat the 8 Club"
-	line "Masters and earn all 8 medals!"
-	line "Then you have to go to Pokémon"
-	line "Dome and defeat all 4 of the"
-	line "Grand Masters there!!!"
-	line "There's no way you can do it!!!"
-	line "You might as well just give up"
-	line "and go home!"
-	line "'Cause the Legendary Pokémon Cards"
-	line "are gonna be mine!"
-	line "I already won the first medal!"
-	line "See ya, <RAMNAME>!"
+	text "Oké! Luister goed! Ik zal het je"
+	line "allemaal eens goed uitleggen!"
+	line "Om de Legendarische Pokémonkaarten"
+	line "over te mogen nemen, moet je de 8"
+	line "Clubmeesters verslaan en alle 8"
+	line "Medailles verdienen!"
+	line "Dan moet je naar de Pokémon-Koepel"
+	line "gaan en alle 4 de Grootmeesters"
+	line "daar verslaan!!!"
+	line "Maar dat zal je toch nooit kunnen!!!"
+	line "Je kunt het net zo goed opgeven en"
+	line "naar huis gaan!"
+	line "Want de Legendarische Pokémonkaarten,"
+	line "die zullen van mij zijn! Ik heb de"
+	line "eerste Medaille al gewonnen!"
+	line "Tot ziens, <RAMNAME>!"
 	line "Ha ha ha ha ha!!!"
 	done
 
 Text064a:
-	text "Hi, <RAMNAME>!"
-	line "How ya doin'?"
+	text "Hoi, <RAMNAME>!"
+	line "Hoe gaatie?"
 	done
 
 Text064b:
-	text "So you won the second medal?"
-	line "You must have been really lucky!"
-	line "I'll see how good you really are!"
-	line "Come on, let's duel! We'll play with" 
-	line "6 Prizes! If you win, I'll give you"
-	line "a really rare card!"
+	text "Dus je hebt de tweede Medaille"
+	line "gewonnen? Je had vast gewoon"
+	line "heel veel geluk! Ik wil wel"
+	line "zien hoe goed je echt bent!"
+	line "Kom op, laten we duelleren!"
+	line "We spelen met 6 Prijzen!"
+	line "Als je wint, geef ik je"
+	line "een erg zeldzame kaart!"
 	done
 
 Text064c:
-	text "I... I wasn't really trying"
-	line "that hard!"
-	line "Well, a loss is a loss, so I'll"
-	line "have to give you this card."
+	text "Ik... Ik probeerde niet eens mijn"
+	line "best te doen!"
+	line "Nou, verlies is verlies, dus ik"
+	line "moet je maar deze kaart geven."
 	done
 
 Text064d:
-	text "It won't be so easy next time!"
-	line "See ya!"
+	text "De volgende keer zal het niet zo"
+	line "makkelijk zijn! Tot ziens!"
 	done
 
 Text064e:
-	text "See! What did I tell you?"
-	line "It was luck, wasn't it?"
-	line "Now you know better than to try and"
-	line "win the medals!"
-	line "See ya!"
+	text "Zie je! Wat zei ik je nou?"
+	line "Het was geluk, of niet soms?"
+	line "Nu weet je beter dan te proberen"
+	line "de Medailles te winnen!"
+	line "Tot ziens!"
 	line "Ha ha ha ha ha ha!"
 	done
 
 Text064f:
-	text "Hi, <RAMNAME>!"
-	line "Have you gotten any better?"
+	text "Hoi, <RAMNAME>!"
+	line "Ben je al wat beter geworden?"
 	done
 
 Text0650:
-	text "I already won the sixth medal!"
-	line "I'll see how much better you are!" 
-	line "If you win, I'll give you another"
-	line "rare card!"
-	line "Come on!!! Let's duel!"
-	line "We'll play with 6 Prizes!"
+	text "Ik heb de zesde Medaille al"
+	line "gewonnen! Ik wil wel zien hoeveel"
+	line "beter je bent!"
+	line "Als je wint, geef ik je een andere"
+	line "zeldzame kaart!"
+	line "Kom op!!! Laten we duelleren!"
+	line "We spelen met 6 Prijzen!"
 	done
 
 Text0651:
-	text "Shoot! I let you win!"
-	line "But a loss is a loss,"
-	line "so I'll give you this card."
+	text "Verdorie! Ik liet je winnen!"
+	line "Maar een verlies is een verlies,"
+	line "dus ik zal je deze kaart geven."
 	done
 
 Text0652:
-	text "Don't get so cocky just because"
-	line "you won."
-	line "The Legendary Pokémon Cards"
-	line "belong to me!!!"
+	text "Ga nou niet zo arrogant lopen doen"
+	line "alleen maar omdat je gewonnen hebt."
+	line "De Legendarische Pokémonkaarten zijn"
+	line "van mij!!!"
 	done
 
 Text0653:
-	text "Huh!?! You're not even half as good"
-	line "as I am!"
-	line "There's no way you'll be able to"
-	line "inherit the Legendary Pokémon Cards!"
-	line "Why don't you just give up!?!"  
-	line "See ya! Ha ha ha ha ha ha!"
+	text "Huh!?! Je bent niet eens half zo"
+	line "goed als ik!"
+	line "Je hebt geen enkele kans om de"
+	line "Legendarische Pokémonkaarten over"
+	line "te mogen nemen!"
+	line "Waarom geef je niet gewoon op!?!"  
+	line "Tot ziens! Ha ha ha ha ha ha!"
 	done
 
 Text0654:
-	text "Hi, I'm Robert!"
-	line "I'm a member of the Psychic Club."
-	line "My Ghost deck is really strong!"
-	line "It doesn't have any weaknesses,"
-	line "and it's difficult for opponents'"
-	line "attacks to cause damage!"
+	text "Hoi, ik ben Robert! Ik ben een"
+	line "lid van de Psychische Club."
+	line "Mijn Geest-deck is erg sterk!"
+	line "Het heeft geen Zwaktes en het is"
+	line "moeilijk voor tegenstanders om"
+	line "schade te doen!"
 	line "Wil je tegen mij duelleren?"
 	done
 
@@ -828,57 +833,67 @@ Text0655:
 	done
 
 Text0656:
-	text "Oh, man! You're boring!"
-	line "Won't anyone duel me?"
+	text "Oh, man! Je bent saai! Wil er nou"
+	line "niemand tegen mij duelleren?"
 	done
 
 Text0657:
-	text "A single match with 4 prizes!"
-	line "Come on, my precious ghosts!"
-	line "Let's make his Pokémon disappear!"
+	text "Een enkele wedstrijd met 4 Prijzen!"
+	line "Kom, mijn dierbare geesten!"
+	line "We zullen zijn Pokémon laten"
+	line "verdwijnen!"
+	done
+
+Text0657_Mint:
+	text "Een enkele wedstrijd met 4 Prijzen!"
+	line "Kom, mijn dierbare geesten!"
+	line "We zullen haar Pokémon laten"
+	line "verdwijnen!"
 	done
 
 Text0658:
-	text "How could my Ghost deck lose!?!"
+	text "Hoe kon mijn Geest-deck verliezen!?!"
 	done
 
 Text0659:
-	text "I won't lose next time!"
-	line "Let's duel again!"
+	text "Ik zal de volgende keer niet"
+	line "verliezen!"
+	line "Laten we opnieuw duelleren!"
 	done
 
 Text065a:
-	text "I told you my Ghost deck was"
-	line "really strong!"
-	line "Please duel me again sometime, OK?"
-	line "Bye!"
+	text "Ik zei je toch dat mijn Geest-deck"
+	line "erg sterk was!"
+	line "Duelleer later nog eens met me, oké?"
+	line "Doei!"
 	done
 
 Text065b:
-	text "I don't like people who think"
-	line "too highly of themselves."
-	line "That's why I don't like the"
-	line "members of the Psychic Club."
-	line "I wish I could knock them off their"
-	line "high horses!"
-	line "Would you try to defeat Murray,"
-	line "the Psychic Club Master?"
-	line "If you defeat Murray, I'll give you"
-	line "something really valuable!"
+	text "Ik hou niet van mensen die zichzelf"
+	line "te hoog inschatten. Daarom mag ik"
+	line "de leden van de Psychische Club"
+	line "niet. Ik wou dat ik ze van hun"
+	line "hoge paard kon stoten!"
+	line "Wil je proberen om Murray, de"
+	line "Psychische Clubmeester, te verslaan?"
+	line ""
+	line "Als je Murray verslaat, geef ik je"
+	line "iets heel waardevols!"
 	done
 
 Text065c:
-	text "Grant the old man's wish?"
+	text "Wil je de wens van de oude man"
+	line "vervullen?"
 	done
 
 Text065d:
-	text "I understand... he's very skilled."
-	line "Defeating Murray is no easy task."
+	text "Ik begrijp het... hij is erg goed."
+	line "Murray verslaan is niet makkelijk."
 	done
 
 Text065e:
-	text "Good!"
-	line "I'll be waiting here for you!"
+	text "Goed!"
+	line "Ik zal hier op je wachten!"
 	done
 
 Text065f:

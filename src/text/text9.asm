@@ -155,15 +155,10 @@ Text068d:
 Text068e:
 	text "Training's so boring and out of"
 	line "date. Why do I have to do it?"
-	line ""
 	text "<RAMNAME>, it's you again!"
 	line "What a pain."
 	line "But defeating you should be more"
 	line "fun than training."
-	done
-
-UnusedText068f: ; Unused
-	text "????"
 	done
 
 Text0690:
@@ -175,7 +170,7 @@ Text0690:
 
 Text0691:
 	text "OK! A single match with 4 Prizes."
-	line "Let's go to it!"
+	line "Let's get to it!"
 	done
 
 Text0692:
@@ -269,8 +264,8 @@ Text069f:
 	done
 
 Text06a0:
-	text "<RAMNAME> lost all of"
-	line "his spare Energy cards!"
+	text "You donate all of your extra"
+	line "Energy cards!"
 	done
 	
 Text06a1:
@@ -289,7 +284,6 @@ Text06a1:
 FoundLv9SlowpokeText:
 	text "<RAMNAME>"
 	line "checked the wall!"
-	line ""
 	text "<RAMNAME>"
 	line "found a <Lv>9 Slowpoke!"
 	done
@@ -443,6 +437,7 @@ Text06bb:
 
 Text06bc:
 	text "I am Ken, the Fire Club Master!"
+	line ""
 	line "So you are collecting medals"
 	line "to inherit the Legendary Cards?"
 	line "You will need many cards in order"
