@@ -534,23 +534,23 @@ DecisionText:
 	done
 
 DuelWasADrawText:
-	text "Het Duel tegen <RAMNAME>"
+	text "Het duel tegen <RAMNAME>"
 	line "was een Gelijk Spel!"
 	done
 
 WonDuelText:
-	text "Jij hebt het Duel tegen"
+	text "Jij hebt het duel tegen"
 	line "<RAMNAME> gewonnen!"
 	done
 
 LostDuelText:
-	text "Jij hebt het Duel tegen"
+	text "Jij hebt het duel tegen"
 	line "<RAMNAME> verloren!"
 	done
 
 StartSuddenDeathMatchText:
-	text "Start een Sudden-Death"
-	line "Duel met 1 Prijskaart!"
+	text "Start een Sudden-Death-"
+	line "duel met 1 Prijskaart!"
 	done
 
 PrizesLeftActivePokemonCardsInDeckText:

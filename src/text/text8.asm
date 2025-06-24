@@ -158,7 +158,7 @@ Text05ef:
 	line "doen wat ik zei, maar er zijn"
 	line "ook andere speelstijlen, dus"
 	line "probeer ze uit door"
-	line "”Normaal” Duel te selecteren."
+	line "”Normaal Duel” te selecteren."
 	done
 
 Text05f0:
@@ -668,7 +668,7 @@ Text0641:
 	done
 
 Text0642:
-	text "Hallo."
+	text "Goedendag."
 	line "Welkom bij de Psychische Club!"
 	line "Deze Club is voor mensen die"
 	line "Psychische Pokémon gebruiken."
@@ -863,8 +863,8 @@ Text0659:
 
 Text065a:
 	text "Ik zei je toch dat mijn Geest-deck"
-	line "erg sterk was!"
-	line "Duelleer later nog eens met me, oké?"
+	line "erg sterk was! Duelleer later nog"
+	line "eens tegen me, oké?"
 	line "Doei!"
 	done
 
@@ -952,7 +952,7 @@ Text0665:
 	line "Legendarische Kaarten overnemen -"
 	line "daarom spelen we tegen zoveel"
 	line "verschillende mensen."
-	line "Ik heb net een Duel verloren,"
+	line "Ik heb net een duel verloren,"
 	line "dus ik kan nu niet spelen."
 	done
 

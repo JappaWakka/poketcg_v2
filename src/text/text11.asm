@@ -323,16 +323,16 @@ NthOpponentIsText:
 	done
 
 WouldYouLikeToBeginTheDuelText:
-	text "Wil je het Duel beginnen?"
+	text "Wil je het duel beginnen?"
 	done
 
 IfYouQuitTheDuelText:
-	text "Als je het Duel verlaat zal je"
+	text "Als je het duel verlaat zal je"
 	line "overnieuw moeten beginnnen."
 	done
 
 WouldYouLikeToQuitTheDuelText:
-	text "Wil je het Duel verlaten?"
+	text "Wil je het duel verlaten?"
 	done
 
 PlayTheChallengeMachineText:

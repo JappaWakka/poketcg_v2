@@ -32,7 +32,7 @@ JoshuaWantsToDuelInitialText:
 	done
 
 JoshuaWantsToDuelRepeatText:
-	text "Wil je met mij het Duel aangaan?"
+	text "Wil je met mij het duel aangaan?"
 	done
 
 JoshuaWouldYouLikeToDuelText:
@@ -56,8 +56,8 @@ JoshuaDeclinedDuelRepeatText:
 	done
 
 JoshuaDuelStartText:
-	text "Oké, dit zal een 1 wedstrijd durend"
-	line "Duel zijn met 4 Prijzen!"
+	text "Oké, dit duel zal uit 1 wedstrijd"
+	line "bestaan met 4 Prijzen!"
 	done
 
 JoshuaPlayerLostInitialText:
@@ -136,8 +136,8 @@ AmyMeetsPlayer3Text:
 AmyWantsToDuelInitialText:
 	text "Ben jij niet <RAMNAME>?"
 	line ""
-	line "Dus je hebt besloten om met me te"
-	line "duelleren?"
+	line "Dus je hebt besloten om tegen me"
+	line "te duelleren?"
 	done
 
 AmyWouldYouLikeToDuelText:
@@ -152,8 +152,8 @@ AmyDeclinedDuelInitialText:
 	done
 
 AmyDuelStartInitialText:
-	text "Oké! Een Duel van 1 wedstrijd met"
-	line "6 Prijzen!"
+	text "Oké! Een duel van 1 wedstrijd"
+	line "met 6 Prijzen!"
 	line "Laten we beginnen!"
 	done
 
@@ -182,7 +182,7 @@ AmyPlayerWon2Text:
 AmyPlayerLostText:
 	text "Hah! Ik ben de beste!"
 	line "Kom later weer eens terug!"
-	line "Ik zou graag nog een Duel willen!"
+	line "Ik zou graag nog een duel willen!"
 	done
 
 AmyWantsToDuelRepeatText:
@@ -195,12 +195,12 @@ AmyWantsToDuelRepeatText:
 AmyDuelStartRepeatText:
 	text "Oké, dezelfde regels als de"
 	line "vorige keer!"
-	line "Een Duel van 1 wedstrijd en 6"
-	line "Prijzen!"
+	line "Een duel van 1 wedstrijd en"
+	line "6 Prijzen!"
 	done
 
 Clerk1Text:
-	text "Hallo."
+	text "Goedendag."
 	line "Welkom bij de Vecht-Club!"
 	line "Hier bij deze Club duelleren we"
 	line "met Vecht-Pokémon."
@@ -315,7 +315,7 @@ ImakuniWouldLikeToDuelInitialText:
 	line "Hé!"
 	line "Dansen met die voeten!"
 	line "Wat? Kaarten?"
-	line "Je wilt met me duelleren?"
+	line "Je wilt tegen me duelleren?"
 	line "Oké, maar als ik win, dans jij!"
 	done
 
@@ -336,7 +336,7 @@ ImakuniDeclinedDuelText:
 	done
 
 ImakuniDuelStartText:
-	text "Oké, een Duel van 1 wedstrijd met"
+	text "Oké, een duel van 1 wedstrijd met"
 	line "6 Prijzen!"
 	line "...Wat dat ook betekent..."
 	done
@@ -568,8 +568,8 @@ ChrisFightingClubDeclinedDuelText:
 	done
 
 ChrisFightingClubDuelStartText:
-	text "Een Duel van 1 wedstrijd met 4"
-	line "Prijzen!"
+	text "Een duel van 1 wedstrijd met"
+	line "4 Prijzen!"
 	line "We gaan ervoor!"
 	done
 
@@ -604,11 +604,11 @@ MichaelWouldYouLikeToDuelText:
 
 MichaelFightingClubDeclinedDuelText:
 	text "Oké. Maar duelleer binnenkort wel"
-	line "weer eens met me."
+	line "weer eens tegen me."
 	done
 
 MichaelFightingClubDuelStartText:
-	text "Een Duel van 1 wedstrijd met 4"
+	text "Een duel van 1 wedstrijd met 4"
 	line "Prijzen!"
 	line "We gaan ervoor!"
 	done
@@ -619,14 +619,14 @@ MichaelFightingClubPlayerWon1Text:
 	done
 
 MichaelFightingClubPlayerWon2Text:
-	text "Duelleer later nog eens met me."
+	text "Duelleer later nog eens tegen me."
 	line "Tot ziens!"
 	done
 
 MichaelFightingClubPlayerLostText:
 	text "Ik geloof dat mijn training heeft"
 	line "geloond!"
-	line "Duelleer later nog eens met me."
+	line "Duelleer later nog eens tegen me."
 	line "Tot ziens!"
 	done
 
@@ -634,7 +634,7 @@ JessicaFightingClubWantsToDuelText:
 	text "Trainen is zo saai..."
 	line "Waarom zou iemand dat willen doen?"
 	line "Hé, jij bent het!"
-	line "Wil je weer met me duelleren?"
+	line "Wil je weer tegen me duelleren?"
 	done
 
 JessicaWouldYouLikeToDuelText:
@@ -647,8 +647,8 @@ JessicaFightingClubDeclinedDuelText:
 	done
 
 JessicaFightingClubDuelStartText:
-	text "Oké! Een Duel van 1 wedstrijd met 4"
-	line "Prijzen!"
+	text "Oké! Een duel van 1 wedstrijd met"
+	line "4 Prijzen!"
 	line "Laten we beginnen!"
 	done
 

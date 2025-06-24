@@ -774,8 +774,8 @@ PleaseWaitDecidingNumberOfPrizesText:
 	done
 
 BeginAPrizeDuelWithText:
-	text "Begin een <RAMNUM>-Prijs Duel"
-	line "met <RAMNAME>."
+	text "Begin een duel met <RAMNUM> Prijzen"
+	line "tegen <RAMNAME>."
 	done
 
 AreYouBothReadyToCardPopText:

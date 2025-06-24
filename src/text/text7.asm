@@ -327,12 +327,12 @@ Text057f:
 	done
 
 PrepareForTheDuelText:
-	text "Voorbereiden op het Duel?"
+	text "Voorbereiden op het duel?"
 	done
 
 Text0581:
 	text "Oké dan!"
-	line "Laat het Duel beginnen!"
+	line "Laat het duel beginnen!"
 	done
 
 Text0582:
@@ -400,7 +400,7 @@ UnusedText058c: ; Unused
 
 Text058d:
 	text "Goed dan!"
-	line "Laat het Duel beginnen!"
+	line "Laat het duel beginnen!"
 	done
 
 Text058e:
@@ -448,17 +448,17 @@ Text0594:
 	done
 
 Text0595:
-	text "Dit is je laatste Duel!"
+	text "Dit is je laatste duel!"
 	line "Laat zien wat je waard bent!"
 	done
 
 Text0596:
-	text "Als je dit Duel wint, mag je tegen"
+	text "Als je dit duel wint, mag je tegen"
 	line "Ronald duelleren!"
 	done
 
 Text0597:
-	text "Dit is je laatste Duel!"
+	text "Dit is je laatste duel!"
 	line "Laat zien wat je waard bent!"
 	done
 
@@ -471,12 +471,12 @@ UnusedText0599: ; Unused
 	done
 
 Text059a:
-	text "Dan beginnen we het laatste Duel -"
+	text "Dan beginnen we het laatste duel -"
 	line "1 wedstrijd voor 6 Prijzen!!!"
 	done
 
 Text059b:
-	text "Een Duel van 1 wedstrijd voor 6"
+	text "Een duel van 1 wedstrijd voor 6"
 	line "Prijzen!!"
 	done
 
@@ -576,7 +576,7 @@ UnusedText05aa: ; Unused
 	done
 
 Text05ab:
-	text "Oké, laten we dan dit ultieme Duel"
+	text "Oké, laten we dan dit ultieme duel"
 	line "beginnen!"
 	done
 
@@ -588,7 +588,7 @@ Text05ac:
 	done
 
 Text05ad:
-	text "Het wordt een Duel van 1 wedstrijd"
+	text "Het wordt een duel van 1 wedstrijd"
 	line "met 6 Prijzen!"
 	line "Laten we beginnen!"
 	done
@@ -863,7 +863,7 @@ Text05cd:
 	done
 
 Text05ce:
-	text "Oké, laten we een Duel houden met"
+	text "Oké, laten we een duel houden met"
 	line "2 Prijskaarten en het oefendeck!"
 	done
 
@@ -999,7 +999,7 @@ Text05db:
 
 Text05dc:
 	text "Over het algemeen wordt bepaald wie"
-	line "het Duel wint of verliest door"
+	line "het duel wint of verliest door"
 	line "Prijskaarten. Prijskaarten zijn"
 	line "kaarten die je mag pakken wanneer"
 	line "je een van je tegenstander's"
@@ -1008,7 +1008,7 @@ Text05dc:
 	line "tegenstander's Pokémon Uitschakelt"
 	line "als er Prijskaarten zijn die je"
 	line "kunt pakken. Je verliest ook"
-	line "het Duel als je geen kaarten meer"
+	line "het duel als je geen kaarten meer"
 	line "in je deck hebt aan het begin van"
 	line "je beurt of als er geen Pokémon"
 	line "meer aan jouw kant van het"

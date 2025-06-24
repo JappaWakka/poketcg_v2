@@ -817,7 +817,7 @@ Clerk12ChallengeCup3ActiveText:
 	done
 
 Clerk12ChallengeCupInviteText:
-	text "Het spel zal bestaan uit een Duel"
+	text "Het spel zal bestaan uit een duel"
 	line "van 1 wedstrijd met 4 Prijzen!"
 	line "We accepteren hier nu deelnemers."
 	line "Wil je hier aan meedoen?"
@@ -852,7 +852,7 @@ Clerk12ChallengeCupRound1ChallengerText:
 
 Clerk12ChallengeCupRound1DuelStartText:
 	text "Jullie zullen spelen met 4 Prijzen!"
-	line "Oké!! Laat het Duel beginnen!"
+	line "Oké!! Laat het duel beginnen!"
 	done
 
 Clerk12ChallengeCupRound2PlayerLostText:

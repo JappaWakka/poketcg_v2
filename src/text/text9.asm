@@ -50,7 +50,7 @@ Text067d:
 
 Text067e:
 	text "Hé! Je bent er weer."
-	line "Ben je klaar voor een Duel?"
+	line "Ben je klaar voor een duel?"
 	done
 
 Text067f:
@@ -138,7 +138,7 @@ Text068b:
 	done
 
 Text068c:
-	text "Hallo."
+	text "Goedendag."
 	line "Welkom bij de Vuur-Club!"
 	line "Dit is een Club voor jongens met een"
 	line "brandende passie voor Vuur-Pokémon."
@@ -147,175 +147,180 @@ Text068c:
 	done
 
 Text068d:
-	text "Training's so boring and out of"
-	line "date. Why do I have to do it?"
-	line "Why me?"
-	line "I'm Jessica of the Fighting Club."
-	line "Oh! You must be <RAMNAME>."
-	line "I heard about you from Mitch."
-	line "Defeating you should be more"
-	line "fun than training!"
+	text "Training is zo saai en achterhaald."
+	line "Waarom moet ik het eigenlijk doen?"
+	line "Waarom ik?"
+	line "Ik ben Jessica van de Vecht-Club."
+	line "Oh! Jij bent vast <RAMNAME>."
+	line "Ik heb over je gehoord van Mitch."
+	line "Jou verslaan zou leuker moeten"
+	line "zijn dan trainen!"
 	done
 
 Text068e:
-	text "Training's so boring and out of"
-	line "date. Why do I have to do it?"
-	text "<RAMNAME>, it's you again!"
-	line "What a pain."
-	line "But defeating you should be more"
-	line "fun than training."
+	text "Training is zo saai en achterhaald."
+	line "Waarom moet ik het eigenlijk doen?"
+	text "<RAMNAME>, jij bent het weer!"
+	line "Wat een ellende."
+	line "Maar jou verslaan zou leuker"
+	line "moeten zijn dan trainen!"
 	done
 
 Text0690:
-	text "Oh, OK."
-	line "Well, I'm busy anyway."
-	line "Bye!"
-	line "Training's so boring..."
+	text "Oh, oké."
+	line "Nou, ik ben toch druk."
+	line "Doei!"
+	line "Training is zo saai..."
 	done
 
 Text0691:
-	text "OK! A single match with 4 Prizes."
-	line "Let's get to it!"
+	text "Oké! Een enkele wedstrijd met 4"
+	line "Prijzen. Aan de slag!"
 	done
 
 Text0692:
-	text "How could I lose...?"
+	text "Hoe kon ik verliezen...?"
 	done
 
 Text0693:
-	text "How boring!"
-	line "I'm going home! Bye!"
+	text "Wat saai!"
+	line "Ik ga naar huis! Doei!"
 	done
 
 Text0694:
-	text "Wow! That was fun!"
-	line "Much better than training!"
-	line "Let's do it again sometime!"
-	line "Bye!"
+	text "Wauw! Dat was leuk!"
+	line "Veel beter dan training!"
+	line "Laten we het later nog eens doen!"
+	line "Doei!"
 	done
 
 Text0695:
-	text "Do you know the empty house on"
-	line "the cape to the northwest?"
-	line "That's Ishihara's house!"
-	line "Isn't it nice to have friends?"
+	text "Ken je het lege huis op de kaap in"
+	line "het noordwesten?"
+	line "Dat is Ishihara's huis! Is het niet"
+	line "fijn om vrienden te hebben?"
 	done
 
 Text0696:
-	text "My friend, Ishihara, wants to"
-	line "trade cards."
-	line "Why don't you go visit him"
-	line "sometime."
+	text "Mijn vriend, Ishihara, wil kaarten"
+	line "ruilen."
+	line "Waarom breng je hem niet eens een"
+	line "bezoekje?"
 	done
 
 Text0697:
-	text "My friend, Ishihara, owns"
-	line "really rare cards."
-	line "Why don't you go visit him"
-	line "sometime?"
+	text "Mijn vriend, Ishihara, bezit hele"
+	line "zeldzame kaarten."
+	line "Waarom breng je hem niet eens een"
+	line "bezoekje?"
 	done
 
 Text0698:
-	text "I heard my friend, Ishihara,"
-	line "gave someone a card."
-	line "Why don't you go visit him"
-	line "sometime?"
+	text "Ik hoorde dat mijn vriend, Ishihara,"
+	line "iemand een kaart gaf."
+	line "Waarom breng je hem niet eens een"
+	line "bezoekje?"
 	done
 
 Text0699:
-	text "Ishihara's my friend."
-	line "Isn't it nice to have friends?"
+	text "Ishihara is mijn vriend."
+	line ""
+	line "Is het niet fijn om vrienden te"
+	line "hebben?"
 	done
 
 Text069a:
-	text "Ishihara's my friend."
-	line "Isn't it nice to have friends?"
+	text "Ishihara is mijn vriend."
+	line ""
+	line "Is het niet fijn om vrienden te"
+	line "hebben?"
 	done
 
 Text069b:
-	text "Energy! Energy!"
-	line "Energy cards are very important!"
-	line "Come back and see me when you"
-	line "collect a lot of Energy cards!"
-	line "Then..."
-	line "I'll let you in on a secret!"
+	text "Energie! Energie!"
+	line "Energiekaarten zijn erg belangrijk!"
+	line "Zoek me later nog eens op als je"
+	line "veel Energiekaarten hebt verzameld!"
+	line "Dan..."
+	line "zal ik je een geheimpje verklappen!"
 	done
 
 Text069c:
-	text "When you build a lot of decks,"
-	line "you start to run out of Energy"
-	line "cards. Please give me your Energy"
-	line "cards! Give me all the Energy cards"
-	line "that aren't in your deck!!!"
-	line "Gimme, Gimme! Gimme all of 'em!!!"
+	text "Als je veel decks bouwt, raken je"
+	line "Energiekaarten uiteindelijk op."
+	line "Geef me alsjeblieft al je Energie-"
+	line "kaarten! Geef me alle Energiekaarten"
+	line "die niet in je deck zitten!!!"
+	line "Geef hier, geef hier!"
+	line "Geef me ze allemaal!!!"
 	done
 
 Text069d:
-	text "Give away your Energy cards?"
+	text "Wil je jouw Energiekaarten weggeven?"
 	done
 
 Text069e:
-	text "You're so mean!"
-	line "It's OK! I'll ask someone else!"
-	line "Bye!"
-	line "Meanie!"
+	text "Je bent zo gemeen!"
+	line "Maar het is oké!"
+	line "Ik vraag het iemand anders wel!"
+	line "Doei!"
+	line "Gemenerik!"
 	done
 
 Text069f:
-	text "All your Energy cards are"
-	line "in your deck..."
-	line "Then I can't ask for them."
-	line "Bye!"
+	text "Al je Energiekaarten zitten in je"
+	line "deck..."
+	line "Dan ik ze niet van je nemen."
+	line "Doei!"
 	done
 
 Text06a0:
-	text "You donate all of your extra"
-	line "Energy cards!"
+	text "Je doneerde al je extra Energie-"
+	line "kaarten!"
 	done
 	
 Text06a1:
-	text "Wow!"
-	line "Thanks!"
-	line "Since you were so nice,"
-	line "I'll tell you a secret!"
-	line "Check the wall 2 tiles"
-	line "left of the bookcase..."
-	line "You'll probably find something"
-	line "really nice!"
-	line "Thanks again."
-	line "Bye!"
+	text "Wauw!"
+	line "Dankjewel!"
+	line "Omdat je zo aardig bent, zal ik je"
+	line "een geheim vertellen!"
+	line "Kijk in de muur 2 tegels links van"
+	line "de boekenkast... Je vindt er vast"
+	line "iets heel leuks!"
+	line "Nogmaals bedankt."
+	line "Doei!"
 	done
 
 FoundLv9SlowpokeText:
 	text "<RAMNAME>"
-	line "checked the wall!"
+	line "keek in de muur!"
 	text "<RAMNAME>"
-	line "found a <Lv>9 Slowpoke!"
+	line "vond een <Lv>9 Slowpoke!"
 	done
 
 Text06a3:
-	text "I'm burning with Pokémon"
-	line "fever today!"
-	line "One day, I'm going to inherit"
-	line "the Legendary Cards!"
+	text "Ik brand van de Pokémon-koorts"
+	line "vandaag!"
+	line "Op een dag zal ik de Legendarische"
+	line "Kaarten overnemen!"
 	done
 
 Text06a4:
-	text "I'm burning with Pokémon"
-	line "fever today!"
-	line "One day, I'm going to inherit"
-	line "the Legendary Cards!"
-	line "What???"
-	line "You already inherited the cards?"
-	line "You..."
-	line "Stop Lying!!!"
+	text "Ik brand van de Pokémon-koorts"
+	line "vandaag!"
+	line "Op een dag zal ik de Legendarische"
+	line "Kaarten overnemen!"
+	line "Wat???"
+	line "Je hebt de kaarten al overgenomen?"
+	line "Jij..."
+	line "Stop met liegen!!!"
 	done
 
 Text06a5:
-	text "This is the Fire Club, where guys"
-	line "with a burning passion for"
-	line "Pokémon cards get together for"
-	line "heated duels! Join the fiery fun!"
+	text "Dit is de Vuur-Club, waar kerels met"
+	line "een brandende passie voor Pokémon-"
+	line "kaarten samenkomen voor verhitte"
+	line "Duels! Doe mee aan de vurige pret!"
 	done
 
 Text06a6:
@@ -323,37 +328,37 @@ Text06a6:
 	done
 
 Text06a7:
-	text "If you're a real man, you gotta"
-	line "compete in a heated duel!"
+	text "Als je een echt heethoofd bent, moet"
+	line "je meedoen aan een verhit duel!"
 	done
 
 Text06a8:
-	text "4 Prizes!"
-	line "Let's heat it up!"
+	text "4 Prijzen!"
+	line "Laat de hitte maar komen!"
 	done
 
 Text06a9:
-	text "Yeah! That was really Hot!"
-	line "You're the greatest!"
-	line "Here, let me give you this!"
-	line "Let's heat it up again!"
+	text "Ja! Dat was heel heet!"
+	line "Je bent de beste!"
+	line "Hier, neem dit van mij!"
+	line "Neem de hitte nog maar eens mee!"
 	done
 
 Text06aa:
-	text "Let's heat it up again!!!"
+	text "Neem de hitte nog maar eens mee!!!"
 	done
 
 Text06ab:
-	text "I guess my deck was hotter than"
-	line "yours this time!"
-	line "Let's heat it up again!!!"
+	text "Ik geloof dat mijn deck nog heter"
+	line "dan dat van jou was deze keer!"
+	line "Neem de hitte nog maar eens mee!!!"
 	done
 
 Text06ac:
-	text "Hey! Does everyone have the fever?"
-	line "Do you have the fever?"
-	line "If you have Pokémon fever,"
-	line "duel with me!!!"
+	text "Hé! Heeft iedereen de koorts?"
+	line "Heb jij de koorts?"
+	line "Als je de Pokémonkoorts hebt,"
+	line "duelleer dan tegen mij!!!"
 	done
 
 Text06ad:
@@ -361,36 +366,37 @@ Text06ad:
 	done
 
 Text06ae:
-	text "Why are you being so cold?"
-	line "Come on! Catch the fever!"
+	text "Waarom doe je zo kil?"
+	line "Kom op! Vat de koorts!"
 	done
 
 Text06af:
-	text "A single match with 4 Prizes!"
-	line "Come on, duel me!"
+	text "Een enkel duel met 4 Prijzen!"
+	line "Kom op, duelleer tegen me!"
 	done
 
 Text06b0:
-	text "Whoa! I lost!!!"
-	line "Here, this booster pack is yours!"
+	text "Wow! Ik verloor!!!"
+	line "Hier, dit Booster-Pakje is van jou!"
 	done
 
 Text06b1:
-	text "Let's duel again!"
-	line "See ya!!!"
+	text "Laten we nog eens duelleren!"
+	line "Tot ziens!!!"
 	done
 
 Text06b2:
-	text "Yeah! I won!"
-	line "Am I Hot or what!?!"
-	line "Let's duel again!"
-	line "See ya!!"
+	text "Ja! Ik won!"
+	line "Ben ik heet, of wat!?!"
+	line "Laten we nog eens duelleren!"
+	line "Tot ziens!!!"
 	done
 
 Text06b3:
-	text "Come on, people, say Fire Pokémon!"
-	line "You! Come on, say Fire!"
-	line "Fire Pokémon! OK! Let's duel!!!"
+	text "Kom op mensen, zeg Vuur-Pokémon!"
+	line "Jij! Kom op, zeg Vuur!"
+	line "Vuur-Pokémon! Oké! Laten we"
+	line "duelleren!!!"
 	done
 
 Text06b4:
@@ -398,64 +404,68 @@ Text06b4:
 	done
 
 Text06b5:
-	text "Dang! You're icy cold!"
-	line "Come on! Say Fire Pokémon!"
+	text "Jeetje! Je bent ijskoud! Kom op!"
+	line "Zeg Vuur-Pokémon!"
 	done
 
 Text06b6:
-	text "A 4-prize match!"
-	line "Here we go! Fire Pokémon!"
+	text "Een wedstrijd met 4 Prijzen!"
+	line "Hier gaan we! Vuur-Pokémon!"
 	done
 
 Text06b7:
-	text "That was a great duel!"
-	line "I want you to have this!"
+	text "Dat was een geweldig duel!"
+	line "Dit krijg je van me!"
 	done
 
 Text06b8:
-	text "Let's duel again!"
+	text "Laten we nog eens duelleren!"
 	line "Come on, people, say Fire Pokémon!"
 	done
 
 Text06b9:
-	text "That was a great duel!"
-	line "Let's duel again! Fire Pokémon!"
+	text "Dat was een geweldig duel! Laten"
+	line "we nog eens duelleren! Vuur-Pokémon!"
 	done
 
 Text06ba:
-	text "I am Ken, the Fire Club Master!"
-	line "So, you are collecting medals"
-	line "to inherit the Legendary Cards?"
-	line "What!?! You have almost no cards!"
-	line "If you wish to duel me, then"
-	line "go collect more cards!"
+	text "Ik ben Ken, de Vuur-Clubmeester!"
+	line "Dus, je bent Medailles aan het"
+	line "verzamelen om de Legendarische"
+	line "Kaarten over te mogen nemen?"
+	line "Wat!?! Je hebt bijna geen kaarten!"
+	line "Als je tegen me wilt duelleren, ga"
+	line "dan eerst meer kaarten verzamelen!"
 	done
 
 Text06bb:
-	text "I am Ken, the Fire Club Master!"
-	line "You still need to collect more"
-	line "cards if you wish to inherit"
-	line "the Legendary Pokémon Cards!"
-	line "If you wish to duel me, then"
-	line "go collect more cards!"
+	text "Ik ben Ken, de Vuur-Clubmeester!"
+	line "Je moet nog steeds meer kaarten"
+	line "verzamelen als je de Legendarische"
+	line "Pokémonkaarten wilt overnemen!"
+	line "Als je tegen me wilt duelleren, ga"
+	line "dan eerst meer kaarten verzamelen!"
 	done
 
 Text06bc:
-	text "I am Ken, the Fire Club Master!"
+	text "Ik ben Ken, de Vuur-Clubmeester!"
 	line ""
-	line "So you are collecting medals"
-	line "to inherit the Legendary Cards?"
-	line "You will need many cards in order"
-	line "to inherit the Legendary Cards."
-	line "Hmmm...it seems you have"
-	line "collected many cards!"
-	line "Then let's begin our duel!"
+	line "Dus, je bent Medailles aan het"
+	line "verzamelen om de Legendarische"
+	line "Kaarten over te mogen nemen?"
+	line "Je moet veel kaarten verzamelen om"
+	line "de Legendarische Kaarten te kunnen"
+	line "overnemen.."
+	line "Hmmm... het lijkt erop dat je veel"
+	line "kaarten hebt verzameld!"
+	line "Laten we dan beginnen met ons duel!"
 	done
 
 Text06bd:
-	text "I am Ken, the Fire Club Master!"
-	line "I see you have collected more cards!"
-	line "Then let's begin our duel!"
+	text "Ik ben Ken, de Vuur-Clubmeester!"
+	line "Ik zie dat je meer kaarten hebt"
+	line "verzameld! Laten we dan beginnen"
+	line "met ons duel!"
 	done
 
 Text06be:
@@ -463,56 +473,58 @@ Text06be:
 	done
 
 Text06bf:
-	text "Don't douse my burning"
-	line "desire for competition!"
+	text "Blus mijn brandende verlangen naar"
+	line "competitie niet uit!"
 	done
 
 Text06c0:
-	text "We'll play with 6 Prizes!"
-	line "If you win, I'll give you a medal!"
-	line "Come on!"
-	line "Let's start the duel!"
+	text "We spelen met 6 Prijzen! Als je"
+	line "wint, geef ik je een Medaille!"
+	line "Kom op!"
+	line "Laten we het duel beginnen!"
 	done
 
 Text06c1:
-	text "That was a great duel!"
-	line "Here, let me give you this!!!"
+	text "Dat was een geweldig duel!"
+	line "Hier, dit krijg je van me!!!"
 	done
 
 Text06c2:
-	text "With this, you're a little closer"
-	line "to the Legendary Pokémon Cards!"
-	line "Here, take this, too!"
-	line "I hope it will help you out!"
+	text "Hiermee ben je een stapje dichter"
+	line "bij de Legendarische Pokémonkaarten!"
+	line "Hier, neem ook dit!"
+	line "Hopelijk heb je er wat aan!"
 	done
 
 Text06c3:
-	text "Let's play a heated duel again!"
-	line "See you later!!!"
+	text "Laten we nog eens een verhit duel"
+	line "hebben!"
+	line "Ik zie je later!!!"
 	done
 
 Text06c4:
-	text "Hmmm...That was no good."
-	line "It sure wasn't a hot duel."
-	line "I can't give you a medal for a"
-	line "lukewarm performance like that!!!"
+	text "Hmmm... Dat was niet goed. Het was"
+	line "in ieder geval geen heet duel."
+	line "Ik kan je geen Medaille geven voor"
+	line "zo'n lauwwarme prestatie!!!"
 	done
 
 Text06c5:
-	text "Hmmm...That was a lukewarm"
-	line "performance."
-	line "Next time we duel,"
-	line "let's heat it up a little more!"
+	text "Hmmm... Dat was een lauwwarme"
+	line "prestatie."
+	line "Laten we het de volgende keer als"
+	line "we duelleren wat meer opwarmen!"
 	done
 
 Text06c6:
-	text "I am Ken, the Fire Club Master!"
-	line "Let us play a heated duel!"
+	text "Ik ben Ken, de Vuur-Clubmeester!"
+	line "Laten we een verhit duel hebben!"
 	done
 
 Text06c7:
-	text "A 1-match duel for 6 Prizes!"
-	line "Let us start the duel!"
+	text "Een duel van 1 wedstrijd met"
+	line "6 Prijzen!"
+	line "Laten we dan beginnen met het duel!"
 	done
 
 Text06c8:
@@ -522,116 +534,118 @@ Text06c8:
 	done
 
 Text06c9:
-	text "Thank you."
-	line "Please come again."
+	text "Dankjewel."
+	line "Kom later nog eens terug."
 	done
 
 Text06ca:
-	text "Thank you for visiting"
-	line "the Battle Center."
+	text "Bedankt voor je bezoek aan het"
+	line "Gevechtscentrum."
 	done
 
 Text06cb:
-	text "Congratulations!"
-	line "You have won the duel!"
-	line "Thank you."
-	line "Please come again."
+	text "Gefeliciteerd!"
+	line "Je hebt het duel gewonnen!"
+	line "Dankjewel."
+	line "Kom later nog eens terug."
 	done
 
 Text06cc:
-	text "I'm very sorry..."
-	line "Thank you for visiting"
-	line "the Battle Center."
-	line "Please come again."
+	text "Het spijt me zeer..."
+	line "Bedankt voor je bezoek aan het"
+	line "Gevechtscentrum."
+	line "Kom later nog eens terug."
 	done
 
 Text06cd:
-	text "Greetings."
-	line "Welcome to the Gift Center!"
-	line "What can I do for you?"
+	text "Goedendag."
+	line "Welkom bij het Cadeaucentrum!"
+	line "Wat kan ik voor je doen?"
 	done
 
 Text06ce:
-	text "OK,"
-	line "To <RAMTEXT>."
-	line "Please write in your diary before"
-	line "the transaction."
+	text "Oké, aan <RAMTEXT>."
+	line ""
+	line "Werk alsjeblieft je dagboek bij voor"
+	line "het beginnen van deze transactie."
 	done
 
 Text06cf:
-	text "Write in your diary?"
+	text "Wil je je dagboek bijwerken??"
 	done
 
 Text06d0:
-	text "We can't complete the transaction"
-	line "unless you write in your diary."
+	text "We kunnen de transactie niet"
+	line "voltooien tenzij je jouw"
+	line "dagboek bijwerkt."
 	done
 
 Text06d1:
-	text "<RAMNAME>"
-	line "wrote in the diary."
+	text "<RAMNAME> heeft"
+	line "in het dagboek geschreven."
 	done
 
 Text06d2:
-	text "Thank you."
-	line "Please come again."
+	text "Dankjewel."
+	line "Kom later nog eens terug."
 	done
 
 Text06d3:
-	text "You sent a card to"
+	text "Je stuurde een kaart aan"
 	line "<RAMTEXT>!"
-	line "Thank you."
-	line "Please come again."
+	line "Dankjewel."
+	line "Kom later nog eens terug."
 	done
 
 Text06d4:
-	text "You sent the configuration for"
-	line "the <RAMTEXT> deck!"
-	line "Thank you."
-	line "Please come again."
+	text "Je stuurde de samenstelling van het"
+	line "<RAMTEXT> Deck!"
+	line "Dankjewel."
+	line "Kom later nog eens terug."
 	done
 
 Text06d5:
-	text "You received the configuration for"
-	line "the <RAMTEXT> deck!"
-	line "Thank you."
-	line "Please come again."
+	text "Je ontving de samenstelling van het"
+	line "<RAMTEXT> Deck!"
+	line "Dankjewel."
+	line "Kom later nog eens terug."
 	done
 
 Text06d6:
-	text "Welcome to the Gift Center!"
-	line "Here you can give or receive cards"
-	line "or deck configurations via the"
-	line "Infrared Link."
-	line "Unfortunately, our service is"
-	line "only available on a Game Boy Color."
-	line "Please enjoy our service with"
-	line "a Game Boy Color."
+	text "Welkom bij het Cadeaucentrum!"
+	line "Hier kan je kaarten of Deck-samen-"
+	line "stellingen versturen en ontvangen"
+	line "via de Infrarood Verbinding."
+	line "Helaas is onze service alleen"
+	line "beschikbaar op een Game Boy Color."
+	line "Maak gebruik van onze service met"
+	line "een Game Boy Color."
 	done
 
 Text06d7:
-	text "Greetings."
-	line "Welcome to the Grass Club."
-	line "This Club is for girls who love"
-	line "to grow flowers."
-	line "The Pokémon cards used here are"
-	line "also beautiful flowers."
+	text "Goedendag."
+	line "Welkom bij de Gras-Club."
+	line "Deze Club is voor meisjes die graag"
+	line "bloemen kweken."
+	line "De Pokémonkaarten die hier gebruikt"
+	line "worden zijn ook prachtige bloemen."
 	done
 
 Text06d8:
-	text "All the members of this Club"
-	line "are girls."
-	line "But I can't beat girls who"
-	line "are this tough!"
-	line "Huh? You must be <RAMNAME>."
-	line "Mitch told me all about you."
-	line "Beating you will be much better"
-	line "than losing to the girls!"
+	text "Alle leden van deze Club zijn"
+	line "meisjes."
+	line "Maar ik kan geen meisjes verslaan"
+	line "die zo sterk zijn!"
+	line "Huh? Jij bent vast <RAMNAME>."
+	line "Mitch heeft me alles over je"
+	line "verteld."
+	line "Misschien ben jij wel makkelijker"
+	line "te verslaan dan die meisjes!"
 	done
 
 Text06d9:
-	text "Hi, <RAMNAME>."
-	line "Would you duel me?"
+	text "Hoi, <RAMNAME>."
+	line "Wil je tegen me duelleren?"
 	done
 
 UnusedText06da: ; Unused
@@ -639,52 +653,54 @@ UnusedText06da: ; Unused
 	done
 
 Text06db:
-	text "I'll be here a while, so come"
-	line "see me if you change your mind."
+	text "Ik zal hier wel een tijdje zijn,"
+	line "dus zoek me vooral op als je van"
+	line "gedachten veranderd."
 	done
 
 Text06dc:
-	text "OK! A single match for 4 prizes!"
-	line "Let's begin!"
+	text "Oké! Een enkel duel met 4 Prijzen!"
+	line "Laten we beginnen!"
 	done
 
 Text06dd:
-	text "Tch! I lost!"
-	line "I'll go back to my Club and train!"
-	line "Oops! Before I go..."
-	line "Since it's the rule, take this!"
+	text "Tch! Ik verloor!"
+	line "Ik ga wel terug naar mijn Club om"
+	line "te trainen!"
+	line "Oeps! Voor ik wegga..."
+	line "Aangezien het de regel is, neem dit!"
 	done
 
 Text06de:
-	text "I'm heading back to the Fighting"
-	line "Club. Bye! See you again."
+	text "Ik ga op weg naar de Vecht-Club."
+	line "Doei! Ik zie je later."
 	done
 
 Text06df:
-	text "You're still no match for me!"
-	line ""
-	line "I'll be here, so come back after"
-	line "you train more!"
+	text "Je bent nog steeds geen partij voor"
+	line "mij!"
+	line "Ik zal hier blijven, dus kom terug"
+	line "nadat je meer getraind hebt!!"
 	done
 
 Text06e0:
-	text "Taking care of plants is hard work."
-	line "Let me rest for a while..."
-	line "Who? The Master of the Grass Club?"
-	line "Do you mean Nikki? Nikki's out."
-	line "I need a break. Do you want to play"
-	line "the Pokémon Trading Card Game?"
+	text "Planten verzorgen is hard werken."
+	line "Laat me even rusten..."
+	line "Wie? De Meester van de Gras-Club?"
+	line "Bedoel je Nikki? Nikki is even weg."
+	line "Ik heb een pauze nodig. Wil je het"
+	line "Pokémon Ruilkaartspel spelen?"
 	done
 
 Text06e1:
-	text "Caring for plants is hard work."
-	line "You think I'm slacking off?"
-	line "How rude! I'm only taking a short"
-	line "break!"
-	line "You need a gentle heart"
-	line "to take care of plants!"
-	line "Say, would you play the Pokémon"
-	line "Trading Card Game with me?"
+	text "Planten verzorgen is hard werken."
+	line "Denk je dat ik zit te lanterfanten?"
+	line "Wat onbeleefd! Ik neem maar een"
+	line "korte pauze! Je hebt een teder hart"
+	line "nodig om voor planten te zorgen!"
+	line ""
+	line "Zeg, wil je het Pokémon Ruilkaart-"
+	line "spel met me spelen?"
 	done
 
 Text06e2:
@@ -692,59 +708,60 @@ Text06e2:
 	done
 
 Text06e3:
-	text "How boring..."
+	text "Wat saai..."
 	done
 
 Text06e4:
-	text "OK! A single match with 4 Prizes."
-	line "Let's start!"
+	text "Oké! Een enkele wedstrijd met"
+	line "4 Prijzen. Laten we beginnen!"
 	done
 
 Text06e5:
-	text "How could I lose?"
-	line "How!?!"
+	text "Hoe kon ik verliezen?"
+	line "Hoe!?!"
 	done
 
 Text06e6:
-	text "Humph! It's not much of a break"
-	line "if I lose."
+	text "Hmmph! Het is niet echt een pauze"
+	line "als ik verlies."
 	done
 
 Text06e7:
-	text "Humph! Whenever I lose,"
-	line "I get irritated!"
+	text "Hmmph! Altijd als ik verlies raak"
+	line "ik geïrriteerd!"
 	done
 
 Text06e8:
-	text "Oh, by the way, Nikki is visiting"
-	line "Ishihara's house."
-	line "You'll probably find her there."
+	text "Oh, trouwens, Nikki is op bezoek bij"
+	line "het huis van Ishihara."
+	line "Je zult haar daar waarschijnlijk"
+	line "vinden."
 	done
 
 Text06e9:
-	text "Thanks!"
-	line "That was a nice little break!"
+	text "Bedankt!"
+	line "Dat was een fijne korte pauze!"
 	done
 
 Text06ea:
-	text "Thanks for the card!"
-	line "I'll take good care of it!"
+	text "Bedankt voor de kaart!"
+	line "Ik zal er goed voor zorgen!"
 	done
 
 Text06eb:
 	text "Oddish, Oddish,"
-	line "Roly-Poly Oddish!"
-	line "Oddish is so Roly-Poly"
-	line "and so cute!"
-	line "I'll give you this Vileplume"
-	line "if you give me an Oddish!"
+	line "Wildebrassige Oddish!"
+	line "Oddish is zo'n wildebras en zo"
+	line "schattig!"
+	line "Ik geef je deze Vileplume als je"
+	line "me een Oddish geeft!"
 	done
 
 Text06ec:
-	text "Hi!"
-	line "Did you bring me an Oddish?"
-	line "Will you trade your Oddish"
-	line "for my Vileplume?"
+	text "Hoi!"
+	line "Heb je me een Oddish gebracht?"
+	line "Wil je jouw Oddish ruilen tegen"
+	line "mijn Vileplume?"
 	done
 
 Text06ed:
@@ -752,37 +769,37 @@ Text06ed:
 	done
 
 Text06ee:
-	text "I want an Oddish!"
-	line "A Roly-Poly Oddish!"
+	text "Ik wil een Oddish!"
+	line "Een wildebrassige Oddish!"
 	done
 
 Text06ef:
-	text "Excuse me..."
-	line "Do you have an Oddish..."
+	text "Pardon..."
+	line "Heb jij een Oddish...?"
 	done
 
 Text06f0:
-	text "Then let's trade!"
-	line "Vileplume for an Oddish!"
-	line "Oops!"
-	line "Your Oddish is in your deck!"
-	line "I can't take that!"
-	line "Please trade me some other time."
+	text "Laten we dan ruilen!"
+	line "Vileplume voor een Oddish!"
+	line "Oeps!"
+	line "Jouw Oddish zit nog in je deck!"
+	line "Die kan ik niet aannemen!"
+	line "Kom later terug om te ruilen."
 	done
 
 Text06f1:
-	text "OK then, let's trade!"
-	line "Vileplume for an Oddish."
+	text "Oké dan, laten we ruilen!"
+	line "Vileplume voor een Oddish."
 	done
 
 Text06f2:
-	text "<RAMNAME> traded an Oddish"
-	line "for a Vileplume!"
+	text "<RAMNAME> ruilde een Oddish"
+	line "voor een Vileplume!"
 	done
 
 Text06f3:
-	text "Thanks for the card!"
-	line "I'll take good care of it!"
+	text "Bedankt voor de kaart!"
+	line "Ik zal er goed voor zorgen!"
 	done
 
 Text06f4:

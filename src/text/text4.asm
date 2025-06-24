@@ -112,7 +112,7 @@ StartANewGameText:
 
 TheGameWillContinueFromThePointInTheDuelText:
 	text "Het spel zal doorgaan vanaf"
-	line "het moment tijdens het Duel"
+	line "het moment tijdens het duel"
 	line "toen de stroom uit ging."
 	done
 
@@ -134,9 +134,9 @@ AllDataWasDeletedText:
 DataExistsWhenPowerWasTurnedOFFDuringDuelText:
 	text "Er zijn gegevens beschikbaar vanaf"
 	line "het moment dat de stroom werd"
-	line "uitgeschakeld tijdens een Duel."
+	line "uitgeschakeld tijdens een duel."
 	line "Kies ”Duel Afmaken” in het hoofdmenu"
-	line "om het Duel voort te zetten."
+	line "om het duel voort te zetten."
 	line "Als je nu doorgaat, wordt het kopje"
 	line "”Duel Afmaken” verwijderd en begint"
 	line "het spel vanaf het moment dat je"
@@ -1118,12 +1118,12 @@ Mail14Part1Text:
 
 Mail15Part1Text:
 	line "Ik ben het, Dokter Mason!"
-	line "Het is tijd voor het laatste Duel!"
+	line "Het is tijd voor het laatste duel!"
 	line "Ik heb wat informatie over Rod,"
 	line "de Leider van de Grootmeesters."
 	line "Rod gebruikt de Legendarische"
 	line "Dragonite."
-	line "Hoe langer het Duel duurt, hoe"
+	line "Hoe langer het duel duurt, hoe"
 	line "groter de voordelen zullen zijn"
 	line "voor zijn deck. Zijn werkpaarden"
 	line "zullen zijn Evolutie-Pokémon zijn,"
@@ -1294,7 +1294,7 @@ SaraDeclinedDuelText:
 
 SaraStartDuelText:
 	text "We zullen spelen met 2 Prijzen."
-	line "Het Duel zal uit 1 wedstrijd"
+	line "Het duel zal uit 1 wedstrijd"
 	line "bestaan!"
 	line "Oké, laten we beginnen!"
 	done
@@ -1338,7 +1338,7 @@ AmandaDeclinedDuelText:
 AmandaDuelStartText:
 	text "Oké, we zullen spelen met 3"
 	line "Prijzen."
-	line "Het Duel zal uit 1 wedstrijd"
+	line "Het duel zal uit 1 wedstrijd"
 	line "bestaan!"
 	done
 
