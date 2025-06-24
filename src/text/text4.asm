@@ -1118,7 +1118,7 @@ Mail14Part1Text:
 
 Mail15Part1Text:
 	line "Ik ben het, Dokter Mason!"
-	line "Het is tijd voor het laatste duel!"
+	line "Het is tijd voor het laatste Duel!"
 	line "Ik heb wat informatie over Rod,"
 	line "de Leider van de Grootmeesters."
 	line "Rod gebruikt de Legendarische"

@@ -327,12 +327,12 @@ Text057f:
 	done
 
 PrepareForTheDuelText:
-	text "Voorbereiden op het duel?"
+	text "Voorbereiden op het Duel?"
 	done
 
 Text0581:
 	text "Oké dan!"
-	line "Laat het duel beginnen!"
+	line "Laat het Duel beginnen!"
 	done
 
 Text0582:
@@ -400,7 +400,7 @@ UnusedText058c: ; Unused
 
 Text058d:
 	text "Goed dan!"
-	line "Laat het duel beginnen!"
+	line "Laat het Duel beginnen!"
 	done
 
 Text058e:
@@ -448,17 +448,17 @@ Text0594:
 	done
 
 Text0595:
-	text "Dit is je laatste duel!"
+	text "Dit is je laatste Duel!"
 	line "Laat zien wat je waard bent!"
 	done
 
 Text0596:
-	text "Als je dit duel wint, mag je tegen"
+	text "Als je dit Duel wint, mag je tegen"
 	line "Ronald duelleren!"
 	done
 
 Text0597:
-	text "Dit is je laatste duel!"
+	text "Dit is je laatste Duel!"
 	line "Laat zien wat je waard bent!"
 	done
 
@@ -471,12 +471,12 @@ UnusedText0599: ; Unused
 	done
 
 Text059a:
-	text "Dan beginnen we het laatste duel -"
+	text "Dan beginnen we het laatste Duel -"
 	line "1 wedstrijd voor 6 Prijzen!!!"
 	done
 
 Text059b:
-	text "Een duel van 1 wedstrijd voor 6"
+	text "Een Duel van 1 wedstrijd voor 6"
 	line "Prijzen!!"
 	done
 
@@ -576,7 +576,7 @@ UnusedText05aa: ; Unused
 	done
 
 Text05ab:
-	text "Oké, laten we dan dit ultieme duel"
+	text "Oké, laten we dan dit ultieme Duel"
 	line "beginnen!"
 	done
 
@@ -588,7 +588,7 @@ Text05ac:
 	done
 
 Text05ad:
-	text "Het wordt een duel van 1 wedstrijd"
+	text "Het wordt een Duel van 1 wedstrijd"
 	line "met 6 Prijzen!"
 	line "Laten we beginnen!"
 	done

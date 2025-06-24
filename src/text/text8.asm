@@ -952,7 +952,7 @@ Text0665:
 	line "Legendarische Kaarten overnemen -"
 	line "daarom spelen we tegen zoveel"
 	line "verschillende mensen."
-	line "Ik heb net een duel verloren,"
+	line "Ik heb net een Duel verloren,"
 	line "dus ik kan nu niet spelen."
 	done
 

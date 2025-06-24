@@ -1,56 +1,56 @@
-
-
 Text0676:
-	text "Yes, I understand."
-	line "Losing is scary, isn't it?"
+	text "Ja, ik begrijp het."
+	line "Verliezen is eng, of niet soms?"
 	done
 
 Text0677:
-	text "OK, a single match with 4 Prizes!"
-	line "Here we go!"
+	text "Oké, een enkele wedstrijd met 4"
+	line "Prijzen!"
+	line "We gaan ervoor!"
 	done
 
 Text0678:
-	text "I can't believe my prediction"
-	line "was wrong..."
+	text "Ik kan niet geloven dat mijn voor-"
+	line "spelling verkeerd was..."
 	done
 
 Text0679:
-	text "I see a vision..."
-	line "You're dueling me again."
+	text "Ik zie een visioen..."
+	line "Je zal opnieuw tegen me duelleren."
 	done
 
 Text067a:
-	text "I told you that you would lose..."
-	line "I have the ability to foretell"
-	line "the future! I see a vision..."
-	line "You're dueling me again!"
+	text "Ik zei toch dat je zou verliezen..."
+	line "Ik heb de gave om de toekomst te"
+	line "voorspellen! Ik zie een visioen..."
+	line "Je duelleert opnieuw tegen me!"
 	done
 
 Text067b:
-	text "Let me see... if this happens..."
-	line "then that... so... ummm..."
+	text "Even zien... als dit gebeurt..."
+	line "dan dat... dus... ehmmm..."
 	done
 
 Text067c:
-	text "Club Master Murray doesn't listen"
-	line "to what people are saying!"
+	text "Clubmeester Murray luistert niet"
+	line "naar wat mensen zeggen!"
 	done
 
 Text067d:
-	text "Hi, I'm Murray, Master of the"
-	line "Psychic Club. You're the one"
-	line "who's visiting the Clubs to win"
-	line "the medals. How do I know this?"
-	line "Because I'm Psychic!"
-	line "OK, let me test my new card"
-	line "strategy... against your deck!"
-	line "Are you ready?"
+	text "Hoi, ik ben Murray, Meester van de"
+	line "Psychische Club. Jij bent degene"
+	line "die de Clubs aan het bezoeken is"
+	line "om de Medailles te winnen."
+	line "Hoe weet ik dit? Omdat ik"
+	line "helderziend ben!"
+	line "Oké, laat me mijn nieuwe kaart-"
+	line "strategie testen... tegen jouw deck!"
+	line "Ben je er klaar voor?"
 	done
 
 Text067e:
-	text "Hi! It's you again."
-	line "Are you ready for a duel?"
+	text "Hé! Je bent er weer."
+	line "Ben je klaar voor een Duel?"
 	done
 
 Text067f:
@@ -58,87 +58,92 @@ Text067f:
 	done
 
 Text0680:
-	text "OK. Come back when you're ready."
+	text "Oké. Kom terug als je er klaar"
+	line "voor bent."
 	done
 
 Text0681:
-	text "When you duel me, it's for 6 Prizes."
-	line "Shall we start then!?!"
+	text "Als je tegen me duelleert zal het"
+	line "met 6 Prijzen zijn."
+	line "Zullen we dan van start gaan!?!"
 	done
 
 Text0682:
-	text "Huh!?! I lost!"
+	text "Huh!?! Ik verloor!"
 	line "Hmmmm..."
-	line "Well, you must be pretty good if"
-	line "you're trying to inherit"
-	line "the Legendary Pokémon Cards."
-	line "Here, take this Psychic Medal."
+	line "Nou, je moet best wel goed zijn om"
+	line "de Legendarische Pokémonkaarten over"
+	line "te mogen nemen."
+	line "Hier, neem deze Psychische Medaille."
 	done
 
 Text0683:
-	text "And here, take this"
-	line "Laboratory booster pack!"
+	text "En hier, neem deze Chemie-Booster-"
+	line "Pakje!"
 	done
 
 Text0684:
-	text "I'll think of a new strategy,"
-	line "so come see me again!"
-	line "I'll be waiting!"
+	text "Ik zal nadenken over een nieuwe"
+	line "strategie, dus kom me vooral nog"
+	line "eens opzoeken! Ik zal op je wachten!"
 	line "Ha ha ha ha ha......"
 	done
 
 Text0685:
-	text "It seems you weren't really ready."
-	line "If you keep playing like that,"
-	line "You'll only inherit the Legendary"
-	line "Pokémon Cards in your dreams!"
+	text "Het lijkt erop dat je nog niet"
+	line "helemaal klaar was."
+	line "Als je zo blijft spelen zul je de"
+	line "Legendarische Pokémonkaarten alleen"
+	line "in je dromen mogen overnemen!"
 	done
 
 Text0686:
-	text "Hello, <RAMNAME>!"
-	line "I just came up with a new card"
-	line "strategy and was looking for"
-	line "someone to test it on."
-	line "You'll duel with me, of course,"
-	line "won't you?"
+	text "Hallo, <RAMNAME>!"
+	line "Ik heb net een nieuwe kaartstrategie"
+	line "bedacht en ik was op zoek naar"
+	line "iemand om hem op te testen."
+	line "Je wilt natuurlijk wel tegen me"
+	line "duelleren, or niet soms?"
 	done
 
 Text0687:
-	text "Oh. Well, come by when you feel"
-	line "like playing."
+	text "Oh. Nou, kom dan maar langs als je"
+	line "zin hebt om te spelen."
 	done
 
 Text0688:
-	text "All right! That's the spirit!"
-	line "You've made me a happy man!"
-	line "We'll play with 6 Prizes!"
-	line "I can't wait! Let's start!"
+	text "Goed zo! Zo mag ik het horen!"
+	line "Je hebt een gelukkig man van me"
+	line "gemaakt! We spelen met 6 Prijzen!"
+	line "Ik kan niet wachten!"
+	line "Laten we beginnen!"
 	done
 
 Text0689:
 	text "Hmmm..."
-	line "Maybe my deck isn't well-balanced?"
-	line "I must change some of the cards"
-	line "and try again."
-	line "Oh yeah, take this."
+	line "Misschien is mijn deck niet goed"
+	line "gebalanceerd? Ik moet wat kaarten"
+	line "verwisselen en opnieuw proberen."
+	line "Oh ja, neem dit."
 	done
 
 Text068a:
-	text "Come play with me again."
+	text "Kom later nog eens tegen me spelen."
 	done
 
 Text068b:
-	text "It seems you weren't really ready."
-	line "Come back once you're finally ready."
+	text "Blijkbaar was je nog niet helemaal"
+	line "klaar. Kom maar terug als je"
+	line "eindelijk klaar bent."
 	done
 
 Text068c:
-	text "Greetings."
-	line "Welcome to the Fire Club!"
-	line "This is a Club for boys with a"
-	line "burning passion for Fire Pokémon."
-	line "Fire Pokémon have the greatest"
-	line "attack power of all Pokémon!"
+	text "Hallo."
+	line "Welkom bij de Vuur-Club!"
+	line "Dit is een Club voor jongens met een"
+	line "brandende passie voor Vuur-Pokémon."
+	line "Vuur-Pokémon hebben de grootste"
+	line "aanvalskracht van alle Pokémon!"
 	done
 
 Text068d:
