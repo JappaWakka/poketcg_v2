@@ -530,7 +530,7 @@ MasterMedalsBookText:
 	line "Er wordt gezegd dat het geheim van"
 	line "de decks van hun Clubs versleuteld"
 	line "is in de Meestermedailles. Sommigen"
-	line "zeggen dat de medailles een geschenk"
+	line "zeggen dat de Medailles een geschenk"
 	line "waren van de Grootmeesters."
 	done
 

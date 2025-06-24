@@ -897,106 +897,115 @@ Text065e:
 	done
 
 Text065f:
-	text "I see you still haven't defeated"
-	line "Murray. He's very skilled, but"
-	line "don't give up! I'm pulling for you!"
-	line "If you manage to defeat Murray,"
-	line "then I'll give you something"
-	line "very valuable."
+	text "Ik zie dat je Murray nog steeds"
+	line "niet hebt verslagen."
+	line "Hij is erg goed, maar geef niet op!"
+	line "Ik duim voor je!"
+	line "Als je Murray weet te verslaan,"
+	line "geef ik je iets waardevols."
 	done
 
 Text0660:
-	text "I'm not very fond of people who"
-	line "think too highly of themselves."
-	line "That's why I don't like the"
-	line "members of the Psychic Club."
-	line "Hey!?! Is that the Psychic Medal?"
-	line "Did you defeat Murray!?!"
-	line "I feel so much better!"
-	line "Here, let me give you this"
-	line "Mewtwo card!"
+	text "Ik hou niet van mensen die zichzelf"
+	line "te hoog inschatten. Daarom mag ik"
+	line "de leden van de Psychische Club"
+	line "niet."
+	line "Hé!?! Is dat de Psychische Medaille?"
+	line "Heb je Murray verslagen!?!"
+	line "Ik voel me zoveel beter nu!"
+	line "Hier, laat me je deze Mewtwo-kaart"
+	line "geven!"
 	done
 
 Text0661:
-	text "What? Is that the Psychic Medal?"
-	line "Did you defeat Murray!?!"
-	line "I feel so much better!"
-	line "Here, let me give you this"
-	line "Mewtwo card."
+	text "Wat? Is dat de Psychische Medaille?"
+	line "Heb je Murray verslagen!?!"
+	line "Ik voel me zoveel beter nu!"
+	line "Hier, laat me je deze Mewtwo-kaart"
+	line "geven!"
 	done
 
 Text0662:
-	text "Thank you for defeating Murray!"
+	text "Bedankt dat je Murray hebt"
+	line "verslagen!"
 	done
 
 Text0663:
-	text "Thank you! I feel so much better"
-	line "since you defeated Murray!"
+	text "Bedankt! Ik voel me zoveel beter"
+	line "sinds je Murray versloeg!"
 	done
 
 Text0664:
-	text "Hi, <RAMNAME>."
-	line "So you've finally come this far?"
-	line "I've already won 5 medals!"
-	line "By the time you win your 8th medal,"
-	line "I will have inherited the"
-	line "Legendary Pokémon Cards!"
-	line "I'll catch you later!"
-	line "See ya! Ha ha ha ha ha ha!"
+	text "Hoi, <RAMNAME>."
+	line "Dus je bent eindelijk zover gekomen?"
+	line "Ik heb al 5 Medailles gewonnen!"
+	line "Tegen de tijd dat jij je 8ste"
+	line "medaille hebt gewonnen, heb ik de"
+	line "Legendarische Pokémonkaarten over-"
+	line "genomen! Ik kom je nog wel tegen!"
+	line "Tot ziens! Ha ha ha ha ha ha!"
 	done
 
 Text0665:
-	text "The Legendary Pokémon Cards are"
-	line "the ultimate cards. Everyone wants"
-	line "to inherit the Legendary Cards -"
-	line "that's why we play against so many"
-	line "different people. I just lost a"
-	line "duel, so I can't play right now."
+	text "De Legendarische Pokémonkaarten zijn"
+	line "de ultieme kaarten. Iedereen wil de"
+	line "Legendarische Kaarten overnemen -"
+	line "daarom spelen we tegen zoveel"
+	line "verschillende mensen."
+	line "Ik heb net een duel verloren,"
+	line "dus ik kan nu niet spelen."
 	done
 
 Text0666:
-	text "Did you hear? Someone inherited"
-	line "the Legendary Pokémon Cards!"
-	line "Whoever it is must be really cool if"
-	line "they can defeat the Grand Masters!"
+	text "Heb je het gehoord? Iemand heeft"
+	line "de Legendarische Pokémonkaarten"
+	line "overgenomen! Wie dat ook mag zijn"
+	line "moet wel heel cool zijn als die de"
+	line "Grootmeesters kan verslaan!"
 	done
 
 Text0667:
-	text "I dropped all my cards, so I'm"
-	line "putting them in order here!"
+	text "Ik heb al mijn kaarten laten vallen"
+	line "dus ik ben ze hier in de goede"
+	line "volgorde aan het leggen!"
 	done
 
 Text0668:
-	text "Huh? What am I doing?"
-	line "I'm building a deck!"
+	text "Huh? Wat ik aan het doen ben?"
+	line "Ik bouw een deck!"
 	done
 
 Text0669:
-	text "What do you think Murray's doing"
-	line "over there in the corner?"
-	line "He's thinking about how to"
-	line "duel using his new cards."
-	line "We strive to better ourselves"
-	line "here at the Psychic Club."
+	text "Wat denk je dat Murray aan het doen"
+	line "is daar in de hoek?"
+	line "Hij is aan het bedenken hoe hij gaat"
+	line "duelleren met zijn nieuwe kaarten."
+	line "We streven ernaar onszelf te ver-"
+	line "beteren hier bij de Psychische Club."
 	done
 
 Text066a:
-	text "You still haven't won any medals."
-	line "You aren't qualified to duel me."
-	line "Go to some other Club and win"
-	line "a medal first!"
+	text "Je hebt nog steeds geen Medailles"
+	line "gewonnen."
+	line "Je bent niet gekwalificeerd om met"
+	line "mij te duelleren."
+	line "Ga naar een andere Club en win daar"
+	line "eerst een Medaille!"
 	done
 
 Text066b:
-	text "I see you've won a medal."
-	line "Then I will duel with you."
+	text "Ik zie dat je een Medaille hebt"
+	line "gewonnen."
+	line "Dan zal ik nu met je duelleren."
 	done
 
 Text066c:
-	text "Murray finally came up with a new"
-	line "strategy. He's in a very good mood,"
-	line "so he'll probably duel you now."
-	line "By the way, would you duel me?"
+	text "Murray heeft eindelijk een nieuwe"
+	line "strategie bedacht. Hij is in een"
+	line "goede stemming, dus hij wil nu"
+	line "vast tegen je duelleren."
+	line "Trouwens, wil je ook tegen mij"
+	line "duelleren?"
 	done
 
 Text066d:
@@ -1004,43 +1013,48 @@ Text066d:
 	done
 
 Text066e:
-	text "Are you afraid to duel?"
-	line "Well, not that I care!"
+	text "Ben je bang om te duelleren?"
+	line ""
+	line "Nou, niet dat het mij iets kan"
+	line "schelen!"
 	done
 
 Text066f:
-	text "Let's play with 4 Prizes."
-	line "OK, here we go!"
+	text "Laten we spelen met 4 Prijzen."
+	line "Oké, hier gaan we!"
 	done
 
 Text0670:
-	text "You're no ordinary player if"
-	line "you can defeat me!"
+	text "Je bent geen doorsnee speler als je"
+	line "mij kunt verslaan!"
 	done
 
 Text0671:
-	text "Next time we play, I'm going"
-	line "to win!"
+	text "De volgende keer dat we spelen"
+	line "ga ik winnen!"
 	done
 
 Text0672:
-	text "You're still not good enough"
-	line "to defeat me!"
-	line "I'll duel you any time you want."
+	text "Je bent nog steeds niet goed genoeg"
+	line "om me te verslaan!"
+	line "Ik zal tegen je duelleren wanneer"
+	line "je maar wilt."
 	done
 
 Text0673:
-	text "I can see the future..."
-	line "You cannot defeat me."
-	line "But if you win 2 medals, maybe..."
-	line "Then... I would duel you..."
+	text "Ik kan de toekomst zien..."
+	line "Je kan me niet verslaan."
+	line "Maar als je 2 Medailles wint,"
+	line "misschien... zal ik..."
+	line "dan tegen je duelleren..."
 	done
 
 Text0674:
-	text "You've won quite a few medals."
-	line "OK...Let's duel."
-	line "But I see the future..."
-	line "You will lose..."
+	text "Je hebt flink wat Medailles"
+	line "gewonnen."
+	line "Oké... Laten we duelleren."
+	line "Maar ik zie de toekomst..."
+	line "Je zult verliezen..."
 	done
 
 Text0675:
