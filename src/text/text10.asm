@@ -1,26 +1,26 @@
 Text0703:
-	text "Only girls are allowed to join"
-	line "the Grass Club,"
-	line "But we're not accepting"
-	line "applications now, anyway. Sorry!"
+	text "Alleen meisjes mogen lid worden"
+	line "van de Gras-Club. Maar we nemen"
+	line "momenteel sowieso geen aanmel-"
+	line "dingen aan. Sorry!"
 	done
 
 Text0704:
-	text "Are you looking for Nikki,"
-	line "the Grass Club Master?"
-	line "I don't think she's here"
-	line "at the Club at the moment."
-	line "Would you like to take care"
-	line "of the plants?"
-	line "We could duel with cards"
-	line "if you prefer..."
+	text "Ben je op zoek naar Nikki,"
+	line "de Gras-Clubmeester?"
+	line "Volgens mij is ze niet in de Club"
+	line "op het moment."
+	line "Wil je misschien helpen de planten"
+	line "te verzorgen?"
+	line "We kunnen ook duelleren met kaarten"
+	line "als je dat liever wilt..."
 	done
 
 Text0705:
-	text "Hi, would you like to take care of"
-	line "the plants with me?"
-	line "We could duel with cards"
-	line "if you prefer..."
+	text "Hoi, wil je misschien de planten"
+	line "verzorgen met mij?"
+	line "We kunnen ook duelleren met kaarten"
+	line "als je dat liever wilt..."
 	done
 
 Text0706:
@@ -28,56 +28,58 @@ Text0706:
 	done
 
 Text0707:
-	text "If you'll excuse me,"
-	line "I have plants to look after!"
+	text "Als je me wilt verontschuldigen,"
+	line "ik heb planten om voor te zorgen!"
 	done
 
 Text0708:
-	text "We'll play a single match"
-	line "with 4 Prizes."
-	line "Don't take me lightly"
-	line "just because I'm a girl!"
+	text "We spelen een enkele wedstrijd met"
+	line "4 Prijzen."
+	line "Denk maar niet dat je makkelijk van"
+	line "me kan winnen!"
 	done
 
 Text0709:
-	text "Oh! I lost."
-	line "Well, I guess this is for you..."
+	text "Oh! Ik heb verloren."
+	line ""
+	line "Nou, ik denk dat dit dan"
+	line "voor jou is..."
 	done
 
 Text070a:
-	text "The Pokémon Trading Card Game is"
-	line "fun, but so is taking care of trees!"
+	text "Het Pokémon Ruilkaartspel is leuk,"
+	line "maar voor bomen zorgen ook!"
 	done
 
 Text070b:
-	text "I believe Nikki is at"
-	line "Ishihara's house."
-	line "Maybe you should go meet her there,"
-	line "since she's late getting back."
+	text "Ik geloof dat Nikki bij Ishihara"
+	line "thuis op bezoek is. Misschien moet"
+	line "je haar daar ontmoeten, aangezien"
+	line "ze laat terug lijkt te zijn."
 	done
 
 Text070c:
-	text "Oh! I won."
-	line "I told you not to take me lightly."
-	line "Now, if you'll excuse me,"
-	line "I have plants to look after!"
+	text "Oh! Ik won. Ik zei toch dat je me"
+	line "niet makkelijk zou kunnen verslaan?"
+	line "Als je me nu wilt verontschuldigen,"
+	line "ik heb planten om voor te zorgen!"
 	done
 
 Text070d:
-	text "Master Nikki is out right now."
-	line "Where'd she go? That's a secret..."
-	line "... Hmmm, let me see..."
-	line "If you defeat..."
-	line "3 members of the Grass Club,"
-	line "I'll tell you where she is."
-	line "So, how about it?"
+	text "Meester Nikki is momenteel even weg."
+	line "Waar ging ze heen? Dat is een"
+	line "geheim..."
+	line "... Hmmm, even zien..."
+	line "Als je... 3 leden van de Gras-Club"
+	line "verslaat, zeg ik je waar ze is."
+	line "Dus, wat denk je ervan?"
 	done
 
 Text070e:
 	text "Oh!"
-	line "It's you again."
-	line "If you don't mind,"
-	line "would you duel with me?"
+	line "Jij bent het weer."
+	line "Als je het niet erg vindt, zou je"
+	line "dan tegen me willen duelleren?"
 	done
 
 Text070f:
@@ -85,58 +87,58 @@ Text070f:
 	done
 
 Text0710:
-	text "I'll be glad to duel you"
-	line "any time you like."
+	text "Ik duelleer graag tegen je wanneer"
+	line "je maar wilt."
 	done
 
 Text0711:
-	text "Are 4 Prizes OK?"
-	line "Let's begin!"
+	text "Zijn 4 Prijzen oké?"
+	line "Laten we beginnen!"
 	done
 
 Text0712:
-	text "I can't believe"
-	line "I could lose..."
+	text "Ik kan niet geloven dat ik kon"
+	line "verliezen..."
 	done
 
 Text0713:
-	text "I can't believe"
-	line "I would lose again..."
+	text "Ik kan niet geloven dat ik opnieuw"
+	line "kon verliezen..."
 	done
 
 Text0714:
-	text "I need to practice more..."
+	text "Ik moet meer oefenen..."
 	done
 
 Text0715:
-	text "Nikki is visiting Ishihara."
-	line "Why don't you go see her there?"
+	text "Nikki is op bezoek bij Ishihara."
+	line "Waarom ontmoet je haar niet daar?"
 	done
 
 Text0716:
-	text "Well, that wasn't much of a duel!"
+	text "Nou, dat was niet echt een duel!"
 	line ""
-	line "I'll be glad to duel you"
-	line "any time you like."
+	line "Ik duelleer graag tegen je wanneer"
+	line "je maar wilt."
 	done
 
 Text0717:
-	text "I wonder if your last win"
-	line "was just luck?"
-	line "I will be glad to duel you"
-	line "any time you like."
+	text "Ik vraag me af of je laatste over-"
+	line "winning gewoon geluk was?"
+	line "Ik duelleer graag tegen je wanneer"
+	line "je maar wilt."
 	done
 
 Text0718:
-	text "I'm Nikki, the Master of the"
-	line "Grass Club."
-	line "I'm sorry I kept you waiting."
-	line "Shall we duel?"
+	text "Ik ben Nikki, de Meester van de"
+	line "Gras-Club."
+	line "Het spijt me dat ik je liet wachten."
+	line "Zullen we duelleren?"
 	done
 
 Text0719:
-	text "Hello, <RAMNAME>."
-	line "Did you come for a duel?"
+	text "Hallo, <RAMNAME>."
+	line "Ben je gekomen voor een duel?"
 	done
 
 Text071a:
@@ -144,217 +146,230 @@ Text071a:
 	done
 
 Text071b:
-	text "Oh...You do not wish to duel?"
-	line "I'll be here at the Club for"
-	line "a while, so please come by"
-	line "any time you like."
+	text "Oh... Je wilt niet duelleren?"
+	line "Ik zal nog een tijdje in de"
+	line "Club zijn, dus kom gerust"
+	line "langs wanneer je wilt."
 	done
 
 Text071c:
-	text "Then why don't you stop and"
-	line "gaze at our flowers for a while."
-	line "Looking at beautiful flowers"
-	line "makes you feel so serene."
+	text "Waarom stop je dan niet even"
+	line "om naar onze bloemen te kijken?"
+	line "Als je naar mooie bloemen kijkt,"
+	line "voel je je zo ontspannen."
 	done
 
 Text071d:
-	text "Shall we play with 6 Prizes?"
-	line "Please go easy on me."
+	text "Zullen we spelen met 6 Prijzen?"
+	line ""
+	line "Doe alsjeblieft rustig aan voor me"
+	line "bij het duel."
 	done
 
 Text071e:
-	text "We'll play with 6 Prizes, as usual."
-	line "Please go easy on me."
+	text "We spelen met 6 Prijzen, zoals"
+	line "gebruikelijk."
+	line "Doe alsjeblieft rustig aan voor me"
+	line "bij het duel."
 	done
 
 Text071f:
-	text "Oh, no! I lost!"
-	line "Well, you truly are skilled."
-	line "Maybe one day you will inherit"
-	line "the Legendary Pokémon Cards."
-	line "Please allow me to give you"
-	line "this Grass Medal."
+	text "Oh nee! Ik verloor!"
+	line "Nou, je bent echt bekwaam."
+	line "Misschien zul je op een dag de"
+	line "Legendarische Pokémonkaarten over"
+	line "mogen nemen."
+	line "Sta me toe je deze Grass Medal te"
+	line "geven."
 	done
 
 Text0720:
-	text "Oh, no!"
-	line "How could I lose?"
-	line "Please allow me to give you"
-	line "this booster pack."
+	text "Oh nee!"
+	line "Hoe kon ik nou verliezen?"
+	line "Sta me toe je dit Booster-Pakje"
+	line "te geven."
 	done
 
 Text0721:
-	text "Please take this, too."
+	text "Neem dit ook, alsjeblieft."
 	done
 
 Text0722:
-	text "My duel with you was... quite fun!"
-	line "Please allow me to duel you again!"
+	text "Mijn duel met jou was..."
+	line "erg leuk!"
+	line "Sta me alsjeblieft toe nog eens"
+	line "tegen jou te duelleren!"
 	done
 
 Text0723:
-	text "I am Nikki, the Grass Club"
-	line "Master. What? You were looking"
-	line "for me? Oh my..."
-	line "I'm very sorry to keep you waiting."
-	line "I was doing a little research here."
-	line "I assume you would like to duel?"
-	line "I only duel at the Club. I'm sorry,"
-	line "but could you meet me there?"
-	line "I will head back to the Grass Club"
-	line "and wait for you there."
+	text "Ik ben Nikki, de Gras-Clubmeester."
+	line "Wat? Je was naar me op zoek?"
+	line "Oh jee... Het spijt me zeer dat"
+	line "ik je liet wachten."
+	line "Ik was een beetje onderzoek aan het"
+	line "doen hier."
+	line "Ik neem aan dat je wilt duelleren?"
+	line "Ik duelleer alleen in de Club."
+	line "Het spijt me, maar zou je me daar"
+	line "willen ontmoeten?"
+	line "Ik zal terug gaan naar de Gras-Club"
+	line "en daar op je wachten."
 	done
 
 Text0724:
-	text "Thank you very much, Ishihara."
-	line "Your books were very helpful!"
-	line "You are indeed the number one"
-	line "Pokémon card collector."
+	text "Heel erg bedankt, Ishihara."
+	line "Je boeken waren erg nuttig!"
+	line "Je bent inderdaad de nummer één"
+	line "Pokémonkaartenverzamelaar."
 	done
 
 Text0725:
-	text "Oh, no!"
-	line "You give me too much credit..."
-	line "If you need to research anything,"
-	line "please come see me again!"
+	text "Oh nee hoor!"
+	line "Je schrijft me te veel eer toe..."
+	line "Als je nog eens iets wilt"
+	line "onderzoeken, kom dan alsjeblieft"
+	line "naar me toe!"
 	done
 
 Text0726:
-	text "Thank you very much, Ishihara."
-	line "If you will excuse me..."
+	text "Heel erg bedankt, Ishihara."
+	line "Als je me wilt verontschuldigen..."
 	done
 
 Text0727:
-	text "Hello, nice to meet you."
-	line "I'm Ishihara."
-	line "I'm a Pokémon card collector."
-	line "I love collecting cards."
-	line "I see you also love Pokémon cards."
-	line "Please come see me again."
-	line "We must trade sometime.  OH!"
-	line "If you're playing with the cards,"
-	line "please read some of the books here."
-	line "I believe they will be helpful."
+	text "Hallo, leuk je te ontmoeten."
+	line "Ik ben Ishihara. Ik ben een"
+	line "Pokémonkaartenverzamelaar."
+	line "Ik hou ervan om kaarten te"
+	line "verzamelen. En ik zie dat jij"
+	line "ook van Pokémonkaarten houdt."
+	line "Kom me alsjeblieft later opzoeken."
+	line "We moeten eens ruilen."
+	line "Oh! Als je met de kaarten speelt,"
+	line "lees dan wat van de boeken hier."
+	line "Ik denk dat ze nuttig zullen zijn."
 	done
 
 Text0728:
-	text "Hello, <RAMNAME>."
-	line "Welcome."
-	line "There aren't any cards I want"
-	line "or can trade at the moment."
-	line "Let's trade some other time."
-	line "If you like, please feel free to"
-	line "read some of the books I wrote."
-	line "I believe they will be helpful!"
+	text "Hallo, <RAMNAME>."
+	line "Welkom."
+	line "Er zijn geen kaarten die ik wil"
+	line "of kan ruilen op het moment."
+	line "Laten we een andere keer ruilen."
+	line "Als je wilt, lees dan gerust wat"
+	line "van de boeken die ik heb geschreven."
+	line "Ik denk dat ze nuttig zullen zijn!"
 	done
 
 Text0729:
-	text "Hello, <RAMNAME>."
-	line "I guess you're here because you"
-	line "heard the rumor that I'm looking"
-	line "for a Clefable..."
-	line "I'm thinking about trading"
-	line "my Surfing Pikachu for it."
-	line "Do you have a Clefable?"
+	text "Hallo, <RAMNAME>."
+	line "Ik neem aan dat je hier bent omdat"
+	line "je het gerucht hebt gehoord dat ik"
+	line "op zoek ben naar een Clefable..."
+	line "Ik denk erover om mijn Surfende"
+	line "Pikachu ervoor te ruilen."
+	line "Heb jij een Clefable?"
 	done
 
 Text072a:
-	text "Hello, <RAMNAME>."
-	line "Are you enjoying the Pokémon TCG?"
-	line "By the way, I'm looking for a"
+	text "Hallo, <RAMNAME>."
+	line "Ben je aan het genieten van het"
+	line "Pokémon Ruilkaartspel?"
+	line "Ik ben trouwens op zoek naar een"
 	line "Clefable..."
-	line "I'm thinking about trading"
-	line "my Surfing Pikachu for it."
-	line "Do you have a Clefable?"
+	line "Ik denk erover om mijn Surfende"
+	line "Pikachu ervoor te ruilen."
+	line "Heb jij een Clefable?"
 	done
 
 Text072b:
-	text "Would you like to trade cards?"
+	text "Wil je kaarten ruilen?"
 	done
 
 Text072c:
-	text "All right."
-	line "I understand..."
-	line "Please trade with me"
-	line "some other time..."
+	text "Oké. Ik begrijp het..."
+	line "Ruil alsjeblieft een andere keer"
+	line "met me..."
 	done
 
 Text072d:
-	text "I appreciate your interest,"
-	line "but you don't own that card."
-	line "Please trade with me"
-	line "some other time..."
+	text "Ik waardeer je interesse, maar die"
+	line "kaart heb je niet."
+	line "Ruil alsjeblieft een andere keer"
+	line "met me..."
 	done
 
 Text072e:
-	text "Hmm, I see all the Clefable cards"
-	line "you own are in your deck."
-	line "I can't very well take a card"
-	line "you are using in duels."
-	line "Please trade with me"
-	line "some other time..."
+	text "Hmm, ik zie dat alle Clefable-"
+	line "kaarten die je bezit in je deck"
+	line "zitten. Ik kan niet echt een"
+	line "kaart van je aannemen die je"
+	line "in duellen gebruikt."
+	line "Ruil alsjeblieft een andere keer"
+	line "met me..."
 	done
 
 Text072f:
-	text "Oh wonderful!"
-	line "Then without delay..."
+	text "Oh fantastisch!"
+	line "Dan zonder uitstel..."
 	done
 
 Text0730:
-	text "<RAMNAME> traded a Clefable"
-	line "for a Surfing Pikachu!"
+	text "<RAMNAME> ruilde een Clefable"
+	line "voor een Surfende Pikachu!"
 	done
 
 Text0731:
-	text "Thank you for this Clefable."
-	line "You've been a great help!"
+	text "Bedankt voor deze Clefable."
+	line "Je hebt me enorm geholpen!"
 	done
 
 Text0732:
-	text "Hello, <RAMNAME>."
-	line "I suppose you're here because"
-	line "you heard that I was looking for"
-	line "a Ditto this time..."
-	line "I'm thinking about trading"
-	line "my Flying Pikachu for one."
-	line "Do you have a Ditto?"
+	text "Hallo, <RAMNAME>."
+	line "Ik neem aan dat je hier bent omdat"
+	line "je hebt gehoord dat ik deze keer"
+	line "op zoek ben naar een Ditto..."
+	line "Ik denk erover om mijn Vliegende"
+	line "Pikachu ervoor te ruilen."
+	line "Heb jij een Ditto?"
 	done
 
 Text0733:
-	text "Hello, <RAMNAME>."
-	line "Are you enjoying the Pokémon TCG?"
-	line "I'm looking for a Ditto this time..."
-	line "I'm thinking about trading"
-	line "my Flying Pikachu for one."
-	line "Do you have a Ditto?"
+	text "Hallo, <RAMNAME>."
+	line "Ben je aan het genieten van het"
+	line "Pokémon Ruilkaartspel? Ik ben deze"
+	line "keer op zoek naar een Ditto..."
+	line "Ik denk erover om mijn Vliegende"
+	line "Pikachu ervoor te ruilen."
+	line "Heb jij een Ditto?"
 	done
 
 Text0734:
 	text "Hmmm..."
-	line "I see you don't have a Ditto card."
-	line "I will only trade my"
-	line "Flying Pikachu for a Ditto."
-	line "Please trade with me"
-	line "some other time..."
+	line "Ik zie dat je geen Ditto-kaart hebt."
+	line "Ik wil mijn Vliegende Pikachu alleen"
+	line "ruilen voor een Ditto."
+	line "Ruil alsjeblieft een andere keer"
+	line "met me..."
 	done
 
 Text0735:
-	text "Hmmm...I see all your Ditto cards"
-	line "are in your deck."
-	line "I can't very well take a card"
-	line "you are using in duels."
-	line "Please trade with me"
-	line "some other time..."
+	text "Hmmm... ik zie dat al je Ditto-"
+	line "kaarten in je deck hebt zitten."
+	line "Ik kan niet echt een kaart van je"
+	line "aannemen die je in duellen gebruikt."
+	line "Ruil alsjeblieft een andere keer"
+	line "met me..."
 	done
 
 Text0736:
-	text "<RAMNAME> traded a Ditto"
-	line "for a Flying Pikachu!"
+	text "<RAMNAME> ruilde een Ditto"
+	line "voor een Vliegende Pikachu!"
 	done
 
 Text0737:
-	text "Thank you for this Ditto."
-	line "You've been a great help!"
+	text "Bedankt voor deze Ditto."
+	line "Je hebt me enorm geholpen!"
 	done
 
 Text0738:

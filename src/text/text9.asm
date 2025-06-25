@@ -733,7 +733,7 @@ Text06e7:
 
 Text06e8:
 	text "Oh, trouwens, Nikki is op bezoek bij"
-	line "het huis van Ishihara."
+	line "Ishihara thuis."
 	line "Je zult haar daar waarschijnlijk"
 	line "vinden."
 	done

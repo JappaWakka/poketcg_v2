@@ -158,7 +158,7 @@ AmyDuelStartInitialText:
 	done
 
 AmyPlayerWon1Text:
-	text "Oh, nee! Ik verloor!?!"
+	text "Oh nee! Ik verloor!?!"
 	done
 
 AmyGivesMedal1Text:

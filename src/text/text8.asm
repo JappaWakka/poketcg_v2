@@ -28,7 +28,7 @@ Text05e0:
 	line "voornamelijk af van hoe je speelt!"
 	line "In andere woorden, het hangt"
 	line "allemaal af van de vaardigheid van"
-	line "de speler! Je moet een vaardige"
+	line "de speler! Je moet een bekwame"
 	line "Kaartmeester worden!"
 	done
 
@@ -41,7 +41,7 @@ Text05e1:
 	line "goed je in staat bent die kaart te"
 	line "gebruiken. De kracht van de Legen-"
 	line "darische Pokémonkaarten is van jou"
-	line "afhankelijk! Je moet een vaardige"
+	line "afhankelijk! Je moet een bekwame"
 	line "Kaartmeester worden!"
 	done
 
