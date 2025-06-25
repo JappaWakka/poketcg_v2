@@ -639,8 +639,8 @@ Text06d8:
 	line "Huh? Jij bent vast <RAMNAME>."
 	line "Mitch heeft me alles over je"
 	line "verteld."
-	line "Misschien ben jij wel makkelijker"
-	line "te verslaan dan die meisjes!"
+	line "Jou verslaan zal leuker zijn dan"
+	line "verliezen van die meisjes!"
 	done
 
 Text06d9:
@@ -760,7 +760,7 @@ Text06eb:
 Text06ec:
 	text "Hoi!"
 	line "Heb je me een Oddish gebracht?"
-	line "Wil je jouw Oddish ruilen tegen"
+	line "Wil je jouw Oddish ruilen voor"
 	line "mijn Vileplume?"
 	done
 
@@ -805,96 +805,96 @@ Text06f3:
 Text06f4:
 	text "Pika Pika"
 	line "Pika Pika Pikachu!"
-	line "Pikachu's cute, but I prefer"
-	line "Clefairy!"
-	line "I'll give you this Pikachu"
-	line "if you give me a Clefairy!"
+	line "Pikachu is schattig, maar ik vind"
+	line "Clefairy leuker!"
+	line "Ik geef je deze Pikachu als jij"
+	line "mij een Clefairy geeft!"
 	done
 
 Text06f5:
-	text "Hi!"
-	line "Did you bring me a Clefairy?"
-	line "Would you trade your Clefairy"
-	line "for my Pikachu?"
+	text "Hoi! Heb je een Clefairy voor me"
+	line "meegenomen?"
+	line "Wil je jouw Clefairy ruilen voor"
+	line "mijn Pikachu?"
 	done
 
 Text06f6:
-	text "I want a Clefairy!"
+	text "Ik wil een Clefairy!"
 	line "Fairy, fairy, fairy!"
 	done
 
 Text06f7:
-	text "Hi..."
-	line "Do you have a Clefairy..."
+	text "Hoi..."
+	line "Heb je een Clefairy...?"
 	done
 
 Text06f8:
-	text "Then let's trade!"
-	line "Pikachu for a Clefairy!"
-	line "Oops!"
-	line "Your Clefairy is in your deck!"
-	line "I can't take that!"
-	line "Please trade me another time!"
+	text "Laten we dan ruilen!"
+	line "Pikachu voor een Clefairy!"
+	line "Oeps!"
+	line "Je Clefairy zit nog in je deck!"
+	line "Die kan ik niet aannemen!"
+	line "Ruil alsjeblieft later met me!"
 	done
 
 Text06f9:
-	text "OK then let's trade!"
-	line "Pikachu for Clefairy."
+	text "Oké laten we dan ruilen!"
+	line "Pikachu voor Clefairy."
 	done
 
 Text06fa:
-	text "<RAMNAME> traded a Clefairy"
-	line "for a Pikachu!"
+	text "<RAMNAME> ruilde een Clefairy"
+	line "voor een Pikachu!"
 	done
 
 Text06fb:
 	text "Charizard! Charizard!"
-	line "Charizard, light my fire!"
+	line "Charizard, ontsteek mijn vuur!"
 	line "Blastoise is cool,"
-	line "but I prefer Charizard!"
-	line "I'll give you this Blastoise"
-	line "if you give me a Charizard!"
+	line "maar ik heb liever Charizard!"
+	line "Ik geef je deze Blastoise als jij"
+	line "mij een Charizard geeft!"
 	done
 
 Text06fc:
-	text "Hi!"
-	line "Did you bring me a Charizard?"
-	line "Would you trade your Charizard"
-	line "for my Blastoise?"
+	text "Hoi! Heb je een Charizard voor me"
+	line "meegenomen?"
+	line "Wil je jouw Charizard ruilen voor"
+	line "mijn Blastoise?"
 	done
 
 Text06fd:
-	text "I want a Charizard!"
+	text "Ik wil een Charizard!"
 	line "Charizard! Charizard!"
 	done
 
 Text06fe:
-	text "Excuse me..."
-	line "Do you have a Charizard..."
+	text "Excuseer mij..."
+	line "Heb je een Charizard...?"
 	done
 
 Text06ff:
-	text "Then let's trade!"
-	line "Blastoise for a Charizard."
-	line "Oops!"
-	line "Your Charizard is in your deck!"
-	line "I can't take that."
-	line "Please trade me some other time!"
+	text "Laten we dan ruilen!"
+	line "Blastoise voor een Charizard!"
+	line "Oeps!"
+	line "Je Charizard zit nog in je deck!"
+	line "Die kan ik niet aannemen!"
+	line "Ruil alsjeblieft later met me!"
 	done
 
 Text0700:
-	text "OK then, let's trade!"
-	line "Blastoise for Charizard!"
+	text "Oké dan, laten we ruilen!"
+	line "Blastoise voor Charizard!"
 	done
 
 Text0701:
-	text "<RAMNAME> traded a Charizard"
-	line "for a Blastoise!"
+	text "<RAMNAME> ruilde een Charizard"
+	line "voor een Blastoise!"
 	done
 
 Text0702:
-	text "I really love"
-	line "this Duel Hall."
-	line "There's so much greenery and"
-	line "so many beautiful flowers."
+	text "Ik hou echt van deze Duelhal."
+	line ""
+	line "Er zijn zoveel planten en mooie"
+	line "bloemen hier te zien."
 	done
