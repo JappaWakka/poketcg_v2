@@ -1,3 +1,347 @@
+PersianName:
+	text "Persian"
+	done
+
+PounceName:
+	text "Uithaal"
+	done
+
+PounceDescription:
+	text "Als de Verdedigende Pokémon Persian"
+	line "aanvalt tijdens je tegenstander's"
+	line "volgende beurt, dan wordt alle"
+	line "schade die de aanval doet verminderd"
+	line "met 10 (na het toepassen van Zwakte"
+	line "en Weerstand)."
+	done
+
+PounceDescriptionCont:
+	text "(Het op de Bank plaatsen van een van"
+	line "beide Pokémon beëindigt dit effect.)"
+	done
+
+ClassyCatName:
+	text "Sjieke Kat-"
+	done
+
+PersianDescription:
+	text "Alhoewel zijn vacht vele bewon-"
+	line "deraars heeft, is hij moeilijk als"
+	line "huisdier op te voeden vanwege zijn"
+	line "grillige gemeenheid."
+	done
+
+FarfetchdName:
+	text "Farfetch'd"
+	done
+
+LeekSlapName:
+	text "Preiklap"
+	done
+
+LeekSlapDescription:
+	text "Gooi een munt op. Als het munt is,"
+	line "doet deze aanval niets. Hoe dan ook"
+	line "kun je deze aanval niet meer gebrui-"
+	line "ken zolang Farfetch'd in het spel"
+	line "blijft (zelfs als je Farfetch'd op"
+	line "de Bank zet, kun je hem niet meer"
+	line "gebruiken)."
+	done
+
+PotSmashName:
+	text "Pottedreun"
+	done
+
+WildDuckName:
+	text "Wilde Eend-"
+	done
+
+FarfetchdDescription:
+	text "De bos lente-uitjes die hij vast-"
+	line "houdt is zijn wapen. Deze bos wordt"
+	line "ongeveer op dezelfde manier gebruikt"
+	line "als een ijzeren zwaard."
+	done
+
+DoduoName:
+	text "Doduo"
+	done
+
+FuryAttackName:
+	text "Furie-aanval"
+	done
+
+TwinBirdName:
+	text "Tweelingvogel-"
+	done
+
+DoduoDescription:
+	text "Een vogel die het feit dat hij"
+	line "slecht vliegt goedmaakt door enorm"
+	line "snel te lopen. Laat gigantische"
+	line "voetafdrukken na."
+	done
+
+DodrioName:
+	text "Dodrio"
+	done
+
+RetreatAidName:
+	text "Terugtrekhulp"
+	done
+
+RetreatAidDescription:
+	text "Betaal <COLORLESS> minder om je"
+	line "Actieve Pokémon Terug te Trekken"
+	line "zolang Dodrio op de Bank zit."
+	done
+
+DodriosRageDescription:
+	text "Doet 10 schade plus nog eens 10"
+	line "schade voor elke schadeteller op"
+	line "Dodrio."
+	done
+
+TriplebirdName:
+	text "Drielingvogel-"
+	done
+
+DodrioDescription:
+	text "Gebruikt zijn drie breinen om com-"
+	line "plexe plannen uit te voeren. Terwijl"
+	line "twee hoofden slapen blijft één hoofd"
+	line "wakker."
+	done
+
+LickitungName:
+	text "Lickitung"
+	done
+
+TongueWrapName:
+	text "Tongwikkel"
+	done
+
+LickingName:
+	text "Likkende"
+	done
+
+LickitungDescription:
+	text "Zijn tong kan worden uitgestoken"
+	line "zoals die van een kameleon. Hij"
+	line "laat een stekend gevoel achter"
+	line "wanneer hij vijanden likt."
+	done
+
+ChanseyName:
+	text "Chansey"
+	done
+
+ScrunchName:
+	text "Kraken"
+	done
+
+ScrunchDescription:
+	text "Gooi een munt op. Als het kop is,"
+	line "voorkomt deze aanval alle schade die"
+	line "aan Chansey wordt gedaan tijdens je"
+	line "tegenstander's volgende beurt. (Alle"
+	line "andere gevolgen van aanvallen blij-"
+	line "ven gewoon geldig.)"
+	done
+
+ChanseysDoubleEdgeDescription:
+	text "Chansey doet 80 schade aan zichzelf."
+	done
+
+ChanseyDescription:
+	text "Een zeldzame en praktisch ongrijp-"
+	line "bare Pokémon waarvan wordt beweerd"
+	line "dat hij geluk brengt aan degenen"
+	line "die erin slagen hem te pakken te"
+	line "krijgen."
+	done
+
+KangaskhanName:
+	text "Kangaskhan"
+	done
+
+FetchName:
+	text "Haal terug"
+	done
+
+FetchDescription:
+	text "Pak een kaart."
+	done
+
+CometPunchName:
+	text "Komeetslag"
+	done
+
+ParentName:
+	text "Ouder-"
+	done
+
+KangaskhanDescription:
+	text "Het kind waagt zich zelden buiten"
+	line "de beschermende buidel van zijn"
+	line "moeder totdat het drie jaar oud is."
+	done
+
+TaurosName:
+	text "Tauros"
+	done
+
+RampageName:
+	text "Dolheid"
+	done
+
+RampageDescription:
+	text "Deze aanval doet 20 schade plus nog"
+	line "eens 10 schade voor elke Schadetel-"
+	line "ler op Tauros. Gooi een munt op."
+	line "Als het munt is, is Tauros nu"
+	line "Verward (nadat de schade is gedaan)."
+	done
+
+WildBullName:
+	text "Wilde Stier-"
+	done
+
+TaurosDescription:
+	text "Als hij een vijand op het oog heeft,"
+	line "valt hij heftig aan terwijl hij zijn"
+	line "lichaam opzweept met zijn lange"
+	line "staarten."
+	done
+
+DittoName:
+	text "Ditto"
+	done
+
+MorphName:
+	text "Metamorfose"
+	done
+
+MorphDescription:
+	text "Verwijder alle schadetellers van"
+	line "Ditto. Vervang Ditto voor de rest"
+	line "van het spel met een kopie van een"
+	line "op willekeurige wijze gekozen"
+	line "Basis-Pokémon uit je deck"
+	line "(anders dan Ditto)."
+	done
+
+MorphDescriptionCont:
+	text "Ditto is niet langer In Slaap,"
+	line "Verward, Verlamd, Vergiftigd, of"
+	line "iets anders wat het gevolg van een"
+	line "aanval zou kunnen zijn (precies"
+	line "zoals wanneer je hem zou hebben"
+	line "Geëvolueerd)."
+	done
+
+TransformName:
+	text "Transformatie-"
+	done
+
+DittoDescription:
+	text "Als hij een vijand in het oog heeft,"
+	line "transformeert zijn lichaam in een"
+	line "bijna perfecte kopie van zijn tegen-"
+	line "stander."
+	done
+	
+TailWagName:
+	text "Kwispel"
+	done
+
+TailWagDescription:
+	text "Gooi een munt op. Als het kop is,"
+	line "kan de Verdedigende Pokémon Eevee"
+	line "niet aanvallen tijdens je tegen-"
+	line "stander's volgende beurt. (Het op"
+	line "de Bank plaatsen of evolueren van"
+	line "een van beide Pokémon beëindigt"
+	line "dit effect.)"
+	done
+
+EvolutionName:
+	text "Evolutie-"
+	done
+
+EeveeDescription:
+	text "Zijn genetische code is onregel-"
+	line "matig. Hij zou kunnen muteren als"
+	line "hij wordt blootgesteld aan"
+	line "elementaire gesteenten."
+	done
+
+PorygonName:
+	text "Porygon"
+	done
+
+Conversion1Name:
+	text "Conversie 1"
+	done
+
+Conversion1Description:
+	text "Als de Verdedigende Pokémon een"
+	line "Zwakte heeft, mag je deze"
+	line "veranderen naar een type van"
+	line "jouw keuze, behalve Kleurloos."
+	done
+
+Conversion2Name:
+	text "Conversie 2"
+	done
+
+Conversion2Description:
+	text "Verander Porygon's Weerstand"
+	line "naar een type van jouw keuze,"
+	line "behalve Kleurloos."
+	done
+
+VirtualName:
+	text "Virtuele"
+	done
+
+PorygonDescription:
+	text "Een Pokémon die helemaal uit"
+	line "programmacode bestaat. Kan zich in"
+	line "cyberspace vrijelijk bewegen."
+	done
+
+SnorlaxName:
+	text "Snorlax"
+	done
+
+ThickSkinnedName:
+	text "Dikhuidig"
+	done
+
+ThickSkinnedDescription:
+	text "Snorlax kan niet In Slaap gebracht,"
+	line "Verward, Verlamd, of Vergiftigd"
+	line "worden. Deze kracht stopt met werken"
+	line "als Snorlax al In Slaap, Verward, of"
+	line "Verlamd is."
+	done
+
+BodySlamName:
+	text "Lijfstraf"
+	done
+
+SleepingName:
+	text "Slapende"
+	done
+
+SnorlaxDescription:
+	text "Erg lui. Eet en slaapt alleen maar."
+	line "Naarmate zijn mollige massa groter"
+	line "wordt, wordt hij steeds luier."
+	done
+
 DratiniName:
 	text "Dratini"
 	done

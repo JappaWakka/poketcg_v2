@@ -1,3 +1,166 @@
+VenomothName:
+	text "Venomoth"
+	done
+
+ShiftName:
+	text "Verander"
+	done
+
+ShiftDescription:
+	text "Je mag één keer tijdens je beurt"
+	line "(vóór je aanval) het type van"
+	line "Venomoth veranderen naar het type"
+	line "van een andere Pokémon in het spel"
+	line "die niet <COLORLESS> is. Deze kracht kan"
+	line "niet worden gebruikt als Venomoth"
+	line "In Slaap, Verward, of Verlamd is."
+	done
+
+VenomPowderName:
+	text "Gifpoeder"
+	done
+
+VenomPowderDescription:
+	text "Gooi een munt op. Als het kop is,"
+	line "is de Verdedigende Pokémon nu"
+	line "Verward en Vergiftigd."
+	done
+
+PoisonmothName:
+	text "Gifmot-"
+	done
+
+VenomothDescription:
+	text "De stofachtige schubben die zijn"
+	line "vleugels bedekken zijn gecodeerd"
+	line "met kleuren om de soorten vergif"
+	line "die hij heeft aan te geven."
+	done
+
+BellsproutName:
+	text "Bellsprout"
+	done
+
+BellsproutsCallForFamilyDescription:
+	text "Zoek in je deck naar een Basis-"
+	line "Pokémon met de naam Bellsprout"
+	line "en plaats deze op je Bank. Schud"
+	line "hierna je deck. (Je kunt deze"
+	line "aanval niet gebruiken als je"
+	line "Bank vol is.)"
+	done
+
+BellsproutDescription:
+	text "Een vleesetende Pokémon die insecten"
+	line "vangt en eet. Hij gebruikt zijn"
+	line "wortelvoeten om het benodigde vocht"
+	line "op te zuigen."
+	done
+
+WeepinbellName:
+	text "Weepinbell"
+	done
+
+RazorLeafName:
+	text "Mesblad"
+	done
+
+FlycatcherName:
+	text "Vliegenvanger-"
+	done
+
+WeepinbellDescription:
+	text "Hij spuugt gifpoeder om de vijand"
+	line "lam te leggen, en maakt de vijand"
+	line "dan af met een wolk zuur."
+	done
+
+VictreebelName:
+	text "Victreebel"
+	done
+
+LureName:
+	text "Lokaas"
+	done
+
+VictreebelsLureDescription:
+	text "Als je tegenstander Pokémon op de"
+	line "Bank heeft, kies er dan 1 van en"
+	line "verwissel deze met zijn of haar"
+	line "Actieve Pokémon."
+	done
+
+AcidName:
+	text "Zuur"
+	done
+
+VictreebelsAcidDescription:
+	text "Gooi een munt op. Als het kop is,"
+	line "kan de Verdedigende Pokémon niet"
+	line "Terugtrekken tijdens je"
+	line "tegenstander's volgende beurt."
+	done
+
+VictreebelDescription:
+	text "Er wordt beweerd dat hij in enorme"
+	line "kolonies diep in de jungle leeft,"
+	line "alhoewel daar nog niemand uit is"
+	line "teruggekeerd."
+
+
+GrimerName:
+	text "Grimer"
+	done
+
+NastyGooName:
+	text "Vies goedje"
+	done
+
+MinimizeName:
+	text "Minimaliseer"
+	done
+
+GrimersMinimizeDescription:
+	text "Alle schade die tijdens je"
+	line "tegenstander's beurt aan Grimer"
+	line "wordt gedaan wordt verminderd"
+	line "met 20 (na het toepassen van"
+	line "Zwakte en Weerstand)."
+	done
+
+SludgeName:
+	text "Blubber-"
+	done
+
+GrimerDescription:
+	text "Verschijnt in vervuilde gebieden."
+	line "Hij gedijt door het opzuigen van"
+	line "vervuilde blubber die uit fabrieken"
+	line "wordt gepompt."
+	done
+
+MukName:
+	text "Muk"
+	done
+
+ToxicGasName:
+	text "Gifgas"
+	done
+
+ToxicGasDescription:
+	text "Negeer alle Pokémon-Krachten anders"
+	line "dan Gifgassen. Deze kracht stopt"
+	line "met werken als Muk In Slaap,"
+	line "Verward, of Verlamd is."
+	done
+
+MukDescription:
+	text "Bedekt met een dikke laag vieze,"
+	line "walgelijke blubber. Hij is zo"
+	line "giftig dat zelfs zijn voetafdrukken"
+	line "gif bevatten."
+	done
+	
 ExeggcuteName:
 	text "Exeggcute"
 	done
@@ -1241,68 +1404,4 @@ GyaradosDescription:
 	line "Omdat hij zo enorm en kwaadaardig"
 	line "is, kan hij tijdens een woede-"
 	line "aanval hele steden vernietigen."
-	done
-
-LaprasName:
-	text "Lapras"
-	done
-
-LaprasWaterGunDescription:
-	text "Doet 10 schade plus nog eens 10"
-	line "schade voor elke aan Lapras gehechte"
-	line "<WATER> Energie die niet wordt gebruikt"
-	line "om de Energiekosten van deze aanval"
-	line "te betalen. Je kunt op deze manier"
-	line "niet meer dan 20 schade toevoegen."
-	done
-
-TransportName:
-	text "Transport-"
-	done
-
-LaprasDescription:
-	text "Een Pokémon die door overbejaging"
-	line "bijna uitgeroeid is. Hij kan mensen"
-	line "het water overzetten."
-	done
-
-VaporeonName:
-	text "Vaporeon"
-	done
-
-FocusEnergyName:
-	text "Focus-energie"
-	done
-
-FocusEnergyDescription:
-	text "Tijdens je volgende beurt is de"
-	line "basisschade van Vaporeon's Beet-"
-	line "aanval 60 in plaats van 30."
-	done
-
-BubbleJetName:
-	text "Bubbelstraal-"
-	done
-
-VaporeonLv29Description:
-	text "Zijn celstructuur is vergelijkbaar"
-	line "met watermoleculen. Hij smelt weg"
-	line "en wordt onzichtbaar in water."
-	done
-
-VaporeonsWaterGunDescription:
-	text "Doet 30 schade plus nog eens 10"
-	line "schade voor elke aan Vaporeon"
-	line "gehechte <WATER> Energie die niet"
-	line "wordt gebruikt om de Energiekosten"
-	line "van deze aanval te betalen. Je"
-	line "kunt op deze manier niet meer"
-	line "dan 20 schade toevoegen."
-	done
-
-VaporeonLv42Description:
-	text "Leeft dicht bij het water. Op zijn"
-	line "lange staart zit een vin die vaak"
-	line "verward wordt met die van een"
-	line "meermin."
 	done

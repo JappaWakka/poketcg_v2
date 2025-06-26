@@ -1,3 +1,67 @@
+LaprasName:
+	text "Lapras"
+	done
+
+LaprasWaterGunDescription:
+	text "Doet 10 schade plus nog eens 10"
+	line "schade voor elke aan Lapras gehechte"
+	line "<WATER> Energie die niet wordt gebruikt"
+	line "om de Energiekosten van deze aanval"
+	line "te betalen. Je kunt op deze manier"
+	line "niet meer dan 20 schade toevoegen."
+	done
+
+TransportName:
+	text "Transport-"
+	done
+
+LaprasDescription:
+	text "Een Pokémon die door overbejaging"
+	line "bijna uitgeroeid is. Hij kan mensen"
+	line "het water overzetten."
+	done
+
+VaporeonName:
+	text "Vaporeon"
+	done
+
+FocusEnergyName:
+	text "Focus-energie"
+	done
+
+FocusEnergyDescription:
+	text "Tijdens je volgende beurt is de"
+	line "basisschade van Vaporeon's Beet-"
+	line "aanval 60 in plaats van 30."
+	done
+
+BubbleJetName:
+	text "Bubbelstraal-"
+	done
+
+VaporeonLv29Description:
+	text "Zijn celstructuur is vergelijkbaar"
+	line "met watermoleculen. Hij smelt weg"
+	line "en wordt onzichtbaar in water."
+	done
+
+VaporeonsWaterGunDescription:
+	text "Doet 30 schade plus nog eens 10"
+	line "schade voor elke aan Vaporeon"
+	line "gehechte <WATER> Energie die niet"
+	line "wordt gebruikt om de Energiekosten"
+	line "van deze aanval te betalen. Je"
+	line "kunt op deze manier niet meer"
+	line "dan 20 schade toevoegen."
+	done
+
+VaporeonLv42Description:
+	text "Leeft dicht bij het water. Op zijn"
+	line "lange staart zit een vin die vaak"
+	line "verward wordt met die van een"
+	line "meermin."
+	done
+
 OmanyteName:
 	text "Omanyte"
 	done
@@ -867,7 +931,7 @@ StoneBarrageDescription:
 	done
 
 RockName:
-	text "Rots-"
+	text "Steen-"
 	done
 
 GeodudeDescription:
@@ -1128,123 +1192,4 @@ HitmonchanDescription:
 
 RhyhornName:
 	text "Rhyhorn"
-	done
-
-LeerName:
-	text "Lonken"
-	done
-
-LeerDescription:
-	text "Gooi een munt op. Als het kop is,"
-	line "kan de Verdedigende Pokémon Rhyhorn"
-	line "niet aanvallen tijdens je tegenstan-"
-	line "der's volgende beurt. (Het op de"
-	line "Bank plaatsen van een van beide"
-	line "Pokémon beëindigt dit effect.)"
-	done
-
-SpikeName:
-	text "Spijker-"
-	done
-
-RhyhornDescription:
-	text "Zijn massieve botten zijn 1000 keer"
-	line "harder dan menselijke botten. Hij"
-	line "kan makkelijk een trailer de lucht"
-	line "in slaan."
-	done
-
-RhydonName:
-	text "Rhydon"
-	done
-
-RamName:
-	text "Ram"
-	done
-
-RamDescription:
-	text "Rhydon doet 20 schade aan zichzelf."
-	line "Als je tegenstander Pokémon op de"
-	line "Bank heeft, kiest hij of zij er 1"
-	line "van en verwisselt deze met de Verde-"
-	line "digende Pokémon. (Doe de schade vóór"
-	line "het verwisselen van de Pokémon."
-	done
-
-RamDescriptionCont:
-	text "Verwissel de Pokémon zelfs als"
-	line "Rhydon Uitgeschakeld is.)"
-	done
-
-RhydonDescription:
-	text "Beschermd door zijn pantserachtige"
-	line "huid, is hij in staat te leven in"
-	line "gesmolten lava van 2000 graden."
-	done
-
-KabutoName:
-	text "Kabuto"
-	done
-
-KabutoArmorName:
-	text "Kabuto-pantser"
-	done
-
-KabutoArmorDescription:
-	text "Telkens wanneer een aanval (zelfs"
-	line "die van jezelf) schade doet aan"
-	line "Kabuto (na het toepassen van Zwakte"
-	line "en Weerstand), doet die aanval"
-	line "slechts de helft van de schade aan"
-	line "Kabuto (naar beneden afgerond naar"
-	line "de dichtstbijzijnde 10)."
-	done
-
-KabutoArmorDescriptionCont:
-	text "(Alle andere effecten van aanvallen"
-	line "blijven gewoon geldig.) Deze kracht"
-	line "stopt met werken als Kabuto In"
-	line "Slaap, Verward, of Verlamd is."
-	done
-
-KabutoDescription:
-	text "Een Pokémon die opnieuw tot leven is"
-	line "gebracht uit een fossiel dat is ge-"
-	line "vonden in wat eens, een eeuwigheid"
-	line "geleden, de bodem van de oceaan was."
-	done
-
-KabutopsName:
-	text "Kabutops"
-	done
-
-SharpSickleName:
-	text "Scherpe Sikkel"
-	done
-
-AbsorbName:
-	text "Absorberen"
-	done
-
-AbsorbDescription:
-	text "Verwijder een aantal schadetellers"
-	line "van Kabutops gelijk aan de helft van"
-	line "de schade die gedaan is aan de Ver-"
-	line "dedigende Pokémon (na het toepassen"
-	line "van Zwakte en Weerstand) (naar boven"
-	line "afgerond naar de dichtstbijzijnde"
-	line "10)."
-	done
-
-AbsorbDescriptionCont:
-	text "Als Kabutops minder schadetellers"
-	line "heeft dan dat, verwijder ze dan"
-	line "allemaal."
-	done
-
-KabutopsDescription:
-	text "Zijn slanke vorm is perfect om te"
-	line "zwemmen. Hij hakt met zijn klauwen"
-	line "in op zijn prooi en zuigt er de"
-	line "lichaamssappen uit."
 	done

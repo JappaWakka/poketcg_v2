@@ -1,3 +1,208 @@
+Text0791:
+	text "Oh! Pardon!"
+	line "Heb je het gehoord?"
+	line "Het lijkt erop dat Ishihara op een"
+	line "zoektocht is vertrokken naar een"
+	line "zeldzame kaart! Ze zeggen dat hij"
+	line "een tijdje niet terug zal komen!"
+	done
+
+Text0792:
+	text "Goh! Ik heb verloren!"
+	line "Matthew is echt goed! Hij gaat"
+	line "waarschijnlijk de Legendarische"
+	line "Pokémonkaarten overnemen!"
+	done
+
+Text0793:
+	text "Ik verloor weer van Matthew!"
+	line ""
+	line "Ik kan niet winnen, hoe vaak ik"
+	line "ook tegen hem duelleer! Hij gaat"
+	line "waarschijnlijk de Legendarische"
+	line "Pokémonkaarten overnemen!"
+	line "Wat? Jij hebt de Legendarische"
+	line "Pokémonkaarten al overgenomen???"
+	line "Dan ben je vast beter dan Matthew!"
+	done
+
+Text0794:
+	text "Ik ga binnenkort verhuizen naar een"
+	line "plaats hier ver vandaan. Maar ik ben"
+	line "niet verdrietig."
+	line "Ik zal nieuwe vrienden maken door"
+	line "te duelleren met Pokémonkaarten..."
+	done
+
+Text0795:
+	text "Ik hak een standbeeld van een"
+	line "Pokémon uit deze rots!"
+	line "Wat? Wil je duelleren?"
+	line "Oké. Wil je nu duelleren?"
+	done
+
+Text0796:
+	text "Wil je duelleren tegen Ryan?"
+	done
+
+Text0797:
+	text "Ga weg als je niet serieus bent -"
+	line "ik heb het echt druk!"
+	done
+
+Text0798:
+	text "Laten we er een snelle wedstrijd"
+	line "van maken met 3 Prijzen."
+	line "Oké, laten we beginnen!"
+	done
+
+Text0799:
+	text "Wow! Ik verloor!"
+	line "Hier! Neem dit!"
+	done
+
+Text079a:
+	text "Wat is er aan de hand?"
+	line "Het moet mijn ongeluksdag zijn..."
+	done
+
+Text079b:
+	text "Ja!"
+	line "Het moet mijn geluksdag zijn!"
+	line "Kom me opzoeken wanneer je maar"
+	line "wilt! Ik zal weer met je duelleren!"
+	done
+
+Text079c:
+	text "Ik heb altijd al een hardrocker"
+	line "willen zijn!"
+	line "Steen-Pokémon..."
+	line "Rockt die naam niet hard?"
+	line "Wil je misschien duelleren tegen"
+	line "mijn Steen-Pokémondeck?"
+	done
+
+Text079d:
+	text "Wil je duelleren tegen Andrew?"
+	done
+
+Text079e:
+	text "Dat is oké..."
+	line "Ik zal wel met iemand anders rocken!"
+	done
+
+Text079f:
+	text "Bedankt! We zullen deze wedstrijd"
+	line "rocken met 4 Prijzen!"
+	done
+
+Text07a0:
+	text "Zo hé! Ik verloor! Een rockende"
+	line "gozer als ik kan niet verliezen!"
+	done
+
+Text07a1:
+	text "Een steenharde gozer als ik zou"
+	line "moeilijk te verslaan moeten zijn!"
+	line "Ik moet harder rocken!"
+	done
+
+Text07a2:
+	text "Ha! Ik won!"
+	line "Ben ik aan het rocken, of wat?"
+	done
+
+Text07a3:
+	text "Ik ben Gene, de Meester van de"
+	line "Steen-Club!"
+	line "Steen is goed..."
+	line "Of niet soms, <RAMNAME>...?"
+	line "Steen is hard en sterk!"
+	line "Bezwijkt niet onder druk! Als je"
+	line "met me duelleert, zul je zien dat"
+	line "ik gelijk heb!"
+	line "Kom! Laat me zien wat je waard bent!"
+	done
+
+Text07a4:
+	text "Wil je duelleren tegen Gene?"
+	done
+
+Text07a5:
+	text "Ik heb geen tijd voor een doetje"
+	line "zoals jij!"
+	line "Kom maar terug als je wat harder"
+	line "bent geworden!"
+	done
+
+Text07a6:
+	text "Ons duel zal gespeeld worden met"
+	line "6 Prijzen!"
+	line "Je zult deze Steen-Medaille niet"
+	line "krijgen tenzij je me verslaat!"
+	done
+
+Text07a7:
+	text "Fantastisch... Jouw volhardendheid -"
+	line "volhardendheid die zelfs Steen kan"
+	line "breken - heeft jou ertoe gebracht"
+	line "mij te verslaan!"
+	line "Je bent het waard om deze Steen-"
+	line "Medaille te ontvangen!"
+	done
+
+Text07a8:
+	text "En neem ook dit Booster-Pakje."
+	done
+
+Text07a9:
+	text "Ik kijk uit naar de dag waarop we"
+	line "opnieuw zullen duelleren!"
+	done
+
+Text07aa:
+	text "Zie je? Is Steen niet goed?"
+	line "Is Steen niet fantastisch?"
+	line "Geef toe en erken de grootsheid"
+	line "van Steen-Pokémon!"
+	done
+
+Text07ab:
+	text "Ja!"
+	line "Ons laatste duel was fantastisch!"
+	line "Wil je nog een fantastisch duel"
+	line "houden?"
+	done
+
+Text07ac:
+	text "Mmmm..."
+	line "Ik zal hier op je wachten..."
+	done
+
+Text07ad:
+	text "Dit wordt een enkele wedstrijd"
+	line "met 6 Prijzen! Kom! Laten we"
+	line "beginnen!"
+	done
+
+Text07ae:
+	text "Ja! Je bent een waardige"
+	line "tegenstander!"
+	line "Hier, neem dit Booster-Pakje."
+	done
+
+Text07af:
+	text "Ik kijk uit naar de dag waarop we"
+	line "opnieuw zullen duelleren!"
+	done
+
+Text07b0:
+	text "Het was een fantastisch duel!"
+	line "Maar de volgende keer beter!"
+	line "Ik kijk uit naar de dag waarop we"
+	line "opnieuw zullen duelleren!"
+	done
+
 PokemonTradingCardGameStaffText:
 	text ""
 	line "          Pokémon Ruilkaartspel"
@@ -1236,167 +1441,4 @@ VenonatDescription:
 	text "Leeft in de schaduwen van hoge bomen"
 	line "waar hij insecten eet. Hij wordt"
 	line "'s nachts aangetrokken door licht."
-	done
-
-VenomothName:
-	text "Venomoth"
-	done
-
-ShiftName:
-	text "Verander"
-	done
-
-ShiftDescription:
-	text "Je mag één keer tijdens je beurt"
-	line "(vóór je aanval) het type van"
-	line "Venomoth veranderen naar het type"
-	line "van een andere Pokémon in het spel"
-	line "die niet <COLORLESS> is. Deze kracht kan"
-	line "niet worden gebruikt als Venomoth"
-	line "In Slaap, Verward, of Verlamd is."
-	done
-
-VenomPowderName:
-	text "Gifpoeder"
-	done
-
-VenomPowderDescription:
-	text "Gooi een munt op. Als het kop is,"
-	line "is de Verdedigende Pokémon nu"
-	line "Verward en Vergiftigd."
-	done
-
-PoisonmothName:
-	text "Gifmot-"
-	done
-
-VenomothDescription:
-	text "De stofachtige schubben die zijn"
-	line "vleugels bedekken zijn gecodeerd"
-	line "met kleuren om de soorten vergif"
-	line "die hij heeft aan te geven."
-	done
-
-BellsproutName:
-	text "Bellsprout"
-	done
-
-BellsproutsCallForFamilyDescription:
-	text "Zoek in je deck naar een Basis-"
-	line "Pokémon met de naam Bellsprout"
-	line "en plaats deze op je Bank. Schud"
-	line "hierna je deck. (Je kunt deze"
-	line "aanval niet gebruiken als je"
-	line "Bank vol is.)"
-	done
-
-BellsproutDescription:
-	text "Een vleesetende Pokémon die insecten"
-	line "vangt en eet. Hij gebruikt zijn"
-	line "wortelvoeten om het benodigde vocht"
-	line "op te zuigen."
-	done
-
-WeepinbellName:
-	text "Weepinbell"
-	done
-
-RazorLeafName:
-	text "Mesblad"
-	done
-
-FlycatcherName:
-	text "Vliegenvanger-"
-	done
-
-WeepinbellDescription:
-	text "Hij spuugt gifpoeder om de vijand"
-	line "lam te leggen, en maakt de vijand"
-	line "dan af met een wolk zuur."
-	done
-
-VictreebelName:
-	text "Victreebel"
-	done
-
-LureName:
-	text "Lokaas"
-	done
-
-VictreebelsLureDescription:
-	text "Als je tegenstander Pokémon op de"
-	line "Bank heeft, kies er dan 1 van en"
-	line "verwissel deze met zijn of haar"
-	line "Actieve Pokémon."
-	done
-
-AcidName:
-	text "Zuur"
-	done
-
-VictreebelsAcidDescription:
-	text "Gooi een munt op. Als het kop is,"
-	line "kan de Verdedigende Pokémon niet"
-	line "Terugtrekken tijdens je"
-	line "tegenstander's volgende beurt."
-	done
-
-VictreebelDescription:
-	text "Er wordt beweerd dat hij in enorme"
-	line "kolonies diep in de jungle leeft,"
-	line "alhoewel daar nog niemand uit is"
-	line "teruggekeerd."
-	done
-
-GrimerName:
-	text "Grimer"
-	done
-
-NastyGooName:
-	text "Vies goedje"
-	done
-
-MinimizeName:
-	text "Minimaliseer"
-	done
-
-GrimersMinimizeDescription:
-	text "Alle schade die tijdens je"
-	line "tegenstander's beurt aan Grimer"
-	line "wordt gedaan wordt verminderd"
-	line "met 20 (na het toepassen van"
-	line "Zwakte en Weerstand)."
-	done
-
-SludgeName:
-	text "Blubber-"
-	done
-
-GrimerDescription:
-	text "Verschijnt in vervuilde gebieden."
-	line "Hij gedijt door het opzuigen van"
-	line "vervuilde blubber die uit fabrieken"
-	line "wordt gepompt."
-	done
-
-MukName:
-	text "Muk"
-	done
-
-ToxicGasName:
-	text "Gifgas"
-	done
-
-ToxicGasDescription:
-	text "Negeer alle Pokémon-Krachten anders"
-	line "dan Gifgassen. Deze kracht stopt"
-	line "met werken als Muk In Slaap,"
-	line "Verward, of Verlamd is."
-	done
-
-MukDescription:
-	text "Bedekt met een dikke laag vieze,"
-	line "walgelijke blubber. Hij is zo"
-	line "giftig dat zelfs zijn voetafdrukken"
-	line "gif bevatten."
 	done
