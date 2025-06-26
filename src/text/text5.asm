@@ -115,7 +115,7 @@ AmyMeetsPlayer1Text:
 	done
 
 JoshuaWakesAmy3Text:
-	text "Nou, ehm..."
+	text "Nou, ehhh..."
 	line "(psst, psst, psst)"
 	done
 
@@ -544,7 +544,7 @@ MitchPlayerLostRepeatText:
 
 ChrisFightingClubWantsToDuelInitialText:
 	text "Ik heb van je verloren toen bij de"
-	line "Rots-Club, maar vanaf nu niet meer!"
+	line "Steen-Club, maar vanaf nu niet meer!"
 	line "Ik ga trainen om een nog betere"
 	line "speler te worden! Maar voordat ik"
 	line "mijn training kan voortzetten"

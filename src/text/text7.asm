@@ -808,7 +808,7 @@ Tech4ClubsExplanationText:
 	text "Ik weet zeker dat je dit al weet,"
 	line "maar er zijn 8 Clubs: de Vecht-,"
 	line "Water-, Bliksem-, Gras-, Psychische,"
-	line "Vuur-, Rots- en Wetenschap-Clubs!"
+	line "Vuur-, Steen- en Wetenschap-Clubs!"
 	line "De verschillende Clubleden gebruiken"
 	line "kaarten die bij hun Club horen."
 	done

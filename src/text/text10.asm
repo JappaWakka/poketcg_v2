@@ -354,7 +354,7 @@ Text0734:
 	done
 
 Text0735:
-	text "Hmmm... ik zie dat al je Ditto-"
+	text "Hmmm... ik zie dat je al je Ditto-"
 	line "kaarten in je deck hebt zitten."
 	line "Ik kan niet echt een kaart van je"
 	line "aannemen die je in duellen gebruikt."
@@ -373,92 +373,98 @@ Text0737:
 	done
 
 Text0738:
-	text "Hello, <RAMNAME>."
-	line "You're really current on the news!"
-	line "I'm looking for a Chansey this"
-	line "time! I'm thinking about trading"
-	line "my Surfing Pikachu for it."
-	line "This one has a different"
-	line "illustration than the last one."
-	line "Do you have a Chansey?"
+	text "Hallo, <RAMNAME>."
+	line "Je bent echt op de hoogte van"
+	line "het nieuws! Ik ben deze keer"
+	line "op zoek naar een Chansey!"
+	line "Ik denk erover om mijn Surfende"
+	line "Pikachu ervoor te ruilen."
+	line "Deze heeft een andere illustratie"
+	line "dan de vorige."
+	line "Heb jij een Chansey?"
 	done
 
 Text0739:
-	text "Hello, <RAMNAME>."
-	line "Are you enjoying the Pokémon TCG?"
-	line "I'm looking for a Chansey this time!"
-	line "I'm thinking about trading my"
-	line "Surfing Pikachu for one."
-	line "This one has a different"
-	line "illustration than the last one."
-	line "Do you have a Chansey to trade?"
+	text "Hallo, <RAMNAME>."
+	line "Ben je aan het genieten van het"
+	line "Pokémon Ruilkaartspel?"
+	line "Ik ben deze keer op zoek naar een"
+	line "Chansey! Ik denk erover om mijn"
+	line "Surfende Pikachu ervoor te ruilen."
+	line "Deze heeft een andere illustratie"
+	line "dan de vorige."
+	line "Heb jij een Chansey om te ruilen?"
 	done
 
 Text073a:
 	text "Hmmm..."
-	line "I see you don't have a Chansey."
-	line "Please trade with me"
-	line "some other time..."
+	line "Ik zie dat je geen Chansey hebt."
+	line "Ruil alsjeblieft een andere keer"
+	line "met me..."
 	done
 
 Text073b:
-	text "Hmmm...I see all your Chansey"
-	line "are in your deck."
-	line "I can't very well take a card"
-	line "you are using in duels."
-	line "Please trade with me"
-	line "some other time..."
+	text "Hmmm... ik zie dat je al je Chansey-"
+	line "kaarten in je deck hebt zitten."
+	line "Ik kan niet echt een kaart van je"
+	line "aannemen die je in duellen gebruikt."
+	line "Ruil alsjeblieft een andere keer"
+	line "met me..."
 	done
 
 Text073c:
-	text "<RAMNAME> traded a Chansey"
-	line "for a Surfing Pikachu!"
+	text "<RAMNAME> ruilde een Chansey"
+	line "voor een Surfende Pikachu!"
 	done
 
 Text073d:
-	text "Thank you for this Chansey."
-	line "You've been a great help!"
+	text "Bedankt voor deze Chansey."
+	line "Je hebt me enorm geholpen!"
 	done
 
 Text073e:
-	text "Oh! Congratulations, <RAMNAME>!"
-	line "I heard the news! You've finally"
-	line "inherited the Legendary Pokémon"
-	line "Cards! Don't worry, I'm not going"
-	line "to ask you to trade them to me."
-	line "Besides, it would be a waste"
-	line "not to use the Legendary Cards"
-	line "for dueling. Make sure your"
-	line "duels are worthy of"
-	line "the Legendary Pokémon Cards."
+	text "Oh! Gefeliciteerd, <RAMNAME>!"
+	line "Ik hoorde het nieuws! Je hebt"
+	line "eindelijk de Legendarische"
+	line "Pokémonkaarten overgenomen!"
+	line "Maak je geen zorgen, ik ga je"
+	line "niet vragen ze met me te ruilen."
+	line "Bovendien zou het zonde zijn om"
+	line "de Legendarische Kaarten niet te"
+	line "gebruiken voor duellen."
+	line "Zorg ervoor dat je duellen de"
+	line "Legendarische Pokémonkaarten"
+	line "waardig zijn."
 	done
 
 Text073f:
-	text "Who?"
-	line "Oh! It's you, <RAMNAME>..."
-	line "I couldn't believe that I could"
-	line "lose, but now... Now I understand."
-	line "The fun thing about the"
-	line "Pokémon Trading Card Game"
-	line "is not who wins or loses..."
-	line "I couldn't inherit the Legendary"
-	line "Pokémon Cards because all that"
-	line "was important to me was winning."
-	line "But now I understand!"
-	line "What's important..."
-	line "Is to love each card, to use all"
-	line "the different cards to build"
-	line "different types of decks, and"
-	line "to play against different people!"
-	line "So...<RAMNAME>..."
-	line "Will you play with me again?"
-	line "With all sorts of different decks?"
-	line "And this time, I'm not gonna lose!"
+	text "Wie?"
+	line "Oh! Jij bent het, <RAMNAME>..."
+	line "Ik kan niet geloven dat ik kon"
+	line "verliezen, maar... ik begrijp"
+	line "het nu."
+	line "Het leuke aan het Pokémon Ruil-"
+	line "kaartspel is niet wie er wint of"
+	line "verliest... Ik kon de Legendarische"
+	line "Pokémonkaarten niet overnemen"
+	line "omdat winnen het enige was dat"
+	line "belangrijk voor me was."
+	line "Maar nu begrijp ik het!"
+	line "Wat belangrijk is... is om van"
+	line "elke kaart te houden, om alle"
+	line "verschillende kaarten te gebruiken"
+	line "om verschillende soorten decks te"
+	line "bouwen en om tegen verschillende"
+	line "mensen te spelen!"
+	line "Dus... <RAMNAME>..."
+	line "Wil je nog eens tegen me spelen?"
+	line "Met allerlei verschillende decks?"
+	line "Deze keer zal ik niet verliezen!"
 	done
 
 Text0740:
-	text "Oh, hi <RAMNAME>..."
-	line "Do you want to duel?"
+	text "Oh, hoi <RAMNAME>..."
+	line "Wil je duelleren?"
 	done
 
 Text0741:
@@ -466,112 +472,121 @@ Text0741:
 	done
 
 Text0742:
-	text "OK... That suits me fine!"
-	line "I'm building a new deck!"
-	line "I'm busy building a better deck than"
-	line "yours!!! We'll duel another time!"
+	text "Oké... Dat is prima! Ik ben een"
+	line "nieuw deck aan het bouwen! Ik bouw"
+	line "een beter deck dan dat van jou!!!"
+	line "We duelleren wel een andere keer!"
 	done
 
 Text0743:
-	text "I can't..."
-	line "I'm building a new deck!"
-	line "I'm busy building a better deck than"
-	line "yours!!! We'll duel another time!"
+	text "Dat kan ik helaas niet..."
+	line "Ik ben een nieuw deck aan het"
+	line "bouwen! Ik bouw een beter deck dan"
+	line "dat van jou!!!"
+	line "We duelleren wel een andere keer!"
 	done
 
 Text0744:
-	text "Greetings."
-	line "Welcome to the Science Club!"
-	line "This Club is for technicians"
-	line "who love the sciences."
-	line "The Pokémon cards used here are"
-	line "those with the powers of science!"
+	text "Goedendag."
+	line "Welkom bij de Wetenschap-Club!"
+	line "Deze Club is voor de techneuten die"
+	line "van de wetenschappen houden."
+	line "De Pokémonkaarten die hier worden"
+	line "gebruikt zijn degene met de krachten"
+	line "van de wetenschap!"
 	done
 
 Text0745:
-	text "Umm... Umm..."
-	line "Do you know Ishihara?"
-	line "He lives in the house on the cape"
-	line "to the northwest."
-	line "He's a very famous card collector!"
-	line "I hope to be like him someday."
+	text "Ehhh... Ehhh..."
+	line "Ken jij Ishihara?"
+	line "Hij woont in het huis op de kaap in"
+	line "het noordwesten."
+	line "Hij is een erg beroemde kaarten-"
+	line "verzamelaar!"
+	line "Ik hoop ooit zoals hem te zijn."
 	done
 
 Text0746:
-	text "Umm... Umm... Ishihara wants to"
-	line "trade a very rare card."
-	line "If I had a card, I'd go and trade"
-	line "with him myself."
+	text "Ehhh... Ehhh... Ishihara wil een"
+	line "hele zeldzame kaart ruilen."
+	line "Als ik een kaart had, zou ik"
+	line "zelf naar hem toe gaan om met"
+	line "hem te ruilen."
 	done
 
 Text0747:
-	text "Umm... Umm... Ishihara wants to"
-	line "trade another very rare card."
-	line "I wish I could trade cards"
-	line "like Ishihara."
+	text "Ehhh... Ehhh... Ishihara wil nog"
+	line "een hele zeldzame kaart ruilen."
+	line "Ik wou dat ik kaarten kon ruilen"
+	line "zoals Ishihara."
 	done
 
 Text0748:
-	text "Umm... Umm... Ishihara wants to "
-	line "trade a very, very, very rare card!"
-	line "I wish I could trade, so I could"
-	line "meet Ishihara."
+	text "Ehhh... Ehhh... Ishihara wil een"
+	line "hele, hele, hele zeldzame kaart"
+	line "ruilen! Ik wou dat ik kon ruilen,"
+	line "zodat ik Ishihara kon ontmoeten."
 	done
 
 Text0749:
-	text "Umm... Umm... Did you meet Ishihara?"
-	line "I wish I could be like him."
+	text "Ehhh... Ehhh... Heb je Ishihara"
+	line "ontmoet?"
+	line "Ik wou dat ik zoals hem kon zijn."
 	done
 
 Text074a:
-	text "Umm... Umm..."
-	line "Ishihara left on a trip"
-	line "in search of a really rare card."
-	line "I wish I could have gone with him..."
+	text "Ehhh... Ehhh..."
+	line "Ishihara is vertrokken op zoek"
+	line "naar een hele zeldzame kaart."
+	line ""
+	line "Ik wou dat ik met hem mee kon"
+	line "gaan..."
 	done
 
 Text074b:
-	text "I don't understand science,"
-	line "but I understand Pokémon cards!"
-	line "... I  L O S T..."
+	text "Ik begrijp wetenschap niet, maar"
+	line "ik begrijp wel Pokémonkaarten!"
+	line "...I K  V E R L O O R..."
 	done
 
 Text074c:
-	text "Please don't disturb me!"
+	text "Stoor me niet!"
 	line ""
-	line "I'm in the middle of"
-	line "a very important experiment!"
+	line "Ik zit middenin een erg belangrijk"
+	line "experiment!"
 	done
 
 Text074d:
-	text "If I use <RAMTEXT> now,"
-	line "this will happen..."
+	text "Als ik nu <RAMTEXT> gebruik,"
+	line "dan zal dit gebeuren..."
 	done
 
 Text074e:
-	text "I get so involved in the Pokémon"
-	line "Trading Card Game, I lose track"
-	line "of time. Isn't the Pokémon Trading"
-	line "Card Game really fun?"
+	text "Ik raak zo in de ban van het Pokémon"
+	line "Ruilkaartspel dat ik de tijd uit het"
+	line "oog verlies. Is het Pokémon"
+	line "Ruilkaartspel niet ontzettend leuk?"
 	done
 
 Text074f:
-	text "Hmmm... The machine..."
-	line "It's not quite working right."
-	line "Huh? Oh, this? This is a machine"
-	line "that makes decks."
-	line "It's much better than Dr. Mason's."
-	line "Hmmm... Let's see here..."
-	line "Do you want to duel against me?"
+	text "Hmmm... De machine..."
+	line "Hij werkt niet helemaal goed."
+	line "Huh? Oh, dit?"
+	line "Dit is een machine die decks"
+	line "maakt. Hij is veel beter dan"
+	line "die van Dr. Mason."
+	line "Hmmm... eens kijken..."
+	line "Wil je tegen me duelleren?"
 	done
 
 Text0750:
-	text "Hmmm... The machine..."
-	line "It's not quite working right."
-	line "Unlike Dr. Mason's machine,"
-	line "this machine is very complicated."
-	line "Hmmm... Let's see here..."
-	line "Do you want to duel against me?"
+	text "Hmmm... De machine..."
+	line "Hij werkt niet helemaal goed."
+	line "In tegenstelling tot de machine"
+	line "van Dr. Mason is deze machine erg"
+	line "ingewikkeld."
+	line "Hmmm... eens kijken..."
+	line "Wil je tegen me duelleren?"
 	done
 
 Text0751:
@@ -579,27 +594,28 @@ Text0751:
 	done
 
 Text0752:
-	text "OK, then I guess I'll fix"
-	line "the machine."
+	text "Oké, dan ga ik de machine maar"
+	line "repareren."
 	done
 
 Text0753:
-	text "Shall we begin the match? It will"
-	line "be a single match for 4 Prizes."
+	text "Zullen we de wedstrijd beginnen?"
+	line "Het zal een enkele wedstrijd zijn"
+	line "met 4 Prijzen."
 	done
 
 Text0754:
-	text "My theory is that the machine's"
-	line "malfunctioning caused it."
+	text "Mijn theorie is dat het defect aan"
+	line "de machine de oorzaak was."
 	done
 
 Text0755:
-	text "I've got to fix this machine..."
+	text "Ik moet deze machine repareren..."
 	done
 
 Text0756:
-	text "See! Isn't the deck built"
-	line "by this machine great?"
+	text "Kijk eens aan! Is het deck dat deze"
+	line "machine heeft gebouwd niet geweldig?"
 	done
 
 Text0757:
@@ -617,36 +633,38 @@ Text0758:
 	done
 
 Text0759:
-	text "That's too bad. I hoped to show"
-	line "you the results of my research."
+	text "Dat is nou jammer. Ik hoopte je de"
+	line "resultaten van mijn onderzoek te"
+	line "kunnen laten zien."
 	done
 
 Text075a:
-	text "We'll play with 4 Prizes."
-	line "Let's begin."
+	text "We spelen met 4 Prijzen."
+	line "Laten we beginnen."
 	done
 
 Text075b:
-	text "I can't believe my Science Pokémon"
-	line "deck could lose..."
+	text "Ik kan niet geloven dat mijn"
+	line "Wetenschap-Pokémondeck kon"
+	line "verliezen..."
 	done
 
 Text075c:
-	text "I must research this further!"
+	text "Dit moet ik verder onderzoeken!"
 	done
 
 Text075d:
-	text "So how do you like the results"
-	line "of my research?"
+	text "Wat vind je van de resultaten van"
+	line "mijn onderzoek?"
 	done
 
 Text075e:
-	text "I am Rick, the Master of"
-	line "the Science Club."
-	line "Science rules nature!"
-	line "That is why it is so strong."
-	line "Do you wish to test the strengths"
-	line "of science by playing against me?"
+	text "Ik ben Rick, de Meester van de"
+	line "Wetenschap-Club."
+	line "De wetenschap regeert de natuur!"
+	line "Daarom is ze zo sterk. Wil je de"
+	line "kracht van de wetenschap testen"
+	line "door tegen mij te spelen?"
 	done
 
 Text075f:
@@ -654,77 +672,79 @@ Text075f:
 	done
 
 Text0760:
-	text "It is regrettable that you do not"
-	line "understand the wonders of science."
+	text "Het is jammer dat je de wonderen"
+	line "van de wetenschap niet begrijpt."
 	done
 
 Text0761:
-	text "All right, 6 Prizes!"
-	line "Let us begin!"
+	text "Oké dan, 6 Prijzen!"
+	line "Laten we beginnen!"
 	done
 
 Text0762:
-	text "There are, at times, problems even"
-	line "science cannot answer."
-	line "Here, take this medal."
-	line "It is the result of our research."
+	text "Er zijn soms problemen die zelfs de"
+	line "wetenschap niet kan beantwoorden."
+	line "Hier, neem deze Medaille. Het is"
+	line "het resultaat van ons onderzoek."
 	done
 
 Text0763:
-	text "And let me give you this."
-	line "Please add these to your collection."
+	text "En laat me je dan ook dit geven."
+	line "Voeg ze toe aan je verzameling."
 	done
 
 Text0764:
-	text "Legendary Cards are but a legend!"
-	line "Science is the only truth!"
-	line "I must continue my research"
-	line "of Science Pokémon!"
+	text "Legendarische Kaarten zijn maar een"
+	line "legende! Wetenschap is de enige"
+	line "waarheid! Ik moet mijn onderzoek"
+	line "naar Wetenschap-Pokémon voortzetten!"
 	done
 
 Text0765:
-	text "Ha ha ha! As expected!"
-	line "Science is overpowering!"
-	line "The outcome will be the same! But"
-	line "I will duel you again, if you wish."
+	text "Ha ha ha! Zoals ik had verwacht!"
+	line "Wetenschap is overweldigend!"
+	line "De uitkomst zal hetzelfde zijn,"
+	line "maar ik zal opnieuw tegen je"
+	line "duelleren, als je dat wilt."
 	done
 
 Text0766:
-	text "Hello! It's you again!"
-	line "Do you wish to duel me?"
+	text "Hallo! Jij bent het weer!"
+	line "Wil je tegen me duelleren?"
 	done
 
 Text0767:
-	text "Really? That is too bad."
+	text "Echt? Dat is erg jammmer."
 	done
 
 Text0768:
-	text "We'll play with 6 Prizes again!"
-	line "Let us begin!"
+	text "We spelen weer met 6 Prijzen!"
+	line "Laten we beginnen!"
 	done
 
 Text0769:
-	text "It seems my research was incomplete."
-	line "Please add these to your collection."
+	text "Het lijkt erop dat mijn onderzoek"
+	line "onvolledig was. Voeg deze toe aan"
+	line "je verzameling."
 	done
 
 Text076a:
-	text "I will keep researching the"
-	line "Science Pokémon."
+	text "Ik zal de Wetenschap-Pokémon"
+	line "blijven onderzoeken."
 	done
 
 Text076b:
-	text "Ha ha ha! As expected."
-	line "Science is overpowering!"
+	text "Ha ha ha! Zoals ik had verwacht!"
+	line "Wetenschap is overweldigend!"
 	done
 
 Text076c:
-	text "Hey, you!"
-	line "Rick, the Club Master, is in the"
-	line "middle of an important experiment!"
-	line "He has no time to see someone like"
-	line "you! If you really want to see him,"
-	line "you must defeat me first!"
+	text "Hé jij!"
+	line "Rick, de Clubmeester, zit middenin"
+	line "een belangrijk experiment!"
+	line "Hij heeft geen tijd om iemand zoals"
+	line "jij te spreken! Als je hem echt wilt"
+	line "spreken, moet je mij eerst verslaan!"
 	done
 
 Text076d:
@@ -732,76 +752,76 @@ Text076d:
 	done
 
 Text076e:
-	text "Then get out of here!"
+	text "Wegwezen dan!"
 	done
 
 Text076f:
-	text "Not too smart, but you've got"
-	line "nerves. We'll play for 4 Prizes!"
-	line "If you win a match,"
-	line "I'll let you through!"
+	text "Niet al te slim, maar je hebt wel"
+	line "lef. We spelen voor 4 prijzen!"
+	line "Als je een wedstrijd wint, laat"
+	line "ik je door!"
 	done
 
 Text0770:
-	text "Hey, I lost... Since I promised,"
-	line "I have to let you through."
+	text "Hé, ik heb verloren... Zoals"
+	line "beloofd, moet ik je doorlaten."
 	done
 
 Text0771:
-	text "And..."
-	line "Take this."
+	text "En..."
+	line "Neem dit."
 	done
 
 Text0772:
-	text "Rick's in the midst of an experiment"
-	line "so don't bother him too much."
+	text "Rick zit middenin een experiment"
+	line "dus val hem niet teveel lastig."
 	done
 
 Text0773:
-	text "Since you lost the duel,"
-	line "I can't let you through!"
-	line "Now get out of here!"
+	text "Omdat je het duel hebt verloren,"
+	line "kan ik je niet doorlaten!"
+	line "En nu wegwezen!"
 	done
 
 Text0774:
-	text "What? You're here again?"
-	line "You want to duel me?"
+	text "Wat? Ben je hier alweer?"
+	line "Wil je tegen me duelleren?"
 	done
 
 Text0775:
-	text "A single match for 4 Prizes!"
-	line "Let's begin!"
+	text "Een enkele wedstrijd met 4 Prijzen!"
+	line "Laten we beginnen!"
 	done
 
 Text0776:
-	text "Shoot! I lost again!"
-	line "Here, take this."
+	text "Verdorie! Weer verloren!"
+	line "Hier, neem dit."
 	done
 
 Text0777:
-	text "Everyone in our Club is very busy,"
-	line "so don't get in anyone's way!"
+	text "Iedereen in onze Club is erg druk"
+	line "bezig, dus loop niemand in de weg!"
 	done
 
 Text0778:
-	text "Hah! I won!"
-	line "Just shows you who's better!"
+	text "Ha! Ik won!"
+	line "Dat toont maar aan wie er beter is!"
 	done
 
 Text0779:
-	text "Greetings."
-	line "Welcome to the Rock Club!"
-	line "This Club is for members who"
-	line "use Rock Pokémon cards."
-	line "Rock Pokémon are defensive"
-	line "and take very little damage."
+	text "Goedendag."
+	line "Welkom bij de Steen-Club!"
+	line "Deze Club is voor leden die Steen-"
+	line "Pokémonkaarten gebruiken."
+	line "Steen-Pokémon zijn defensief en"
+	line "lopen erg weinig schade op."
 	done
 
 Text077a:
-	text "I'm training here at the Rock Club!"
-	line "But Mitch told me to defeat you"
-	line "before you duel any of the members"
-	line "here!"
+	text "Ik ben hier aan het trainen bij de"
+	line "Steen-Club! Maar Mitch zei dat ik"
+	line "je moest verslaan voordat je met"
+	line "iemand hier kon duelleren!"
 	done
 
 UnusedText077b: ; Unused
@@ -809,29 +829,30 @@ UnusedText077b: ; Unused
 	done
 
 Text077c:
-	text "Are you going to run!?!"
-	line "C'mon! Fight me!"
+	text "Ga je nou wegrennen!?!"
+	line "Kom op! Vecht met me!"
 	done
 
 Text077d:
-	text "OK! A single match with 4 Prizes!"
-	line "I'm going to defeat you!"
+	text "Oké! Een enkele wedstrijd met"
+	line "4 Prijzen!"
+	line "Ik ga je verslaan!"
 	done
 
 Text077e:
-	text "How could this be!?!"
-	line "I'm the one who was defeated!"
+	text "Hoe kon dit gebeuren!?!"
+	line "Ik ben degene die verslagen is!"
 	done
 
 Text077f:
-	text "I must return to the Fighting Club"
-	line "to start my training over!"
+	text "Ik moet terug naar de Vecht-Club"
+	line "om mijn training te herstarten!"
 	done
 
 Text0780:
-	text "That was good for my training!"
-	line "Come back whenever you want!"
-	line "I'll defeat you any time you like!"
+	text "Dat was goed voor mijn training!"
+	line "Kom terug wanneer het je uitkomt!"
+	line "Ik versla je wanneer je maar wilt!"
 	done
 
 Text0781:

@@ -28,7 +28,7 @@ Text067a:
 
 Text067b:
 	text "Even zien... als dit gebeurt..."
-	line "dan dat... dus... ehmmm..."
+	line "dan dat... dus... ehhh..."
 	done
 
 Text067c:
@@ -750,9 +750,9 @@ Text06ea:
 
 Text06eb:
 	text "Oddish, Oddish,"
-	line "Wildebrassige Oddish!"
-	line "Oddish is zo'n wildebras en zo"
-	line "schattig!"
+	line "Oddish, jij robbedoes!"
+	line "Oddish is een robbedoes en zo"
+	line "ontzettend schattig!"
 	line "Ik geef je deze Vileplume als je"
 	line "me een Oddish geeft!"
 	done
