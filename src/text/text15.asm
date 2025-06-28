@@ -156,10 +156,9 @@ ChanseysDoubleEdgeDescription:
 
 ChanseyDescription:
 	text "Een zeldzame en praktisch ongrijp-"
-	line "bare Pokémon waarvan wordt beweerd"
-	line "dat hij geluk brengt aan degenen"
-	line "die erin slagen hem te pakken te"
-	line "krijgen."
+	line "bare Pokémon waarvan men zegt dat"
+	line "hij geluk brengt aan degenen die"
+	line "erin slagen hem te vangen."
 	done
 
 KangaskhanName:
@@ -261,7 +260,7 @@ TailWagDescription:
 	line "kan de Verdedigende Pokémon Eevee"
 	line "niet aanvallen tijdens je tegen-"
 	line "stander's volgende beurt. (Het op"
-	line "de Bank plaatsen of evolueren van"
+	line "de Bank plaatsen of Evolueren van"
 	line "een van beide Pokémon beëindigt"
 	line "dit effect.)"
 	done
@@ -516,19 +515,19 @@ ClefairyDollDescription:
 	line "Basis-Pokémon is. Terwijl hij in het"
 	line "spel is, telt Clefairy-Pop als een"
 	line "Pokémon (in plaats van een Trainer-"
-	line "kaart). Clefairy-Pop heeft geen"
-	line "aanvallen, kan niet Terugtrekken,"
-	line "en kan niet In Slaap, Verward,"
+	line "kaart). Clefairy-Pop heeft geen aan-"
+	line "vallen, kan niet Terugtrekken, en"
+	line "kan niet In Slaap, Verward, Verlamd,"
 	done
 
 ClefairyDollDescriptionCont:
-	text "Verlamd, of Vergiftigd zijn. Als"
-	line "Clefairy-Pop wordt Uitgeschakeld,"
-	line "telt hij niet als een Uitgeschakel-"
-	line "de Pokémon (gooi hem toch weg). Je"
-	line "mag Clefairy-Pop op elk moment tij-"
-	line "dens je beurt vóór je aanval weg-"
-	line "gooien (in het ”PKMN-Kracht” menu)."
+	text "of Vergiftigd zijn. Als Clefairy-Pop"
+	line "wordt Uitgeschakeld, telt hij niet"
+	line "als een Uitgeschakelde Pokémon (gooi"
+	line "hem toch weg). Je mag Clefairy-Pop"
+	line "op elk moment tijdens je beurt vóór"
+	line "je aanval weggooien (in het"
+	line "”PKMN-Kracht” menu)."
 	done
 
 MysteriousFossilName:
@@ -548,11 +547,11 @@ MysteriousFossilDescription:
 MysteriousFossilDescriptionCont:
 	text "Verlamd, of Vergiftigd zijn. Als"
 	line "hij wordt Uitgeschakeld, telt hij"
-	line "niet als een Uitgeschakelde Poké-"
-	line "mon (gooi hem toch weg). Je mag"
-	line "Mysterieus Fossiel op elk moment"
-	line "tijdens je beurt vóór je aanval weg-"
-	line "gooien. (in het ”PKMN-Kracht” menu)."
+	line "niet als een Uitgeschakelde Pokémon"
+	line "(gooi hem toch weg). Je mag Myste-"
+	line "rieus Fossiel op elk moment tijdens"
+	line "je beurt vóór je aanval weggooien"
+	line "(in het ”PKMN-Kracht” menu)."
 	done
 
 EnergyRetrievalName:

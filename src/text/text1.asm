@@ -851,9 +851,8 @@ NoPokemonCapableOfEvolvingText:
 	done
 
 CantEvolvePokemonInSameTurnItsPlacedText:
-	text "Je kan een Pokémon niet Evolueren"
-	line "in dezelfde beurt als dat hij"
-	line "geplaatst is."
+	text "Kan geen Pokémon Evolueren in de"
+	line "zelfde beurt als hij geplaatst is."
 	done
 
 NotAffectedBySpecialConditionsText:

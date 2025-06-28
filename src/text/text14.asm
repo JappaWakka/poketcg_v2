@@ -250,7 +250,7 @@ ScavengeName:
 ScavengeDescription:
 	text "Gooi 1 aan Slowpoke gehechte <PSYCHIC>"
 	line "Energiekaart weg om deze aanval te"
-	line "kunnen gebruiken. Neem een Trainerkaart"
+	line "gebruiken. Neem een Trainerkaart"
 	line "uit je weggooistapel in je hand."
 	done
 
@@ -399,16 +399,20 @@ CurseName:
 	done
 
 CurseDescription:
-	text "Eenmaal tijdens je beurt (voor je"
+	text "Eenmaal tijdens je beurt (vóór je"
 	line "aanval), mag je 1 schadeteller"
 	line "van 1 van je tegenstander's Pokémon"
 	line "naar een andere verplaatsen (zelfs"
 	line "als het de andere Pokémon zou"
-	line "Uitschakelen). Deze kracht kan"
-	line "niet worden gebruikt als Gengar"
-	line "In Slaap, Verward, of Verlamd is."
+	line "Uitschakelen)."
 	done
-
+	
+CurseDescriptionCont:
+	text "Deze kracht kan niet worden gebruikt"
+	line "als Gengar In Slaap, Verward, of"
+	line "Verlamd is."
+	done
+	
 DarkMindName:
 	text "Duistere geest"
 	done
@@ -751,6 +755,7 @@ GaleDescription:
 GaleDescriptionCont:
 	text "(Doe de schade vóór het wisselen van"
 	line "de Pokémon.)"
+	done
 
 PidgeotLv38Description:
 	text "Deze Pokémon vliegt op Mach 2 snel-"
@@ -978,9 +983,9 @@ FriendshipSongName:
 
 FriendshipSongDescription:
 	text "Gooi een munt op. Als het kop is,"
-	line "plaats een Pokémon-kaart op wille-"
-	line "keurige wijze gekozen uit je deck"
-	line "op je Bank. Je kunt deze aanval"
+	line "plaats een Basis-Pokémon-kaart op"
+	line "willekeurige wijze gekozen uit je"
+	line "deck op je Bank. Je kunt deze aanval"
 	line "niet gebruiken als je Bank vol is.)"
 	done
 
@@ -998,10 +1003,9 @@ ExpandDescription:
 
 JigglypuffLv13Description:
 	text "Gebruikt zijn aanlokkelijke ogen"
-	line "om zijn tegenstander te beroeren."
-	line "Daarna zingt hij een prettige"
-	line "melodie die zijn tegenstander in"
-	line "slaap brengt."
+	line "om zijn vijand te beroeren. Daarna"
+	line "zingt hij een prettige melodie"
+	line "die zijn vijand in slaap brengt."
 	done
 
 LullabyName:
@@ -1031,10 +1035,9 @@ DoTheWaveDescription:
 
 WigglytuffDescription:
 	text "Het lichaam is zacht en rubber-"
-	line "achtig. Wanneer hij kwaad wordt,"
-	line "zuigt hij zich vol met lucht en"
-	line "blaast hij zichzelf op tot een"
-	line "enorme grootte."
+	line "achtig. Als hij kwaad wordt, zuigt"
+	line "hij zich vol met lucht en blaast hij"
+	line "zichzelf op tot een enorme grootte."
 	done
 	
 MeowthName:

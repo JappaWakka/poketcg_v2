@@ -822,7 +822,7 @@ Tech4DefeatedTheGrandMastersText:
 
 Tech5DiaryAndEmailExplanationText:
 	text "Om je spel op te slaan, druk je op"
-	line "START en kies je Dagboek in het"
+	line "START en kies je ”Dagboek” in het"
 	line "Menu. Je kunt trouwens allerlei"
 	line "dingen doen met die Computer daar."
 	line "Je kan er zelfs de e-mails van"

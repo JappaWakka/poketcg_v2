@@ -503,7 +503,7 @@ MixUpDescription:
 	done
 
 MixUpDescriptionCont:
-	line "of haar deck in zijn of haar hand,"
+	text "of haar deck in zijn of haar hand,"
 	line "op willekeurige wijze gekozen."
 	line "Hierna schudt je tegenstander"
 	line "opnieuw zijn of haar deck."
@@ -1240,11 +1240,10 @@ DragonName:
 	done
 
 HorseaDescription:
-	text "Staat erom bekend dat hij met"
-	line "uiterst nauwkeurige stralen inkt"
-	line "vliegende insecten vanaf de"
-	line "oppervlakte van het water"
-	line "neerschiet."
+	text "Staat erom bekend dat hij met zeer"
+	line "nauwkeurige stralen inkt vliegende"
+	line "insecten vanaf de oppervlakte van"
+	line "van het water neerschiet."
 	done
 
 SeadraName:

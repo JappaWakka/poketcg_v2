@@ -7450,7 +7450,7 @@ GengarCard:
 	energy 0 ; energies
 	tx CurseName ; name
 	tx CurseDescription ; description
-	dw NONE ; description (cont)
+	tx CurseDescriptionCont ; description (cont)
 	db 0 ; damage
 	db POKEMON_POWER ; category
 	dw GengarCurseEffectCommands ; effect commands

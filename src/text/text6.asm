@@ -71,7 +71,7 @@ FightingPokemonBookName:
 
 FightingPokemonBookText:
 	text "Vecht-Pokémon-eigenschappen:"
-	line " - Gebruiken <FIGHTING> Energie voor aanvallen"
+	line " - <FIGHTING> Energie voor aanvallen"
 	line " - Sterk tegen <LIGHTNING> of <COLORLESS> Pokémon"
 	line " - Zwak tegen <PSYCHIC> Pokémon"
 	line " - Veel Pokémon hebben een"
@@ -109,7 +109,7 @@ RockPokemonBookName:
 
 RockPokemonBookText:
 	text "Steen-Pokémon-eigenschappen:"
-	line " - Gebruiken <FIGHTING> Energie voor aanvallen"
+	line " - <FIGHTING> Energie voor aanvallen"
 	line " - Sterk tegen <LIGHTNING> of <COLORLESS> Pokémon"
 	line " - Zwak tegen <GRASS> Pokémon"
 	line " - Veel Pokémon hebben een"
@@ -154,7 +154,7 @@ WaterPokemonBookName:
 
 WaterPokemonBookText:
 	text "Water-Pokémon-eigenschappen:"
-	line " - Gebruiken <WATER> Energie voor aanvallen"
+	line " - <WATER> Energie voor aanvallen"
 	line " - Sterk tegen <FIRE> Pokémon"
 	line " - Zwak tegen <LIGHTNING> of <GRASS> Pokémon"
 	done
@@ -195,7 +195,7 @@ LightningPokemonBookName:
 
 LightningPokemonBookText:
 	text "Bliksem-Pokémon-eigenschappen:"
-	line " - Gebruiken <LIGHTNING> Energie voor aanvallen"
+	line " - <LIGHTNING> Energie voor aanvallen"
 	line " - Sterk tegen <WATER> of <COLORLESS> Pokémon"
 	line " - Zwak tegen <FIGHTING> Pokémon"
 	done
@@ -239,7 +239,7 @@ GrassPokemonBookName:
 
 GrassPokemonBookText:
 	text "Gras-Pokémon-eigenschappen:"
-	line " - Gebruiken <GRASS> Energie voor aanvallen"
+	line " - <GRASS> Energie voor aanvallen"
 	line " - Sterk tegen <FIGHTING> of <WATER> Pokémon"
 	line " - Zwak tegen <FIRE> Pokémon"
 	done
@@ -280,7 +280,7 @@ PsychicPokemonBookName:
 
 PsychicPokemonBookText:
 	text "Psychische Pokémon-eigenschappen:"
-	line " - Gebruiken <PSYCHIC> Energie voor aanvallen"
+	line " - <PSYCHIC> Energie voor aanvallen"
 	line " - Sterk tegen <GRASS>, <PSYCHIC>, en <FIGHTING>"
 	line " - Zwak tegen <PSYCHIC> Pokémon"
 	line " - Veel Kleurloze Pokémon hebben"
@@ -327,7 +327,7 @@ ScienceClubPokemonBookName:
 ScienceClubPokemonBookText:
 	text "Eigenschappen van Pokémon die ge-"
 	line "bruikt worden in de Wetenschap-Club:"
-	line " - Gebruiken <GRASS> Energie voor aanvallen"
+	line " - <GRASS> Energie voor aanvallen"
 	line " - Maken de Verdedigende Pokémon <POISONED>"
 	line " - Sterk tegen <FIGHTING> of <WATER> Pokémon"
 	line " - Zwak tegen <PSYCHIC> Pokémon"
@@ -371,7 +371,7 @@ FirePokemonBookName:
 
 FirePokemonBookText:
 	text "Vuur-Pokémon-eigenschappen:"
-	line " - Gebruiken <FIRE> Energie voor aanvallen"
+	line " - <FIRE> Energie voor aanvallen"
 	line " - Sterk tegen <GRASS> Pokémon"
 	line " - Zwak tegen <WATER> Pokémon"
 	done

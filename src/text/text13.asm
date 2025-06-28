@@ -469,9 +469,8 @@ BallName:
 VoltorbDescription:
 	text "Meestal te vinden in energiecentra-"
 	line "les. Doordat hij makkelijk wordt"
-	line "verward met een PokéBal, heeft hij"
-	line "al heel wat mensen stroomschokken"
-	line "gegeven."
+	line "verward met een PokéBal, gaf hij"
+	line "al heel wat mensen stroomschokken."
 	done
 
 ElectrodeName:
@@ -996,10 +995,9 @@ MegatonName:
 
 GolemDescription:
 	text "Zijn lichaam lijkt op een rotsblok"
-	line "en is bijzonder hard. Hij kan makke-"
-	line "lijk tegen een ontploffing van dyna-"
-	line "miet zonder daarvan schade te onder-"
-	line "vinden."
+	line "en is erg hard. Hij kan makkelijk"
+	line "tegen een ontploffing van dynamiet"
+	line "zonder daarvan schade op te lopen."
 	done
 
 OnixName:
@@ -1093,10 +1091,9 @@ BonekeeperName:
 
 MarowakLv26Description:
 	text "Het bot dat hij vasthoudt is zijn"
-	line "belangrijkste wapen. Hij gooit het"
-	line "bot met grote vaardigheid als een"
-	line "boemerang om zijn doelen uit te"
-	line "schakelen."
+	line "hoofdwapen. Hij gooit het bot met"
+	line "grote vaardigheid als een boemerang"
+	line "om zijn doelen uit te schakelen."
 	done
 
 BoneAttackName:

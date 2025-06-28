@@ -91,15 +91,15 @@ WhenYouCardPopWithFriendText:
 	
 ContinueFromDiarySummaryText:
 	text "  <RAMNAME>  <RAMTEXT>"
-	line " Gewonnen Meestermedailles "
+	line " Gewonnen Meestermedailles:"
 	half2full
 	textfw "<RAMNUM>"
 	text ""
-	line " Kaartenalbum         "
+	line " Kaartenalbum:        "
 	half2full
 	textfw "/"
 	text ""
-	line " Tijd gespeeld          "
+	line " Tijd gespeeld:         "
 	half2full
 	textfw "꞉"
 	text ""
@@ -169,7 +169,7 @@ IsCrazyAboutPokemonAndPokemonCardCollectingText:
 	line "  naar iemand die het waard is"
 	line "  om de legende over te nemen!”"
 	line "Ervan dromend om de Legendarische"
-	line "Pokémonkaarten te mogen overnemen,"
+	line "Pokémonkaarten over te mogen nemen,"
 	line "bezocht <RAMNAME> de Pokémon-"
 	line "kaartenonderzoeker, Dr. Mason..."
 	done
@@ -782,9 +782,9 @@ Mail1Part1Text:
 	line "methode voor het verzamelen van"
 	line "kaarten is met een Kaart-Flits!"
 	line "Als jij en een vriend een Kaart-"
-	line "Flits! doen krijgen jullie elk"
+	line "Flits! doen, krijgen jullie elk"
 	line "een nieuwe kaart! Wanneer je dit"
-	line "doet met een vriend, kun je het"
+	line "doet met een vriend, kun je dit"
 	line "niet opnieuw met die vriend doen."
 	line "Dus zoek veel vrienden die het"
 	line "Pokémon Ruilkaartspel voor de"
@@ -799,6 +799,7 @@ Mail1Part2Text:
 	line "Ik zal er ook een Booster-Pakje"
 	line "aan hechten, dus bekijk"
 	line "regelmatig je mail."
+	line ""
 	line "Mason Onderzoekslab"
 	line "      Dokter Mason  ;)"
 	done
@@ -1011,8 +1012,8 @@ Mail9Part2Text:
 	done
 
 Mail10Part1Text:
-	text "Ik ben het, Dokter Mason. Volgens"
-	line "mij heb je al best een hoop"
+	text "Ik ben het, Dokter Mason."
+	line "Volgens mij heb je al best een hoop"
 	line "Medailles gewonnen. Wil je misschien"
 	line "eens zelf een deck proberen te"
 	line "bouwen? Verwissel om te beginnen"
@@ -1022,6 +1023,7 @@ Mail10Part1Text:
 	line "je eigen unieke deck hebben!"
 	line "Het is zeer eenvoudig."
 	line "Probeer het een keer!"
+	line ""
 	line "Mason Onderzoekslab"
 	line "      Dokter Mason  ;)"
 	line "P.S. Hier is een deal - deze keer"
@@ -1029,15 +1031,15 @@ Mail10Part1Text:
 	done
 
 Mail11Part1Text:
-	text "Heb je geprobeerd om je eigen deck"
-	line "te bouwen? Deze keer zal ik je wat"
-	line "tips geven over de types en het"
-	line "aantal kaarten die je in je deck"
-	line "moet stoppen. Als je 3 van een"
-	line "Basis-Pokémonkaart hebt, is het"
-	line "handig om 2 of 3 van zijn Fase-1-"
-	line "Pokémon en ten minste 1 of 2 van"
-	line "zijn Fase-2-Pokémon te hebbben."
+	text "Heb je al geprobeerd om je eigen"
+	line "deck te bouwen? Deze keer zal ik"
+	line "je wat tips geven over de types"
+	line "en het aantal kaarten die je in"
+	line "je deck moet stoppen. Als je 3"
+	line "van een Basis-Pokémonkaart hebt,"
+	line "is het handig om 2 of 3 van zijn"
+	line "Fase-1-Pokémon en ten minste 1 of 2"
+	line "van zijn Fase-2-Pokémon te hebbben."
 	line "Als je deze richtlijn volgt heeft"
 	line "je deck over het algemeen een goede"
 	line "balans."
@@ -1069,6 +1071,7 @@ Mail12Part1Text:
 	line "gewoon goed kijken hoe je tegen-"
 	line "stander speelt en je strategie"
 	line "erop aanpassen."
+	line ""
 	line "Mason Onderzoekslab"
 	line "      Dokter Mason  ;)"
 	line "P.S. Je bent er bijna."

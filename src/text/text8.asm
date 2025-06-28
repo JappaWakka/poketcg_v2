@@ -341,8 +341,7 @@ Text060c:
 	done
 
 Text060d:
-	text "Wil je de Deck-Opslagmachine"
-	line "gebruiken?"
+	text "De Deck-Opslagmachine gebruiken?"
 	done
 
 Text060e:
@@ -704,9 +703,8 @@ Text0646:
 	text "Wat? Jij bent het, <RAMNAME>!"
 	line "Wat ben je aan het doen?"
 	line "Huh? Dat is een deck!"
-	line "Ben je... aan het proberen om"
-	line "de Legendarische Pokémonkaarten"
-	line "te veroveren?"
+	line "Ben je... van plan om de Legenda-"
+	line "rische Pokémonkaarten te veroveren?"
 	done
 
 Text0647:
@@ -735,10 +733,10 @@ Text0649:
 	line "daar verslaan!!!"
 	line "Maar dat zal je toch nooit kunnen!!!"
 	line "Je kunt het net zo goed opgeven en"
-	line "naar huis gaan!"
-	line "Want de Legendarische Pokémonkaarten,"
-	line "die zullen van mij zijn! Ik heb de"
-	line "eerste Medaille al gewonnen!"
+	line "naar huis gaan! Want de Legenda-"
+	line "rische Pokémon kaarten, die zullen"
+	line "van mij zijn! Ik heb de eerste"
+	line "Medaille al gewonnen!"
 	line "Tot ziens, <RAMNAME>!"
 	line "Ha ha ha ha ha!!!"
 	done

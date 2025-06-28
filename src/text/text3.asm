@@ -324,7 +324,7 @@ CardSendingProceduresText:
 	line "2. Kies al de kaarten. Druk dan op"
 	line "   de B-knop om het menu te openen."
 	line ""
-	line "3. Druk op Stuur om het proces"
+	line "3. Druk op ”Stuur” om het proces"
 	line "   af te maken."
 	done
 
@@ -1078,7 +1078,7 @@ TheHandDescriptionText:
 BasicPokemonDescriptionText:
 	text ""
 	line " Basis-Pokémon zijn de laagste"
-	line " evolutiefase en dienen als basis"
+	line " Evolutiefase en dienen als basis"
 	line " voor je Evolutiekaarten."
 	line " Bulbasaur, Charmander en Squirtle"
 	line " zijn voorbeelden van Basis-Pokémon."
@@ -1507,7 +1507,7 @@ PlayerDiaryTitleText:
 	done
 
 PlayerDiaryMedalsWonText:
-	text "Meestermedailles"
+	text "Meestermedailles:"
 	done
 
 PlayerDiarySaveQuestionText:
@@ -1535,7 +1535,7 @@ ConfigMenuTitleText:
 ConfigMenuMessageSpeedText:
 	text "  Hoe snel komt de tekst in beeld?"
 	line ""
-	line "  Sloom   1   2   3   4   5   Snel"
+	line "  Traag   1   2   3   4   5   Snel"
 	done
 
 ConfigMenuDuelAnimationText:
@@ -1569,7 +1569,7 @@ UnusedText0350: ; Unused
 	done
 
 PCMenuOptionsText:
-	text "Kaartalbum"
+	text "Kaartenalbum"
 	line "Lees E-mails"
 	line "Trefwoorden"
 	line "Printen"

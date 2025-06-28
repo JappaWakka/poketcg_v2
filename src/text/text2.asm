@@ -1153,7 +1153,7 @@ Turn4DrMason3PracticeDuelText:
 	done
 
 Turn5DrMason1PracticeDuelText:
-	text "Staryu evolueert in Starmie!"
+	text "Staryu Evolueert in Starmie!"
 	line "Laten we Staryu klaar maken om"
 	line "Starmie's aanval te gebruiken"
 	line "als hij in Starmie evolueert."
