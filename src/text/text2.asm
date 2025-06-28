@@ -1512,10 +1512,6 @@ UnusedText021c: ; Unused
 	text "????"
 	done
 
-UnusedText021d: ; Unused
-	text "????"
-	done
-
 WhatIsYourNameText:
 	text "Wat is je naam?"
 	done
@@ -1657,6 +1653,12 @@ ConfirmText:
 	text "Bevestig"
 	done
 
+PressSTARTToViewMenuText:
+	text "Bekijk Menu:"
+	half2full
+	textfw "⅓⅔⅜" ; START button
+	done
+	
 NewDeckStatisticsText:
 	text "Nieuwe Deck-gegevens"
 	done
