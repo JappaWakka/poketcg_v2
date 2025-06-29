@@ -245,7 +245,7 @@ CreateCardSetListAndInitListCoords:
 .laboratory
 	cp CARD_SET_LABORATORY
 	jr nz, .mystery
-	lb de, TX_FULLWIDTH3, "FW3_L"
+	lb de, TX_FULLWIDTH3, "FW3_C"
 	jr .got_prefix
 .mystery
 	cp CARD_SET_MYSTERY
@@ -258,7 +258,7 @@ CreateCardSetListAndInitListCoords:
 	lb de, TX_FULLWIDTH3, "FW3_E"
 	jr .got_prefix
 .colosseum
-	lb de, TX_FULLWIDTH3, "FW3_C"
+	lb de, TX_FULLWIDTH3, "FW3_S"
 	; fallthrough
 
 .got_prefix
