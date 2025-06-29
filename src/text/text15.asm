@@ -266,6 +266,10 @@ TailWagDescription:
 	done
 
 EvolutionName:
+	text "Evolutie"
+	done
+
+EvolutionCategoryName:
 	text "Evolutie-"
 	done
 
@@ -538,18 +542,18 @@ MysteriousFossilDescription:
 	text "Speel Mysterieus Fossiel alsof hij"
 	line "een Basis-Pokémon is. Terwijl hij in"
 	line "het spel is, telt hij als een Poké-"
-	line "mon (in plaats van een Trainer"
+	line "mon (in plaats van een Trainer-"
 	line "kaart). Mysterieus Fossiel heeft"
 	line "geen aanvallen, kan niet Terugtrek-"
-	line "ken, en kan niet In Slaap, Verward,"
+	line "ken, en kan niet In Slaap,"
 	done
 
 MysteriousFossilDescriptionCont:
-	text "Verlamd, of Vergiftigd zijn. Als"
-	line "hij wordt Uitgeschakeld, telt hij"
-	line "niet als een Uitgeschakelde Pokémon"
-	line "(gooi hem toch weg). Je mag Myste-"
-	line "rieus Fossiel op elk moment tijdens"
+	text "Verward, Verlamd, of Vergiftigd"
+	line "zijn. Als hij wordt Uitgeschakeld,"
+	line "telt hij niet als een Uitgeschakelde"
+	line "Pokémon (gooi hem toch weg)."
+	line "Je mag hem op elk moment tijdens"
 	line "je beurt vóór je aanval weggooien"
 	line "(in het ”PKMN-Kracht” menu)."
 	done

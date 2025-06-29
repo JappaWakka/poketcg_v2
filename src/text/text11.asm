@@ -38,7 +38,7 @@ Text0795:
 	text "Ik hak een standbeeld van een"
 	line "Pokémon uit deze rots!"
 	line "Wat? Wil je duelleren?"
-	line "Oké. Wil je nu duelleren?"
+	line "Oké. Wil je dat nu doen?"
 	done
 
 Text0796:

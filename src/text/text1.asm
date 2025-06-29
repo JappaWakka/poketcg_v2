@@ -903,7 +903,7 @@ NoEnergyCardsAttachedToPokemonInOppPlayAreaText:
 	done
 
 EnergyCardsRequiredToRetreatText:
-	text "Er zijn <RAMNUM> Energiekaarten"
+	text "Er zijn <RAMNUM> Energiekaart(en)"
 	line "nodig om Terug te Trekken."
 	done
 

@@ -9277,7 +9277,7 @@ EeveeCard:
 	db 1 ; retreat cost
 	db WR_FIGHTING ; weakness
 	db WR_PSYCHIC ; resistance
-	tx EvolutionName ; category
+	tx EvolutionCategoryName ; category
 	dw 133 ; Pokedex number
 	db 12 ; level
 	db 0, 3 ; length
