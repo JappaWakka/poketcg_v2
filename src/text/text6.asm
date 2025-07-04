@@ -55,9 +55,9 @@ RetreatingBookName:
 RetreatingBookText:
 	text "Je Actieve Pokémon Terugtrekken naar"
 	line "de Bank is een goede strategie in"
-	line "bepaalde situaties! Om een Pokémon"
-	line "Terug te Trekken heb je Energie-"
-	line "kaarten nodig."
+	line "bepaalde situaties!"
+	line "Om een Pokémon Terug te Trekken heb"
+	line "je Energiekaarten nodig."
 	line "Dodrio's Terugtrekhulp verlaagt de"
 	line "hoeveelheid Energie die nodig is"
 	line "om Terug te Trekken. Als je op tijd"
@@ -86,7 +86,8 @@ FightingPokemonAndCombosBookText:
 	text "Het is moeilijk om combo's te maken"
 	line "met een Vecht-Pokémon, omdat er niet"
 	line "veel Vecht-Pokémon zijn met Pokémon-"
-	line "Krachten. Maar hun sterke aanvallen"
+	line "Krachten."
+	line "Maar hun sterke aanvallen"
 	line "compenseren dit."
 	done
 
@@ -397,7 +398,7 @@ OriginalGameBoyCardsBookName:
 OriginalGameBoyCardsBookText:
 	text "Het Pokémon Ruilkaartspel voor de"
 	line "Game Boy bevat veel originele"
-	line "kaarten zoals de Nv14 Meowth-kaart"
+	line "kaarten zoals de nv14 Meowth-kaart"
 	line "die de Kattenmep-aanval gebruikt."
 	line "Er zijn veel nieuwe kaarten om te"
 	line "ontdekken, dus ga naar ze op zoek!"
@@ -413,7 +414,7 @@ ColorlessPokemonBookText:
 	line "met elk type Energiekaart, dus je"
 	line "kunt ze in elk soort deck stoppen."
 	line "Er zijn veel Kleurloze Pokémon dus"
-	line "ga ze allemaal opzoeken!"
+	line "zoek ze allemaal op!"
 	done
 
 DragonPokemonBookName:
@@ -425,9 +426,10 @@ DragonPokemonBookText:
 	line "gewoonlijk geen Zwakte, maar ze"
 	line "hebben wel een Weerstand."
 	line "Ze kunnen ook aanvallen met elk"
-	line "type Energiekaart. Door al deze"
-	line "eigenschappen zijn ze het waard"
-	line "om ”draken” genoemd te worden!"
+	line "type Energiekaart."
+	line "Door al deze eigenschappen zijn"
+	line "ze het waard om ”draken” genoemd"
+	line "te worden!"
 	done
 
 BirdPokemonBookName:
@@ -439,66 +441,70 @@ BirdPokemonBookText:
 	line "een Zwakte voor <LIGHTNING>, maar ze"
 	line "hebben ook een Weerstand tegen <FIGHTING>."
 	line "Ze kunnen aanvallen met elk type"
-	line "Energie. Aangezien Vogel-Pokémon"
-	line "kunnen vliegen, hebben ze weinig"
-	line "tot geen Terugtrekkingskosten."
+	line "Energie."
+	line "Aangezien Vogel-Pokémon kunnen"
+	line "vliegen, hebben ze weinig tot geen"
+	line "Terugtrekkingskosten."
 	done
 
 LegendaryPokemonCardsVol1BookName:
-	text "Legendarische Pokémonkaarten, Deel 1"
+	text "Legendarische Pokémonkaarten 1"
 	done
 
 LegendaryPokemonCardsVol1BookText:
 	text "De eerste van de Legendarische"
-	line "Pokémonkaarten is de Nv37 Moltres."
+	line "Pokémonkaarten is de nv37 Moltres."
 	line "Als die gespeeld wordt, zal die Vuur"
 	line "Energiekaarten aan de speler's hand"
-	line "toevoegen! Hij kan ook aanvallen"
-	line "met Duikbom, een krachtige,"
-	line "maar riskante aanval!"
+	line "toevoegen!"
+	line "Hij kan ook aanvallen met Duikbom,"
+	line "een krachtige, maar riskante aanval!"
+	line ""
 	line "Grootmeester Courtney, de"
 	line "Vuurkoningin, bezit deze kaart!"
 	done
 
 LegendaryPokemonCardsVol2BookName:
-	text "Legendarische Pokémonkaarten, Deel 2"
+	text "Legendarische Pokémonkaarten 2"
 	done
 
 LegendaryPokemonCardsVol2BookText:
 	text "De tweede Legendarische Pokémonkaart"
-	line "is de Nv68 Zapdos."
+	line "is de nv68 Zapdos."
 	line "Met Donderpiek wordt er door simpel-"
 	line "weg deze kaart op de Bank te leggen"
 	line "schade gedaan aan een andere"
 	line "Pokémon, en zijn Grote donder-aanval"
-	line "is zelfs nóg sterker!" 
+	line "is zelfs nóg sterker!"
+	line ""	
 	line "De Grootmeester van de Bliksem,"
 	line "Donder-Steve, bezit deze kaart!"
 	done
 
 LegendaryPokemonCardsVol3BookName:
-	text "Legendarische Pokémonkaarten, Deel 3"
+	text "Legendarische Pokémonkaarten 3"
 	done
 
 LegendaryPokemonCardsVol3BookText:
 	text "De derde Legendarische Pokémonkaart"
-	line "is de Nv37 Articuno."
+	line "is de nv37 Articuno."
 	line "Zijn Snelvriezen kan de tegen-"
 	line "stander's Pokémon voor één beurt"
 	line "onschadelijk maken nadat de kaart"
 	line "in het spel gebracht is!"
 	line "Hij kan ook aanvallen met IJsadem!"
+	line ""
 	line "Grootmeester Jack, de IJsman,"
 	line "bezit deze kaart!"
 	done
 
 LegendaryPokemonCardsVol4BookName:
-	text "Legendarische Pokémonkaarten, Deel 4"
+	text "Legendarische Pokémonkaarten 4"
 	done
 
 LegendaryPokemonCardsVol4BookText:
 	text "De vierde Legendarische Pokémonkaart"
-	line "is de Nv41 Dragonite."
+	line "is de nv41 Dragonite."
 	line "Als die gespeeld wordt, verwijdert"
 	line "zijn Genezende wind-kracht 2 schade-"
 	line "tellers van elk van de speler's"
@@ -529,9 +535,10 @@ MasterMedalsBookText:
 	line "in bezit van de Clubmeesters."
 	line "Er wordt gezegd dat het geheim van"
 	line "de decks van hun Clubs versleuteld"
-	line "is in de Meestermedailles. Sommigen"
-	line "zeggen dat de Medailles een geschenk"
-	line "waren van de Grootmeesters."
+	line "is in de Meestermedailles."
+	line "Sommigen zeggen dat de Medailles"
+	line "een geschenk waren van de"
+	line "Grootmeesters."
 	done
 
 PlateOfLegendsName:
@@ -539,8 +546,8 @@ PlateOfLegendsName:
 	done
 
 PlateOfLegendsText:
-	text "”Wie op zoek is naar de Legendarische"
-	line " Pokémonkaarten..."
+	text "”Wie op zoek is naar de"
+	line " Legendarische Pokémonkaarten..."
 	line " Versla de Meesters van de 8 Clubs"
 	line " en behaal de 8 Meestermedailles."
 	line " Versla daarna de Grootmeesters"
@@ -643,7 +650,7 @@ RonaldChallengeCup1NotStarted1Text:
 RonaldChallengeCup1NotStarted2Text:
 	text "Ik ben degene die alle 3 de"
 	line "tegenstanders gaat verslaan!"
-	line "De kostbare Nv60 Mewtwo-kaart"
+	line "De kostbare nv60 Mewtwo-kaart"
 	line "is van mij! Wacht maar af en kijk"
 	line "maar hoe ik win! Tot ziens!"
 	line "Ha ha ha ha ha ha!"
@@ -672,7 +679,7 @@ RonaldChallengeCup1LostInactive1Text:
 RonaldChallengeCup1LostInactive2Text:
 	text "Het Uitdagingstoernooi is voorbij!"
 	line "Ik versloeg 3 tegenstanders en won"
-	line "de prijs - een Nv60 Mewtwo!"
+	line "de prijs - een nv60 Mewtwo!"
 	line "Tot ziens! Ha ha ha ha ha ha!"
 	done
 
@@ -684,7 +691,7 @@ RonaldChallengeCup1Missed1Text:
 RonaldChallengeCup1Missed2Text:
 	text "Het Uitdagingstoernooi is voorbij!"
 	line "Ik versloeg 3 tegenstanders en won"
-	line "de prijs - een Nv60 Mewtwo!"
+	line "de prijs - een nv60 Mewtwo!"
 	line "Je zou kunnen proberen mee te doen"
 	line "aan het volgende Toernooi, maar je"
 	line "maakt geen kans want die win ik ook!"
@@ -700,7 +707,7 @@ RonaldChallengeCup2NotStarted2Text:
 	text "Het maakt niet uit wie er meedoet"
 	line "aan het Uitdagingstoernooi, ik zal"
 	line "de winnaar zijn! De prijs van dit"
-	line "Toernooi, de Nv8 Mew, zal van"
+	line "Toernooi, de nv8 Mew, zal van"
 	line "mij zijn! Waarom geef je het niet"
 	line "op en ga je naar huis?!"
 	line "Tot ziens! Ha ha ha ha ha ha!"
@@ -730,7 +737,7 @@ RonaldChallengeCup2LostInactive2Text:
 	line "Wat? Wie heeft er gewonnen?"
 	line "Wie denk je nou zelf!?! Ik,"
 	line "natuurlijk! De prijs is van"
-	line "mij! Nv8 Mew!"
+	line "mij! nv8 Mew!"
 	line "Tot ziens! Ha ha ha ha ha ha!"
 	done
 
@@ -742,7 +749,7 @@ RonaldChallengeCup2Missed1Text:
 RonaldChallengeCup2Missed2Text:
 	text "Het Uitdagingstoernooi is voorbij!"
 	line "Jammer dat je niet kon deelnemen!"
-	line "Die Nv8 Mew-prijs is van mij!"
+	line "Die nv8 Mew-prijs is van mij!"
 	line "Je moet echt meedoen aan het"
 	line "volgende Toernooi! Aan de andere"
 	line "kant, waarom zou je ook, aangezien"
@@ -799,14 +806,14 @@ Clerk12ChallengeCup1ActiveText:
 	text "Het eerste Uitdagingstoernooi is"
 	line "van start gegaan! Versla 3"
 	line "tegenstanders om de waanzinnige"
-	line "prijs te winnen, een Nv60 Mewtwo!"
+	line "prijs te winnen, een nv60 Mewtwo!"
 	done
 
 Clerk12ChallengeCup2ActiveText:
 	text "Het tweede Uitdagingstoernooi is"
 	line "van start gegaan! Versla 3"
 	line "tegenstanders om de waanzinnige"
-	line "prijs te winnen, een Nv8 Mew!"
+	line "prijs te winnen, een nv8 Mew!"
 	done
 
 Clerk12ChallengeCup3ActiveText:
@@ -897,7 +904,7 @@ RonaldChallengeCup1PlayerLostText:
 	text "Ha ha ha! Wat dacht je daarvan!?!"
 	line "Ik win!!"
 	line "Nog 2 tegenstanders te gaan en dan"
-	line "is die Nv8 Mew van mij!"
+	line "is die nv8 Mew van mij!"
 	done
 
 Clerk12ChallengeCupRound1PlayerWonText:
@@ -942,13 +949,13 @@ Clerk12ChallengeCupRound3ChallengerText:
 RonaldChallengeCup2BeforeDuelText:
 	text "Hé, <RAMNAME>!"
 	line "Ik ga niet van jou verliezen!"
-	line "Die Nv60 Mewtwo is van mij!!!"
+	line "Die nv60 Mewtwo is van mij!!!"
 	done
 
 RonaldChallengeCup1BeforeDuelText:
 	text "<RAMNAME>!"
 	line "Ik ga je verslaan!"
-	line "Die Nv8 Mew is van mij!!!"
+	line "Die nv8 Mew is van mij!!!"
 	done
 
 Clerk12ChallengeCupRound3DuelReadyText:

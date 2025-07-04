@@ -233,13 +233,13 @@ Text05f9:
 	text "Dit is de Deck-Opslagmachine."
 	line "Je kunt de samenstelling van je"
 	line "aangepaste decks opslaan in deze"
-	line "machine. Als je een deck hebt"
-	line "opgeslagen, kan deze machine hem"
-	line "opnieuw bouwen voor je wanneer"
-	line "je maar wilt, zolang je maar de"
-	line "juiste kaarten hebt. Als je een"
-	line "geweldig deck hebt gebouwd, zou"
-	line "je hem hier moeten opslaan."
+	line "machine."
+	line "Als je een deck hebt opgeslagen,"
+	line "kan deze machine hem opnieuw bouwen"
+	line "voor je wanneer je maar wilt, zolang"
+	line "je maar de juiste kaarten hebt."
+	line "Als je een geweldig deck hebt"
+	line "gebouwd, moet je hem hier opslaan."
 	done
 	
 Text05fa:
@@ -328,8 +328,7 @@ Text0608:
 	done
 
 Text0609:
-	text "Wil je jouw <RAMTEXT>Medaille"
-	line "erin plaatsen?"
+	text "Jouw <RAMTEXT>Medaille plaatsen?"
 	done
 
 Text060a:
@@ -360,23 +359,22 @@ Text060e:
 
 Text060f:
 	text "Hé! Kleintje!"
-	line "Ik heb een Nv20 Electabuzz, maar"
+	line "Ik heb een nv20 Electabuzz, maar"
 	line "wat ik echt zou willen hebben is"
-	line "een Nv35 Electabuzz!"
+	line "een nv35 Electabuzz!"
 	line "Zeg, kleintje! Heb jij een"
-	line "Nv35 Electabuzz?"
+	line "nv35 Electabuzz?"
 	done
 
 Text0610:
 	text "Hé! Kleintje! Daar ben je weer!"
-	line "Heb je een Nv35 Electabuzz?"
+	line "Heb je een nv35 Electabuzz?"
 	line "Kom op! Ruil hem tegen mijn"
-	line "Nv20 Electabuzz!"
+	line "nv20 Electabuzz!"
 	done
 
 Text0611:
-	text "Wil je jouw Nv35 Electabuzz"
-	line "ruilen?"
+	text "Jouw nv35 Electabuzz ruilen?"
 	done
 
 Text0612:
@@ -390,13 +388,13 @@ Text0613:
 	text "Hé, kleintje, het is niet cool"
 	line "om te liegen!"
 	line "Je hebt helemaal geen"
-	line "Nv35 Electabuzz!"
+	line "nv35 Electabuzz!"
 	line "Je zou nog eens gewond kunnen raken"
 	line "als je tegen me liegt, kleintje!"
 	done
 
 Text0614:
-	text "Je gaat je Nv35 Electabuzz met"
+	text "Je gaat je nv35 Electabuzz met"
 	line "me ruilen?"
 	line "Supercool!... Hé! Wacht, kleintje!"
 	line "Die kaart zit nog in je deck!"
@@ -407,9 +405,9 @@ Text0614:
 	done
 
 Text0615:
-	text "Je gaat je Nv35 Electabuzz met"
+	text "Je gaat je nv35 Electabuzz met"
 	line "me ruilen? Supercool, kleintje!"
-	line "Oké, ik ruil er mijn Nv20"
+	line "Oké, ik ruil er mijn nv20"
 	line "Electabuzz voor."
 	done
 
@@ -420,8 +418,8 @@ Text0616:
 
 Text0617:
 	text "Wauw! Cool, kleintje! Bedankt"
-	line "voor die Nv35 Electabuzz!"
-	line "Mijn Nv20 Electabuzz is een"
+	line "voor die nv35 Electabuzz!"
+	line "Mijn nv20 Electabuzz is een"
 	line "coole kaart!"
 	line "Laad 'm op met Electabuzz!"
 	done
@@ -700,7 +698,7 @@ Text0644:
 Text0645:
 	text "Nou, de <RAMTEXT>Medaille winnen" 
 	line "was helemaal niet moeilijk!"
-	line "Als ik dit volhoudt, zal ik zeker" 
+	line "Als ik dit volhoud, zal ik zeker" 
 	line "de Legendarische Pokémonkaarten" 
 	line "kunnen overnemen!"
 	done
@@ -708,9 +706,9 @@ Text0645:
 Text0646:
 	text "Wat? Jij bent het, <RAMNAME>!"
 	line "Wat ben je aan het doen?"
-	line "Huh? Dat is een deck!"
-	line "Ben je... van plan om de Legenda-"
-	line "rische Pokémonkaarten te veroveren?"
+	line "Huh? Dat is een deck! Ben je..."
+	line "van plan om de Legendarische"
+	line "Pokémonkaarten te veroveren?"
 	done
 
 Text0647:
@@ -739,10 +737,11 @@ Text0649:
 	line "daar verslaan!!!"
 	line "Maar dat zal je toch nooit kunnen!!!"
 	line "Je kunt het net zo goed opgeven en"
-	line "naar huis gaan! Want de Legenda-"
-	line "rische Pokémon kaarten, die zullen"
-	line "van mij zijn! Ik heb de eerste"
-	line "Medaille al gewonnen!"
+	line "naar huis gaan!"
+	line "Want de Legendarische Pokémon-"
+	line "kaarten, die zullen van mij zijn!"
+	line "Ik heb de eerste Medaille al"
+	line "gewonnen!"
 	line "Tot ziens, <RAMNAME>!"
 	line "Ha ha ha ha ha!!!"
 	done
@@ -754,9 +753,11 @@ Text064a:
 
 Text064b:
 	text "Dus je hebt de tweede Medaille"
-	line "gewonnen? Je had vast gewoon"
-	line "heel veel geluk! Ik wil wel"
-	line "zien hoe goed je echt bent!"
+	line "gewonnen?"
+	line "Je had vast gewoon heel veel"
+	line "geluk!"
+	line "Ik wil wel zien hoe goed je echt"
+	line "bent!"
 	line "Kom op, laten we duelleren!"
 	line "We spelen met 6 Prijzen!"
 	line "Als je wint, geef ik je"
@@ -766,7 +767,7 @@ Text064b:
 Text064c:
 	text "Ik... Ik probeerde niet eens mijn"
 	line "best te doen!"
-	line "Nou, verlies is verlies, dus ik"
+	line "Nou, verloren is verloren, dus ik"
 	line "moet je maar deze kaart geven."
 	done
 

@@ -295,7 +295,7 @@ FoundLv9SlowpokeText:
 	text "<RAMNAME>"
 	line "keek in de muur!"
 	text "<RAMNAME>"
-	line "vond een Nv9 Slowpoke!"
+	line "vond een nv9 Slowpoke!"
 	done
 
 Text06a3:
@@ -637,6 +637,7 @@ Text06d8:
 	line "Maar ik kan geen meisjes verslaan"
 	line "die zo sterk zijn!"
 	line "Huh? Jij bent vast <RAMNAME>."
+	line ""
 	line "Mitch heeft me alles over je"
 	line "verteld."
 	line "Jou verslaan zal leuker zijn dan"
@@ -655,7 +656,7 @@ UnusedText06da: ; Unused
 Text06db:
 	text "Ik zal hier wel een tijdje zijn,"
 	line "dus zoek me vooral op als je van"
-	line "gedachten veranderd."
+	line "gedachten verandert."
 	done
 
 Text06dc:

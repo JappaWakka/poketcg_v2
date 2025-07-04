@@ -1,8 +1,8 @@
 Text0703:
 	text "Alleen meisjes mogen lid worden"
-	line "van de Gras-Club. Maar we nemen"
-	line "momenteel sowieso geen aanmel-"
-	line "dingen aan. Sorry!"
+	line "van de Gras-Club."
+	line "Maar we nemen momenteel sowieso"
+	line "geen aanmel dingen aan. Sorry!"
 	done
 
 Text0704:
@@ -66,10 +66,12 @@ Text070c:
 	done
 
 Text070d:
-	text "Meester Nikki is momenteel even weg."
+	text "Clubmeester Nikki is momenteel"
+	line "even weg."
 	line "Waar ging ze heen? Dat is een"
 	line "geheim..."
-	line "... Hmmm, even zien..."
+	line "...Hmmm, even zien..."
+	line  ""
 	line "Als je... 3 leden van de Gras-Club"
 	line "verslaat, zeg ik je waar ze is."
 	line "Dus, wat denk je ervan?"

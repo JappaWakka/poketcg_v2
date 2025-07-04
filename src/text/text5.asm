@@ -210,10 +210,12 @@ Clerk1Text:
 	done
 
 Man1FirstRequestCardText:
-	text "Ik zie dat je het Pokémon Ruilkaart-"
-	line "spel speelt. Ik ben zelf niet van"
-	line "het duelleren. Ik vind het leuker"
-	line "om de kaarten alleen te verzamelen."
+	text "Ik zie dat je ook het Pokémon"
+	line "Ruilkaartspel speelt."
+	line "Ik ben zelf niet van het"
+	line "duelleren."
+	line "Ik vind het leuker om de kaarten"
+	line "alleen te verzamelen."
 	line "Trouwens, heb jij toevallig een"
 	line "<RAMTEXT>?"
 	line "Als je er een hebt, zou je hem dan"
@@ -273,11 +275,11 @@ Man1GiveCardText:
 	done
 
 Man1PlayerReceivePikachuAltLv16Text:
-	text "Omdat je zo aardig bent geweest en"
-	line "me zoveel kaarten hebt gegeven, neem"
-	line "dit cadeau alsjeblieft van me als"
-	line "bedankje van mij aan jou."
-	line "Het is een Nv16 Pikachu."
+	text "Omdat je zo aardig bent geweest"
+	line "en me zoveel kaarten hebt gegeven,"
+	line "neem alsjeblieft dit cadeau van me"
+	line "aan als bedankje van mij aan jou."
+	line "Het is een nv16 Pikachu."
 	line "Zorg er goed voor!"
 	done
 
@@ -412,8 +414,8 @@ ButchPlayerIsChampionText:
 	done
 
 Granny1Text:
-	text "Als ik maar een paar jaar jonger"
-	line "was, dan zou ik ook met alle"
+	text "Oh, als ik nou maar een paar jaar"
+	line "jonger was, dan zou ik ook met alle"
 	line "kinderen aan het duelleren zijn."
 	done
 
@@ -791,12 +793,13 @@ EnergyTransBookName:
 	done
 
 EnergyTransBookText:
-	text "Wat als je Exeggutor in de Arena"
-	line "plaatst, maar je heb geen Energie-"
-	line "kaarten? In dat geval kun je"
-	line "Venusaur's Energietransfer Pokémon-"
-	line "Kracht gebruiken om Gras Energie"
-	line "over te zetten en Grote eisplosie te"
+	text "Wat als je een Exeggutor in de Arena"
+	line "plaatst, maar je geen Energie-"
+	line "kaarten hebt?"
+	line "In dat geval kun je Venusaur's"
+	line "Energietransfer Pokémon-Kracht"
+	line "gebruiken om Gras Energie te"
+	line "verplaatsen en Grote eisplosie te"
 	line "gebruiken! Als je 8 Energiekaarten"
 	line "eraan gehecht hebt, kan je tot 160"
 	line "schade doen aan je tegenstander."
@@ -820,11 +823,11 @@ RainDanceBookName:
 	done
 
 RainDanceBookText:
-	text "Blastoise's Pokémon-Kracht, Regen-"
-	line "dans, is een grote zegen voor je"
-	line "Water-Pokémon! Je kunt zoveel Water-"
-	line "Energiekaarten aan je Water-Pokémon"
-	line "hechten als je wilt."
+	text "Blastoise's Pokémon-Kracht,"
+	line "Regendans, is een grote zegen voor"
+	line "je Water-Pokémon! Je kunt daarmee"
+	line "zoveel Water Energiekaarten aan je"
+	line "Water-Pokémon hechten als je wilt."
 	line "Maak je Pokémon sterker en val aan!"
 	done
 
@@ -849,14 +852,15 @@ DamageSwapBookName:
 
 DamageSwapBookText:
 	text "Je kan Alakazam's Schadeverwisseling"
-	line "gebruiken om schadetellers te ver-"
-	line "plaatsen van een Pokémon die bijna"
-	line "Uitgeschakeld is, of je kunt een"
-	line "combo maken door hem te combineren"
-	line "met Chansey en Haal Binnen. Blijf"
-	line "schadetellers naar Chansey verplaat-"
-	line "sen en gebruik Haal Binnen om"
-	line "Chansey terug in je hand te nemen."
+	line "gebruiken om schadetellers te"
+	line "verplaatsen van een Pokémon die"
+	line "bijna Uitgeschakeld is, of je kunt"
+	line "een combo maken door hem te"
+	line "combineren met Chansey en"
+	line "Haal Binnen."
+	line "Blijf schadetellers naar Chansey"
+	line "verplaatsen en gebruik Haal Binnen"
+	line "om Chansey terug in je hand te nemen."
 	line "Als je Chansey dan weer terug in het"
 	line "spel brengt, ben je al die schade"
 	line "kwijtgeraakt!"
@@ -868,6 +872,7 @@ HyperBeamBookName:
 
 HyperBeamBookText:
 	text "Hydrostraal is ontzettend sterk!"
+	line ""
 	line "Je kunt er Energiekaarten mee"
 	line "weggooien die gehecht zijn aan de"
 	line "Verdedigende Pokémon, en zonder"
