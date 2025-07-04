@@ -6,6 +6,7 @@ Original description:
 This is a modified disassembly of Pokémon Trading Card Game for the Game Boy Color. It was originally designed to be used as a base for future romhacks, but it can also be used as an improvement hack for people looking to replay the original game. A lot of the changes deal with more efficient code and better function comments and are therefore not likely to be noticed by prospective players, but there are plenty of other differences that are much easier to see. All displayed text is now mixed case instead of uppercase only, and the in-game keyboard was significantly expanded to offer more variety when naming both the protagonist and custom decks. Players can choose to play as either Mark or Mint, like in the sequel. The tutorial at the start of the game is now optional. Various text throughout the game was edited to better fit the 2-line display in the textboxes, and some of the menu screens were redesigned; the glossary in particular is almost entirely different from its original incarnation. It's also worth noting that numerous glitches present in the base game were fixed. For a full overview of the changes that were made to the original game, see [**CHANGELOG.md**](CHANGELOG.md).
 
 Here are a bunch of screenshots showcasing the differences between the original Pokémon Trading Card Game and my translation:
+
 ![Comparison Screenshots](https://github.com/user-attachments/assets/82d0717a-daf6-40a1-a7ef-6370c195e55e)
 <br/>
 ## Building the rom file
