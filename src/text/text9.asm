@@ -295,7 +295,7 @@ FoundLv9SlowpokeText:
 	text "<RAMNAME>"
 	line "keek in de muur!"
 	text "<RAMNAME>"
-	line "vond een <Lv>9 Slowpoke!"
+	line "vond een Nv9 Slowpoke!"
 	done
 
 Text06a3:
@@ -564,7 +564,7 @@ Text06cd:
 	done
 
 Text06ce:
-	text "Oké, aan <RAMTEXT>."
+	text "Oké, <RAMTEXT>."
 	line ""
 	line "Werk alsjeblieft je dagboek bij voor"
 	line "het beginnen van deze transactie."
@@ -770,7 +770,7 @@ Text06ed:
 
 Text06ee:
 	text "Ik wil een Oddish!"
-	line "Een wildebrassige Oddish!"
+	line "Een robbedoes van een Oddish!"
 	done
 
 Text06ef:

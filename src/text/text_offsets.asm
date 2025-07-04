@@ -3030,3 +3030,4 @@ TextOffsets::
 	textpointer CurseDescriptionCont                               ; Dutch description was too long
 	textpointer EvolutionCategoryName                              ; Made this because I don't want EvolutionName to be used as both a category and an expansion set name
 	
+	

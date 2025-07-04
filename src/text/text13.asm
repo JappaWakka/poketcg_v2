@@ -524,7 +524,7 @@ LightScreenDescription:
 	text "Wanneer een aanval schade doet aan"
 	line "Electabuzz tijdens je tegenstander's"
 	line "volgende beurt (na het toepassen van"
-	line "Zwakte en Weerstand), doet die Aan-"
+	line "Zwakte en Weerstand), doet die aan-"
 	line "val slechts de helft van de schade"
 	line "aan Electabuzz (naar beneden afge-"
 	line "rond naar de dichtstbijzijnde 10)."

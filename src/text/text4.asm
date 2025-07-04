@@ -280,16 +280,16 @@ UnusedText038a: ; Unused
 	done
 
 WonTheMedalText:
-	text "<RAMNAME>"
-	line "Won de <RAMTEXT>Medaille!"
+	text "<RAMNAME> won de"
+	line "<RAMTEXT>Medaille!"
 	done
 
 VenusaurLv64TradeCardName:
-	text "<Lv>64 Venusaur"
+	text "Nv64 Venusaur"
 	done
 
 MewLv15TradeCardName:
-	text "<Lv>15 Mew"
+	text "Nv15 Mew"
 	done
 
 UnusedText038e: ; Unused
@@ -654,51 +654,51 @@ AaronNPCName:
 	done
 	
 MewtwoTradeCardName:
-	text "<Lv>60 Mewtwo"
+	text "Nv60 Mewtwo"
 	done
 
 MewTradeCardName:
-	text "<Lv>8 Mew"
+	text "Nv8 Mew"
 	done
 
 ArcanineTradeCardName:
-	text "<Lv>34 Arcanine"
+	text "Nv34 Arcanine"
 	done
 
 PikachuTradeCardName:
-	text "<Lv>16 Pikachu"
+	text "Nv16 Pikachu"
 	done
 
 SurfingPikachuTradeCardName:
-	text "<Lv>13 Surfende Pikachu"
+	text "Nv13 Surfende Pikachu"
 	done
 
 ElectabuzzTradeCardName:
-	text "<Lv>20 Electabuzz"
+	text "Nv20 Electabuzz"
 	done
 
 SlowpokeTradeCardName:
-	text "<Lv>9 Slowpoke"
+	text "Nv9 Slowpoke"
 	done
 
 JigglypuffTradeCardName:
-	text "<Lv>12 Jigglypuff"
+	text "Nv12 Jigglypuff"
 	done
 
 ZapdosLegendaryCardName:
-	text "<Lv>68 Zapdos"
+	text "Nv68 Zapdos"
 	done
 
 MoltresLegendaryCardName:
-	text "<Lv>37 Moltres"
+	text "Nv37 Moltres"
 	done
 
 ArticunoLegendaryCardName:
-	text "<Lv>37 Articuno"
+	text "Nv37 Articuno"
 	done
 
 DragoniteLegendaryCardName:
-	text "<Lv>41 Dragonite"
+	text "Nv41 Dragonite"
 	done
 
 SuperEnergyRetrievalTradeCardName:
@@ -706,7 +706,7 @@ SuperEnergyRetrievalTradeCardName:
 	done
 
 FlyingPikachuTradeCardName:
-	text "<Lv>12 Vliegende Pikachu"
+	text "Nv12 Vliegende Pikachu"
 	done
 
 LightningAndFireDeckChoiceText:
@@ -891,7 +891,7 @@ Mail5Part1Text:
 	line "gebruiken om tegen Isaac's deck in"
 	line "te gaan. Het Cubone & Marowak Deck"
 	line "uit de Deckmachine van de Steen-"
-	line "medaille is waarschijnlijk je"
+	line "Medaille is waarschijnlijk je"
 	line "beste kans."
 	line "Ik hoop dat je veel Vecht-Pokémon"
 	line "vindt in dit Booster-Pakje!"
@@ -1158,7 +1158,7 @@ PlaceholderMessageText:
 	done
 
 Clerk3Text:
-	text "Hallo!"
+	text "Goedendag!"
 	line "Welkom bij de Water-Club!"
 	line "Dit is een Club die gewijd is"
 	line "aan Water-Pokémon."
@@ -1274,8 +1274,8 @@ Man2Text:
 Pappy2Text:
 	text "Sara en Amanda van de Water-Club"
 	line "zijn tweelingen."
-	line "Geen wonder dat ze zo lijken op"
-	line "elkaar!"
+	line "Geen wonder dat ze zo op elkaar"
+	line "lijken!"
 	done
 
 SaraWantsToDuelText:

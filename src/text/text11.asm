@@ -115,12 +115,12 @@ Text07a2:
 Text07a3:
 	text "Ik ben Gene, de Meester van de"
 	line "Steen-Club!"
-	line "Steen is goed..."
-	line "Of niet soms, <RAMNAME>...?"
+	line "Steen is machtig... of"
+	line "niet soms, <RAMNAME>...?"
 	line "Steen is hard en sterk!"
-	line "Bezwijkt niet onder druk! Als je"
-	line "met me duelleert, zul je zien dat"
-	line "ik gelijk heb!"
+	line "Bezwijkt niet onder druk!"
+	line "Als je met me duelleert, zal"
+	line "je zien dat ik gelijk heb!"
 	line "Kom! Laat me zien wat je waard bent!"
 	done
 

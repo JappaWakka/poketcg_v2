@@ -1054,8 +1054,10 @@ SamTurn4Instr1PracticeDuelText:
 	done
 
 SamTurn4Instr2PracticeDuelText:
-	text "2. Je kan de Pokémongegevens"
-	line "   bekijken met de SELECT-toets." 
+	text "2. Je kunt de kaarten in je hand"
+	line "   of het Speelveld bekijken"
+	line "   door op de SELECT-toets"
+	line "   te drukken."
 	done
 
 Turn1DrMason1PracticeDuelText:
@@ -1126,9 +1128,9 @@ Turn3DrMason2PracticeDuelText:
 	done
 
 Turn3DrMason3PracticeDuelText:
-	text "Nu is Machop's IP 0 en is hij"
-	line "Uitgeschakeld. Als je de Verdedi-"
-	line "gende Pokémon Uitschakelt,"
+	text "Nu is Machop's IP 0 en is"
+	line "hij Uitgeschakeld. Als je de"
+	line "Verdedigende Pokémon Uitschakelt,"
 	line "mag je een Prijskaart pakken."
 	done
 
@@ -1223,11 +1225,11 @@ SamTurn4DrMason1PracticeDuelText:
 	done
 
 SamTurn4DrMason2PracticeDuelText:
-	text "Druk hier op SELECT om de gegevens"
-	line "van de Pokémon te bekijken."
-	line "Het is belangrijk om je kaarten te"
-	line "kennen en te weten hoe je Pokémon"
-	line "eraan toe is."
+	text "Hier kun je op de SELECT-toets"
+	line "drukken om je andere kaarten te"
+	line "bekijken. Het is belangrijk om"
+	line "je kaarten te kennen en te weten"
+	line "hoe je Pokémon eraan toe is."
 	done
 
 SelectStaryuPracticeDuelText:
@@ -1654,13 +1656,13 @@ ConfirmText:
 	done
 
 PressSTARTToViewMenuText:
-	text "Bekijk Menu:"
+	text "Open Menu:"
 	half2full
 	textfw "⅓⅔⅜" ; START button
 	done
 	
 NewDeckStatisticsText:
-	text "Nieuwe Deck-gegevens"
+	text "Nieuwe Deckgegevens "
 	done
 
 ;DeckBuildingMenuOptionsText:

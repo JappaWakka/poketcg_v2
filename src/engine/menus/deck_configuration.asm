@@ -651,7 +651,7 @@ DeckBuildMenuData:
 	db $ff
 
 StatisticsSuffix:
-	db " Statistics"
+	db "gegevens "
 	done
 
 ; this function is loaded to wDeckConfigurationMenuHandlerFunction during DeckSelectionMenu.

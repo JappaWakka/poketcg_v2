@@ -211,9 +211,9 @@ Clerk1Text:
 
 Man1FirstRequestCardText:
 	text "Ik zie dat je het Pokémon Ruilkaart-"
-	line "spel speelt. Ik ben zelf niet van het"
-	line "duelleren. Ik vind het leuker om de"
-	line "kaarten alleen te verzamelen."
+	line "spel speelt. Ik ben zelf niet van"
+	line "het duelleren. Ik vind het leuker"
+	line "om de kaarten alleen te verzamelen."
 	line "Trouwens, heb jij toevallig een"
 	line "<RAMTEXT>?"
 	line "Als je er een hebt, zou je hem dan"
@@ -277,7 +277,7 @@ Man1PlayerReceivePikachuAltLv16Text:
 	line "me zoveel kaarten hebt gegeven, neem"
 	line "dit cadeau alsjeblieft van me als"
 	line "bedankje van mij aan jou."
-	line "Het is een <Lv>16 Pikachu."
+	line "Het is een Nv16 Pikachu."
 	line "Zorg er goed voor!"
 	done
 
@@ -420,8 +420,8 @@ Granny1Text:
 MitchFirstInteractionText:
 	text "Ik ben Mitch, Meester van de"
 	line "Vecht-Club!"
-	line "Ik moet je waarschuwen dat je niet"
-	line "in staat zult zijn mij te verslaan!"
+	line "Ik moet je waarschuwen dat je mij"
+	line "niet zult kunnen verslaan!"
 	line "Als je met mij wilt duelleren, moet"
 	line "je eerst mijn leerlingen verslaan!"
 	line "Mijn leerlingen zijn aan het"

@@ -107,10 +107,11 @@ Text05e9:
 	done
 
 Text05ea:
-	text "”Geen woorden maar daden”, klinkt"
-	line "het gezegde, dus laten we een spel"
-	line "spelen. Omdat dit je eerste keer"
-	line "is, probeer je eerst maar eens"
+	text "”Geen woorden maar daden”"
+	line "klinkt het gezegde, dus laten we"
+	line "een spel spelen."
+	line "Omdat dit je eerste keer is,"
+	line "probeer je eerst maar eens"
 	line "gewoon de basisstappen te leren."
 	line "Ik zal je hierin begeleiden,"
 	line "dus volg mijn advies op."
@@ -119,8 +120,9 @@ Text05ea:
 	line "Misschien is het makkelijker als"
 	line "je het Pokémon Ruilkaartspel"
 	line "instructieboekje leest terwijl we"
-	line "spelen. Oké dan, laten we "
-	line "je oefenspel beginnen!"
+	line "spelen."
+	line "Oké dan, laten we je oefenspel"
+	line "beginnen!"
 	done
 
 
@@ -129,9 +131,9 @@ Text05eb:
 	line "het Pokémon Ruilkaartspel speelt:"
 	line "Het is een spel waarin je zoveel"
 	line "van je tegenstander's Pokémon"
-	line "probeert Uit te schakelen als er"
-	line "Prijskaarten zijn. Dat is de kern"
-	line "van het spel..."
+	line "probeert Uit te Schakelen als er"
+	line "Prijskaarten zijn."
+	line "Dat is de kern van het spel..."
 	done
 
 Text05ec:
@@ -151,14 +153,15 @@ Text05ee:
 
 Text05ef:
 	text "Als je iets niet begrijpt, praat"
-	line "met Sam. Het is misschien handig"
-	line "om ook opnieuw te oefenen. Deze"
-	line "keer was gewoon om kennis te maken"
-	line "met het spel, dus je moest alles"
-	line "doen wat ik zei, maar er zijn"
-	line "ook andere speelstijlen, dus"
-	line "probeer ze uit door"
-	line "”Normaal Duel” te selecteren."
+	line "dan met Sam."
+	line "Het is misschien handig om ook"
+	line "opnieuw te oefenen."
+	line "Deze keer was gewoon om kennis te"
+	line "maken met het spel, dus je moest"
+	line "alles doen wat ik zei, maar er"
+	line "zijn ook andere speelstijlen, dus"
+	line "probeer ze uit door ”Normaal Duel”"
+	line "te selecteren."
 	done
 
 Text05f0:
@@ -197,8 +200,9 @@ Text05f5:
 
 Text05f6:
 	text "Ga erop uit en duelleer tegen veel"
-	line "verschillende mensen. Waarom ga je"
-	line "niet naar een van de Kaartclubs?"
+	line "verschillende mensen."
+	line "Waarom ga je niet naar een van de"
+	line "Kaartclubs?"
 	line "Er zitten altijd heel veel"
 	line "mensen te spelen in die Clubs."
 	line "Verzamel nieuwe kaarten en"
@@ -216,17 +220,18 @@ Text05f8:
 	text "Gefeliciteerd met het overnemen van"
 	line "de Legendarische Pokémonkaarten!"
 	line "Maar dat is nog niet alles in dit"
-	line "spel! Kun je alle decks die opge-"
-	line "slagen zijn in deze Auto-Deckmachine"
-	line "al bouwen? Er zijn net zoveel Duels"
-	line "die je kunt houden als er decks zijn"
-	line "om mee te duelleren!"
+	line "spel!"
+	line "Kun je alle decks die opgeslagen"
+	line "zijn in deze Auto-Deckmachine al"
+	line "bouwen? Er zijn net zoveel Duels"
+	line "die je kunt houden als er decks"
+	line "zijn om mee te duelleren!"
 	line "Blijf duelleren met Pokémonkaarten!"
 	done
 
 Text05f9:
 	text "Dit is de Deck-Opslagmachine."
-	line "Je kan de samenstelling van je"
+	line "Je kunt de samenstelling van je"
 	line "aangepaste decks opslaan in deze"
 	line "machine. Als je een deck hebt"
 	line "opgeslagen, kan deze machine hem"
@@ -345,32 +350,32 @@ Text060d:
 	done
 
 Text060e:
-	text "Hallo!"
+	text "Goedendag!"
 	line "Welkom bij de Bliksem-Club!"
 	line "Bij deze Club gebruiken we decks"
 	line "die voornamelijk uit Bliksem-"
-	line "Pokémon bestaan. Wil je bij ons"
-	line "opgeladen worden?"
+	line "Pokémon bestaan. Wil je jezelf"
+	line "bij ons komen opladen?"
 	done
 
 Text060f:
 	text "Hé! Kleintje!"
-	line "Ik heb een <Lv>20 Electabuzz, maar"
+	line "Ik heb een Nv20 Electabuzz, maar"
 	line "wat ik echt zou willen hebben is"
-	line "een <Lv>35 Electabuzz!"
-	line "Hé! Kleintje! Heb je een"
-	line "<Lv>35 Electabuzz?"
+	line "een Nv35 Electabuzz!"
+	line "Zeg, kleintje! Heb jij een"
+	line "Nv35 Electabuzz?"
 	done
 
 Text0610:
 	text "Hé! Kleintje! Daar ben je weer!"
-	line "Heb je een <Lv>35 Electabuzz?"
+	line "Heb je een Nv35 Electabuzz?"
 	line "Kom op! Ruil hem tegen mijn"
-	line "<Lv>20 Electabuzz!"
+	line "Nv20 Electabuzz!"
 	done
 
 Text0611:
-	text "Wil je jouw <Lv>35 Electabuzz"
+	text "Wil je jouw Nv35 Electabuzz"
 	line "ruilen?"
 	done
 
@@ -382,17 +387,18 @@ Text0612:
 	done
 
 Text0613:
-	text "Hé, kleintje, het is niet cool om"
-	line "te liegen! Je hebt helemaal geen"
-	line "<Lv>35 Electabuzz!"
+	text "Hé, kleintje, het is niet cool"
+	line "om te liegen!"
+	line "Je hebt helemaal geen"
+	line "Nv35 Electabuzz!"
 	line "Je zou nog eens gewond kunnen raken"
 	line "als je tegen me liegt, kleintje!"
 	done
 
 Text0614:
-	text "Je gaat je <Lv>35 Electabuzz met"
+	text "Je gaat je Nv35 Electabuzz met"
 	line "me ruilen?"
-	line "Supercool!...Hé! Wacht, kleintje!"
+	line "Supercool!... Hé! Wacht, kleintje!"
 	line "Die kaart zit nog in je deck!"
 	line "Het is niet cool om die kaart dan"
 	line "te nemen!"
@@ -401,10 +407,10 @@ Text0614:
 	done
 
 Text0615:
-	text "Je gaat je <Lv>35 Electabuzz met"
+	text "Je gaat je Nv35 Electabuzz met"
 	line "me ruilen? Supercool, kleintje!"
-	line "Oké, ik ruil er mijn <Lv>20"
-	line "Electabuzz voor"
+	line "Oké, ik ruil er mijn Nv20"
+	line "Electabuzz voor."
 	done
 
 Text0616:
@@ -414,8 +420,8 @@ Text0616:
 
 Text0617:
 	text "Wauw! Cool, kleintje! Bedankt"
-	line "voor die <Lv>35 Electabuzz!"
-	line "Mijn <Lv>20 Electabuzz is een"
+	line "voor die Nv35 Electabuzz!"
+	line "Mijn Nv20 Electabuzz is een"
 	line "coole kaart!"
 	line "Laad 'm op met Electabuzz!"
 	done
@@ -868,20 +874,19 @@ Text065a:
 
 Text065b:
 	text "Ik hou niet van mensen die zichzelf"
-	line "te hoog inschatten. Daarom mag ik"
-	line "de leden van de Psychische Club"
-	line "niet. Ik wou dat ik ze van hun"
-	line "hoge paard kon stoten!"
+	line "te hoog inschatten."
+	line "Daarom mag ik de leden van de"
+	line "Psychische Club niet."
+	line "Ik wou dat ik ze van hun hoge paard"
+	line "kon stoten!"
 	line "Wil je proberen om Murray, de"
 	line "Psychische Clubmeester, te verslaan?"
-	line ""
 	line "Als je Murray verslaat, geef ik je"
-	line "iets heel waardevols!"
+	line "een heel waardevolle beloning!"
 	done
 
 Text065c:
-	text "Wil je de wens van de oude man"
-	line "vervullen?"
+	text "De wens van de oude man vervullen?"
 	done
 
 Text065d:
@@ -900,17 +905,17 @@ Text065f:
 	line "Hij is erg goed, maar geef niet op!"
 	line "Ik duim voor je!"
 	line "Als je Murray weet te verslaan,"
-	line "geef ik je iets waardevols."
+	line "geef ik je een waardevolle beloning."
 	done
 
 Text0660:
 	text "Ik hou niet van mensen die zichzelf"
-	line "te hoog inschatten. Daarom mag ik"
-	line "de leden van de Psychische Club"
-	line "niet."
+	line "te hoog inschatten."
+	line "Daarom mag ik de leden van de"
+	line "Psychische Club niet."
 	line "Hé!?! Is dat de Psychische Medaille?"
 	line "Heb je Murray verslagen!?!"
-	line "Ik voel me zoveel beter nu!"
+	line "Oh, ik voel me zoveel beter nu!"
 	line "Hier, laat me je deze Mewtwo-kaart"
 	line "geven!"
 	done
@@ -938,7 +943,7 @@ Text0664:
 	line "Dus je bent eindelijk zover gekomen?"
 	line "Ik heb al 5 Medailles gewonnen!"
 	line "Tegen de tijd dat jij je 8ste"
-	line "medaille hebt gewonnen, heb ik de"
+	line "Medaille hebt gewonnen, heb ik de"
 	line "Legendarische Pokémonkaarten over-"
 	line "genomen! Ik kom je nog wel tegen!"
 	line "Tot ziens! Ha ha ha ha ha ha!"

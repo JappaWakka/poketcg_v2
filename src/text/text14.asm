@@ -671,13 +671,14 @@ DevolutionBeamDescription:
 	line "die Pokémon af en stop hem terug"
 	line "in zijn speler's hand. Die Pokémon"
 	line "is niet langer In Slaap, Verward,"
-	line "Verlamd, Vergiftigd, of iets anders"
+	line "Verlamd, Vergiftigd,"
 	done
 
 DevolutionBeamDescriptionCont:
-	text "wat het gevolg van een aanval zou"
-	line "kunnen zijn (precies zoals wanneer"
-	line "je hem zou hebben Geëvolueerd)."
+	text "of iets anders wat het gevolg van"
+	line "een aanval zou kunnen zijn (precies"
+	line "zoals wanneer je hem zou hebben"
+	line "Geëvolueerd)."
 	done
 
 PidgeyName:
@@ -1075,7 +1076,7 @@ PayDayName:
 
 PayDayDescription:
 	text "Gooi een munt op. Als het kop"
-	line "is, pak een kaart."
+	line "is, pak dan een kaart."
 	done
 
 MeowthLv15Description:

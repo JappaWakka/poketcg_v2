@@ -350,10 +350,10 @@ DratiniName:
 	done
 
 DratiniDescription:
-	text "Lange tijd beschouwd als een mythi-"
-	line "sche Pokémon totdat onlangs een"
-	line "kleine kolonie gevonden werd die"
-	line "onder water leeft."
+	text "Lange tijd beschouwd als een"
+	line "mythische Pokémon totdat onlangs"
+	line "een kleine kolonie gevonden werd"
+	line "die onder water leeft."
 	done
 
 DragonairName:
@@ -365,10 +365,10 @@ SlamName:
 	done
 
 DragonairDescription:
-	text "Een mystieke Pokémon die een zachte"
-	line "uitstraling heeft. Bezit het vermo-"
-	line "gen om de omstandigheden van het"
-	line "klimaat te veranderen."
+	text "Een mystieke Pokémon die een"
+	line "zachte uitstraling heeft. Bezit"
+	line "het vermogen om de omstandigheden"
+	line "van het klimaat te veranderen."
 	done
 DragoniteName:
 	text "Dragonite"
@@ -861,16 +861,17 @@ NewIntroText1:
 	done
 
 NewIntroText2:
-	text "Heb je zin in een Oefenduel?"
+	text "Het spel leren via een Oefenduel?"
 	line ""
 	done
 
 NewIntroText3:
-	text "Wel, als je van gedachten verandert,"
-	line "zal Sam je graag helpen. Hij kan"
-	line "veel vragen over het spel beant-"
-	line "woorden en is altijd bereid om een"
-	line "potje te spelen met de oefendecks."
+	text "Nou, als je van gedachten verandert,"
+	line "zal Sam je graag helpen."
+	line "Hij kan veel vragen over het spel"
+	line "beantwoorden en is altijd bereid om"
+	line "een potje te spelen met de oefendecks."
+	line ""
 	line "Sam is meestal te vinden bij de"
 	line "kaarttafel links van je."
 	done

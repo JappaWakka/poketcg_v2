@@ -719,7 +719,7 @@ UnusedText0099: ; Unused
 
 UnusedText009a: ; Unused
 	text "Pauzeermodus staat AAN"
-	line "Press SELECT to Pause"
+	line "Druk SELECT voor Pauze"
 	done
 
 UnusedText009b: ; Unused
@@ -847,7 +847,7 @@ NoSpaceOnTheBenchText:
 
 NoPokemonCapableOfEvolvingText:
 	text "Er zijn geen Pokémon die"
-	line "kunnen Evolueren."
+	line "hierin kunnen Evolueren."
 	done
 
 CantEvolvePokemonInSameTurnItsPlacedText:

@@ -976,7 +976,7 @@ Text05da:
 	line "worden gebruikt zodra een Pokémon"
 	line "in het spel komt, terwijl andere"
 	line "gebruikt moeten worden door het"
-	line "”PKMN-Kracht” commando te kiezen."
+	line "”PKMN-Kracht”-commando te kiezen."
 	line "Er zijn heel veel verschillende"
 	line "Pokémon-Krachten dus lees goed wat"
 	line "er op de kaarten staat."
