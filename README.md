@@ -1,4 +1,4 @@
-# Pokémon Trading Card Game, Version 2
+# Pokémon Trading Card Game, Version 2 (NL Translation)
 
 This is a fan translation of Pokémon Trading Card Game for the Game Boy (Color) into Dutch/Nederlands, and includes many improvements. It's based on the rom base [poketcg_v2](https://github.com/Sha0den/poketcg_v2) by Shaoden.
 
