@@ -235,7 +235,7 @@ DrawBottomCardInfoInSRAMGfxBuffer0:
 	ret
 
 RetreatWeakResistData:
-	textitem 1, 70, RetreatText
+	textitem 1, 70, RetreatCostText
 	textitem 1, 71, WeaknessText
 	textitem 1, 72, ResistanceText
 	textitem 15, 72, NumberSymbolText

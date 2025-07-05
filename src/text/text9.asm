@@ -571,7 +571,7 @@ Text06ce:
 	done
 
 Text06cf:
-	text "Wil je je dagboek bijwerken??"
+	text "Wil je je dagboek bijwerken?"
 	done
 
 Text06d0:

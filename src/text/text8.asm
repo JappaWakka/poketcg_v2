@@ -544,8 +544,8 @@ Text062c:
 	done
 
 Text062d:
-	text "Oh, oké."
-	line "Ik wil altijd wel duelleren!"
+	text "Oh, oké. Ik wil wel een andere keer"
+	line "duelleren!"
 	done
 
 Text062e:

@@ -296,7 +296,7 @@ PrintMenuItemsText:
 	line "Decksamenstelling"
 	line "Kaartenlijst"
 	line "Printkwaliteit"
-	line "Stop Printen"
+	line "Stop met printen"
 	done
 
 WhatWouldYouLikeToPrintText:
@@ -322,8 +322,8 @@ CardSendingProceduresText:
 	line "   Druk links/rechts om er meer"
 	line "   te kiezen."
 	line "2. Kies al de kaarten. Druk dan op"
-	line "   de B-knop om het menu te openen."
-	line ""
+	line "   de START-knop om het menu te"
+	line "   openen."
 	line "3. Druk op ”Stuur” om het proces"
 	line "   af te maken."
 	done
@@ -489,7 +489,7 @@ ElectricShockText:
 	done
 
 ZappingSelfdestructText:
-	text "Flitsende Zelfvernietiging"
+	text "Flitsend Ontploft"
 	done
 
 InsectCollectionText:

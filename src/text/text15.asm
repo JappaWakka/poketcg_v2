@@ -428,7 +428,7 @@ ProfessorOakDescription:
 	done
 
 ImposterProfessorOakName:
-	text "Professor Oak's Dubbelganger"
+	text "Prof. Oak's Dubbelganger"
 	done
 
 ImposterProfessorOakDescription:
@@ -870,8 +870,8 @@ NewIntroText3:
 	line "zal Sam je graag helpen."
 	line "Hij kan veel vragen over het spel"
 	line "beantwoorden en is altijd bereid om"
-	line "een potje te spelen met de oefendecks."
-	line ""
+	line "een potje te spelen met de"
+	line "oefendecks."
 	line "Sam is meestal te vinden bij de"
 	line "kaarttafel links van je."
 	done
@@ -908,4 +908,8 @@ ChooseTrainerCardFromDeckText:
 
 Draw2CardsText:
 	text "Pak 2 kaarten."
+	done
+	
+RivalText:
+	text "Rivaal"
 	done

@@ -139,16 +139,16 @@ OpponentTitlesAndDeckNames:
 	tx FireClubMasterText
 	tx FireChargeDeckName
 
-	tx NullText
+	tx RivalText
 	tx ImRonaldDeckName
 
-	tx NullText
+	tx RivalText
 	tx PowerfulRonaldDeckName
 
-	tx NullText
+	tx RivalText
 	tx InvincibleRonaldDeckName
 
-	tx NullText
+	tx RivalText
 	tx LegendaryRonaldDeckName
 
 	tx FightingClubMemberText

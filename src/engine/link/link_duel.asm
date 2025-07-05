@@ -145,7 +145,7 @@ SetUpAndStartLinkDuel::
 	ld e, SYM_SPACE
 .no_blink
 	ld a, e
-	lb bc, 9, 6
+	lb bc, 8, 6
 	call WriteByteToBGMap0
 
 	ldh a, [hDPadHeld]

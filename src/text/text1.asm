@@ -1,4 +1,5 @@
 NullText:
+	text ""
 	done
 
 HandText:
@@ -996,6 +997,7 @@ CanOnlyBeUsedOnTheBenchText:
 OpponentNoBenchedPokemonText:
 	text "Je tegenstander heeft geen"
 	line "Pokémon op de Bank."
+	done
 
 OpponentIsNotAsleepText:
 	text "De Verdedigende Pokémon is niet"

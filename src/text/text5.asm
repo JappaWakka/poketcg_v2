@@ -6,7 +6,7 @@ JoshuaAmyIsRestingText:
 	done
 
 JoshuaGoDefeatSaraAndAmandaText:
-	text "De persoon die daar ligt te rusten"
+	text "Degene die daar ligt te rusten"
 	line "is Amy, de Clubmeester."
 	line "Als je met Amy wilt duelleren,"
 	line "versla dan eerst Sara en Amanda."
@@ -23,9 +23,9 @@ JoshuaSaraAndAmandaDefeatedText:
 	done
 
 JoshuaWantsToDuelInitialText:
-	text "Je moet dan wel erg goed zijn als"
+	text "Je moet wel erg goed zijn als"
 	line "je Sara en Amanda kon verslaan..."
-	line "Zoals ik beloofd heb, zal ik je"
+	line "Zoals ik beloofde, zal ik je"
 	line "vaardigheden op de proef stellen."
 	line "Als je wint, zal ik je aan Amy"
 	line "voorstellen..."

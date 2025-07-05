@@ -321,7 +321,7 @@ UnusedText0394: ; Unused
 	done
 
 OpponentTitleAndNameText:
-	text "<RAMTEXT>  <RAMTEXT>"
+	text "<RAMTEXT> <RAMTEXT>"
 	done
 
 OpponentDeckNameText:
@@ -1241,11 +1241,11 @@ Lass1NormalText:
 	line "helemaal in het zwart gekleed!"
 	line "Je kan hem soms vinden terwijl hij"
 	line "aan het dansen is in de lounge van"
-	line "een van de Clubs!"
-	line "Hij valt erg op, dus het zou niet"
-	line "moeilijk moeten zijn om hem te"
-	line "herkennen. Maar misschien moet"
-	line "je niet bij hem in de buurt komen!"
+	line "een van de Clubs! Hij valt erg op,"
+	line "dus het zou niet moeilijk moeten"
+	line "zijn om hem te herkennen."
+	line "Maar misschien moet je maar beter"
+	line "niet bij hem in de buurt komen!"
 	done
 
 Lass1ImakuniHereText:
@@ -1290,9 +1290,8 @@ SaraWouldYouLikeToDuelText:
 	done
 
 SaraDeclinedDuelText:
-	text "Nee?"
-	line "Nou misschien neem ik dan wel"
-	line "een duik."
+	text "Nee? Nou misschien neem ik dan"
+	line "wel een duik."
 	done
 
 SaraStartDuelText:
@@ -1310,7 +1309,7 @@ SaraPlayerWon1Text:
 
 SaraPlayerWon2Text:
 	text "Ik denk dat ik gewoon meer zal"
-	line "moeten oefenen om mijn Pokémon"
+	line "moeten oefenen om mijn Pokémon-"
 	line "kaartspelvaardigheden te verbeteren."
 	done
 

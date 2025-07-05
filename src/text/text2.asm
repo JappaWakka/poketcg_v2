@@ -753,14 +753,14 @@ ThereWasNoEffectFromPoisonConfusionText:
 RearrangedCardsInDuelistsDeckText:
 	text "<RAMNAME>'s deck was herschikt."
 	done
+	
 UnusedText0185: ; Unused
-
 	text "Gevechtscentrum"
 	done
 
 PrizesCardsText:
 	text "Prijzen"
-	line "       kaarten"
+	line "     kaarten"
 	done
 
 ChooseTheNumberOfPrizesText:
