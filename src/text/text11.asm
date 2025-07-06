@@ -9,8 +9,8 @@ Text0791:
 
 Text0792:
 	text "Goh! Ik heb verloren!"
-	line "Matthew is echt goed! Hij gaat"
-	line "waarschijnlijk de Legendarische"
+	line "Matthew is echt goed!"
+	line "Hij gaat vast de Legendarische"
 	line "Pokémonkaarten overnemen!"
 	done
 
@@ -28,8 +28,9 @@ Text0793:
 
 Text0794:
 	text "Ik ga binnenkort verhuizen naar een"
-	line "plaats hier ver vandaan. Maar ik ben"
-	line "niet verdrietig."
+	line "plaats hier ver vandaan."
+	line "Maar ik ben niet verdrietig."
+	line ""
 	line "Ik zal nieuwe vrienden maken door"
 	line "te duelleren met Pokémonkaarten..."
 	done
@@ -53,7 +54,7 @@ Text0797:
 Text0798:
 	text "Laten we er een snelle wedstrijd"
 	line "van maken met 3 Prijzen."
-	line "Oké, laten we beginnen!"
+	line "Oké, kom maar op!"
 	done
 
 Text0799:
@@ -74,10 +75,10 @@ Text079b:
 	done
 
 Text079c:
-	text "Ik heb altijd al een hardrocker"
+	text "Ik heb altijd al een beeldhouwer"
 	line "willen zijn!"
 	line "Steen-Pokémon..."
-	line "Rockt die naam niet hard?"
+	line "Daar kan je toch alleen van houwen?"
 	line "Wil je misschien duelleren tegen"
 	line "mijn Steen-Pokémondeck?"
 	done
@@ -88,28 +89,30 @@ Text079d:
 
 Text079e:
 	text "Dat is oké..."
-	line "Ik zal wel met iemand anders rocken!"
+	line ""
+	line "Ik zal wel een duel houwen met"
+	line "iemand anders!"
 	done
 
 Text079f:
 	text "Bedankt! We zullen deze wedstrijd"
-	line "rocken met 4 Prijzen!"
+	line "houwen met 4 Prijzen!"
 	done
 
 Text07a0:
-	text "Zo hé! Ik verloor! Een rockende"
+	text "Zo hé! Ik verloor! Een steengoede"
 	line "gozer als ik kan niet verliezen!"
 	done
 
 Text07a1:
-	text "Een steenharde gozer als ik zou"
+	text "Een steengoede gozer als ik zou"
 	line "moeilijk te verslaan moeten zijn!"
-	line "Ik moet harder rocken!"
+	line "Ik moet echt keihard oefenen!"
 	done
 
 Text07a2:
 	text "Ha! Ik won!"
-	line "Ben ik aan het rocken, of wat?"
+	line "Daar kan ik altijd van houwen!"
 	done
 
 Text07a3:

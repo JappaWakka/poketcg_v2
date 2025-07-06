@@ -884,14 +884,14 @@ Text05d1:
 
 Text05d2:
 	text "Hou dit vol, en je zal snel nog"
-	line "meer Duels gaan winnen!"
+	line "meer duellen gaan winnen!"
 	done
 
 Text05d3:
 	text "Je moet nog wat meer oefenen."
 	line "Als je meer ervaring hebt en"
 	line "goed blijft nadenken zal je"
-	line "meer Duellen gaan winnen."
+	line "meer duellen gaan winnen."
 	line "Waarom oefenen we niet"
 	line "wat meer?"
 	done

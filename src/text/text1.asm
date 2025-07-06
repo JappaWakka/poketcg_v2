@@ -512,7 +512,7 @@ YouCannotSelectThisCardText:
 	done
 
 PlacingThePrizesText:
-	text "Het plaatsen van de Prijskaarten..."
+	text "Eerst worden de prijzen geplaatst..."
 	done
 
 PleasePlacePrizesText:
@@ -550,7 +550,7 @@ LostDuelText:
 	done
 
 StartSuddenDeathMatchText:
-	text "Start een Sudden-Death-"
+	text "Begin een Sudden-Death-"
 	line "duel met 1 Prijskaart!"
 	done
 
@@ -1147,9 +1147,8 @@ CardCheckIfHeads8CardsIfTails1CardText:
 	done
 
 IfHeadsNoDamageNextTurnText:
-	text "Als het kop is, ontvang je geen"
-	line "schade tijdens je tegenstander's"
-	line "volgende beurt!"
+	text "Bij kop ontvang je voor één beurt"
+	line "geen schade!"
 	done
 
 UnusedText00f2: ; Unused

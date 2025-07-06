@@ -190,11 +190,11 @@ DamageSwapName:
 
 DamageSwapDescription:
 	text "Je mag zo vaak als je wilt tijdens"
-	line "je beurt (vóór je aanval) 1 Schade-"
+	line "je beurt (vóór je aanval) 1 schade-"
 	line "teller van een van je Pokémon naar"
-	line "een van je andere verplaatsen, zo-"
-	line "lang je die Pokémon maar niet Uit-"
-	line "schakelt."
+	line "een van je andere verplaatsen,"
+	line "zolang je die Pokémon maar niet"
+	line "Uitschakelt."
 	done
 
 DamageSwapDescriptionCont:
@@ -238,9 +238,9 @@ SpacingOutName:
 SpacingOutDescription:
 	text "Gooi een munt op. Als het kop is,"
 	line "verwijder dan een schadeteller van"
-	line "Slowpoke. Deze aanval kan niet wor-"
-	line "den gebruikt als er geen Schadetel-"
-	line "lers op Slowpoke liggen."
+	line "Slowpoke. Deze aanval kan niet"
+	line "worden gebruikt als er geen"
+	line "schadetellers op Slowpoke liggen."
 	done
 
 ScavengeName:
@@ -264,7 +264,7 @@ StrangeBehaviorName:
 
 StrangeBehaviorDescription:
 	text "Je mag zo vaak als je wilt tijdens"
-	line "je beurt (vóór je aanval) 1 Schade-"
+	line "je beurt (vóór je aanval) 1 schade-"
 	line "teller van een van je Pokémon naar"
 	line "Slowbro verplaatsen, zolang je"
 	line "Slowbro maar niet Uitschakelt."

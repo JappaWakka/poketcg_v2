@@ -1,7 +1,6 @@
 AcidCheckText:
-	text "Als het kop is, kan de Verdedigende"
-	line "Pokémon zich niet Terugtrekken"
-	line "tijdens de volgende beurt."
+	text "Bij kop kan de Verdedigende Pokémon"
+	line "zich één beurt niet Terugtrekken."
 	done
 
 TransparencyCheckText:
@@ -30,15 +29,13 @@ PoisonedIfHeadsConfusedIfTailsText:
 	done
 
 IfHeadsDoNotReceiveDamageOrEffectText:
-	text "Als het kop is, voorkom alle schade"
-	line "en gevolgen van aanvallen tijdens"
-	line "de volgende beurt."
+	text "Bij kop geen schade en gevolgen van"
+	line "aanvallen tijdens de volgende beurt."
 	done
 
 IfHeadsOpponentCannotAttackText:
-	text "Als het kop is, kan de Verdedigende"
-	line "Pokémon niet aanvallen tijdens de"
-	line "volgende beurt!"
+	text "Bij kop kan de Verdedigende Pokémon"
+	line "niet aanvallen in de volgende beurt!"
 	done
 
 AttackUnsuccessfulText:
@@ -124,9 +121,8 @@ MetamorphsToText:
 	done
 
 SelectNewDefendingPokemonText:
-	text "Kies een Pokémon op de Bank om"
-	line "te wisselen met je tegenstander's"
-	line "Actieve Pokémon."
+	text "Kies een nieuwe Actieve Pokémon"
+	line "van je tegenstander's Bank."
 	done
 
 SelectNewActivePokemonText:
@@ -211,9 +207,8 @@ ChooseAndDiscard2FireEnergyCardsText:
 	done
 
 DiscardOppDeckAsManyFireEnergyCardsText:
-	text "Gooi zoveel kaarten van het deck"
-	line "van de tegenstander weg als dat er"
-	line "<FIRE> Energiekaarten weggegooid zijn."
+	text "Gooi een kaart uit hun deck weg voor"
+	line "elke weggegooide <FIRE> Energie."
 	done
 ChooseAndDiscard2EnergyCardsText:
 	text "Kies 2 Energiekaarten"
@@ -226,15 +221,13 @@ ChooseAKrabbyFromDeckText:
 	done
 
 ChooseDiscardEnergyCardFromOpponentText:
-	text "Kies een Energiekaart die gehecht"
-	line "is aan de Verdedigende Pokémon"
-	line "om weg te gooien."
+	text "Kies een Energiekaart van de Verde-"
+	line "digende Pokémon om weg te gooien."
 	done
 
 ChooseAttackOpponentWillNotBeAbleToUseText:
-	text "Kies de aanval die de tegenstander"
-	line "niet zal kunnen gebruiken tijdens"
-	line "zijn of haar volgende beurt."
+	text "Kies welke aanval de tegenstander"
+	line "één beurt lang niet kan gebruiken."
 	done
 
 ChooseBasicFightingPokemonFromDeckText:
@@ -311,7 +304,7 @@ ProcedureForCurseText:
 	line "   schadeteller van te ver-"
 	line "   plaatsen en druk op de A-knop."
 	line ""
-	line "2. Kies een Pokémon om de Schade-"
+	line "2. Kies een Pokémon om de schade-"
 	line "   teller naartoe te verplaatsen"
 	line "   en druk op de A-knop."
 	line ""
@@ -385,7 +378,7 @@ ProcedureForDevolutionBeamText:
 ProcedureForStrangeBehaviorText:
 	text "Hoe je Vreemd gedrag gebruikt:"
 	line ""
-	line "1. Kies de Pokémon met de Schade-"
+	line "1. Kies de Pokémon met de schade-"
 	line "   tellers die je naar Slowbro"
 	line "   wilt verplaatsen en druk op"
 	line "   de A-knop."
@@ -460,9 +453,8 @@ CardPeekWasUsedOnText:
 	done
 
 PokemonAndAllAttachedCardsReturnedToHandText:
-	text "<RAMTEXT> en alle eraan"
-	line "gehechte kaarten zijn terug in"
-	line "de hand genomen."
+	text "<RAMTEXT> en alle gehechte"
+	line "kaarten terug in de hand genomen."
 	done
 
 WasChosenForTheEffectOfAmnesiaText:
@@ -487,8 +479,7 @@ ThereWasNoEffectFromTxRam2Text:
 
 TheEnergyCardFromPlayAreaWasMovedText:
 	text "<RAMNAME> verplaatste een Energie-"
-	line "kaart van 1 van zijn of haar Pokémon"
-	line "naar een ander."
+	line "kaart naar een andere Pokémon."
 	done
 
 DrewFireEnergyFromTheHandText:
@@ -497,9 +488,8 @@ DrewFireEnergyFromTheHandText:
 	done
 
 ThePkmnCardsInHandAndDeckWereShuffledText:
-	text "De Pokémonkaarten in <RAMNAME>'s"
-	line "hand en deck zijn door elkaar"
-	line "heen geschud."
+	text "De Pokémon in <RAMNAME>'s hand"
+	line "en deck zijn door elkaar geschud."
 	done
 
 UnusedText014f: ; Unused
@@ -507,7 +497,7 @@ UnusedText014f: ; Unused
 	done
 
 ChoosePokemonToHealText:
-	text "Kies een Pokémon om de Schade-"
+	text "Kies een Pokémon om de schade-"
 	line "teller van te verwijderen."
 	done
 
@@ -605,7 +595,8 @@ UnusedText0164: ; Unused
 	done
 
 CardWasChosenText:
-	text "<RAMTEXT> is gekozen."
+	text "<RAMTEXT> is"
+	line "gekozen."
 	done
 
 ChooseBasicPokemonToPlaceOnBenchText:

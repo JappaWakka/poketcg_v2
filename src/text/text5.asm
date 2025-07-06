@@ -205,7 +205,7 @@ Clerk1Text:
 	line "Hier bij deze Club duelleren we"
 	line "met Vecht-Pokémon."
 	line "Valsspelen is niet toegestaan!"
-	line "Alleen Duellen in goede eer mogen"
+	line "Alleen duellen in goede eer mogen"
 	line "plaatsvinden in deze Club."
 	done
 
@@ -346,7 +346,8 @@ ImakuniDuelStartText:
 ImakuniPlayerWonNormalText:
 	text "Hé! Je bent best wel goed!"
 	line "Ik geef je wel dit Booster-Pakje,"
-	line "dus zeg niemand dat ik verloor, Oké?"
+	line "dus zeg tegen niemand dat ik"
+	line "verloor, Oké?"
 	done
 
 ImakuniPlayerWonThreeWinsText:
@@ -443,8 +444,8 @@ Mitch3PupilsRemainingText:
 
 Mitch2PupilsRemainingText:
 	text "Dus, je hebt 1 van mijn leerlingen"
-	line "verslagen. Je moet vast een goede"
-	line "speler zijn."
+	line "verslagen."
+	line "Je moet vast een goede speler zijn."
 	line "Maar je bent niet goed genoeg!"
 	line "Als je met mij wilt duelleren, moet"
 	line "je eerst mijn 2 overgebleven"
@@ -520,7 +521,7 @@ MitchWouldLikeToDuelRepeatText:
 
 MitchDeclinedDuelRepeatText:
 	text "Oh, oké."
-	line "Maar ik wil het nog wel een keer."
+	line "Maar ik wel. Misschien later dan."
 	done
 
 MitchDuelStartRepeatText:

@@ -727,10 +727,9 @@ TripleAttackX20Description:
 
 SandslashDescription:
 	text "Rolt zich op tot een stekelige bal"
-	line "wanneer hij bedreigd wordt. Terwijl"
-	line "hij opgerold is kan hij zich voort-"
-	line "rollen om aan te vallen of te"
-	line "ontsnappen."
+	line "als hij bedreigd wordt. Terwijl hij"
+	line "opgerold is kan hij zich voortrollen"
+	line "om aan te vallen of te ontsnappen."
 	done
 
 DiglettName:
@@ -1050,7 +1049,7 @@ SnivelDescriptionCont:
 
 CubonesRageDescription:
 	text "Deze aanval doet 10 schade plus nog"
-	line "eens 10 schade voor elke Schade-"
+	line "eens 10 schade voor elke schade-"
 	line "teller op Cubone."
 	done
 

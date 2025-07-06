@@ -529,7 +529,7 @@ StrangePowerText:
 	done
 
 StrangePsyshockText:
-	text "Vreemde Psychische Schok"
+	text "Vreemde Breinschok"
 	done
 
 LovelyNidoranText:
@@ -1178,7 +1178,7 @@ EvolvingDescriptionText:
 	text ""
 	line " Als een Pokémon Evolueert of"
 	line " Devolueert, behoudt hij alle aan"
-	line " hem gehechte kaarten en Schade-"
+	line " hem gehechte kaarten en schade-"
 	line " tellers die op hem liggen."
 	line " Alle effecten van aanvallen of"
 	line " Speciale Toestanden die van invloed"

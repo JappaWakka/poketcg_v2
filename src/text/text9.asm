@@ -1,17 +1,17 @@
 Text0676:
-	text "Ja, ik begrijp het."
+	text "Juist, ik snap het volkomen."
 	line "Verliezen is eng, of niet soms?"
 	done
 
 Text0677:
 	text "Oké, een enkele wedstrijd met 4"
 	line "Prijzen!"
-	line "We gaan ervoor!"
+	line "Laten we zien wie er wint!"
 	done
 
 Text0678:
-	text "Ik kan niet geloven dat mijn voor-"
-	line "spelling verkeerd was..."
+	text "Ik kan niet geloven dat mijn"
+	line "voorspelling verkeerd was..."
 	done
 
 Text0679:
@@ -78,7 +78,7 @@ Text0682:
 	done
 
 Text0683:
-	text "En hier, neem deze Chemie-Booster-"
+	text "En hier, neem dit Chemie-Booster-"
 	line "Pakje!"
 	done
 
@@ -160,7 +160,7 @@ Text068d:
 Text068e:
 	text "Training is zo saai en achterhaald."
 	line "Waarom moet ik het eigenlijk doen?"
-	text "<RAMNAME>, jij bent het weer!"
+	line "<RAMNAME>, jij bent het weer!"
 	line "Wat een ellende."
 	line "Maar jou verslaan zou leuker"
 	line "moeten zijn dan trainen!"
@@ -294,7 +294,7 @@ Text06a1:
 FoundLv9SlowpokeText:
 	text "<RAMNAME>"
 	line "keek in de muur!"
-	text "<RAMNAME>"
+	line "<RAMNAME>"
 	line "vond een nv9 Slowpoke!"
 	done
 
@@ -320,7 +320,7 @@ Text06a5:
 	text "Dit is de Vuur-Club, waar kerels met"
 	line "een brandende passie voor Pokémon-"
 	line "kaarten samenkomen voor verhitte"
-	line "Duels! Doe mee aan de vurige pret!"
+	line "duellen! Doe mee aan de vurige pret!"
 	done
 
 Text06a6:
@@ -372,7 +372,7 @@ Text06ae:
 
 Text06af:
 	text "Een enkel duel met 4 Prijzen!"
-	line "Kom op, duelleer tegen me!"
+	line "Kom op, we gaan duelleren!"
 	done
 
 Text06b0:
@@ -420,7 +420,7 @@ Text06b7:
 
 Text06b8:
 	text "Laten we nog eens duelleren!"
-	line "Come on, people, say Fire Pokémon!"
+	line "Kom op mensen, zeg Vuur-Pokémon!"
 	done
 
 Text06b9:
@@ -498,7 +498,7 @@ Text06c2:
 
 Text06c3:
 	text "Laten we nog eens een verhit duel"
-	line "hebben!"
+	line "houden!"
 	line "Ik zie je later!!!"
 	done
 
@@ -518,7 +518,7 @@ Text06c5:
 
 Text06c6:
 	text "Ik ben Ken, de Vuur-Clubmeester!"
-	line "Laten we een verhit duel hebben!"
+	line "Laten we een verhit duel houden!"
 	done
 
 Text06c7:

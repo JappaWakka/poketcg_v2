@@ -54,7 +54,7 @@ Text070a:
 Text070b:
 	text "Ik geloof dat Nikki bij Ishihara"
 	line "thuis op bezoek is. Misschien moet"
-	line "je haar daar ontmoeten, aangezien"
+	line "je haar daar opzoeken, aangezien"
 	line "ze laat terug lijkt te zijn."
 	done
 
@@ -149,9 +149,9 @@ Text071a:
 
 Text071b:
 	text "Oh... Je wilt niet duelleren?"
-	line "Ik zal nog een tijdje in de"
-	line "Club zijn, dus kom gerust"
-	line "langs wanneer je wilt."
+	line "Ik zal nog een tijdje in de Club"
+	line "zijn, dus kom gerust langs wanneer"
+	line "wanneer je wilt."
 	done
 
 Text071c:
@@ -181,15 +181,13 @@ Text071f:
 	line "Misschien zul je op een dag de"
 	line "Legendarische Pokémonkaarten over"
 	line "mogen nemen."
-	line "Sta me toe je deze Grass Medal te"
-	line "geven."
+	line "Laat me je deze Gras Medaille geven."
 	done
 
 Text0720:
 	text "Oh nee!"
 	line "Hoe kon ik nou verliezen?"
-	line "Sta me toe je dit Booster-Pakje"
-	line "te geven."
+	line "Laat me je dit Booster-Pakje geven."
 	done
 
 Text0721:
@@ -843,12 +841,12 @@ Text077d:
 
 Text077e:
 	text "Hoe kon dit gebeuren!?!"
-	line "Ik ben degene die verslagen is!"
+	line "Ik ben degene die werd verslagen!"
 	done
 
 Text077f:
 	text "Ik moet terug naar de Vecht-Club"
-	line "om mijn training te herstarten!"
+	line "om van begins af aan te trainen!"
 	done
 
 Text0780:
@@ -894,7 +892,7 @@ Text0785:
 	done
 
 Text0786:
-	text "Oké, hetzelfde als de vorige keer!"
+	text "Oké, hetzelfde als altijd!"
 	line "We spelen met 4 Prijzen."
 	line "Is dat goed?"
 	line "Oké dan, laten we beginnen!"
@@ -911,7 +909,7 @@ Text0788:
 	done
 
 Text0789:
-	text "Ik ga de volgende keer als we"
+	text "Ik ga de volgende keer dat we"
 	line "duelleren winnen."
 	done
 
@@ -930,9 +928,9 @@ Text078c:
 	text "Oh! Pardon!"
 	line "Heb je het gehoord?"
 	line "Ishihara, die op de kaap in het"
-	line "noordwesten woont... Hij bezit"
-	line "wel 10.000 kaarten! Hij heeft"
-	line "vast ook zeldzame kaarten!"
+	line "noordwesten woont..."
+	line "Hij bezit wel 10.000 kaarten!"
+	line "Hij heeft vast ook zeldzame kaarten!"
 	done
 
 Text078d:

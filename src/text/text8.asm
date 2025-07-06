@@ -210,9 +210,9 @@ Text05f6:
 	done
 
 Text05f7:
-	text "Is de Auto-Deckmachine niet"
+	text "Zijn de Auto-Deckmachines niet"
 	line "geweldig? Zo lang je de vereiste"
-	line "kaarten hebt, zal deze machine"
+	line "kaarten hebt, zullen deze machines"
 	line "automatisch een deck voor je bouwen!"
 	done
 
@@ -222,8 +222,8 @@ Text05f8:
 	line "Maar dat is nog niet alles in dit"
 	line "spel!"
 	line "Kun je alle decks die opgeslagen"
-	line "zijn in deze Auto-Deckmachine al"
-	line "bouwen? Er zijn net zoveel Duels"
+	line "zijn in de Auto-Deckmachines al"
+	line "bouwen? Er zijn net zoveel duellen"
 	line "die je kunt houden als er decks"
 	line "zijn om mee te duelleren!"
 	line "Blijf duelleren met Pokémonkaarten!"
@@ -680,8 +680,8 @@ Text0642:
 	done
 
 Text0643:
-	text "Wat? Je wilt ook de Legendarische"
-	line "Pokémonkaarten?"
+	text "Wat? Je wilt de Legendarische"
+	line "Pokémonkaarten overnemen?"
 	line "Ik zou ze ook wel willen, maar ik"
 	line "ben nog steeds niet goed genoeg."
 	done
@@ -792,8 +792,9 @@ Text064f:
 
 Text0650:
 	text "Ik heb de zesde Medaille al"
-	line "gewonnen! Ik wil wel zien hoeveel"
-	line "beter je bent!"
+	line "gewonnen!"
+	line "Ik wil wel zien hoeveel beter je"
+	line "bent geworden!"
 	line "Als je wint, geef ik je een andere"
 	line "zeldzame kaart!"
 	line "Kom op!!! Laten we duelleren!"
@@ -802,7 +803,7 @@ Text0650:
 
 Text0651:
 	text "Verdorie! Ik liet je winnen!"
-	line "Maar een verlies is een verlies,"
+	line "Maar verloren is verloren,"
 	line "dus ik zal je deze kaart geven."
 	done
 
@@ -952,10 +953,11 @@ Text0664:
 
 Text0665:
 	text "De Legendarische Pokémonkaarten zijn"
-	line "de ultieme kaarten. Iedereen wil de"
-	line "Legendarische Kaarten overnemen -"
-	line "daarom spelen we tegen zoveel"
-	line "verschillende mensen."
+	line "de ultieme kaarten."
+	line "Iedereen wil de Legendarische"
+	line "Kaarten overnemen - daarom spelen we"
+	line "tegen zoveel verschillende mensen."
+	line ""
 	line "Ik heb net een duel verloren,"
 	line "dus ik kan nu niet spelen."
 	done
@@ -963,13 +965,14 @@ Text0665:
 Text0666:
 	text "Heb je het gehoord? Iemand heeft"
 	line "de Legendarische Pokémonkaarten"
-	line "overgenomen! Wie dat ook mag zijn"
-	line "moet wel heel cool zijn als die de"
+	line "overgenomen!"
+	line "Wie dat ook mag zijn moet wel"
+	line "heel cool zijn als die de"
 	line "Grootmeesters kan verslaan!"
 	done
 
 Text0667:
-	text "Ik heb al mijn kaarten laten vallen"
+	text "Ik heb al mijn kaarten laten vallen,"
 	line "dus ik ben ze hier in de goede"
 	line "volgorde aan het leggen!"
 	done

@@ -197,8 +197,8 @@ RampageName:
 
 RampageDescription:
 	text "Deze aanval doet 20 schade plus nog"
-	line "eens 10 schade voor elke Schadetel-"
-	line "ler op Tauros. Gooi een munt op."
+	line "eens 10 schade voor elke schade-"
+	line "teller op Tauros. Gooi een munt op."
 	line "Als het munt is, is Tauros nu"
 	line "Verward (nadat de schade is gedaan)."
 	done
@@ -381,11 +381,11 @@ HealingWindName:
 HealingWindDescription:
 	text "Wanneer je Dragonite uit je hand"
 	line "speelt om 1 van je Pokémon te"
-	line "Evolueren, verwijder dan 2 Schade-"
+	line "Evolueren, verwijder dan 2 schade-"
 	line "tellers van elk van je Pokémon."
-	line "Als een Pokémon minder Schadetel-"
-	line "lers heeft dan dat, verwijder ze"
-	line "dan allemaal van die Pokémon."
+	line "Als een Pokémon minder schade-"
+	line "tellers heeft dan dat, verwijder"
+	line "ze dan allemaal van die Pokémon."
 	done
 
 DragoniteLv41Description:

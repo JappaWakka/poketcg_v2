@@ -1848,7 +1848,7 @@ ExeggcuteCard:
 
 	; attack 1
 	energy PSYCHIC, 1 ; energies
-	tx HypnosisName ; name
+	tx HypnosisAttackName ; name
 	tx InflictSleepDescription ; description
 	dw NONE ; description (cont)
 	db 0 ; damage
