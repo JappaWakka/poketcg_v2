@@ -2144,7 +2144,7 @@ HandleDuelSetup:
 	ld d, a
 
 .place_prize
-	ld b, 20 ; frames to delay
+	ld b, 11 ; frames to delay
 .loop_delay
 	call DoFrame
 	call CheckSkipDelayAllowed
