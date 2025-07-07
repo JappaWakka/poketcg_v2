@@ -170,6 +170,7 @@ Text0565:
 	text "Bezitter van alle 8 Meester-"
 	line "medailles..."
 	line "Betreed het Duelleerpodium..."
+	line ""
 	line "Je zult hier echter niet"
 	line "tussentijds kunnen weggaan."
 	done
@@ -197,9 +198,9 @@ Text056a:
 	done
 
 Text056b:
-	text "Ik ben Rod, Leider van de Groot-"
-	line "meesters, en dit is Courtney,"
-	line "de Vuurkoningin."
+	text "Ik ben Rod, Leider van de -"
+	line "Grootmeesters, en dit is"
+	line "Courtney, de Vuurkoningin."
 	done
 
 Text056c:
@@ -253,10 +254,10 @@ Text0573:
 	done
 
 Text0574:
-	text "Hm-hmmm...Ik, Courtney, de Vuur"
-	line "koningin, zal je eerste tegenstander"
-	line "zijn! Eens kijken of je tegen de"
-	line "hitte kunt!"
+	text "Hm-hmmm... Ik, Courtney,"
+	line "de Vuurkoningin, zal je eerste"
+	line "tegenstander zijn! Eens kijken"
+	line "of je tegen de hitte kunt!"
 	line "We spelen een spel met 6 Prijzen!"
 	line "Hm-hmm-hmm... Laten we beginnen!"
 	done
@@ -269,9 +270,10 @@ Text0575:
 	done
 
 Text0576:
-	text "Hm-hmm-hmm... Ik  W I N ! Kom later"
-	line "terug als je een beetje beter bent"
-	line "geworden. Ik kan geen Legendarische"
+	text "Hm-hmm-hmm... Ik  W I N !"
+	line "Kom later terug als je een beetje"
+	line "beter bent geworden."
+	line "Ik kan geen Legendarische"
 	line "Pokémonkaart geven aan iemand die"
 	line "zo speelt!"
 	done
@@ -289,10 +291,12 @@ Text0578:
 	done
 
 Text0579:
-	text "Hmm-hmm-hmm... Ik verloor. Maar dat"
-	line "is geen verrassing aangezien je al"
-	line "zo ver bent gekomen. Je volgende"
-	line "tegenstander wacht op je!"
+	text "Hmm-hmm-hmm... Ik verloor."
+	line "Maar dat is geen verrassing"
+	line "aangezien je al zo ver bent"
+	line "gekomen."
+	line "Je volgende tegenstander wacht"
+	line "op je!"
 	done
 
 Text057a:

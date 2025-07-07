@@ -549,7 +549,7 @@ PoisonText:
 	done
 
 WondersOfScienceText:
-	text "Wonderen van Wetenschap"
+	text "Wetenschapswonderen"
 	done
 
 ReplaceEmAllText:

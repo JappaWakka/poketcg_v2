@@ -480,9 +480,9 @@ ImakuniDescription:
 	
 ImakuniDescriptionCont:
 	text "Een mysterieus wezen die niet in de"
-	line "Pokédex staat. Hij vraagt kinderen"
-	line "over de hele wereld: ”Wie is"
-	line "schattiger - Pikachu of ik?”"
+	line "Pokédex staat. Hij vraagt aan"
+	line "kinderen over de hele wereld:"
+	line "”Wie is schattiger - Pikachu of ik?”"
 	done
 
 PokemonTraderName:

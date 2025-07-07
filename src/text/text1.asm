@@ -512,7 +512,7 @@ YouCannotSelectThisCardText:
 	done
 
 PlacingThePrizesText:
-	text "Eerst worden de prijzen geplaatst..."
+	text "Nu worden de prijzen geplaatst..."
 	done
 
 PleasePlacePrizesText:

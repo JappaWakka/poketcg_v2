@@ -352,18 +352,19 @@ ImakuniPlayerWonNormalText:
 
 ImakuniPlayerWonThreeWinsText:
 	text "Je won al 3 keer van me!"
-	line "Maakt dat je blij? Nou?"
+	line "Word je blij van? Nou?"
 	done
 
 ImakuniPlayerWonSixWinsText:
-	text "Ik kan niet geloven dat ik 6 keer"
-	line "heb verloren!"
+	text "Ik kan niet geloven dat ik al 6"
+	line "keer heb verloren!"
 	line "...Serieus!"
 	done
 
 ImakuniGivesImakuniText:
-	text "Ik wil je dit eigenlijk niet geven,"
-	line "maar hier. Zorg er goed voor."
+	text "Ik wil je dit eigenlijk niet"
+	line "geven... maar hier, alsjeblieft."
+	line "Zorg er goed voor."
 	done
 
 ImakuniPlayerWonEndText:

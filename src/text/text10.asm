@@ -620,8 +620,9 @@ Text0756:
 
 Text0757:
 	text "We onderzoeken Pokémonkaarten hier"
-	line "bij de Wetenschap-Club, met name"
+	line "bij de Wetenschap-Club, vooral"
 	line "Wetenschap-Pokémonkaarten!"
+	line ""
 	line "Wetenschap-Pokémon zijn ontzettend"
 	line "sterk."
 	line "Wil je duelleren tegen mijn"
@@ -689,15 +690,17 @@ Text0762:
 	done
 
 Text0763:
-	text "En laat me je dan ook dit geven."
+	text "En laat me je dan ook deze geven."
 	line "Voeg ze toe aan je verzameling."
 	done
 
 Text0764:
-	text "Legendarische Kaarten zijn maar een"
-	line "legende! Wetenschap is de enige"
-	line "waarheid! Ik moet mijn onderzoek"
-	line "naar Wetenschap-Pokémon voortzetten!"
+	text "Legendarische Kaarten zijn maar"
+	line "een fabel!"
+	line "Wetenschap is de enige waarheid!"
+	line ""
+	line "Ik moet mijn onderzoek naar"
+	line "Wetenschap-Pokémon voortzetten!"
 	done
 
 Text0765:

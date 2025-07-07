@@ -546,13 +546,13 @@ UnusedText0159: ; Unused
 	done
 
 ChoosePokemonToReturnToTheDeckText:
-	text "Kies een Pokémon om terug"
-	line "in het deck te stoppen."
+	text "Kies Pokémon om"
+	line "in deck te stoppen."
 	done
 
 ChoosePokemonToPlaceInPlayText:
-	text "Kies een Pokémon om in"
-	line "het spel te brengen."
+	text "Kies Pokémon om in"
+	line "spel te brengen."
 	done
 
 ChooseBasicPokemonToEvolveText:

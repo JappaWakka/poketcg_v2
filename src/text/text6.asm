@@ -572,10 +572,10 @@ Clerk9DefaultText:
 Clerk9ChallengeCupOverText:
 	text "Hallo! Welkom bij de Toernooihal!"
 	line "Dit is waar het Uitdagingstoernooi"
-	line "wordt gehouden. Het Uitdagings-"
-	line "toernooi kan op elk moment begonnen"
-	line "worden, dus bezoek regelmatig de"
-	line "Toernooihal."
+	line "wordt gehouden."
+	line "Het Uitdagingstoernooi begint op"
+	line "verschillende momenten, dus bezoek"
+	line "regelmatig de Toernooihal."
 	done
 
 Clerk9ChallengeCupReadyText:
