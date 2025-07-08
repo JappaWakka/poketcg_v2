@@ -180,7 +180,10 @@ IceBreathDescription:
 	line "stander's Pokémon, op willekeurige"
 	line "wijze gekozen. Pas geen Zwakte of"
 	line "Weerstand toe voor deze aanval."
-	line "(Alle andere gevolgen die na het"
+	done
+	
+IceBreathDescriptionCont:
+	text "(Alle andere gevolgen die na het"
 	line "toepassen van Zwakte en Weerstand"
 	line "zouden gebeuren blijven gewoon"
 	line "geldig.)"

@@ -318,8 +318,9 @@ Text057c:
 
 Text057d:
 	text "Ik, Donder-Steve, ben je volgende"
-	line "tegenstander. Hé! Wil je de"
-	line "Legendarische Pokémonkaarten!?!"
+	line "tegenstander."
+	line "Hé! Wil je de Legendarische"
+	line "Pokémonkaarten!?!"
 	line "Dan moet je mij eerst verslaan!"
 	done
 
@@ -347,23 +348,25 @@ Text0582:
 	done
 
 Text0583:
-	text "Je hebt verloren! Je hebt nog een"
-	line "lange weg te gaan, maar geef niet"
-	line "op! Daag me nog een keer uit!"
+	text "Je hebt verloren!"
+	line "Je hebt nog een lange weg te gaan,"
+	line "maar geef niet op!"
+	line "Daag me nog een keer uit!"
 	done
 
 Text0584:
-	text "Je hebt verloren! Je hebt nog een"
-	line "lange weg te gaan!"
+	text "Je hebt verloren!"
+	line "Je hebt nog een lange weg te gaan!"
 	line "Maar geef niet op!"
 	line "Daag me nog een keer uit!"
 	done
 
 Text0585:
-	text "Je bent de winnaar! Je bent de"
-	line "beste! Met die vaardigheid heb ik"
-	line "het gevoel dat we je de Legenda-"
-	line "rische Pokémonkaarten kunnen geven!"
+	text "Je bent de winnaar!"
+	line "Je bent de beste!"
+	line "Met die vaardigheid heb ik het"
+	line "gevoel dat we je de Legendarische"
+	line "Pokémonkaarten kunnen geven!"
 	done
 
 Text0586:
@@ -382,22 +385,23 @@ Text0588:
 	done
 
 Text0589:
-	text "Ik, Jack, ben jouw derde tegen-"
-	line "stander. Ik verzeker je dat je"
-	line "mijn sublieme deck niet zult"
-	line "kunnen verslaan!"
+	text "Ik, Jack, ben jouw derde"
+	line "tegenstander."
+	line "Ik verzeker je dat je mijn sublieme"
+	line "deck niet zult kunnen verslaan!"
 	line "Kom! Ik zal het je bewijzen!"
 	done
 
 Text058a:
-	text "Ik zal met mijn sublieme deck met"
-	line "je duelleren! Maar deze keer zal ik"
-	line "niet verliezen!"
+	text "Ik zal met mijn sublieme deck tegen"
+	line "je duelleren!"
+	line "Maar deze keer zal ik niet"
+	line "verliezen!"
 	done
 
 Text058b:
 	text "<RAMNAME>,"
-	line "heb je je deck gereed?"
+	line "wil je je deck nog voorbereiden?"
 	done
 
 UnusedText058c: ; Unused
@@ -432,8 +436,8 @@ Text0591:
 	line "mijn sublieme deck kon verliezen..."
 	line "Het is een vernederende gedachte,"
 	line "maar het lijkt erop dat je beter"
-	line "bent dan ik. Prima! Nu op naar je"
-	line "laatste test..."
+	line "bent dan ik."
+	line "Prima! Nu op naar je laatste test..."
 	done
 
 Text0592:
@@ -444,13 +448,17 @@ Text0592:
 	done
 
 Text0593:
-	text "Spectaculair geduelleerd! Ik, Rod,"
-	line "zal je volgende tegenstander zijn!"
+	text "Spectaculair geduelleerd!"
+	line ""
+	line "Ik, Rod, zal je volgende"
+	line "tegenstander zijn!"
 	done
 
 Text0594:
-	text "Prachtig, zoals altijd! Ik zal"
-	line "je volgende tegenstander zijn!"
+	text "Prachtig, zoals altijd!"
+	line ""
+	line "Ik zal je volgende tegenstander"
+	line "zijn!"
 	done
 
 Text0595:
@@ -469,7 +477,8 @@ Text0597:
 	done
 
 Text0598:
-	text "Is je deck gereed, <RAMNAME>?"
+	text "Wil je je deck nog voorbereiden,"
+	line "<RAMNAME>?"
 	done
 
 UnusedText0599: ; Unused
@@ -506,7 +515,7 @@ Text059e:
 Text059f:
 	text "Wa-wat in vredesnaam? Zelfs ik,"
 	line "Rod, ben verslagen!?!"
-	line "Fantastisch! Dit is Fantastisch!!"
+	line "Fantastisch! Dit is Fantastisch!!!"
 	line "Gefeliciteerd, <RAMNAME>."
 	line "Je hebt bewezen dat je het waard"
 	line "bent om de Legendarische Pokémon-"
@@ -555,7 +564,9 @@ Text05a6:
 	line "<RAMNAME> heeft ook het"
 	line "recht verdiend om de Legendarische"
 	line "Pokémonkaarten over te nemen!"
+	line ""
 	line "Ronald! <RAMNAME>!"
+	line ""
 	line "Jullie twee moeten duelleren om"
 	line "te bepalen wie de Legendarische"
 	line "Pokémonkaarten zal overnemen."
@@ -574,7 +585,8 @@ Text05a8:
 	done
 
 Text05a9:
-	text "Is je deck gereed, <RAMNAME>?"
+	text "Wil je je deck nog voorbereiden,"
+	line "<RAMNAME>?"
 	done
 
 UnusedText05aa: ; Unused
@@ -612,7 +624,8 @@ Text05ae:
 	done
 
 Text05af:
-	text "Nee!!! Hoe...? Hoe kon ik verliezen!?!"
+	text "Nee!!! Hoe...? Hoe kon ik"
+	line "verliezen!?!"
 	done
 
 Text05b0:
@@ -638,7 +651,6 @@ Text05b3:
 	line "waard is om de Legendarische"
 	line "Pokémonkaarten over te nemen!"
 	line "De Legendarische Pokémonkaarten"
-	line "The Legendary Pokémon Cards"
 	line "erkennen je als een echte Meester!"
 	done
 
@@ -680,9 +692,9 @@ Text05b9:
 	line "  gebruiken en de moed heeft om"
 	line "  met sterke tegenstanders te"
 	line "  duelleren. En bovenal de gave"
-	line "  om hoe dan ook van het Pokémon"
-	line "  Ruilkaartspel te houden - of je"
-	line "  nu wint of verliest!"
+	line "  bezit om hoe dan ook van het"
+	line "  Pokémon Ruilkaartspel te houden -"
+	line "  of je nu wint of verliest!"
 	line "  Een nieuwe reis is zojuist"
 	line "  begonnen...”"
 	done
@@ -712,9 +724,9 @@ Text05bc:
 	line "  gebruiken en de moed heeft om"
 	line "  met sterke tegenstanders te"
 	line "  duelleren. En bovenal de gave"
-	line "  om hoe dan ook van het Pokémon"
-	line "  Ruilkaartspel te houden - of je"
-	line "  nu wint of verliest!"
+	line "  bezit om hoe dan ook van het"
+	line "  Pokémon Ruilkaartspel te houden -"
+	line "  of je nu wint of verliest!"
 	line "  Een nieuwe reis is zojuist"
 	line "  begonnen...”"
 	done
@@ -801,13 +813,13 @@ Tech3BoosterPackExplanationText:
 
 Tech3LegendaryCardsCongratsText:
 	text "Gefeliciteerd met het over mogen"
-	line "nemen van de Legendarische Pokémon-"
-	line "kaarten, <RAMNAME>!"
+	line "nemen van de Legendarische"
+	line "Pokémonkaarten, <RAMNAME>!"
 	line "Ga nou maar eens duelleren tegen"
 	line "verschillende mensen met de kaarten"
-	line "die je overgenomen hebt. Ik weet"
-	line "zeker dat je een leuke tijd zult"
-	line "hebben!"
+	line "die je overgenomen hebt."
+	line "Ik weet zeker dat je een leuke tijd"
+	line "zult hebben!"
 	done
 
 Tech4ClubsExplanationText:
@@ -845,9 +857,9 @@ Tech5ChallengeMachineExplanationText:
 	line "5 computertegenstanders moet"
 	line "duelleren!"
 	line "Als je de 5 tegenstanders kunt"
-	line "verslaan, win je! Je kunt ook"
-	line "doorspelen om je overwinnings-"
-	line "reeks te verlengen!"
+	line "verslaan, win je!"
+	line "Je kunt ook doorspelen om je"
+	line "overwinnings reeks te verlengen!"
 	line "Bouw een deck en probeer het eens,"
 	line "<RAMNAME>!"
 	done

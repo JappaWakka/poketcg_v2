@@ -264,7 +264,7 @@ GBGraphicDesigners3Text:
 
 MusicText:
 	text ""
-	line "                  Muziek"
+	line "                 Muziek"
 	line ""
 	line ""
 	line "            Ichiro Shimakura"
@@ -272,7 +272,7 @@ MusicText:
 
 SoundEffectsText:
 	text ""
-	line "              Geluidseffecten"
+	line "             Geluidseffecten"
 	line ""
 	line ""
 	line "              Masato Aihara"
@@ -288,7 +288,7 @@ SoundDirectorText:
 
 SoundSystemSupportText:
 	text ""
-	line "       Geluidssysteem Ondersteuning"
+	line "      Geluidssysteem Ondersteuning"
 	line ""
 	line ""
 	line "           Katsunori Takahashi"
@@ -353,24 +353,24 @@ SpecialAppearances2Text:
 
 USCoordination1Text:
 	text ""
-	line "             VS COÖRDINATIE"
-	line "           NINTENDO OF AMERICA"
+	line "             VS Coördinatie"
+	line "           Nintendo of America"
 	line ""
 	line ""
-	line "               GAIL TILDEN"
-	line "              HIRO NAKAMURA"
+	line "               Gail Tilden"
+	line "              Hiro Nakamura"
 	done
 
 USCoordination2Text:
-	text "              KENJI OKUBO"
-	line "             WILLIAM TRINEN"
+	text "              Kenji Okubo"
+	line "             William Trinen"
 	done
 
 USCoordination3Text:
 	text ""
-	line "             VS COÖRDINATIE"
-	line "           Wizards of the Coast"
-	line "          Pokémon Templating Team"
+	line "             VS Coördinatie"
+	line "          Wizards of the Coast"
+	line "         Pokémon Templating Team"
 	line ""
 	line ""
 	line "            Robert Gutschera"
@@ -403,7 +403,7 @@ MasteringText:
 
 ManualCreationText:
 	text ""
-	line "             Handleidingmaker"
+	line "            Handleidingmaker"
 	line ""
 	line ""
 	line "              Haruki Mitani"
@@ -419,7 +419,7 @@ ManualIllustrationsText:
 
 PokemonOriginalStoryText:
 	text ""
-	line "    Oorspronkelijke Verhaal Pokémon"
+	line "    Oorspronkelijke Pokémon Verhaal"
 	line ""
 	line ""
 	line "             Satoshi Tajiri"
@@ -428,7 +428,7 @@ PokemonOriginalStoryText:
 
 CreatedInCooperationWithText:
 	text ""
-	line "       Gemaakt in samenwerking met"
+	line "      Gemaakt in samenwerking met"
 	line ""
 	line ""
 	line "              Shinji Hatano"
