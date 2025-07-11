@@ -2375,7 +2375,7 @@ NoBasicPokemonCardListParameters:
 DisplayPracticeDuelPlayerHandScreen:
 	call CreateHandCardList
 	call EmptyScreen
-	lb de, $38, $ff
+	lb de, $38, $cf
 	call SetupText
 	call LoadDuelCardSymbolTiles
 	lb de, 0, 0
@@ -3011,7 +3011,7 @@ INCLUDE "data/duel/practice_text.asm"
 ; instructions for the next player action will be written into
 DrawPracticeDuelInstructionsTextBox:
 	call EmptyScreen
-	lb de, $38, $ff
+	lb de, $38, $cf
 	call SetupText
 	lb de, 0, 0
 	lb bc, 20, 12
