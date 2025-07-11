@@ -834,7 +834,7 @@ RecycleName:
 
 RecycleDescription:
 	text "Gooi een munt op. Als het kop is,"
-	line "leg dan een kaart uit je Weggooi-"
+	line "leg dan een kaart uit je weggooi-"
 	line "stapel bovenop je deck."
 	done
 

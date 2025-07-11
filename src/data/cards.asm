@@ -4614,7 +4614,7 @@ ArticunoLv37Card:
 	energy WATER, 3 ; energies
 	tx IceBreathName ; name
 	tx IceBreathDescription ; description
-	dw NONE ; description (cont)
+	tx IceBreathDescriptionCont ; description (cont)
 	db 0 ; damage
 	db RESIDUAL ; category
 	dw RandomEnemy40DamageEffectCommands ; effect commands
