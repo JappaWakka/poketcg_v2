@@ -2375,6 +2375,8 @@ NoBasicPokemonCardListParameters:
 DisplayPracticeDuelPlayerHandScreen:
 	call CreateHandCardList
 	call EmptyScreen
+	lb de, $38, $ff
+	call SetupText
 	call LoadDuelCardSymbolTiles
 	lb de, 0, 0
 	lb bc, 20, 13
@@ -3009,6 +3011,8 @@ INCLUDE "data/duel/practice_text.asm"
 ; instructions for the next player action will be written into
 DrawPracticeDuelInstructionsTextBox:
 	call EmptyScreen
+	lb de, $38, $ff
+	call SetupText
 	lb de, 0, 0
 	lb bc, 20, 12
 	call DrawRegularTextBox
@@ -3109,8 +3113,9 @@ PrintPracticeDuelInstructions:
 ; prints the generic Dr. Mason's text that completes all his practice duel instructions
 PrintPracticeDuelLetsPlayTheGame:
 	ldtx hl, LetsPlayTheGamePracticeDuelText
-	jp PrintPracticeDuelDrMasonInstructions
-
+	call PrintPracticeDuelDrMasonInstructions
+	lb de, $38, $9f
+	jp SetupText
 
 ; simplified version of PrintPracticeDuelInstructions that skips Dr. Mason's text
 ; and instead places the point-by-point instructions all at once.
@@ -3439,6 +3444,8 @@ InitAndDrawCardListScreenLayout:
 DrawCardListScreenLayout:
 	call ZeroObjectPositionsAndToggleOAMCopy
 	call EmptyScreen
+	lb de, $38, $9f
+	call SetupText
 	call LoadSymbolsFont
 	call LoadDuelCardSymbolTiles
 	; draw the surrounding box

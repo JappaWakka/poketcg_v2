@@ -121,7 +121,7 @@ HandleStartMenu:
 	call PlaySong
 	call DisableLCD
 	farcall InitMenuScreen
-	lb de, $30, $8f
+	lb de, $30, $cf
 	call SetupText
 	call EnableAndClearSpriteAnimations
 	xor a ; DOUBLE_SPACED
