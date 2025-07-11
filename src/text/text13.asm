@@ -138,7 +138,7 @@ BlizzardDescription:
 	line "doet deze aanval 10 schade aan elk"
 	line "van je tegenstander's Pokémon op de"
 	line "Bank; als het munt is, doet deze"
-	line "aanval 10 schade aan elk van je"
+	line "aanval 10 schade aan elk van jouw"
 	line "Pokémon op de Bank."
 	done
 
@@ -351,15 +351,15 @@ GigashockName:
 GigashockDescription:
 	text "Kies 3 van je tegenstander's Pokémon"
 	line "op de Bank en deze aanval doet aan"
-	line "elk van hen 10 schade. (Pas geen"
-	line "Zwakte en Weerstand toe op de Poké-"
-	line "mon op de Bank.) Als je tegenstan-"
-	line "der minder dan 3 Pokémon op de"
-	line "Bank heeft,"
+	line "elk van hen 10 schade."
+	line "(Pas geen Zwakte en Weerstand toe"
+	line "op de Pokémon op de Bank.)"
 	done
 
 GigashockDescriptionCont:
-	text "doe dan aan elk van deze de schade."
+	text "Als je tegenstander minder dan"
+	line "3 Pokémon op de Bank heeft, doe"
+	line "dan aan elk van deze de schade."
 	done
 
 RaichuLv45Description:
