@@ -690,7 +690,7 @@ DuelistHasNoCardsInHandText:
 
 PokemonHealedDamageText:
 	text "<RAMTEXT> herstelde"
-	line "<RAMNUM> schade!"
+	line "<RAMNUM> incasseringspunten!"
 	done
 
 PokemonDevolvedToText:

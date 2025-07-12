@@ -521,7 +521,7 @@ WinsText:
 	done
 
 XConsecutiveWinsNthOpponentIsText:
-	text "<RAMNAME> <RAMNUM> Overwinningen!"
+	text "<RAMNAME> heeft <RAMNUM> keer gewonnen!"
 	line ""
 	text "Tegenstander <RAMNUM> is <RAMTEXT>."
 	done
@@ -548,7 +548,7 @@ PlayTheChallengeMachineText:
 	done
 
 LetUsChooseYourOpponentText:
-	text "Oké, laat ons je tegenstander"
+	text "Oké, laat ons je tegenstanders"
 	line "kiezen."
 	done
 
@@ -573,7 +573,7 @@ YourOpponentsForThisGameText:
 
 WonAgainstXOpponentsText:
 	text "Gefeliciteerd!"
-	line "Je won tegen <RAMNUM> tegenstanders!"
+	line "Je won tegen <RAMNUM> tegenstander(s)!"
 	done
 
 Defeated5OpponentsText:
@@ -582,13 +582,12 @@ Defeated5OpponentsText:
 	done
 
 SuccessfullyDefeated5OpponentsText:
-	text "<RAMNAME> heeft met succes"
-	line "<RAMNUM> keer 5 tegenstanders"
-	text "verslagen!!!"
+	text "<RAMNAME> heeft met succes <RAMNUM> keer"
+	line "5 tegenstanders verslagen!!!"
 	done
 
 ConsecutiveWinRecordIncreasedText:
-	text "<RAMNAME>'s Overwinningsreeks"
+	text "<RAMNAME>'s Overwinningsreeks-"
 	line "record verhoogd naar <RAMNUM>!"
 	done
 
