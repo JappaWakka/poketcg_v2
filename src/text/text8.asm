@@ -309,7 +309,8 @@ Text0604:
 	done
 
 Text0605:
-	text "Het is een Auto-Deckmachine."
+	text "Het is een Auto-Deckmachine voor"
+	line "Beginnerdecks."
 	done
 
 UnusedText0606: ; Unused
@@ -687,9 +688,9 @@ Text0643:
 	done
 
 Text0644:
-	text "Ik heb gehoord dat je de Legen-"
-	line "darische Pokémonkaarten hebt"
-	line "overgenomen!"
+	text "Ik heb gehoord dat je de"
+	line "Legendarische Pokémonkaarten"
+	line "hebt overgenomen!"
 	line "Wauw! Dat is geweldig!"
 	line "Ik ga trainen zodat ik ze zelf" 
 	line "kan overnemen!"
@@ -918,16 +919,14 @@ Text0660:
 	line "Hé!?! Is dat de Psychische Medaille?"
 	line "Heb je Murray verslagen!?!"
 	line "Oh, ik voel me zoveel beter nu!"
-	line "Hier, laat me je deze Mewtwo-kaart"
-	line "geven!"
+	line "Hier, neem deze Mewtwo-kaart van me!"
 	done
 
 Text0661:
 	text "Wat? Is dat de Psychische Medaille?"
 	line "Heb je Murray verslagen!?!"
 	line "Ik voel me zoveel beter nu!"
-	line "Hier, laat me je deze Mewtwo-kaart"
-	line "geven!"
+	line "Hier, neem deze Mewtwo-kaart van me!"
 	done
 
 Text0662:

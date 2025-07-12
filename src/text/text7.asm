@@ -311,7 +311,7 @@ Text057b:
 	done
 
 Text057c:
-	text "<RAMNAME>! Nu zul je met"
+	text "<RAMNAME>! Nu zul je tegen"
 	line "Steve moeten duelleren!"
 	done
 
@@ -329,7 +329,8 @@ Text057e:
 	done
 
 Text057f:
-	text "Is je deck gereed, <RAMNAME>?"
+	text "Wil je je deck nog voorbereiden,"
+	line "<RAMNAME>?"
 	done
 
 PrepareForTheDuelText:
@@ -399,8 +400,8 @@ Text058a:
 	done
 
 Text058b:
-	text "<RAMNAME>,"
-	line "wil je je deck nog voorbereiden?"
+	text "Wil je je deck nog voorbereiden,"
+	line "<RAMNAME>?"
 	done
 
 UnusedText058c: ; Unused
@@ -689,7 +690,7 @@ Text05b9:
 	line "  iemand die de vaardigheden van"
 	line "  de verschillende kaarten kan"
 	line "  gebruiken en de moed heeft om"
-	line "  met sterke tegenstanders te"
+	line "  tegen sterke tegenstanders te"
 	line "  duelleren. En bovenal de gave"
 	line "  bezit om hoe dan ook van het"
 	line "  Pokémon Ruilkaartspel te houden -"
@@ -721,7 +722,7 @@ Text05bc:
 	line "  iemand die de vaardigheden van"
 	line "  de verschillende kaarten kan"
 	line "  gebruiken en de moed heeft om"
-	line "  met sterke tegenstanders te"
+	line "  tegen sterke tegenstanders te"
 	line "  duelleren. En bovenal de gave"
 	line "  bezit om hoe dan ook van het"
 	line "  Pokémon Ruilkaartspel te houden -"

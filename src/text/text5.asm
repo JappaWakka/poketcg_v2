@@ -410,9 +410,10 @@ ButchNormalText:
 ButchPlayerIsChampionText:
 	text "Ik kan niet geloven dat Rod, de"
 	line "Leider van de Grootmeesters, is"
-	line "verslagen!?! Zou dit betekenen"
-	line "dat de Legendarische Pokémon-"
-	line "kaarten doorgegeven zijn?"
+	line "verslagen!?!"
+	line "Zou dit betekenen dat de"
+	line "Legendarische Pokémonkaarten"
+	line "doorgegeven zijn?"
 	done
 
 Granny1Text:

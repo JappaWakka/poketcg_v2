@@ -5,7 +5,7 @@ CreditsSequence:
 	credits_seq_load_ow_map 0, 0, OVERWORLD_MAP
 	credits_seq_init_volcano_sprite
 	credits_seq_init_overlay 0, 0, 144, 0
-	credits_seq_print_text_box 2, 1, OverworldMapPokemonDomeText
+	credits_seq_print_text_box 1, 1, OverworldMapPokemonDomeText
 	credits_seq_print_text 0, 0, PokemonTradingCardGameStaffText
 	credits_seq_fade_in
 	credits_seq_wait 60

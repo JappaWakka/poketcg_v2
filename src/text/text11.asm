@@ -39,7 +39,7 @@ Text0795:
 	text "Ik hak een standbeeld van een"
 	line "Pokémon uit deze rots!"
 	line "Wat? Wil je duelleren?"
-	line "Oké. Wil je dat nu doen?"
+	line "Nou oké dan. Ik heb wel even tijd!"
 	done
 
 Text0796:
@@ -48,7 +48,7 @@ Text0796:
 
 Text0797:
 	text "Ga weg als je niet serieus bent -"
-	line "ik heb het echt druk!"
+	line "ik heb het echt heel druk!"
 	done
 
 Text0798:
@@ -71,7 +71,7 @@ Text079b:
 	text "Ja!"
 	line "Het moet mijn geluksdag zijn!"
 	line "Kom me opzoeken wanneer je maar"
-	line "wilt! Ik zal weer met je duelleren!"
+	line "wilt! Ik zal dan met je duelleren!"
 	done
 
 Text079c:
@@ -214,7 +214,7 @@ PokemonTradingCardGameStaffText:
 
 ProducersText:
 	text ""
-	line "               Producenten"
+	line "              Producenten"
 	line ""
 	line ""
 	line "           Tsunekazu Ishihara"
@@ -224,7 +224,7 @@ ProducersText:
 
 DirectorText:
 	text ""
-	line "               Spelregiseur"
+	line "              Spelregiseur"
 	line ""
 	line ""
 	line "                Koji Arai"
@@ -370,7 +370,7 @@ USCoordination3Text:
 	text ""
 	line "             VS Coördinatie"
 	line "          Wizards of the Coast"
-	line "         Pokémon Templating Team"
+	line "          Pokémon Sjabloonteam"
 	line ""
 	line ""
 	line "            Robert Gutschera"
@@ -384,9 +384,9 @@ USCoordination4Text:
 	done
 
 TranslationDraftText:
-	text ""
-	line "        Engelse Vertaling/Concept"
+	text "        Engelse Vertaling/Concept"
 	line "               Bill Ritch"
+	line ""
 	line ""
 	line "          Nederlandse Vertaling"
 	line "             Jasper Speelman"
@@ -450,7 +450,7 @@ WithCooperation2Text:
 	text "            Yusuke Kurushima"
 	line "           Nobuchika Takahashi"
 	line "             Junko Igarashi"
-	line "              Yukiko Tomita"
+	line "             Yukiko Tomita"
 	done
 
 WithCooperation3Text:
@@ -492,7 +492,7 @@ CreatedByText:
 	line ""
 	line ""
 	line ""
-	line "                 Hudson"
+	line "                Hudson"
 	done
 
 ChallengeMachineText:
@@ -504,20 +504,20 @@ PlayersScoreText:
 	done
 
 Defeated5OpponentsXTimesText:
-	text "5 Duellen gewonnen        keer."
+	text "5 Duellen gewonnen       keer"
 	done
 
 PresentConsecutiveWinsText:
-	text "Huidige Overwinningsreeks"
+	text "Overwinningsreeks"
 	done
 
 MaximumConsecutiveWinsText:
-	text "Max. Overwinningsreeks"
-	line "    [ <RAMTEXT>  ]"
+	text "Grootste Overwinningsreeks"
+	line "    [ <RAMTEXT> ]"
 	done
 
 WinsText:
-	text "Overwinningen"
+	text "x Gewonnen"
 	done
 
 XConsecutiveWinsNthOpponentIsText:

@@ -705,10 +705,11 @@ MirrorMoveName:
 	done
 
 PidgeottosMirrorMoveDescription:
-	text "Als Pidgeotto tijdens je tegenstan-"
-	line "der's laatste beurt is aangevallen,"
-	line "breng dan het uiteindelijke resul-"
-	line "taat van die aanval op Pidgeotto toe"
+	text "Als Pidgeotto tijdens je"
+	line "tegenstander's laatste beurt"
+	line "is aangevallen, breng dan het"
+	line "uiteindelijke resultaat van"
+	line "die aanval op Pidgeotto toe"
 	line "aan de Verdedigende Pokémon."
 	done
 
@@ -830,10 +831,11 @@ PeckName:
 	done
 
 SpearowsMirrorMoveDescription:
-	text "Als Spearow tijdens je tegenstan-"
-	line "der's laatste beurt is aangevallen,"
-	line "breng dan het uiteindelijke resul-"
-	line "taat van die aanval op Spearow toe"
+	text "Als Spearow tijdens je"
+	line "tegenstander's laatste beurt"
+	line "is aangevallen, breng dan het"
+	line "uiteindelijke resultaat van"
+	line "die aanval op Spearow toe"
 	line "aan de Verdedigende Pokémon."
 	done
 

@@ -373,43 +373,43 @@ ReceivedADeckConfigurationFromText:
 	done
 
 FightingMachineText:
-	text "  Vecht-Machine  "
+	text "   Vecht-Deckmachine   "
 	done
 
 RockMachineText:
-	text "  Steen-Machine  "
+	text "  Steen-Deckmachine  "
 	done
 
 WaterMachineText:
-	text "  Water-Machine   "
+	text "  Water-Deckmachine  "
 	done
 
 LightningMachineText:
-	text "  Bliksem-Machine   "
+	text "  Bliksem-Deckmachine  "
 	done
 
 GrassMachineText:
-	text "  Gras-Machine   "
+	text "  Gras-Deckmachine "
 	done
 
 PsychicMachineText:
-	text "  Psychisch-Machine   "
+	text "  Psychische Deckmachine  "
 	done
 
 ScienceMachineText:
-	text "  Wetenschap-Machine   "
+	text "  Wetenschap-Deckmachine  "
 	done
 
 FireMachineText:
-	text "  Vuur-Machine  "
+	text "  Vuur-Deckmachine  "
 	done
 
 AutoMachineText:
-	text "  Auto-Machine  "
+	text "  Beginner-Deckmachine  "
 	done
 
 LegendaryMachineText:
-	text "  Legende-Machine   "
+	text "  Legende-Deckmachine   "
 	done
 
 AllFightingPokemonText:
