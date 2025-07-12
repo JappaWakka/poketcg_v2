@@ -1047,23 +1047,3 @@ Text0672:
 	line "Ik zal tegen je duelleren wanneer"
 	line "je maar wilt."
 	done
-
-Text0673:
-	text "Ik kan de toekomst zien..."
-	line "Je kan me niet verslaan."
-	line "Maar als je 2 Medailles wint,"
-	line "misschien... zal ik..."
-	line "dan tegen je duelleren..."
-	done
-
-Text0674:
-	text "Je hebt flink wat Medailles"
-	line "gewonnen."
-	line "Oké... Laten we duelleren."
-	line "Maar ik zie de toekomst..."
-	line "Je zult verliezen..."
-	done
-
-Text0675:
-	text "Wil je duelleren tegen Stephanie?"
-	done

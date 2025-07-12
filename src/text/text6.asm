@@ -561,25 +561,27 @@ MysteriousVoiceDoorName:
 	done
 
 Clerk9DefaultText:
-	text "Hallo! Welkom bij de Toernooihal!"
-	line "Het Uitdagingstoernooi begint"
-	line "binnenkort. Als je het Toernooi"
-	line "wint, ontvang je een Promokaart!"
+	text "Goedendag! Welkom bij de"
+	line "Toernooihal! Het Uitdagingstoernooi"
+	line "begint binnenkort."
+	line "Als je het Toernooi wint, ontvang"
+	line "je een Promokaart!"
 	line "We hopen dat je deelneemt aan"
 	line "deze competitie."
 	done
 
 Clerk9ChallengeCupOverText:
-	text "Hallo! Welkom bij de Toernooihal!"
-	line "Dit is waar het Uitdagingstoernooi"
-	line "wordt gehouden."
+	text "Goedendag! Welkom bij de"
+	line "Toernooihal! Dit is waar het"
+	line "Uitdagingstoernooi wordt gehouden."
 	line "Het Uitdagingstoernooi begint op"
 	line "verschillende momenten, dus bezoek"
 	line "regelmatig de Toernooihal."
 	done
 
 Clerk9ChallengeCupReadyText:
-	text "Hallo! Welkom bij de Toernooihal!"
+	text "Goedendag! Welkom bij de"
+	line "Toernooihal!"
 	line "Versla 3 tegenstanders, en je krijgt"
 	line "een prachtig cadeau van ons!"
 	line "We hopen dat je deelneemt aan"
@@ -596,7 +598,7 @@ Clerk9ChallengeCupLostText:
 
 Clerk9ChallengeCupWonText:
 	text "Gefeliciteerd, <RAMNAME>!"
-	line "Je ontvangt een kaart!"
+	line "Je hebt een kaart gewonnen!"
 	line "We hopen dat je ook aan ons volgende"
 	line "Uitdagingstoernooi deelneemt."
 	done
@@ -630,9 +632,9 @@ Hood2Text:
 
 Lass5Text:
 	text "Ik ben goed genoeg om deel te nemen"
-	line "aan het Uitdagingstoernooi! Meiden"
-	line "zijn net zo goed in het Pokémon"
-	line "Ruilkaartspel als jongens!"
+	line "aan het Uitdagingstoernooi!"
+	line "Meiden zijn net zo goed in het"
+	line "Pokémon Ruilkaartspel als jongens!"
 	done
 
 Chap5Text:
@@ -791,8 +793,9 @@ Clerk12ChallengeCupWonText:
 	text "Iemand die deelneemt aan het"
 	line "Uitdagingstoernooi kan niet opnieuw"
 	line "aan het zelfde Uitdagingstoernooi"
-	line "deelnemen. Je zult moeten wachten"
-	line "tot het volgende Uitdagingstoernooi."
+	line "deelnemen."
+	line "Je zult moeten wachten tot het"
+	line "volgende Uitdagingstoernooi."
 	done
 
 Clerk12ChallengeCupLostText:
@@ -818,9 +821,9 @@ Clerk12ChallengeCup2ActiveText:
 
 Clerk12ChallengeCup3ActiveText:
 	text "Het Uitdagingstoernooi is van"
-	line "start gegaan! Versla 3"
-	line "tegenstanders om een geweldige"
-	line "prijs te winnen!"
+	line "start gegaan!"
+	line "Versla 3 tegenstanders om een"
+	line "geweldige prijs te winnen!"
 	done
 
 Clerk12ChallengeCupInviteText:
@@ -840,7 +843,7 @@ Clerk12DeclinedText:
 	done
 
 Clerk12AcceptedText:
-	text "Loop dan maar door naar het Podium!"
+	text "Loop dan maar door naar het podium!"
 	done
 
 Clerk12ChallengeCupIntroText:

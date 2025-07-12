@@ -258,7 +258,7 @@ Man1DontHaveText:
 	done
 
 Man1CardInDeckText:
-	text "Je wil hem aan me geven?"
+	text "Je wilt hem aan me geven?"
 	line "Dankjewel!"
 	line "Maar jouw <RAMTEXT>"
 	line "zit nog in je deck."
@@ -267,10 +267,10 @@ Man1CardInDeckText:
 	done
 
 Man1GiveCardText:
-	text "Je wil hem aan me geven?"
+	text "Je wilt hem aan me geven?"
 	line "Ik zal hem meteen in mijn"
-	line "verzameling stoppen. Ik zal goed"
-	line "voor deze kaart zorgen."
+	line "verzameling stoppen."
+	line "Ik zal goed voor deze kaart zorgen."
 	line "Dankje! Dankje!!!"
 	done
 

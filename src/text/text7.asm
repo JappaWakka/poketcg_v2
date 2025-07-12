@@ -30,8 +30,7 @@ RonaldChallengeCup2Or3PlayerWon2Text:
 
 Clerk12ChallengeCupRound3PlayerWon3Text:
 	text "De winnaar van dit Uitdagings-"
-	line "toernooi is"
-	text "<RAMNAME>!!!"
+	line "toernooi is <RAMNAME>!!!"
 	done
 
 Clerk12ChallengeCupRound3PlayerWon4Text:
