@@ -579,7 +579,7 @@ TookAllThePrizesText:
 
 ThereAreNoPokemonInPlayAreaText:
 	text "Er zijn geen Pokémon meer"
-	line "in <RAMNAME>'s Speelveld!"
+	line "in <RAMNAME>'s speelveld!"
 	done
 
 WasKnockedOutText:
@@ -848,7 +848,7 @@ NoSpaceOnTheBenchText:
 
 NoPokemonCapableOfEvolvingText:
 	text "Er zijn geen Pokémon die"
-	line "hierin kunnen Evolueren."
+	line "hier nu in kunnen Evolueren."
 	done
 
 CantEvolvePokemonInSameTurnItsPlacedText:
@@ -895,7 +895,7 @@ NoEvolvedPokemonText:
 
 NoEnergyCardsAttachedToPokemonInYourPlayAreaText:
 	text "Er zijn geen Energiekaarten gehecht"
-	line "aan Pokémon in je Speelveld."
+	line "aan Pokémon in je speelveld."
 	done
 
 NoEnergyCardsAttachedToPokemonInOppPlayAreaText:

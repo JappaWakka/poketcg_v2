@@ -356,8 +356,8 @@ UsefulButtonsBookName:
 UsefulButtonsBookText:
 	text "Terwijl je de B Knop indrukt, kun je"
 	line "de + Richtingsknoppen gebruiken om"
-	line "je eigen of je tegenstander's Speel-"
-	line "veld of Weggooistapel te bekijken!"
+	line "je eigen of je tegenstander's speel-"
+	line "veld of weggooistapel te bekijken!"
 	line "B + Onder = Jouw Speelveld"
 	line "B + Links = Jouw Weggooistapel"
 	line "B + Boven = Hun Speelveld"

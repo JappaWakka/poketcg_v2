@@ -595,8 +595,8 @@ LightningName:
 JolteonLv24Description:
 	text "Een gevoelige Pokémon die snel"
 	line "verdrietig of boos wordt. Telkens"
-	line "als zijn stemming verandert, laadt"
-	line "hij stroom op."
+	line "als zijn stemming verandert, bouwt"
+	line "hij elektriciteit op."
 	done
 
 PinMissileName:

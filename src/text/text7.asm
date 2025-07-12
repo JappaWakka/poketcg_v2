@@ -1030,7 +1030,7 @@ Text05dc:
 	line "in je deck hebt aan het begin van"
 	line "je beurt of als er geen Pokémon"
 	line "meer aan jouw kant van het"
-	line "Speelveld zijn, dus pas goed op!"
+	line "speelveld zijn, dus pas goed op!"
 	done
 
 Text05dd:

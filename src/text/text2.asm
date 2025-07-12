@@ -365,8 +365,8 @@ ProcedureForDevolutionBeamText:
 	text "Hoe je Devolutiestraal gebruikt:"
 	line ""
 	line "1. Selecteer een Pokémon in jouw"
-	line "   Speelveld óf in je tegen-"
-	line "   standers Speelveld en druk"
+	line "   speelveld óf in je tegen-"
+	line "   standers speelveld en druk"
 	line "   op de A-knop."
 	line ""
 	line "2. Kies de Pokémon om te Devolueren"
@@ -411,7 +411,7 @@ PleaseSelectTheDeckText:
 	done
 
 PleaseSelectThePlayAreaText:
-	text "Kies het gewenste Speelveld:"
+	text "Kies het gewenste speelveld:"
 	line "            Jouw    Tegenstander's"
 	done
 
@@ -1046,7 +1046,7 @@ SamTurn4Instr1PracticeDuelText:
 
 SamTurn4Instr2PracticeDuelText:
 	text "2. Je kunt de kaarten in je hand"
-	line "   of het Speelveld bekijken"
+	line "   of het speelveld bekijken"
 	line "   door op de SELECT-toets"
 	line "   te drukken."
 	done

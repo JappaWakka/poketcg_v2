@@ -67,7 +67,7 @@ YourPlayAreaText:
 	done
 
 OppPlayAreaText:
-	text "Teg. Speelveld"
+	text "Hun Speelveld"
 	done
 
 InPlayAreaText:

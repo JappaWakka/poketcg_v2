@@ -353,8 +353,8 @@ Text060e:
 	line "Welkom bij de Bliksem-Club!"
 	line "Bij deze Club gebruiken we decks"
 	line "die voornamelijk uit Bliksem-"
-	line "Pokémon bestaan. Wil je jezelf"
-	line "bij ons komen opladen?"
+	line "Pokémon bestaan. Wil je de spanning"
+	line "bij ons komen opzoeken?"
 	done
 
 Text060f:
@@ -421,7 +421,7 @@ Text0617:
 	line "voor die nv35 Electabuzz!"
 	line "Mijn nv20 Electabuzz is een"
 	line "coole kaart!"
-	line "Laad 'm op met Electabuzz!"
+	line "Zoek de spanning op met Electabuzz!"
 	done
 
 Text0618:
@@ -431,10 +431,10 @@ Text0618:
 	done
 
 Text0619:
-	text "Hé! Ben jij opgeladen!?!"
+	text "Hé! Zit jij vol energie!?!"
 	line "Speel jij het Pokémon"
 	line "Ruilkaartspel!?!"
-	line "Ja! Word een Grootmeester!"
+	line "Ja?! Word een Grootmeester!"
 	done
 
 Text061a:
@@ -446,10 +446,10 @@ Text061a:
 	done
 
 Text061b:
-	text "Is Pikachu niet superschattig? Mijn"
-	line "hart slaat een slag over wanneer ik"
-	line "die schattige kleine oogjes zie!"
-	line ""
+	text "Is Pikachu niet superschattig?"
+	line "Mijn hart slaat een slag over"
+	line "wanneer ik die schattige kleine"
+	line "oogjes zie!"
 	line "Hé, wil je tegen mijn Pikachu-deck"
 	line "duelleren?"
 	done
