@@ -1055,6 +1055,7 @@ Turn1DrMason1PracticeDuelText:
 	text "Om het ”Val Aan”-commando te"
 	line "gebruiken, moet je Energiekaarten"
 	line "hechten aan je Pokémon."
+	line ""
 	line "Kies ”Hand” in het Menu, en"
 	line "selecteer een Water Energiekaart."
 	done
@@ -1062,8 +1063,8 @@ Turn1DrMason1PracticeDuelText:
 Turn1DrMason2PracticeDuelText:
 	text "Vervolgens kies je je Actieve"
 	line "Pokémon, Goldeen, en druk je op"
-	line "de A-knop. Dan is de Water Energie-"
-	line "kaart gehecht aan Goldeen."
+	line "de A-knop. Dan is de Water"
+	line "Energiekaart gehecht aan Goldeen."
 	done
 
 Turn1DrMason3PracticeDuelText:

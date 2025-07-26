@@ -866,8 +866,9 @@ Tech5ChallengeMachineExplanationText:
 
 Text05cb:
 	text "Oké, laten we beginnen met deze"
-	line "oefendecks. Luister goed naar Dr."
-	line "Mason en volg zijn instructies op."
+	line "oefendecks."
+	line "Luister goed naar Dr. Mason en"
+	line "volg zijn instructies op."
 	done
 
 Text05cc:
