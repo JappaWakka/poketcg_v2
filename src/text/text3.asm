@@ -1368,7 +1368,7 @@ OverworldMapMasonLaboratoryText:
 	done
 
 OverworldMapIshiharasHouseText:
-	text "  Ishihara's Huis  "
+	text "    Ishihara's Huis  "
 	done
 
 OverworldMapFightingClubText:
@@ -1376,7 +1376,7 @@ OverworldMapFightingClubText:
 	done
 
 OverworldMapRockClubText:
-	text "     Steen-Club     "
+	text "      Steen-Club     "
 	done
 
 OverworldMapWaterClubText:
@@ -1388,7 +1388,7 @@ OverworldMapLightningClubText:
 	done
 
 OverworldMapGrassClubText:
-	text "     Gras-Club     "
+	text "      Gras-Club     "
 	done
 
 OverworldMapPsychicClubText:
@@ -1400,15 +1400,15 @@ OverworldMapScienceClubText:
 	done
 
 OverworldMapFireClubText:
-	text "     Vuur-Club       "
+	text "      Vuur-Club      "
 	done
 
 OverworldMapChallengeHallText:
-	text "     Toernooihal    "
+	text "      Toernooihal    "
 	done
 
 OverworldMapPokemonDomeText:
-	text "   Pokémon-Koepel   "
+	text "    Pokémon-Koepel   "
 	done
 
 OverworldMapMysteryHouseText:

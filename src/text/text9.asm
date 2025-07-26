@@ -685,7 +685,7 @@ Text06dc:
 	done
 
 Text06dd:
-	text "Tch! Ik verloor!"
+	text "Ach! Ik verloor!"
 	line "Ik ga wel terug naar mijn Club om"
 	line "te trainen!"
 	line "Oeps! Voor ik wegga..."
@@ -716,10 +716,10 @@ Text06e0:
 Text06e1:
 	text "Planten verzorgen is hard werken."
 	line "Denk je dat ik zit te lanterfanten?"
-	line "Wat onbeleefd! Ik neem maar een"
-	line "korte pauze! Je hebt een teder hart"
-	line "nodig om voor planten te zorgen!"
-	line ""
+	line "Wat onbeleefd!"
+	line "Ik neem alleen maar een korte pauze!"
+	line "Je hebt een teder hart nodig om voor"
+	line "planten te zorgen!"
 	line "Zeg, wil je het Pokémon Ruilkaart-"
 	line "spel met me spelen?"
 	done
@@ -824,8 +824,8 @@ Text06f3:
 	done
 
 Text06f4:
-	text "Pika Pika"
-	line "Pika Pika Pikachu!"
+	text "Pika-Pika!"
+	line "Pika-Pika-Pikachu!"
 	line "Pikachu is schattig, maar ik vind"
 	line "Clefairy leuker!"
 	line "Ik geef je deze Pikachu als jij"
@@ -841,7 +841,7 @@ Text06f5:
 
 Text06f6:
 	text "Ik wil een Clefairy!"
-	line "Fairy, fairy, fairy!"
+	line "Fairy-fairy-fairy!"
 	done
 
 Text06f7:
@@ -870,7 +870,7 @@ Text06fa:
 
 Text06fb:
 	text "Charizard! Charizard!"
-	line "Charizard, ontsteek mijn vuur!"
+	line "Charizard zet mijn hart in brand!"
 	line "Blastoise is cool,"
 	line "maar ik heb liever Charizard!"
 	line "Ik geef je deze Blastoise als jij"
