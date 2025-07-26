@@ -192,7 +192,7 @@ Palette3::
 	rgb 28, 28,  0
 
 
-; palettes that are used for the Fighting Club Entrance map and the Challenge Hall Entrance map
+; palettes that are used for the Fighting Club Entrance map
 Palette4::
 	db 0
 	db 8
@@ -207,8 +207,8 @@ Palette4::
 	rgb 11,  8,  5
 	rgb  0,  0,  0
 
-	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb 31, 27, 14
+	rgb 20, 12,  5
 	rgb  0, 21, 10
 	rgb  0,  0,  0
 
@@ -218,22 +218,22 @@ Palette4::
 	rgb  4,  1,  0
 
 	rgb 31, 31, 17
-	rgb  0, 31,  6
+	rgb 20, 12,  5
 	rgb 31,  2,  0
 	rgb 12,  2,  0
 
-	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb 31, 27, 14
+	rgb 20, 12,  5
 	rgb 31,  2,  0
 	rgb 12,  2,  0
 
-	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb 31, 27, 14
+	rgb 20, 12,  5
 	rgb  4, 21,  1
 	rgb  1, 10,  0
 
-	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb 31, 27, 14
+	rgb 20, 12,  5
 	rgb 24, 13,  0
 	rgb  5,  3,  0
 
@@ -253,8 +253,8 @@ Palette5::
 	rgb 11,  8,  5
 	rgb  0,  0,  0
 
-	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb 22, 23, 23
+	rgb 12, 11, 11
 	rgb  0, 21, 10
 	rgb  0,  0,  0
 
@@ -264,22 +264,22 @@ Palette5::
 	rgb  4,  1,  0
 
 	rgb 31, 31, 17
-	rgb  0, 31,  6
+	rgb 12, 11, 11
 	rgb 31,  2,  0
 	rgb 12,  2,  0
 
-	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb 22, 23, 23
+	rgb 12, 11, 11
 	rgb 31,  2,  0
 	rgb 12,  2,  0
 
-	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb 22, 23, 23
+	rgb 12, 11, 11
 	rgb  4, 21,  1
 	rgb  1, 10,  0
 
-	rgb 31, 31, 31
-	rgb  0, 31,  6
+	rgb 22, 23, 23
+	rgb 12, 11, 11
 	rgb 24, 13,  0
 	rgb  5,  3,  0
 
@@ -299,8 +299,8 @@ Palette6::
 	rgb 11,  8,  5
 	rgb  0,  0,  0
 
-	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb 21, 30, 25
+	rgb  0, 20, 30
 	rgb  0, 21, 10
 	rgb  0,  0,  0
 
@@ -310,21 +310,21 @@ Palette6::
 	rgb  0,  2,  5
 
 	rgb 31, 31, 17
-	rgb  0, 31,  6
+	rgb 21, 30, 25
 	rgb 31,  2,  0
 	rgb 12,  2,  0
 
-	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb 21, 30, 25
+	rgb  0, 20, 30
 	rgb 31,  2,  0
 	rgb 12,  2,  0
 
-	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb 21, 30, 25
+	rgb  0, 20, 30
 	rgb  4, 21,  1
 	rgb  1, 10,  0
 
-	rgb 27, 31, 22
+	rgb 21, 30, 25
 	rgb  0, 31,  6
 	rgb 24, 13,  0
 	rgb  5,  3,  0
@@ -345,8 +345,8 @@ Palette7::
 	rgb 11,  8,  5
 	rgb  0,  0,  0
 
-	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb 31, 31,  9
+	rgb 26, 18,  6
 	rgb  0, 21, 10
 	rgb  0,  0,  0
 
@@ -356,22 +356,22 @@ Palette7::
 	rgb  7,  4,  0
 
 	rgb 31, 31, 17
-	rgb  0, 31,  6
+	rgb 26, 18,  6
 	rgb 31,  2,  0
 	rgb 12,  2,  0
 
-	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb 31, 31,  9
+	rgb 26, 18,  6
 	rgb 31,  2,  0
 	rgb 12,  2,  0
 
-	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb 31, 31,  9
+	rgb 26, 18,  6
 	rgb  4, 21,  1
 	rgb  1, 10,  0
 
-	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb 31, 31,  9
+	rgb 26, 18,  6
 	rgb 24, 13,  0
 	rgb  5,  3,  0
 
@@ -392,7 +392,7 @@ Palette8::
 	rgb  0,  0,  0
 
 	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb  5, 27,  7
 	rgb  0, 21, 10
 	rgb  0,  0,  0
 
@@ -402,22 +402,22 @@ Palette8::
 	rgb  0,  4,  1
 
 	rgb 31, 31, 17
-	rgb  0, 31,  6
+	rgb  5, 27,  7
 	rgb 31,  2,  0
 	rgb 12,  2,  0
 
 	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb  5, 27,  7
 	rgb 31,  2,  0
 	rgb 12,  2,  0
 
 	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb  5, 27,  7
 	rgb  4, 21,  1
 	rgb  1, 10,  0
 
 	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb  5, 27,  7
 	rgb 24, 13,  0
 	rgb  5,  3,  0
 
@@ -437,8 +437,8 @@ Palette9::
 	rgb 11,  8,  5
 	rgb  0,  0,  0
 
-	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb 29, 25, 23
+	rgb 24, 11, 28
 	rgb  0, 21, 10
 	rgb  0,  0,  0
 
@@ -452,18 +452,18 @@ Palette9::
 	rgb 31,  2,  0
 	rgb 12,  2,  0
 
-	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb 29, 25, 23
+	rgb 24, 11, 28
 	rgb 31,  2,  0
 	rgb 12,  2,  0
 
-	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb 29, 25, 23
+	rgb 24, 11, 28
 	rgb  4, 21,  1
 	rgb  1, 10,  0
 
-	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb 29, 25, 23
+	rgb 24, 11, 28
 	rgb 24, 13,  0
 	rgb  5,  3,  0
 
@@ -483,38 +483,38 @@ Palette10::
 	rgb 11,  8,  5
 	rgb  0,  0,  0
 
-	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb 24, 21, 30
+	rgb 13, 10, 29
 	rgb  0, 21, 10
 	rgb  0,  0,  0
 
 	rgb 31, 31, 31
-	rgb  0, 31,  6
-	rgb  0, 23,  4
-	rgb  0,  7,  2
+	rgb  2, 21, 25
+	rgb  2,  6, 11
+	rgb  0,  1,  4
 
 	rgb 31, 31, 17
 	rgb  0, 31,  6
 	rgb 31,  2,  0
 	rgb 12,  2,  0
 
-	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb 24, 21, 30
+	rgb 13, 10, 29
 	rgb 31,  2,  0
 	rgb 12,  2,  0
 
-	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb 24, 21, 30
+	rgb 13, 10, 29
 	rgb  4, 21,  1
 	rgb  1, 10,  0
 
-	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb 24, 21, 30
+	rgb 13, 10, 29
 	rgb 24, 13,  0
 	rgb  5,  3,  0
 
 
-; palettes that are used for the Fire Club Entrance map
+; palettes that are used for the Fire Club Entrance map and the Challenge Hall Entrance map
 Palette11::
 	db 0
 	db 8
@@ -529,8 +529,8 @@ Palette11::
 	rgb 11,  8,  5
 	rgb  0,  0,  0
 
-	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb 30, 30, 17
+	rgb 30, 19,  0
 	rgb  0, 21, 10
 	rgb  0,  0,  0
 
@@ -544,23 +544,23 @@ Palette11::
 	rgb 31,  2,  0
 	rgb 12,  2,  0
 
-	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb 30, 30, 17
+	rgb 30, 19,  0
 	rgb 31,  2,  0
 	rgb 12,  2,  0
 
-	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb 30, 30, 17
+	rgb 30, 19,  0
 	rgb  4, 21,  1
 	rgb  1, 10,  0
 
-	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb 30, 30, 17
+	rgb 30, 19,  0
 	rgb 24, 13,  0
 	rgb  5,  3,  0
 
 
-; palettes that are used for all of the Club Lobby maps
+; palettes that are used for the Grass Club Lobby map
 Palette12::
 	db 0
 	db 8
@@ -576,7 +576,7 @@ Palette12::
 	rgb  0,  0,  0
 
 	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb  5, 27,  7
 	rgb  4, 21,  1
 	rgb  1, 10,  0
 
@@ -586,7 +586,7 @@ Palette12::
 	rgb  0,  0,  6
 
 	rgb 27, 31, 22
-	rgb  0, 31,  6
+	rgb  5, 27,  7
 	rgb 31,  2,  0
 	rgb 12,  2,  0
 
@@ -816,7 +816,7 @@ Palette17::
 	rgb 12,  2,  0
 
 	rgb 31, 31, 31
-	rgb  0, 31,  6
+	rgb  5, 27,  7
 	rgb 31,  2,  0
 	rgb 12,  2,  0
 
@@ -892,8 +892,8 @@ Palette19::
 	rgb  8,  8,  8
 	rgb  0,  0,  0
 
-	rgb 28, 22, 31
-	rgb 21, 13, 31
+	rgb 24, 21, 30
+	rgb 13, 10, 29
 	rgb 13,  0, 31
 	rgb  0,  0,  0
 
@@ -912,13 +912,13 @@ Palette19::
 	rgb  0, 18,  8
 	rgb  0,  0,  2
 
-	rgb 28, 22, 31
+	rgb 24, 21, 30
 	rgb 10, 11, 31
 	rgb  2,  4, 31
 	rgb  6,  0,  0
 
-	rgb 28, 22, 31
-	rgb 21, 13, 31
+	rgb 24, 21, 30
+	rgb 13, 10, 29
 	rgb 31,  2,  0
 	rgb 12,  2,  0
 

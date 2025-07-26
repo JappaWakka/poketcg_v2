@@ -1386,8 +1386,12 @@ SECTION "Anims 4", ROMX
 	INCLUDE "data/duel/animations/anims4.asm"
 
 
-SECTION "Palettes", ROMX
+SECTION "Palettes1", ROMX
 	INCLUDE "data/palettes1.asm"
+
+
+SECTION "Palettes2", ROMX
+	INCLUDE "data/palettes2.asm"
 	INCLUDE "engine/gfx/default_palettes.asm"
 
 
