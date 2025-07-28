@@ -3444,7 +3444,7 @@ InitAndDrawCardListScreenLayout:
 DrawCardListScreenLayout:
 	call ZeroObjectPositionsAndToggleOAMCopy
 	call EmptyScreen
-	lb de, $38, $9f
+	lb de, $38, $9e
 	call SetupText
 	call LoadSymbolsFont
 	call LoadDuelCardSymbolTiles
