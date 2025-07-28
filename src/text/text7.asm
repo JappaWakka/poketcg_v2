@@ -784,7 +784,7 @@ Tech2LegendaryCardsExplanationText:
 	line "Als je de Legendarische Pokémon-"
 	line "kaarten wilt, moet je de Groot-"
 	line "meesters verslaan. Om te duelleren"
-	line "met de Grootmeesters moet je eerst"
+	line "tegen de Grootmeesters moet je eerst"
 	line "de Meestermedailles verzamelen."
 	line "De 8 Meesters van de Kaartclubs"
 	line "hebben elk een Meestermedaille."
@@ -806,7 +806,7 @@ Tech3BoosterPackExplanationText:
 	line "Pakje bevat 10 kaarten. De kaarten"
 	line "verschillen per Booster-Pakje dat je"
 	line "ontvangt. Het soort Booster-Pakje"
-	line "verschilt per persoon met wie je"
+	line "verschilt per persoon waartegen je"
 	line "duelleert, dus kies je tegenstanders"
 	line "verstandig."
 	done

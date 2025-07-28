@@ -773,7 +773,7 @@ Mail1Part1Text:
 	line "Ik heb wat informatie voor je"
 	line "over Booster-Pakjes: Als je"
 	line "dezelfde soorten kaarten wilt"
-	line "verzamelen, duelleer dan vaak met"
+	line "verzamelen, duelleer dan vaak tegen"
 	line "dezelfde persoon om een specifiek"
 	line "Booster-Pakje te krijgen!"
 	line "Op deze manier krijg je sneller"
