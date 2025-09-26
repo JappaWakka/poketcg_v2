@@ -186,16 +186,16 @@ DeckSaveMachineText:
 	text "  Deck-Opslagmachine   "
 	done
 
-SaveADeckText:
-	text "Sla een deck op"
+SaveNewDeckText:
+	text "Deck Opslaan"
 	done
 
-DeleteADeckText:
-	text "Verwijder deck"
+DeleteThisDeckText:
+	text "Deck Verwijderen"
 	done
 
-BuildADeckText:
-	text "Bouw een deck"
+BuildThisDeckText:
+	text "Deck Bouwen"
 	done
 
 ChooseADeckToSaveText:
