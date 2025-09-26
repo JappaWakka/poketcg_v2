@@ -434,8 +434,8 @@ DrawPlayAreaScreenToShowChanges:
 ;	a = attack animation to play
 PlayTrainerEffectAnimation:
 	ld [wLoadedAttackAnimation], a
-	xor a
-	ld [wce7e], a
+	xor a ; FALSE
+	ld [wAttackAnimationIsPlaying], a
 	lb bc, PLAY_AREA_ARENA, $00 ; neither WEAKNESS nor RESISTANCE
 	ldh a, [hWhoseTurn]
 	ld h, a
@@ -1697,22 +1697,16 @@ DrainHalfEffect:
 DrainAllEffect:
 	ld hl, wDealtDamage
 	ld e, [hl]
-	inc hl ; wDamageEffectiveness
+	inc hl
 	ld d, [hl]
 ;	fallthrough
 
 ; applies HP recovery on Pokemon after an attack
 ; with HP recovery effect, and handles its animation.
 ; input:
-;	d = damage effectiveness
-;	e = HP amount to recover
+;	de = HP amount to recover
 ApplyAndAnimateHPRecovery:
 	push de
-	ld hl, wccbd
-	ld [hl], e
-	inc hl
-	ld [hl], d
-
 ; gets the Active Pokemon's damage
 	ld e, PLAY_AREA_ARENA
 	call GetCardDamageAndMaxHP
@@ -1725,6 +1719,8 @@ ApplyAndAnimateHPRecovery:
 	ld a, ATK_ANIM_HEAL
 	ld [wLoadedAttackAnimation], a
 	lb bc, PLAY_AREA_ARENA, $01 ; WEAKNESS
+	ldh a, [hWhoseTurn]
+	ld h, a
 	call PlayAttackAnimation
 
 ; compare HP to be restored with max HP.
@@ -1748,7 +1744,6 @@ ApplyAndAnimateHPRecovery:
 	; cap de to value in bc
 	ld e, c
 	ld d, b
-
 .skip_cap
 	ld [hl], e ; apply new HP to the Active Pokemon
 	jp WaitAttackAnimation
@@ -6259,8 +6254,8 @@ SolarPowerCheck:
 SolarPower_RemoveStatusEffect:
 	ld a, ATK_ANIM_HEAL_BOTH_SIDES
 	ld [wLoadedAttackAnimation], a
-	xor a
-	ld [wce7e], a
+	xor a ; FALSE
+	ld [wAttackAnimationIsPlaying], a
 	ldh a, [hTempPlayAreaLocation_ff9d]
 	ld b, a
 	ld c, $00 ; neither WEAKNESS nor RESISTANCE
@@ -8833,8 +8828,8 @@ HealPlayAreaCardHP:
 
 ; play the heal animation
 	push de
-	xor a
-	ld [wce7e], a
+	xor a ; FALSE
+	ld [wAttackAnimationIsPlaying], a
 	ld a, ATK_ANIM_HEALING_WIND_PLAY_AREA
 	ld [wLoadedAttackAnimation], a
 	ldh a, [hTempPlayAreaLocation_ff9d]

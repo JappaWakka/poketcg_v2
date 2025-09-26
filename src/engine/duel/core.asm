@@ -7186,8 +7186,8 @@ OppAction_UsePokemonPower:
 
 ; executes the EFFECTCMDTYPE_BEFORE_DAMAGE command of the used Pokemon Power
 OppAction_ExecutePokemonPowerEffect:
-	xor a
-	ld [wce7e], a
+	xor a ; FALSE
+	ld [wAttackAnimationIsPlaying], a
 	ld a, EFFECTCMDTYPE_BEFORE_DAMAGE
 	jp TryExecuteEffectCommandFunction
 
@@ -7710,7 +7710,7 @@ HandlePoisonDamage:
 	get_turn_duelist_var
 	call SubtractHP
 	push hl
-	ld a, $8c
+	ld a, DUEL_ANIM_DAMAGE_HUD
 	call PlayBetweenTurnsAnimation
 	pop hl
 
@@ -8611,8 +8611,8 @@ ProcessPlayedPokemonCard::
 	ldtx hl, WillUseThePokemonPowerText
 	call DrawWideTextBox_WaitForInput
 	call ExchangeRNG
-	xor a
-	ld [wce7e], a
+	xor a ; FALSE
+	ld [wAttackAnimationIsPlaying], a
 	ld a, EFFECTCMDTYPE_PKMN_POWER_TRIGGER
 	jp TryExecuteEffectCommandFunction
 
@@ -8643,8 +8643,8 @@ ClearChangedTypesIfMuk:
 
 ; uses a Pokemon Power
 UsePokemonPower:
-	xor a
-	ld [wce7e], a
+	xor a ; FALSE
+	ld [wAttackAnimationIsPlaying], a
 	ld a, EFFECTCMDTYPE_INITIAL_EFFECT_2
 	call TryExecuteEffectCommandFunction
 	jr c, DisplayUsePokemonPowerScreen_WaitForInput
@@ -8737,8 +8737,8 @@ UseAttackOrPokemonPower::
 ; input
 ;	[wLoadedAttack] = Pokémon's attack data (atk_data_struct)
 PlayAttackAnimation_DealAttackDamage::
-	xor a
-	ld [wce7e], a
+	xor a ; FALSE
+	ld [wAttackAnimationIsPlaying], a
 	ld a, [wLoadedAttackCategory]
 	and RESIDUAL
 	jr nz, .deal_damage

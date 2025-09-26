@@ -1502,10 +1502,6 @@ UnusedText021b: ; Unused
 	text "????"
 	done
 
-UnusedText021c: ; Unused
-	text "????"
-	done
-
 WhatIsYourNameText:
 	text "Wat is je naam?"
 	done
@@ -1549,7 +1545,7 @@ WhatIsYourNameText:
 ;	linefw "J K L M N O P Q R"
 ;	linefw "S T U V W X Y Z !"
 ;	linefw "? & + - ・ 0 1 2 3"
-;	linefw "4 5 6 7 8 9 # ", "<Lv>", "  "
+;	linefw "4 5 6 7 8 9 # <Lv>  "
 ;	linefw "                 "
 ;	done
 
@@ -1602,12 +1598,16 @@ ModifyDeckText:
 	text "Deck Aanpassen"
 	done
 
-ChangeNameText:
+RenameDeckText:
 	text "Naam Aanpassen"
 	done
 
-SelectDeckText:
-	text "Kies Deck"
+UseThisDeckText:
+	text "Deck Kiezen"
+	done
+
+DismantleDeckText:
+	text "Deck Ontmantelen"
 	done
 
 CancelText:
@@ -1653,12 +1653,8 @@ PressSTARTToViewMenuText:
 	textfw "⅓⅔⅜" ; START button
 	done
 	
-NewDeckStatisticsText:
-	text "Nieuwe Deckgegevens "
-	done
-
 ;DeckBuildingMenuOptionsText:
-;	text "View Deck List      Change Name"
+;	text "View Deck List      Rename Deck"
 ;	line "Undo Changes        Empty Deck"
 ;	line "Save and Quit       Delete Deck"
 ;	done
@@ -1673,6 +1669,10 @@ DeckBuildingMenuOptions2Text:
 	text "Verander Naam"
 	line "Leeg Deck"
 	line "Verwijder Deck"
+	done
+
+NewDeckStatisticsText:
+	text "Nieuwe Deckgegevens "
 	done
 
 RemoveEveryCardFromTheDeckText:

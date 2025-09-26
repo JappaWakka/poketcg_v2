@@ -122,7 +122,7 @@ HandleDeckMissingCardsList:
 	call ConvertToNumericalDigits
 	ld a, TX_FULLWIDTH3
 	ld [hli], a
-	ld [hl], "FW3_." ; period punctuation mark
+	ldfw [hl], "." ; period punctuation mark
 	inc hl
 	ld [hl], TX_END
 	ld hl, wDefaultText
@@ -176,6 +176,8 @@ HandleDeckSaveMachineMenu:
 	add b
 	ld [wSelectedDeckMachineEntry], a
 
+	ld a, 10
+	ld [wCheckMenuCursorXPositionOffset], a
 	call ResetCheckMenuCursorPositionAndBlink
 	call DrawWideTextBox
 	ld hl, .DeckMachineMenuData
@@ -196,16 +198,11 @@ HandleDeckSaveMachineMenu:
 	or a
 	jr nz, .check_second_submenu_option
 
-; Save a Deck
+; Build This Deck
 	call CheckIfSelectedDeckMachineEntryIsEmpty
-	jr c, .save_deck
-	; slot isn't empty, so ask if it's okay to replace the current entry
-	ldtx hl, OKIfFileDeletedText
-	call YesOrNoMenuWithText
-	jr c, .restart_selection ; cancel save if the Player answered "No"
-.save_deck
-	call SaveDeckInDeckSaveMachine
-	jr c, .restart_selection
+	jr c, .is_empty
+	call TryBuildDeckMachineDeck
+	jr nc, .restart_selection
 .redraw_screen_and_restart_selection
 	ld a, [wTempCardListVisibleOffset]
 	ld [wCardListVisibleOffset], a
@@ -220,34 +217,40 @@ HandleDeckSaveMachineMenu:
 	dec a
 	jr nz, .check_third_submenu_option
 
-; Delete a Deck
+; Save a New Deck
 	call CheckIfSelectedDeckMachineEntryIsEmpty
-	jr c, .is_empty
-	call TryDeleteSavedDeck
+	jr c, .save_deck
+	; slot isn't empty, so ask if it's okay to replace the current entry
+	ldtx hl, OKIfFileDeletedText
+	call YesOrNoMenuWithText
+	jr c, .restart_selection ; cancel save if the Player answered "No"
+.save_deck
+	call SaveDeckInDeckSaveMachine
 	jr nc, .redraw_screen_and_restart_selection
-	jr .restart_selection
-
-; Empty Deck
-.is_empty
-	ldtx hl, NoDeckIsSavedText
-	call DrawWideTextBox_WaitForInput
 	jr .restart_selection
 
 .check_third_submenu_option
 	dec a
 	ret nz ; must be fourth submenu option "Cancel"
 
-; Build a Deck
+; Delete This Deck
 	call CheckIfSelectedDeckMachineEntryIsEmpty
 	jr c, .is_empty
-	call TryBuildDeckMachineDeck
-	jr c, .redraw_screen_and_restart_selection
+	call TryDeleteSavedDeck
+	jr nc, .redraw_screen_and_restart_selection
+	jr .restart_selection
+
+; unused deck save slot
+.is_empty
+	call PlaySFX_InvalidChoice
+	ldtx hl, NoDeckIsSavedText
+	call DrawWideTextBox_WaitForInput
 	jr .restart_selection
 
 .DeckMachineMenuData
-	textitem  2, 14, SaveADeckText
-	textitem 12, 14, DeleteADeckText
-	textitem  2, 16, BuildADeckText
+	textitem  2, 14, BuildThisDeckText
+	textitem 12, 14, SaveNewDeckText
+	textitem  2, 16, DeleteThisDeckText
 	textitem 12, 16, CancelText
 	db $ff
 
@@ -542,7 +545,7 @@ PrintDeckMachineEntry:
 	call ConvertToNumericalDigits
 	ld a, TX_FULLWIDTH3
 	ld [hli], a
-	ld a, "FW3_." ; period punctuation mark
+	ldfw [hl], "." ; period punctuation mark
 	ld [hli], a
 	ld [hl], TX_END
 	ld hl, wDefaultText
@@ -593,7 +596,7 @@ PrintDeckMachineEntry:
 	pop bc
 	ld hl, wDefaultText
 	jr c, .cannot_build
-	lb de, TX_FULLWIDTH3, "FW3_○" ; can build
+	ldfw de, "○" ; can build
 	; fallthrough
 
 .print_build_status_symbol
@@ -612,11 +615,11 @@ PrintDeckMachineEntry:
 	call CheckIfCanBuildSavedDeck
 	jr c, .cannot_build_at_all
 	pop bc
-	lb de, TX_FULLWIDTH3, "FW3_※" ; can build by dismantling
+	ldfw de, "※" ; can build by dismantling
 	jr .print_build_status_symbol
 
 .cannot_build_at_all
-	lb de, TX_FULLWIDTH0, "FW0_×" ; cannot build even by dismantling
+	ldfw de, "×" ; cannot build even by dismantling
 	call Func_22ca
 	pop bc
 	pop de
@@ -1535,6 +1538,8 @@ HandleAutoDeckMenu:
 	cp -1
 	jr z, .exit ; exit if the B button was pressed
 	ld [wSelectedDeckMachineEntry], a
+	ld a, 11
+	ld [wCheckMenuCursorXPositionOffset], a
 	call ResetCheckMenuCursorPositionAndBlink
 	ld [wce5e], a ; 0
 	call DrawWideTextBox
@@ -1630,8 +1635,8 @@ HandleAutoDeckMenu:
 	dw NULL ; function pointer if non-0
 
 .DeckMachineMenuData
-	textitem  2, 14, BuildADeckText
-	textitem 12, 14, CancelText
+	textitem  2, 14, BuildThisDeckText
+	textitem 13, 14, CancelText
 	textitem  2, 16, ReadTheInstructionsText
 	db $ff
 

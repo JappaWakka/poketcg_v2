@@ -735,7 +735,7 @@ wAIMinDamage:: ; ccbb
 wAIMaxDamage:: ; ccbc
 	ds $1
 
-wccbd:: ; ccbd
+; Unused wram bytes?
 	ds $2
 
 ; damage dealt by an attack to a target
@@ -1541,7 +1541,7 @@ wTempPokemonID_ce7c:: ; ce7c
 ; Unused wram byte?
 	ds $1
 
-wce7e:: ; ce7e
+wAttackAnimationIsPlaying:: ; ce7e
 	ds $1
 
 wDamageAnimAmount:: ; ce7f
@@ -1656,7 +1656,9 @@ wCardPopCardObtainSong:: ; cea0
 wCardListVisibleOffset:: ; cea1
 	ds $1
 
-; Unused wram byte?
+; number of tiles between two entries in the check menus that are used
+; during duels, when selecting a deck, and for the various deck machines
+wCheckMenuCursorXPositionOffset::
 	ds $1
 
 ; it's used when the player enters the check menu or one of its sub-menus.
@@ -2522,7 +2524,7 @@ wd420:: ; d420
 	ds $1
 
 ; store settings for animation enabled/disabled
-; 0 means enabled, 1 means disabled
+; FALSE means enabled, TRUE means disabled
 wAnimationsDisabled:: ; d421
 	ds $1
 
@@ -3131,7 +3133,7 @@ wde2b:: ; de2b
 wde2e:: ; de2e
 	ds $1
 
-wde2f:: ; de2f
+wSFXPitchOffsets:: ; de2f
 	ds $3
 
 wde32:: ; de32
@@ -3152,10 +3154,10 @@ wde3f:: ; de3f
 wde43:: ; de43
 	ds $8
 
-wde4b:: ; de4b
+wSFXCommandPointers:: ; de4b
 	ds $8
 
-wde53:: ; de53
+wSFXIsPlaying:: ; de53
 	ds $1
 
 wde54:: ; de54
