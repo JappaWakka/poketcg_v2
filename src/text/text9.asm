@@ -354,24 +354,24 @@ Text06a7:
 
 Text06a8:
 	text "4 Prijzen!"
-	line "Laat de hitte maar komen!"
+	line "Laat het vuur maar komen!"
 	done
 
 Text06a9:
-	text "Ja! Dat was heel heet!"
-	line "Je bent de beste!"
+	text "Ja! Dat gevecht stond in vuur"
+	line "en vlam! Je bent de beste!"
 	line "Hier, neem dit van mij!"
-	line "Neem de hitte nog maar eens mee!"
+	line "Neem het vuur nog maar eens mee!!!"
 	done
 
 Text06aa:
-	text "Neem de hitte nog maar eens mee!!!"
+	text "Neem het vuur nog maar eens mee!!!"
 	done
 
 Text06ab:
-	text "Ik geloof dat mijn deck nog heter"
+	text "Ik geloof dat mijn deck nog vuriger"
 	line "dan dat van jou was deze keer!"
-	line "Neem de hitte nog maar eens mee!!!"
+	line "Neem het vuur nog maar eens mee!!!"
 	done
 
 Text06ac:

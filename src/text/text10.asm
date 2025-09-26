@@ -777,7 +777,7 @@ Text0771:
 
 Text0772:
 	text "Rick zit middenin een experiment"
-	line "dus val hem niet teveel lastig."
+	line "dus val hem niet te veel lastig."
 	done
 
 Text0773:

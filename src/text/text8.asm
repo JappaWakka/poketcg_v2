@@ -1007,9 +1007,9 @@ Text066b:
 
 Text066c:
 	text "Murray heeft eindelijk een nieuwe"
-	line "strategie bedacht. Hij is in een"
-	line "goede stemming, dus hij wil nu"
-	line "vast tegen je duelleren."
+	line "strategie bedacht."
+	line "Hij is in een goede stemming, dus"
+	line "hij wil nu vast tegen je duelleren."
 	line "Trouwens, wil je ook tegen mij"
 	line "duelleren?"
 	done
@@ -1019,7 +1019,7 @@ Text066d:
 	done
 
 Text066e:
-	text "Ben je bang om te duelleren?"
+	text "Durf je niet te duelleren?"
 	line ""
 	line "Nou, niet dat het mij iets kan"
 	line "schelen!"
@@ -1043,6 +1043,6 @@ Text0671:
 Text0672:
 	text "Je bent nog steeds niet goed genoeg"
 	line "om me te verslaan!"
-	line "Ik zal tegen je duelleren wanneer"
-	line "je maar wilt."
+	line "Ik zal later opnieuw duelleren"
+	line "wanneer je maar wilt."
 	done
