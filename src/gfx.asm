@@ -1368,6 +1368,14 @@ MintGfx::
 OWMintGfx::
 	dw $14
 	INCBIN "gfx/overworld_sprites/mint.2bpp"
+	
+OWJenniferGfx::
+	dw $14
+	INCBIN "gfx/overworld_sprites/jennifer.2bpp"
+	
+OWJosephGfx::
+	dw $14
+	INCBIN "gfx/overworld_sprites/joseph.2bpp"
 
 
 SECTION "Anims 1", ROMX

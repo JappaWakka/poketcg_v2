@@ -122,4 +122,6 @@ Sprites:
 	gfx_pointer PsychicGfx,          $04 ; SPRITE_PSYCHIC
 	gfx_pointer FightingGfx,         $04 ; SPRITE_FIGHTING
 	gfx_pointer OWMintGfx,           $14 ; SPRITE_OW_MINT
+	gfx_pointer OWJenniferGfx,       $14 ; SPRITE_OW_JENNIFER
+	gfx_pointer OWJosephGfx,         $14 ; SPRITE_OW_JOSEPH
 	assert_table_length NUM_SPRITES
