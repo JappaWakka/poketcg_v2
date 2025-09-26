@@ -213,7 +213,7 @@ NoDeckIsSavedText:
 	done
 
 DoYouReallyWishToDeleteText:
-	text "Wil je zeker weten verwijderen?"
+	text "Wil je het zeker weten verwijderen?"
 	done
 
 DeletedTheConfigurationForText:
@@ -227,7 +227,7 @@ YouMayOnlyCarry4DecksText:
 	done
 
 ChooseADeckToDismantleText:
-	text "Kies deck om te ontmantelen."
+	text "Kies een deck om te ontmantelen."
 	done
 
 DismantledDeckText:
@@ -248,7 +248,7 @@ YouDoNotOwnAllCardsNeededToBuildThisDeckText:
 
 BuiltDeckText:
 	text "<RAMTEXT>"
-	line "gebouwd"
+	line "gebouwd."
 	done
 
 TheseCardsAreNeededToBuildThisDeckText:
